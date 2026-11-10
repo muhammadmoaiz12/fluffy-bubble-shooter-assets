@@ -1,0 +1,292 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "medium",
+      "prompt": "Create ONE standalone MEDIUM Skybubs game sprite faithfully matching the top-row medium blue creature in the supplied reference. Soft 2.5D plush cartoon render, near-round slightly pear-shaped blue fluffy body with layered feathery fur, light sky-blue highlights, darker blue lower fur, swept wispy tuft pointing upward from crown. Big glossy black eyes with blue lower irises and white reflections, small happy open mouth with pink tongue, two ROUND oval pink blush cheeks (NOT hearts). Tiny side fur tufts only, NO bear ears, NO limbs, NO nose, NO tail, NO accessories. Match reference face proportions and fluffy silhouette. Full front view. One character in central 75% of square RGBA canvas with generous transparent margins. REAL transparent background, fully opaque interior, delicate antialiased fur edge. NO text, labels, pedestal, ground shadow, background, stars, clouds or sparkles. This is a game sprite, not a presentation sheet. Preserve approved identity.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "be24f69e6952ed6a00c2b5e448a81b9859da5ed440a5b4bcc2bad4e3bb833009",
+      "file": "sources/generated/medium.png"
+    },
+    {
+      "id": "small",
+      "prompt": "ONE isolated SMALL Skybubs game sprite matching the tiny Small form at upper left of the provided sheet. Same blue fluffy character identity as second reference medium, but small reference form proportions: compact nearly round blue fur body, short swept wispy blue tuft, large glossy black/blue eyes, tiny joyful open mouth with pink tongue, ROUND pink blush cheeks. Blue feathery plush fur, NO bear ears, NO heart cheeks, no limbs/nose/tail. Full front view, whole silhouette centered in central 75% square RGBA canvas. REAL transparent background, opaque interior, fine fur alpha edge; no floor, shadow, pedestal, labels, sparkles or effects. Faithful original design, not a sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6735a863a695fc5a31a034e6b804c1993d9f3c20d0875c24f28a5b9569652291",
+      "file": "sources/generated/small.png"
+    },
+    {
+      "id": "giant",
+      "prompt": "ONE isolated GIANT Skybubs game sprite matching Giant at top of provided sheet. Match second reference identity but giant proportions: broad fuller slightly pear-shaped blue fluffy body, long layered feathery blue fur, swept wispy crown tuft, large glossy black eyes with blue irises, happy open mouth with pink tongue, ROUND oval pink blush cheeks. Full front view. No bear ears, heart cheeks, limbs, nose, tail or extras. Soft 2.5D plush rendering, light blue highlights and deeper blue base matching reference. Entire silhouette centered in central 75% square REAL transparent RGBA canvas. Opaque interior, fine fur edges. No floor/shadow/pedestal/background/text/effects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f66c36ea18b1cc61404704f7bebb40380b3dbe673f6b9300453ed18954d5bd8d",
+      "file": "sources/generated/giant.png"
+    },
+    {
+      "id": "laugh",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: both eyes closed as happy upward arcs, big joyful open smiling mouth. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "d825d799261950b5885861c97eca80c0c15be8565b05e09c5ec46476b7549add",
+      "file": "sources/generated/laugh.png"
+    },
+    {
+      "id": "excited",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: golden five-point stars inside both glossy eyes, joyful open mouth. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "204572544a11aa24b94dbbcea22b427a3dc2f77b06c9a20045f872589253cbda",
+      "file": "sources/generated/excited.png"
+    },
+    {
+      "id": "surprised",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: wide round glossy eyes, small vertical O-shaped open mouth. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "8ff60088805b772d38ff11c2beb4ca2adb4c4254b91b30c5b1a1a5551f8d2d9a",
+      "file": "sources/generated/surprised.png"
+    },
+    {
+      "id": "pout",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: sad worried glossy eyes, raised inner brows, tiny downturned mouth, no tears. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b62f19bfb849870651d9c86cdf77089e6cf64ef5ac01b0f6f4c3555bfcf0c8cf",
+      "file": "sources/generated/pout.png"
+    },
+    {
+      "id": "angry",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: cute angry narrowed glossy eyes and inward-slanted brows, small downturned mouth. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "294df8928b270f7d2b78fe4e52988a203e003ba435bc2b29ea8f3ae83cf65eab",
+      "file": "sources/generated/angry.png"
+    },
+    {
+      "id": "sleepy",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: gently closed downward-curved eyelids, tiny relaxed pout mouth, no Z symbols. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "11816dfa08e4fe384ab056cf8c01ad3bf042d14b80a30c801e1ce07f11c9ac23",
+      "file": "sources/generated/sleepy.png"
+    },
+    {
+      "id": "love",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: both eyes replaced by large glossy pink hearts, joyful open mouth, no floating heart effects. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "623116a9e7ddc3790020da49c05916ccf1585841b7ead9a39e99f5db6b60612b",
+      "file": "sources/generated/love.png"
+    },
+    {
+      "id": "kiss",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: both eyes scrunched closed as > < curves, small puckered kiss mouth shaped like a sideways 3. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b15ee915d01bd1a98f22568b4f8a1e85626c4c34407bc0e3fdfb134dc5372bac",
+      "file": "sources/generated/kiss.png"
+    },
+    {
+      "id": "hit",
+      "prompt": "ONE medium Skybubs full-body game sprite. Use first image as exact baseline for silhouette, swept blue hair tuft, blue layered fluffy fur, ROUND pink cheeks, lighting, body proportions and framing. Change ONLY eyes, eyebrows and mouth to this expression: both eyes squeezed tightly as > < curves, tiny wavy mouth, keep body unsquashed. Follow second sheet's expression identity. Preserve body exactly; no ears, limbs, nose, tail, new features or effects. Full front view, entire silhouette centered with clear margin, square REAL transparent RGBA output. Opaque interior, delicate fur boundary. No floor, shadow, labels, backdrop or sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "49958f4d17ae03fe6fe385a5a67a30fba02b396e8aa00069d37790b82c4ef695",
+      "file": "sources/generated/hit.png"
+    },
+    {
+      "id": "view_045",
+      "prompt": "ONE Skybubs medium turntable game sprite: THREE-QUARTER FRONT facing LEFT, 45 degrees from front; both eyes visible with far eye smaller. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f7f16fa3eb2fa3e4d3a8a348e6433f5e9c29eb12740acbe38314db97f23461e0",
+      "file": "sources/generated/view_045.png"
+    },
+    {
+      "id": "view_090",
+      "prompt": "ONE Skybubs medium turntable game sprite: exact LEFT-FACING SIDE PROFILE, 90 degrees; near eye and round pink cheek only at far-left profile, barely visible mouth. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c5ed2d6557d9c234f82360183620bcbc9aaa71119f9c7a724315e040a0c8a0d0",
+      "file": "sources/generated/view_090.png"
+    },
+    {
+      "id": "view_135",
+      "prompt": "ONE Skybubs medium turntable game sprite: THREE-QUARTER REAR LEFT, 135 degrees; face points away LEFT, NO eyes or mouth or cheeks visible. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "4667ee36a1e0f203b77e40a7dbb5099696d07e0aa65e541c56acb2a0ac409389",
+      "file": "sources/generated/view_135.png"
+    },
+    {
+      "id": "view_180",
+      "prompt": "ONE Skybubs medium turntable game sprite: exact REAR, 180 degrees; only furry back and swept crown tuft visible, NO eyes/mouth/cheeks. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "d6170334cea8111ce11cd735f9269f7a28d68d73cbc5b2b16bc4d53e80f00510",
+      "file": "sources/generated/view_180.png"
+    },
+    {
+      "id": "view_225",
+      "prompt": "ONE Skybubs medium turntable game sprite: THREE-QUARTER REAR RIGHT, 225 degrees; face points away RIGHT, NO eyes or mouth or cheeks visible. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "5e3b59b1dbfe460daa40773d4aa56d86e419c4273b31c2bc2b6a4b01102167b0",
+      "file": "sources/generated/view_225.png"
+    },
+    {
+      "id": "view_270",
+      "prompt": "ONE Skybubs medium turntable game sprite: exact RIGHT-FACING SIDE PROFILE, 270 degrees; near eye and round pink cheek only at far-right profile, barely visible mouth. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9715d3f6ee2ffb95f1f15f08ba652fcf554e7cb6e4e5e81ca6700cb221cb7302",
+      "file": "sources/generated/view_270.png"
+    },
+    {
+      "id": "view_315",
+      "prompt": "ONE Skybubs medium turntable game sprite: THREE-QUARTER FRONT facing RIGHT, 315 degrees; both eyes visible with far eye smaller. First reference locks character identity, fur, shape and color; second is original concept reference. Blue near-round slightly pear-shaped fluffy body with layered featherlike fur, light-blue highlights, darker lower fur, swept blue crown tuft. ROUND oval pink cheeks and happy face when visible. No bear ears, limbs, nose, tail, wings or new features. Maintain same camera height, body volume, soft upper-left lighting. Full silhouette with clear margin, centered square REAL transparent RGBA canvas. Opaque interior, delicate fur alpha. No floor, cast shadow, labels, background or effects. Only this one view.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "d70a49fb2786c0c8cc8a508a1b3c3cf71c03a419409094b801c491f283e41904",
+      "file": "sources/generated/view_315.png"
+    },
+    {
+      "id": "evolution",
+      "prompt": "Create a standalone Skybubs game asset. Full evolved Skybubs: same blue fluffy round character with star-shaped golden highlights in both glossy eyes, joyful open mouth and round pink cheeks, swept blue crown tuft. Floating golden five-point star above head and luminous gold star on chest, small white cloud puffs at left and right, delicate pastel rainbow/gold light ribbon orbit around body and sparse tiny stars. All effects fully inside canvas. No wings or bear ears. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "01941119d15555d1004ba35c1dce93d31a7bbd5bebf4ad065ee68e335e794776",
+      "file": "sources/generated/evolution.png"
+    },
+    {
+      "id": "body",
+      "prompt": "Create a standalone Skybubs game asset. Only a featureless blue plush body ball, slightly pear shaped, layered featherlike blue fur, lighter upper highlights and darker lower fur. NO face, eyes, mouth, cheeks, crown tuft, limbs or ears. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "75e81d7fc7d681e4735704392bb35591b8d5f1f1403d78d64e4992ba9fe87927",
+      "file": "sources/generated/body.png"
+    },
+    {
+      "id": "eyes_pair",
+      "prompt": "Create a standalone Skybubs game asset. Only two complete separated glossy black oval eyes with blue lower irises and white upper-left highlights matching reference. Left eye on left half, right on right half, same height. No fur, eyebrows, face or other pieces. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1774,
+        887
+      ],
+      "original_sha256": "754fc5f57548310e5e0a53c7ff15cb134fe85fadf6bf8e2dfa21b5e8bfd7b8d7",
+      "file": "sources/generated/eyes_pair.png"
+    },
+    {
+      "id": "cheeks_pair",
+      "prompt": "Create a standalone Skybubs game asset. Only two separated smooth soft pink ROUND OVAL cheek blush pieces matching reference, one on each half, same height. No hearts, fur, face or other features. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "ab5d11e5880c3dd773732c705cd2ad4aca970e1359f1c0add797845511ad31de",
+      "file": "sources/generated/cheeks_pair.png"
+    },
+    {
+      "id": "ears_pair",
+      "prompt": "Create a standalone Skybubs game asset. Only two separated tiny BLUE featherlike side fur tufts, mirrored left/right, one on each half. Match the small blue fur pieces in component row of original reference. NOT round bear ears. No body or face. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1774,
+        887
+      ],
+      "original_sha256": "6e1714e2a095fbdac2dfe9b906b3ee3ef13674dc1d1b2736ec3a2f7c24ce506c",
+      "file": "sources/generated/ears_pair.png"
+    },
+    {
+      "id": "tuft",
+      "prompt": "Create a standalone Skybubs game asset. Only the blue swept wispy crown tuft from Skybubs, multiple featherlike fur strands arcing upward and sideways, attached together at base. No body or face or other pieces. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "4575e01177a9a8078729a86d2359a9d0e572ccf36a010ac9eaa8ebbd4af04b06",
+      "file": "sources/generated/tuft.png"
+    },
+    {
+      "id": "mouth",
+      "prompt": "Create a standalone Skybubs game asset. Only the Skybubs happy open smiling mouth, deep dark red interior and small pink tongue, same shape as reference. Complete isolated mouth. No fur, eyes, cheeks or other features. First reference locks the newly generated character identity; second is original user's design board. Preserve blue palette and plush style. Center on REAL transparent RGBA canvas, completely opaque object interior, delicate fur/glow boundary alpha, ample clear margin. No background, floor, cast shadow, labels or text.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "587f2854aa5e75071eba7a257c0cf03ebdbba190369aa66c2005956c7acc56df",
+      "file": "sources/generated/mouth.png"
+    }
+  ],
+  "processing": "User authorized deterministic alpha cleanup, resampling, alignment and exports. No original locked board was edited. Expression face-region composites reuse medium silhouette."
+}

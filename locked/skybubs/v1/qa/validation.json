@@ -1,0 +1,152 @@
+{
+  "result": "passed",
+  "full_sprite_records": 22,
+  "gameplay_exports": 66,
+  "animation_frames": 15,
+  "component_files": 9,
+  "checks": [
+    {
+      "asset": "small",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "medium",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "giant",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "idle",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "laugh",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "excited",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "surprised",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "pout",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "angry",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "sleepy",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "love",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "kiss",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "hit",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_000",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_045",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_090",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_135",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_180",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_225",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_270",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "view_315",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    },
+    {
+      "asset": "evolution",
+      "transparent_border": true,
+      "opaque_pixels_present": true,
+      "lossless_gameplay_exports_match": true
+    }
+  ],
+  "expression_alpha_identical": true,
+  "atlas_pixels_match_frames": true,
+  "all_images_decode": true,
+  "all_registry_and_preview_paths_resolve": true,
+  "art_review": "Contact sheets reviewed on light and dark; 32/48/64/96 pixel readability reviewed. Standalone components reviewed separately. Final visual approval remains with user.",
+  "engine_device_test": "not_run; no game project/device supplied",
+  "browser_preview": {
+    "displayed_images_loaded": 24,
+    "blink_selection": "passed",
+    "pause_control": "passed"
+  }
+}

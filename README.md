@@ -1,8 +1,18 @@
-# Fluffy Bubble Shooter — Rosybuns asset library
+# Fluffy Bubble Shooter — character asset library
 
 Private library preserving the user's locked reference artwork and versioned game-asset deliveries.
 
-## Latest delivery
+## Skybubs delivery
+
+[Skybubs v1 — game integration candidate](locked/skybubs/v1/README.md)
+
+22 full sprite records, 66 lossless WebP exports, 15 animation frames, three atlases and nine optional component pieces. Includes PNG masters, metadata, static asset map, prompt/source provenance, checksums and offline interactive preview. The original Skybubs reference sheet is preserved unchanged under `references/locked/skybubs/`.
+
+![Skybubs preview](locked/skybubs/v1/qa/contact-dark.png)
+
+Download the repository and open `locked/skybubs/v1/preview.html` to review the sprites and animations. These are newly generated game integration candidates; final art approval and testing in the actual game remain pending.
+
+## Rosybuns delivery
 
 [Rosybuns v1 — game integration candidate](locked/rosybuns/v1/README.md)
 
