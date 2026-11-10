@@ -1,0 +1,905 @@
+{
+  "family": "peachtells",
+  "version": "1.0.0-candidate",
+  "status": "integration_candidate",
+  "visual_approval": "pending",
+  "device_validation": "not_run_no_game_project_supplied",
+  "alpha": "straight RGBA; convert appropriately for renderer",
+  "sizes_diameter_ratio": {
+    "small": 1,
+    "medium": 1.5,
+    "giant": 2
+  },
+  "assets": [
+    {
+      "id": "small",
+      "category": "core",
+      "master": "masters/core/small.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          172,
+          142,
+          1073,
+          1108
+        ],
+        "scale": 0.41341614906832297,
+        "offset_xy": [
+          70,
+          56
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/small.webp",
+        "256": "gameplay/256/small.webp",
+        "512": "gameplay/512/small.webp"
+      }
+    },
+    {
+      "id": "medium",
+      "category": "core",
+      "master": "masters/core/medium.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/medium.webp",
+        "256": "gameplay/256/medium.webp",
+        "512": "gameplay/512/medium.webp"
+      }
+    },
+    {
+      "id": "giant",
+      "category": "core",
+      "master": "masters/core/giant.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          115,
+          75,
+          1132,
+          1138
+        ],
+        "scale": 0.7513828786453434,
+        "offset_xy": [
+          130,
+          112
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/giant.webp",
+        "256": "gameplay/256/giant.webp",
+        "512": "gameplay/512/giant.webp"
+      }
+    },
+    {
+      "id": "idle",
+      "category": "expressions",
+      "master": "masters/expressions/idle.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/idle.webp",
+        "256": "gameplay/256/idle.webp",
+        "512": "gameplay/512/idle.webp"
+      }
+    },
+    {
+      "id": "laugh",
+      "category": "expressions",
+      "master": "masters/expressions/laugh.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/laugh.webp",
+        "256": "gameplay/256/laugh.webp",
+        "512": "gameplay/512/laugh.webp"
+      }
+    },
+    {
+      "id": "excited",
+      "category": "expressions",
+      "master": "masters/expressions/excited.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/excited.webp",
+        "256": "gameplay/256/excited.webp",
+        "512": "gameplay/512/excited.webp"
+      }
+    },
+    {
+      "id": "surprised",
+      "category": "expressions",
+      "master": "masters/expressions/surprised.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/surprised.webp",
+        "256": "gameplay/256/surprised.webp",
+        "512": "gameplay/512/surprised.webp"
+      }
+    },
+    {
+      "id": "sad",
+      "category": "expressions",
+      "master": "masters/expressions/sad.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/sad.webp",
+        "256": "gameplay/256/sad.webp",
+        "512": "gameplay/512/sad.webp"
+      }
+    },
+    {
+      "id": "crying",
+      "category": "expressions",
+      "master": "masters/expressions/crying.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/crying.webp",
+        "256": "gameplay/256/crying.webp",
+        "512": "gameplay/512/crying.webp"
+      }
+    },
+    {
+      "id": "sleepy",
+      "category": "expressions",
+      "master": "masters/expressions/sleepy.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/sleepy.webp",
+        "256": "gameplay/256/sleepy.webp",
+        "512": "gameplay/512/sleepy.webp"
+      }
+    },
+    {
+      "id": "love",
+      "category": "expressions",
+      "master": "masters/expressions/love.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/love.webp",
+        "256": "gameplay/256/love.webp",
+        "512": "gameplay/512/love.webp"
+      }
+    },
+    {
+      "id": "wink",
+      "category": "expressions",
+      "master": "masters/expressions/wink.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/wink.webp",
+        "256": "gameplay/256/wink.webp",
+        "512": "gameplay/512/wink.webp"
+      }
+    },
+    {
+      "id": "angry",
+      "category": "expressions",
+      "master": "masters/expressions/angry.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/angry.webp",
+        "256": "gameplay/256/angry.webp",
+        "512": "gameplay/512/angry.webp"
+      }
+    },
+    {
+      "id": "cheer",
+      "category": "expressions",
+      "master": "masters/expressions/cheer.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/cheer.webp",
+        "256": "gameplay/256/cheer.webp",
+        "512": "gameplay/512/cheer.webp"
+      }
+    },
+    {
+      "id": "hit",
+      "category": "expressions",
+      "master": "masters/expressions/hit.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/hit.webp",
+        "256": "gameplay/256/hit.webp",
+        "512": "gameplay/512/hit.webp"
+      }
+    },
+    {
+      "id": "view_000",
+      "category": "turntable",
+      "master": "masters/turntable/view_000.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          147,
+          95,
+          1093,
+          1113
+        ],
+        "scale": 0.5884479371316306,
+        "offset_xy": [
+          105,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_000.webp",
+        "256": "gameplay/256/view_000.webp",
+        "512": "gameplay/512/view_000.webp"
+      }
+    },
+    {
+      "id": "view_045",
+      "category": "turntable",
+      "master": "masters/turntable/view_045.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          163,
+          96,
+          1091,
+          1120
+        ],
+        "scale": 0.585,
+        "offset_xy": [
+          112,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_045.webp",
+        "256": "gameplay/256/view_045.webp",
+        "512": "gameplay/512/view_045.webp"
+      }
+    },
+    {
+      "id": "view_090",
+      "category": "turntable",
+      "master": "masters/turntable/view_090.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          189,
+          95,
+          1056,
+          1111
+        ],
+        "scale": 0.5896062992125984,
+        "offset_xy": [
+          128,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_090.webp",
+        "256": "gameplay/256/view_090.webp",
+        "512": "gameplay/512/view_090.webp"
+      }
+    },
+    {
+      "id": "view_135",
+      "category": "turntable",
+      "master": "masters/turntable/view_135.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          197,
+          94,
+          1057,
+          1107
+        ],
+        "scale": 0.5913524185587364,
+        "offset_xy": [
+          129,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_135.webp",
+        "256": "gameplay/256/view_135.webp",
+        "512": "gameplay/512/view_135.webp"
+      }
+    },
+    {
+      "id": "view_180",
+      "category": "turntable",
+      "master": "masters/turntable/view_180.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          145,
+          80,
+          1094,
+          1116
+        ],
+        "scale": 0.5782239382239381,
+        "offset_xy": [
+          109,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_180.webp",
+        "256": "gameplay/256/view_180.webp",
+        "512": "gameplay/512/view_180.webp"
+      }
+    },
+    {
+      "id": "view_225",
+      "category": "turntable",
+      "master": "masters/turntable/view_225.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          178,
+          97,
+          1071,
+          1108
+        ],
+        "scale": 0.5925222551928783,
+        "offset_xy": [
+          119,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_225.webp",
+        "256": "gameplay/256/view_225.webp",
+        "512": "gameplay/512/view_225.webp"
+      }
+    },
+    {
+      "id": "view_270",
+      "category": "turntable",
+      "master": "masters/turntable/view_270.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          179,
+          93,
+          1048,
+          1110
+        ],
+        "scale": 0.5890265486725663,
+        "offset_xy": [
+          128,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_270.webp",
+        "256": "gameplay/256/view_270.webp",
+        "512": "gameplay/512/view_270.webp"
+      }
+    },
+    {
+      "id": "view_315",
+      "category": "turntable",
+      "master": "masters/turntable/view_315.png",
+      "pivot_normalized": [
+        0.5,
+        0.57
+      ],
+      "collision_radius_normalized": 0.325,
+      "transform": {
+        "source_crop_xyxy": [
+          164,
+          99,
+          1073,
+          1118
+        ],
+        "scale": 0.5878704612365063,
+        "offset_xy": [
+          117,
+          84
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/view_315.webp",
+        "256": "gameplay/256/view_315.webp",
+        "512": "gameplay/512/view_315.webp"
+      }
+    },
+    {
+      "id": "evolution",
+      "category": "evolution",
+      "master": "masters/evolution/evolution.png",
+      "pivot_normalized": [
+        0.5,
+        0.58
+      ],
+      "collision_radius_normalized": 0.29,
+      "transform": {
+        "source_crop_xyxy": [
+          67,
+          119,
+          1164,
+          1132
+        ],
+        "scale": 0.728094804010939,
+        "offset_xy": [
+          112,
+          143
+        ]
+      },
+      "qa_status": "technical_checks_passed_art_and_device_review_pending",
+      "gameplay": {
+        "128": "gameplay/128/evolution.webp",
+        "256": "gameplay/256/evolution.webp",
+        "512": "gameplay/512/evolution.webp"
+      }
+    }
+  ],
+  "animations": {
+    "bounce": {
+      "frames": [
+        "animations/bounce/00.png",
+        "animations/bounce/01.png",
+        "animations/bounce/02.png",
+        "animations/bounce/03.png",
+        "animations/bounce/04.png",
+        "animations/bounce/05.png"
+      ],
+      "frame_duration_ms": [
+        80,
+        80,
+        80,
+        80,
+        80,
+        80
+      ],
+      "loop": true,
+      "atlas": "atlases/bounce.png",
+      "rects_xywh": [
+        [
+          0,
+          0,
+          256,
+          256
+        ],
+        [
+          256,
+          0,
+          256,
+          256
+        ],
+        [
+          512,
+          0,
+          256,
+          256
+        ],
+        [
+          768,
+          0,
+          256,
+          256
+        ],
+        [
+          1024,
+          0,
+          256,
+          256
+        ],
+        [
+          1280,
+          0,
+          256,
+          256
+        ]
+      ],
+      "method": "deterministic transforms / eyelid compositing; newly authored animation, not recovered frames"
+    },
+    "blink": {
+      "frames": [
+        "animations/blink/00.png",
+        "animations/blink/01.png",
+        "animations/blink/02.png",
+        "animations/blink/03.png"
+      ],
+      "frame_duration_ms": [
+        700,
+        50,
+        60,
+        700
+      ],
+      "loop": true,
+      "atlas": "atlases/blink.png",
+      "rects_xywh": [
+        [
+          0,
+          0,
+          256,
+          256
+        ],
+        [
+          256,
+          0,
+          256,
+          256
+        ],
+        [
+          512,
+          0,
+          256,
+          256
+        ],
+        [
+          768,
+          0,
+          256,
+          256
+        ]
+      ],
+      "method": "deterministic transforms / eyelid compositing; newly authored animation, not recovered frames"
+    },
+    "hit-pop": {
+      "frames": [
+        "animations/hit-pop/00.png",
+        "animations/hit-pop/01.png",
+        "animations/hit-pop/02.png",
+        "animations/hit-pop/03.png",
+        "animations/hit-pop/04.png"
+      ],
+      "frame_duration_ms": [
+        80,
+        80,
+        80,
+        80,
+        80
+      ],
+      "loop": false,
+      "atlas": "atlases/hit-pop.png",
+      "rects_xywh": [
+        [
+          0,
+          0,
+          256,
+          256
+        ],
+        [
+          256,
+          0,
+          256,
+          256
+        ],
+        [
+          512,
+          0,
+          256,
+          256
+        ],
+        [
+          768,
+          0,
+          256,
+          256
+        ],
+        [
+          1024,
+          0,
+          256,
+          256
+        ]
+      ],
+      "method": "deterministic transforms / eyelid compositing; newly authored animation, not recovered frames"
+    }
+  },
+  "turntable": {
+    "order": [
+      "view_000",
+      "view_045",
+      "view_090",
+      "view_135",
+      "view_180",
+      "view_225",
+      "view_270",
+      "view_315"
+    ],
+    "angles_are_nominal": true,
+    "method": "independently generated 2D views, not a calibrated 3D rig"
+  },
+  "components": {
+    "files": [
+      "components/body-fur.png",
+      "components/mouth.png",
+      "components/eye-left.png",
+      "components/eye-right.png",
+      "components/cheek-left.png",
+      "components/cheek-right.png",
+      "components/top-curl.png",
+      "components/leaf-left.png",
+      "components/leaf-right.png",
+      "components/petal.png"
+    ],
+    "canvas_px": [
+      768,
+      768
+    ],
+    "status": "optional parts; layered rig assembly requires art review; whole sprites are recommended"
+  },
+  "limitations": [
+    "Generated reinterpretations, not pixel-identical extractions.",
+    "Turntable lighting and volume can vary between independently rendered angles.",
+    "Evolution glow is baked into the full sprite; no independently editable glow layer.",
+    "Optional components are separately generated parts with estimated placement, not a recovered source rig."
+  ]
+}

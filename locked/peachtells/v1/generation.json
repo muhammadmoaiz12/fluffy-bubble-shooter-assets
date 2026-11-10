@@ -1,0 +1,325 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "medium",
+      "prompt": "Use case: stylized-concept. Generate ONE isolated medium Peachtells game sprite, original attached board is visual design authority. Round peach-orange fluffy plush ball with fine shaggy layered fur, cream highlights, one curled peach forelock spiraling above crown with two small green-gold leaves beside it, glossy black warm-brown eyes, soft pink blush patches with several small red freckles on each cheek, tiny joyful dark red open mouth with pink tongue. Front-facing eyes open, faithful cute proportions and soft upper-left studio lighting. No nose, ears, horns, arms, feet, tail or wings. Entire character centered occupying 78% of square canvas, generous empty margin. Actual transparent RGBA, fully opaque interior, clean fur boundary. No ground shadow, pedestal, backdrop, text, labels, border, sparkle or extra objects. High-resolution game sprite master.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "22f10a8739210d28be94b7eb952daf3b18dc9c20971d147f645f7b775537830a",
+      "file": "sources/generated/medium.png"
+    },
+    {
+      "id": "small",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Small baby variant with more compact round proportions and shorter fur. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b4feb9689aa7c89cb09ecfc22459b7a9c7647df94f3ab8213d191f171adebca6",
+      "file": "sources/generated/small.png"
+    },
+    {
+      "id": "giant",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Giant variant with fuller body and longer shaggy fur. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "246d7ecde5a19500df57b4f46ab66f4b0c22d0e9c9c97083c555bdf54f02348a",
+      "file": "sources/generated/giant.png"
+    },
+    {
+      "id": "laugh",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: happy closed upward arc eyes and wide laughing mouth. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "97e611c4fa51621802bcb30cbb48a0d7bf3a39eb3df8f9e69315013dc85f875a",
+      "file": "sources/generated/laugh.png"
+    },
+    {
+      "id": "excited",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: wide delighted glossy eyes and larger happy open mouth, excited joyful expression. No star eyes. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "dccd3a27e55922a5952d995e029ebb871da3c6c92357c907de1a8dc7d3340574",
+      "file": "sources/generated/excited.png"
+    },
+    {
+      "id": "surprised",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: wide round eyes and small O mouth. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "0942d3ad69f2a751739780a3adefbfbc5c450e2675beee125f16b7c2472f0f14",
+      "file": "sources/generated/surprised.png"
+    },
+    {
+      "id": "sad",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: worried brows, sad glossy eyes and tiny downturned mouth. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "547c89dbdb25ef72c99e028cfdb6a0e900c42ebc254b330cf0245a273b7551f4",
+      "file": "sources/generated/sad.png"
+    },
+    {
+      "id": "crying",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: squeezed sad eyes with blue tears and downturned mouth. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "56d9639ab04a846a2c38c9a893b5c86f13b5b76c56e265f1f3c1ba38f22d4f23",
+      "file": "sources/generated/crying.png"
+    },
+    {
+      "id": "sleepy",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: relaxed closed eyes and small sleeping mouth. No Z text. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6e992866852b0a221d560a78fe0caffe85f76d72c98c18f5b475d62be3d6735c",
+      "file": "sources/generated/sleepy.png"
+    },
+    {
+      "id": "love",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: pink heart-shaped eyes and joyful open mouth. No floating hearts. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ee8b8f9b48f0c36811148c132fab535fdbd8612b680e4b2f57b198835078cbe5",
+      "file": "sources/generated/love.png"
+    },
+    {
+      "id": "wink",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: one winking eye, other glossy eye open, playful smile. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "4dce854ee4ad6863f8cfc96fa0484214540d7c8d3da39929dea412b02a4c7198",
+      "file": "sources/generated/wink.png"
+    },
+    {
+      "id": "angry",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: squeezed angry eyes and tiny scrunched mouth, cute frustration. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "0f04207fb9e1e8c188dd786cc849695e95b3d96cfb0196406581609505efdb2e",
+      "file": "sources/generated/angry.png"
+    },
+    {
+      "id": "cheer",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: closed joyful eyes and very wide happy mouth, exuberant cheer. No floating props. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6a5acbb0c20a4ad3bd8ed6dec9608f02005b8e1e453284238804fa08c86648af",
+      "file": "sources/generated/cheer.png"
+    },
+    {
+      "id": "hit",
+      "prompt": "Use case: precise-object-edit. Edit Peachtells reference sprite. Change only face: eyes tightly squeezed into >< shapes and small wavy scrunched mouth. Preserve character identity, peach shaggy fur, curled top tuft, two green-gold leaves, pink cheeks with red freckles. Keep EXACT body silhouette, lighting, front pose, scale, framing and square canvas. Actual transparent RGBA with opaque interior. One isolated full game sprite. No background, shadow, pedestal, text, additional body parts or decorative objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "a16d1fb69a493ae347118026ea34911f0698c81c608f7ee0ed98ad863c8e8f7f",
+      "file": "sources/generated/hit.png"
+    },
+    {
+      "id": "view_045",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: front three-quarter, face turned screen LEFT. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9e8c8b8d711025be489f5f0e519ab984180f5fbc14c22ec6a0857133e0b43077",
+      "file": "sources/generated/view_045.png"
+    },
+    {
+      "id": "view_090",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: full profile facing screen LEFT, one eye visible at left edge. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9b1441f0bbf4023eca8a764c6ce5da63262b538ec57b60f8011388ee9f19dbc2",
+      "file": "sources/generated/view_090.png"
+    },
+    {
+      "id": "view_135",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: rear three-quarter, left flank, face entirely hidden. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "a0397088aea86068b6fbe1ec50a7404316ab3d19dd3a1cfd807f4fb84040e196",
+      "file": "sources/generated/view_135.png"
+    },
+    {
+      "id": "view_180",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: straight back with no face. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b58bfcba7456c94b3739fa858e9bae09b8b900e6115a379171f0e9b611ab09f4",
+      "file": "sources/generated/view_180.png"
+    },
+    {
+      "id": "view_225",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: rear three-quarter opposite flank, face entirely hidden. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2a512eed6abbb932ac8baf0d0b7f4d0cc20ddada7346c1784c2cad140253911b",
+      "file": "sources/generated/view_225.png"
+    },
+    {
+      "id": "view_270",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: full profile facing screen RIGHT, one eye visible at right edge. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "105a63033b8f90e2eadeb4dffc68559d6efc2344198a9d0df121ef3515fb68aa",
+      "file": "sources/generated/view_270.png"
+    },
+    {
+      "id": "view_315",
+      "prompt": "Use case: stylized-concept. Create turntable view of exact Peachtells reference: front three-quarter, face turned screen RIGHT. Round peach-orange shaggy plush ball, spiral top curl with two green-gold leaves, pink freckled cheeks, brown-black eyes and happy mouth where visible. Rotate only character, fixed soft upper-left lighting, same volume, fur and identity. No limbs, ears, nose, horns or tail. Whole character centered on square transparent RGBA canvas with generous padding. Opaque interior. No background, ground, pedestal, text, shadow or extra objects.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f06cb82a3a049b4514cf4253d2a27505f89fc2d440d1f85571dd350e864ca02c",
+      "file": "sources/generated/view_315.png"
+    },
+    {
+      "id": "evolution",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONE full Peachtells evolution sprite, same peach shaggy plush body, curled top tuft, green-gold leaves, glossy eyes, happy mouth and freckled cheeks. Surround with pink peach-blossom petals, a few golden sparkles, thin elegant golden light ribbons matching board evolution. Keep every petal and ribbon inside canvas with generous margin. No pedestal, ground or opaque background haze. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "58a8b0d696cadf1fb875c9662a0797433e76aa11fd8f6259a2223b5060f939d1",
+      "file": "sources/generated/evolution.png"
+    },
+    {
+      "id": "body",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONE round peach shaggy fur BODY ONLY, no top curl, leaves, eyes, mouth, cheeks, face or appendages. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b57ba9e2705f23ed45581ba0377e8d409ccd887f741f9c513ff5f5dc133b84fc",
+      "file": "sources/generated/body.png"
+    },
+    {
+      "id": "curl",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONE isolated peach-cream fluffy spiral top curl from the character, no leaves, body or face. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "21b5de9e7ffd787381e3ae465ec60c7925543a6f686672fc3a5fc892eb53dee7",
+      "file": "sources/generated/curl.png"
+    },
+    {
+      "id": "leaves_pair",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONLY TWO isolated separate leaves, one green and one golden-green, delicate veins, side by side with wide transparent gap. Match character leaves, no curl, stem cluster or body. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "c843b1cdd2b51ab1d383e7eb7ab160617f652ae1d34543e83450503b35c473e1",
+      "file": "sources/generated/leaves_pair.png"
+    },
+    {
+      "id": "eyes_pair",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONLY TWO separate glossy dark brown-black oval eyes with warm amber lower irises and upper-left white highlights, side by side with wide transparent gap. No brows, face or body. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "35c27dd088ac36c39a0cf5b1bb1f5df4b58be50bfc356d57fd8107f196ca38d9",
+      "file": "sources/generated/eyes_pair.png"
+    },
+    {
+      "id": "cheeks_pair",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONLY TWO isolated soft pink fuzzy oval cheek patches each containing five small red freckles, side by side with wide transparent gap, matching character. No face or body. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "fea13f83656cceedf5d783d5e0e845b5103ddf1a64a121b3ff4001400282a048",
+      "file": "sources/generated/cheeks_pair.png"
+    },
+    {
+      "id": "mouth",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONE isolated small happy open mouth, dark-red cavity and pink tongue, matching character. No fur, face, body, glow, teeth or extra parts. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "3be562f5bfd67b4f48b49f5ca2309db6187e4b2fca6eacf881b69d914af83860",
+      "file": "sources/generated/mouth.png"
+    },
+    {
+      "id": "petal",
+      "prompt": "Use case: stylized-concept. Reference 1 is Peachtells character identity; reference 2 is original board. Generate ONE isolated soft pink peach-blossom petal, gently curved velvety surface, matching board evolution petals. No flower center, stem, body, text, glow or other objects. High-resolution 3D plush cartoon game asset, soft upper-left lighting. Actual transparent RGBA background, solid opaque interior for solid parts, clean edges. Center fully visible with generous padding. No backdrop, shadows, labels, border or watermark.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "2ece25ce858e7aa2bed2aeb0e8a0e06e12d3a9eecb3278fa7095b33a51524f1a",
+      "file": "sources/generated/petal.png"
+    }
+  ],
+  "processing": "User authorized deterministic alpha cleanup, resampling, alignment and exports. No original locked board was edited. Expression face-region composites reuse medium silhouette. Low-opacity neutral haze suppressed around evolution effects. Paired components split before cleanup. Cheeks retain generator alpha and all five freckles; no color mask applied. Original generator outputs retained unchanged."
+}

@@ -2,6 +2,16 @@
 
 Private library preserving the user's locked reference artwork and versioned game-asset deliveries.
 
+## Peachtells delivery
+
+[Peachtells v1 — game integration candidate](locked/peachtells/v1/README.md)
+
+24 full sprite records, 72 lossless WebP exports, 15 animation frames, three atlases and ten optional components, including curl, leaves and petal. Includes PNG masters, metadata, static asset map, complete prompts and generator originals, checksums and offline interactive preview. Original reference preserved unchanged under `references/locked/peachtells/`.
+
+![Peachtells preview](locked/peachtells/v1/qa/contact-dark.png)
+
+Open `locked/peachtells/v1/preview.html` after downloading the repository. Final visual approval and actual game-engine/device testing remain pending.
+
 ## Twirlpuffs delivery
 
 [Twirlpuffs v1 — game integration candidate](locked/twirlpuffs/v1/README.md)

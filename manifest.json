@@ -6,7 +6,8 @@
     "skybubs",
     "leaflings",
     "chirpyfluffs",
-    "twirlpuffs"
+    "twirlpuffs",
+    "peachtells"
   ],
   "files": [
     {
@@ -16,13 +17,13 @@
     },
     {
       "path": "PROVENANCE.md",
-      "bytes": 9521,
-      "sha256": "fc86537c3b2b12f1abd78110d7efa987085f675722e48819168a32596f5b5360"
+      "bytes": 10824,
+      "sha256": "ceaee9fcb7936a87ea9d70df5b1e5f361e4a75b34d09713fb1f3d1a059baf2d4"
     },
     {
       "path": "README.md",
-      "bytes": 5087,
-      "sha256": "1427a518c158620b9f53374d360b7daf6018f2eed3c30b5f9449d6783d5580da"
+      "bytes": 5770,
+      "sha256": "639f7478b1c49d88b1326a643920f05a924cb871943ec489fc1f18e371b7705a"
     },
     {
       "path": "assets/characters/rosybuns/manifest.partial.json",
@@ -2123,6 +2124,831 @@
       "path": "locked/leaflings/v1/sources/generated/view_315.png",
       "bytes": 1471661,
       "sha256": "12c353aeb7ee7083b921daa9b3a70556983cf162773ed9283bc31af110cda3aa"
+    },
+    {
+      "path": "locked/peachtells/v1/README.md",
+      "bytes": 3457,
+      "sha256": "707208fdb1bbf38081eadf55c3145e71eb8352f08bb967abf5fa141965294ac0"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/blink/00.png",
+      "bytes": 67834,
+      "sha256": "6b506c2c944549829dca9bedecb16ecf6cc8aad64d463413a191f85805e0b550"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/blink/01.png",
+      "bytes": 67254,
+      "sha256": "5e41ebcd372f08115a6b15a0887b97db628ea37767d8fdba666c74eecca5ed3f"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/blink/02.png",
+      "bytes": 67254,
+      "sha256": "5e41ebcd372f08115a6b15a0887b97db628ea37767d8fdba666c74eecca5ed3f"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/blink/03.png",
+      "bytes": 67834,
+      "sha256": "6b506c2c944549829dca9bedecb16ecf6cc8aad64d463413a191f85805e0b550"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/bounce/00.png",
+      "bytes": 67834,
+      "sha256": "6b506c2c944549829dca9bedecb16ecf6cc8aad64d463413a191f85805e0b550"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/bounce/01.png",
+      "bytes": 67176,
+      "sha256": "897204029dbeddf972fc377dedced1e28fdf7e58aa38ec7e266c2661d1323681"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/bounce/02.png",
+      "bytes": 67911,
+      "sha256": "e057d1264ac3cd9aecafaca3a918e302f7c6c140ac6603ea9bc62a7c3406639e"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/bounce/03.png",
+      "bytes": 67809,
+      "sha256": "1e0da251e926caefc22485fe51a217395efadb498186216f659f7b4403853224"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/bounce/04.png",
+      "bytes": 68796,
+      "sha256": "78dfd604687f1225f317d02de1796603832bcdba469369b99150bc7d4f68c4c4"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/bounce/05.png",
+      "bytes": 67834,
+      "sha256": "6b506c2c944549829dca9bedecb16ecf6cc8aad64d463413a191f85805e0b550"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/hit-pop/00.png",
+      "bytes": 66739,
+      "sha256": "f269a78de3a8438c50b1f1a53e5d2928afa82a04f22ffc6d3f32119cf7333da0"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/hit-pop/01.png",
+      "bytes": 63206,
+      "sha256": "61798916adc393f6e7921486cc3ab947f5ef5ee900cf179b5f78b9e4c9eef225"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/hit-pop/02.png",
+      "bytes": 68499,
+      "sha256": "762cc73a5cb19610e6bdd053221f0fdbd68f5821b5fa320c6ee5cb0fcbdb7286"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/hit-pop/03.png",
+      "bytes": 32136,
+      "sha256": "1293cd2abfb688cc62c45c66683285f0bb3551bc90a2093fbeabad3fb98743bd"
+    },
+    {
+      "path": "locked/peachtells/v1/animations/hit-pop/04.png",
+      "bytes": 873,
+      "sha256": "d5d893139564599da35591fad109c133f4cfcdee5e016befc1b9c773c6aa483a"
+    },
+    {
+      "path": "locked/peachtells/v1/assets.ts",
+      "bytes": 1338,
+      "sha256": "a059802c7989a040b35a71bec8e000151c8cf50e4daf32ad86b78bb025c2e1f7"
+    },
+    {
+      "path": "locked/peachtells/v1/atlases/blink.png",
+      "bytes": 83446,
+      "sha256": "c3ce537a053d14616b59fbdf75b044a9a53cf28124feae0fa86323512ccd57ab"
+    },
+    {
+      "path": "locked/peachtells/v1/atlases/bounce.png",
+      "bytes": 342320,
+      "sha256": "988366bc2d40892e4287634ba5cc078947db90cf46a6d69a2e7775058ad91ecf"
+    },
+    {
+      "path": "locked/peachtells/v1/atlases/hit-pop.png",
+      "bytes": 233657,
+      "sha256": "360a4462efc3c273f72ed0c36475040da2b58bee49f6cd909ca7c91f49622e62"
+    },
+    {
+      "path": "locked/peachtells/v1/components/body-fur.png",
+      "bytes": 447288,
+      "sha256": "4722840473eba0fc880e972996fd3e2b933cc65736d5fb381bea4d81235d7f6e"
+    },
+    {
+      "path": "locked/peachtells/v1/components/cheek-left.png",
+      "bytes": 23321,
+      "sha256": "c9796f59ce809eb602610f0cd5395a1c8de0dc9aff129a0f4c96870a8f0bde83"
+    },
+    {
+      "path": "locked/peachtells/v1/components/cheek-right.png",
+      "bytes": 22963,
+      "sha256": "3eacf58c7f3dbfd3993d2b56722e86151e7a4644f914ff3ee7f2d147de2807c7"
+    },
+    {
+      "path": "locked/peachtells/v1/components/eye-left.png",
+      "bytes": 14476,
+      "sha256": "1b61b90de0a1c56335a6258f19bec9d8768b47b6d72accd9ac60431d3ff21904"
+    },
+    {
+      "path": "locked/peachtells/v1/components/eye-right.png",
+      "bytes": 14098,
+      "sha256": "e941c672a38abf9fa43c3182d653b215f43e7d8be4fc5b38743b58d838d30dd0"
+    },
+    {
+      "path": "locked/peachtells/v1/components/leaf-left.png",
+      "bytes": 18003,
+      "sha256": "79718883a0490a1b6e19c60dedf5807b44ee07c794e02be442bb29e478aa2cbc"
+    },
+    {
+      "path": "locked/peachtells/v1/components/leaf-right.png",
+      "bytes": 18483,
+      "sha256": "aa63c820ec80e9f40914e060258e033adb97934ff629ff97af11be0352c2ee18"
+    },
+    {
+      "path": "locked/peachtells/v1/components/mouth.png",
+      "bytes": 13451,
+      "sha256": "0aa2532cbf5588548cd26d61792808d92efee1dee27449bc1b7d93acb5db118c"
+    },
+    {
+      "path": "locked/peachtells/v1/components/petal.png",
+      "bytes": 275217,
+      "sha256": "de3002f652bde568c5d3d9e799bf468fe2cdef35e04f40363cc729cade2d1d67"
+    },
+    {
+      "path": "locked/peachtells/v1/components/top-curl.png",
+      "bytes": 65149,
+      "sha256": "3a0ad1911cf25f512a0516f71a634f0679dc45e5d6c19d776f800a99c01faeb0"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/angry.webp",
+      "bytes": 15024,
+      "sha256": "115784d63fdb15a76b69f761623d346d59607643c3b0990365e64f0cd81343f1"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/cheer.webp",
+      "bytes": 15286,
+      "sha256": "17a0acd7d7977da655d367012a08628b24aafd57534beb7c984cfcf311bdfd0e"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/crying.webp",
+      "bytes": 15242,
+      "sha256": "08105ac35bda9cd9435f02b704eb879be658cd729d4113405dcb02cc319a30da"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/evolution.webp",
+      "bytes": 18324,
+      "sha256": "65890f263e5e8d9487ef3a18c1890950ad86030ceaeebaf83d626573f5dc3416"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/excited.webp",
+      "bytes": 15534,
+      "sha256": "29a28cea680656664bdeb81a605b37ac9b365fcd4c0967b2c49f4754bd95c13f"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/giant.webp",
+      "bytes": 16248,
+      "sha256": "50bb247be0a758d29659052f7ef05ca1a6ce229b13effa158d8bd9410cb5e9bb"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/hit.webp",
+      "bytes": 15100,
+      "sha256": "dbf46f11021fc5ea07413f776a784ba5712af7611199ffb4d3f9c2ffa2eb69ec"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/idle.webp",
+      "bytes": 15248,
+      "sha256": "a3f5546b540b995f4ae7bbf7bb1fee6c8ac1957be9f8bc144698cb40e4378389"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/laugh.webp",
+      "bytes": 15198,
+      "sha256": "2c5dab940cd5e91be823003f2a9ccad9dd1db0080874c823ba2915fcccff32ea"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/love.webp",
+      "bytes": 15424,
+      "sha256": "42bf208ba5636cbf0ee2434925e3232b86ba7b4bcd9c82273d796186641f817b"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/medium.webp",
+      "bytes": 15248,
+      "sha256": "a3f5546b540b995f4ae7bbf7bb1fee6c8ac1957be9f8bc144698cb40e4378389"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/sad.webp",
+      "bytes": 15298,
+      "sha256": "3ab521840a94476f3fe82d490c418214e96cf8aaffa263b6b7bbe3c2b8a2d0b0"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/sleepy.webp",
+      "bytes": 14956,
+      "sha256": "af2940d417f289aa147da3d24e7949759a3e05aa967e476c1280a8c32d60d79b"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/small.webp",
+      "bytes": 14856,
+      "sha256": "aa27d3c13da041c743146f442a443545b83a7fd5b8c0f7c3ab72c286fee5822f"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/surprised.webp",
+      "bytes": 15320,
+      "sha256": "5b96270c81c45e8550f82bc1c7ad84ffff9a35383c847706f6029ef6da2e7917"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_000.webp",
+      "bytes": 15248,
+      "sha256": "a3f5546b540b995f4ae7bbf7bb1fee6c8ac1957be9f8bc144698cb40e4378389"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_045.webp",
+      "bytes": 14964,
+      "sha256": "6be3f43d681e97bfe1c3291a82efed58b1d5bd073de53d615f44e0f7b7d877ac"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_090.webp",
+      "bytes": 13496,
+      "sha256": "36f3a1404ba12de714a2937d1fb1bd3c8aa9cac7d634b3889a015a3a97ad13a8"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_135.webp",
+      "bytes": 13102,
+      "sha256": "64143ec721aae62c81544e4e883ba9c97c73054fbe6f458a39ebaaf4591e8876"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_180.webp",
+      "bytes": 14362,
+      "sha256": "a870fc1fcc0263b963f99930c5c7d9ecbe6ee04337f53cf89c1e79a0effbab41"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_225.webp",
+      "bytes": 13806,
+      "sha256": "5841d9fdc5e8164271c267d2130161a7967ce9dff2f6338da25a17990a906813"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_270.webp",
+      "bytes": 13782,
+      "sha256": "d3c4c60cd3e53cc81772f7ab9afc58fc5b35cb6ee152b1b3c3b5c99f5ac04cca"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/view_315.webp",
+      "bytes": 14420,
+      "sha256": "e35410df2d4c4e16e97b36d7cfdb9c6dcf2fba857fcf42e67394a96eacb5b40f"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/128/wink.webp",
+      "bytes": 15198,
+      "sha256": "ae28f1d01fbcc6aca37fc30db29b302a1f63a559665588afa559d5ad92290955"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/angry.webp",
+      "bytes": 44060,
+      "sha256": "c082737b582a0515f35abc30b3d9fc25e8a922a5cbac68dcf37dc70ee013a1fb"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/cheer.webp",
+      "bytes": 47114,
+      "sha256": "660c9de795860a2806ddcee7ed1e4dda5d5b1a8625a3753a6237818ee4b22923"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/crying.webp",
+      "bytes": 46966,
+      "sha256": "4312ea14299b055a733deec738d429a66d260dbcbf58529680b7bebf36583170"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/evolution.webp",
+      "bytes": 51792,
+      "sha256": "8b4ad60821726a97211739a4df97b24475d44c800ce971869b2f50e944ce9352"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/excited.webp",
+      "bytes": 45076,
+      "sha256": "959058e6ea1ec04f5cc2855ad8ea85bf185fb11911f20dd9da8ea7e635ad9cc4"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/giant.webp",
+      "bytes": 49636,
+      "sha256": "0f0c954cdc97203c1ea5f5149e6c65a38a17f26b58fa890c45dfeeaed6e177eb"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/hit.webp",
+      "bytes": 44398,
+      "sha256": "c48aaeb52d60d36e9bac3255fd5bdd1b66a65705b7783577480e2e365661fe12"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/idle.webp",
+      "bytes": 47458,
+      "sha256": "06c267b1321e1cbe9e9831c3d015a537915f4d219d698c9e3d71e0dadbbf80ba"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/laugh.webp",
+      "bytes": 44558,
+      "sha256": "c291120fb86fd2fba7c0d97a0ade914d611d9c0a6223f747a6eb622a967ccfd3"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/love.webp",
+      "bytes": 45362,
+      "sha256": "21d33bfc4d0d42b8568363e014adbd161ba50d22af09848fa88b8fb869544b9c"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/medium.webp",
+      "bytes": 47458,
+      "sha256": "06c267b1321e1cbe9e9831c3d015a537915f4d219d698c9e3d71e0dadbbf80ba"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/sad.webp",
+      "bytes": 45086,
+      "sha256": "096c265ec7ea804a238a6964a9f723203aad30acb5ab4d9e06a0c4a5b657d81e"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/sleepy.webp",
+      "bytes": 44032,
+      "sha256": "107c2a455b0f35ef70897ad5de587ebabcb2aa77d8b713deed91daf41afe521b"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/small.webp",
+      "bytes": 43472,
+      "sha256": "1945adf88640259a2f4dbbf575464b9843615259756e8ac1771c5c5c18afbce1"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/surprised.webp",
+      "bytes": 44776,
+      "sha256": "ad74256765923d78fca2868b12a0d97b889ed9a226298a9091e3e73baca095fd"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_000.webp",
+      "bytes": 47458,
+      "sha256": "06c267b1321e1cbe9e9831c3d015a537915f4d219d698c9e3d71e0dadbbf80ba"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_045.webp",
+      "bytes": 45370,
+      "sha256": "127c3a613ee669409e66ef5e1a52c57c5abd121a39410c5e1a6db87dff03ab7b"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_090.webp",
+      "bytes": 38322,
+      "sha256": "a8129a56ca9c60842d0258c437a1c82bcd077f7c07b4ef57d94178cb9624e8bf"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_135.webp",
+      "bytes": 39732,
+      "sha256": "1a9bcfb2ef5254f7a1c4eec2271669ea9ef4927bdf7a024d9f2f439851df48c5"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_180.webp",
+      "bytes": 41808,
+      "sha256": "7b4e3be6192c70fa8fb312a2de8e84ba29a43baccd41d02b1c7ed038b12dd236"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_225.webp",
+      "bytes": 39456,
+      "sha256": "c842f78ee42f5580c3a2750f4e1af2a11c56a7d3501c52f42cc098a889836481"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_270.webp",
+      "bytes": 39668,
+      "sha256": "950496cf7848042aad18260522394e0e615aed9afe85244e8c96f820d2278a9e"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/view_315.webp",
+      "bytes": 45224,
+      "sha256": "b5e1c350c0c311ce59e98a55e9b1c75893f8e99b9aa6de43be007c3d3e69ddbe"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/256/wink.webp",
+      "bytes": 44984,
+      "sha256": "de667c5761d435aa4347211c8b59335df1caa320be54ba13f733cdbf51258bdc"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/angry.webp",
+      "bytes": 157356,
+      "sha256": "2d8200e78a62fb8e6e9d882aefba09cd24eeff29e3eb5423681edb16d64c716d"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/cheer.webp",
+      "bytes": 157494,
+      "sha256": "be7f786a377f86574ae54cb43c94406b9b8617a6442f00964062ce23bc46208f"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/crying.webp",
+      "bytes": 158912,
+      "sha256": "60e217761a6025c8840e5b2cf94bf15795db7a1dc1a7a61578feae27fbd5ce29"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/evolution.webp",
+      "bytes": 168846,
+      "sha256": "fb07f5787f77a1147d2ce119e89ed3ca2b7659a6f7d0a8f1c7098fa0d0c5f881"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/excited.webp",
+      "bytes": 157908,
+      "sha256": "7c0ce5f20f45dc09f752a4fe21e8a520e3adf60dae0d2c755aca7f040e5925db"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/giant.webp",
+      "bytes": 162752,
+      "sha256": "56d53adf64b50a7c07f945fa1ff98ce53e24bf4f2a876f2d3d1362135fea691c"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/hit.webp",
+      "bytes": 158608,
+      "sha256": "b7607fd7e9d4c6b2bad8ceb6782b5ec62c0f4d3d9b4c620f178c3f63edb985d4"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/idle.webp",
+      "bytes": 160142,
+      "sha256": "711467a4191a69dd51dae9aaf47435560fe97a87e5db5f9c72bfbe8d548d8562"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/laugh.webp",
+      "bytes": 157802,
+      "sha256": "1aa30200613b5546f4a666480663fb5cc8f013652ac8f3dccacfa747cda9d8d3"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/love.webp",
+      "bytes": 158618,
+      "sha256": "8763c778ab00c6dd7a38defe5de8d82352778947b1873e0f30749f8cc7c6fafc"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/medium.webp",
+      "bytes": 160142,
+      "sha256": "711467a4191a69dd51dae9aaf47435560fe97a87e5db5f9c72bfbe8d548d8562"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/sad.webp",
+      "bytes": 159458,
+      "sha256": "2178925b56ab016d1a6ccec1eeb431e0c30f67786326ed225226a64d9fdd81fa"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/sleepy.webp",
+      "bytes": 157258,
+      "sha256": "e67936511260287839b902bdb44020f47309d30bf8a03cc58bc81a568a13fd51"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/small.webp",
+      "bytes": 153282,
+      "sha256": "eaaf1c0203d251f88b7e0de96dad8689d837cde5a65c7fa41fe38ed74e013234"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/surprised.webp",
+      "bytes": 158082,
+      "sha256": "93a217d19e6bde0202d4588a4bfd469dcb138d062d22b9a0c1ff393cd3b06022"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_000.webp",
+      "bytes": 160142,
+      "sha256": "711467a4191a69dd51dae9aaf47435560fe97a87e5db5f9c72bfbe8d548d8562"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_045.webp",
+      "bytes": 151226,
+      "sha256": "d085d1d069b7d5e5e2a2e6847ccce357d8117609a8e2e61703f2e3fa06cf092b"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_090.webp",
+      "bytes": 137080,
+      "sha256": "8df8dfee5eeb434702072b702d89ddf418cfc341b99dea2a5acc1ac34d984c6d"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_135.webp",
+      "bytes": 136916,
+      "sha256": "4d1a2f645b79ce6cb1eac8100be1f0f15da88b54b23e39259995d38a4b859d8a"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_180.webp",
+      "bytes": 153508,
+      "sha256": "c885b22528422b09b0eb5f48b0cbff865ef2afd2dc96f455520d6011a04e367b"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_225.webp",
+      "bytes": 141090,
+      "sha256": "4da40e5a18f0af938abb93d1689066887a0fc55b3347db4964eb4a3f26b9ec5a"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_270.webp",
+      "bytes": 142856,
+      "sha256": "3ba6227b59d86c2f7d2975afde69b2fe9c83f2716c1991ba9f6f455966f7ed01"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/view_315.webp",
+      "bytes": 150246,
+      "sha256": "24692c426618220a35274348a4d5ff841052c161b0a3c1ed0ee9b3d0127242bb"
+    },
+    {
+      "path": "locked/peachtells/v1/gameplay/512/wink.webp",
+      "bytes": 157780,
+      "sha256": "3221d009a0a5114b5ffe9278640b34a4f579db871f3086f15670190cbcf2cde3"
+    },
+    {
+      "path": "locked/peachtells/v1/generation.json",
+      "bytes": 24848,
+      "sha256": "129d5fa0636d6ef341b8b1f54c71edf346ed4dc2ec1ce682754d6ff6f3fa7c75"
+    },
+    {
+      "path": "locked/peachtells/v1/manifest.json",
+      "bytes": 26543,
+      "sha256": "0c53fb1dd127b12adf3b1c5051041a8a3a4cb529c4fe6804bb7fd617f287c8d8"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/core/giant.png",
+      "bytes": 1012647,
+      "sha256": "79e341a4c51fb07d2ce1ce9331ee1dfdac92d0effdcb249493b487d6e05deb11"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/core/medium.png",
+      "bytes": 557580,
+      "sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/core/small.png",
+      "bytes": 241207,
+      "sha256": "1532afbc54f7592f09d35f3ccc9167ddd7869b684c470f1d78d6081f95f256c8"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/evolution/evolution.png",
+      "bytes": 897607,
+      "sha256": "859c336f79a11a8cddcd6ba10bb9b78d869fb8eb1ca77225f78bb9d175706a13"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/angry.png",
+      "bytes": 545943,
+      "sha256": "7c02b99bf1de485e98e72c0ee75381483bdc190e553a67f84b9530e61ef4a268"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/cheer.png",
+      "bytes": 543992,
+      "sha256": "a91503840de1d1df6e78b6893cbe809941b8dd2292f2c05ef60762f1dbb49a89"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/crying.png",
+      "bytes": 550231,
+      "sha256": "be5f419ede103644630c954014884ac025a3a57dff2a772cf9478bfc9eabacc5"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/excited.png",
+      "bytes": 543876,
+      "sha256": "3390782ee3e7cdd2fce2805c516dc0042a14f8d7cfb4434f6d330ed0038dc362"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/hit.png",
+      "bytes": 549465,
+      "sha256": "399841f689e187c81d6c7754006ad8c9e54df0aeb42ab000d9fde18173ec0beb"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/idle.png",
+      "bytes": 557580,
+      "sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/laugh.png",
+      "bytes": 546020,
+      "sha256": "7b5bb67002041573892053ed5e65ceb656c8cbf4770429e5d6f7b4c247d3ab65"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/love.png",
+      "bytes": 547388,
+      "sha256": "e5f1b7d085a9324ae8672b764adfecafb7d957796a1c842ffb00fab5f092c3bf"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/sad.png",
+      "bytes": 551152,
+      "sha256": "547808d77b9d0af28e27fd23f864559664737ca0525b7c843055157bd67e86ac"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/sleepy.png",
+      "bytes": 545786,
+      "sha256": "db4da000b7522a1cb84e6c10cf1c6a3ca410e63a3d7e466f21e88cf2df7b40f4"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/surprised.png",
+      "bytes": 547845,
+      "sha256": "cf7efab5e3aa14521466a402688bda41a3b679a088ed4b0fe724d3bf4df27db5"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/expressions/wink.png",
+      "bytes": 546032,
+      "sha256": "dc2ce96968404c7047b678fbdd9aa130c4c37995b59ee7388b0d81d09fa26083"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_000.png",
+      "bytes": 557580,
+      "sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_045.png",
+      "bytes": 526720,
+      "sha256": "b1536d8ac2d58dee93dd81353282bab4ab8e69fe1319fca9ad7d38ba767f4349"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_090.png",
+      "bytes": 481509,
+      "sha256": "c883f4ef3f1ce32fba197315df48727d659834622947240b6d4c47b048554a3a"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_135.png",
+      "bytes": 490402,
+      "sha256": "b4047e4f454d11089075b56ac225a8b37da7cad0965f09e7581e73816ee61c67"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_180.png",
+      "bytes": 541234,
+      "sha256": "4ac75516b4f199c60262a3507b987f6ac6ca630c1830bdbb2e8040b6909e2d5c"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_225.png",
+      "bytes": 503968,
+      "sha256": "619f0fcf0ec53fab8165f65a0a64e3ec7641eed757315ce615f0947348becb48"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_270.png",
+      "bytes": 505326,
+      "sha256": "ba7f788bd02e03d0ee990ea5ea4d9fb66c52bf11d985ea2c5d61e74f8d351f55"
+    },
+    {
+      "path": "locked/peachtells/v1/masters/turntable/view_315.png",
+      "bytes": 524285,
+      "sha256": "8b030c91c8073c4856ad2df62724f93ff0429b094e889386330654ab1a02c6a4"
+    },
+    {
+      "path": "locked/peachtells/v1/metadata.json",
+      "bytes": 20727,
+      "sha256": "448db30ddc241703050727d443462f92358179186f54dda8eafd68cc16364ba4"
+    },
+    {
+      "path": "locked/peachtells/v1/preview.html",
+      "bytes": 16679,
+      "sha256": "f2c36c0cfcd49aefe304430ca2a8b3cb4388b6841ed52ed89ed399adb1330f64"
+    },
+    {
+      "path": "locked/peachtells/v1/qa/animations.webp",
+      "bytes": 1056622,
+      "sha256": "a966c51585b327c1a646f9a0a5aa22ab0b82075b40d409a33f1dc0dfae4c84f9"
+    },
+    {
+      "path": "locked/peachtells/v1/qa/components.png",
+      "bytes": 208141,
+      "sha256": "7cc70c2ed1be3e5f3b86815d6bc832e13c246525f4c7fb94fff1cb5ec2142fbc"
+    },
+    {
+      "path": "locked/peachtells/v1/qa/contact-dark.png",
+      "bytes": 664714,
+      "sha256": "bc701901db2b4898a6dc3e2689988e5c7e411be199f67f36b0ae045e01121a62"
+    },
+    {
+      "path": "locked/peachtells/v1/qa/contact-light.png",
+      "bytes": 643824,
+      "sha256": "b4cfa998e19668bf034786e55004e9232c93ce188e6de1e7cfa7d95f8a906a04"
+    },
+    {
+      "path": "locked/peachtells/v1/qa/gameplay-sizes.png",
+      "bytes": 113661,
+      "sha256": "0e2999fee73bc1add0efd51958b0ff1efb2c0b46cb3af6766f0b700992a33670"
+    },
+    {
+      "path": "locked/peachtells/v1/qa/validation.json",
+      "bytes": 4457,
+      "sha256": "a2f9ab2a654c89000158ae1ca77976561362f18549cf9bed2ab2d8162ea8e02c"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/angry.png",
+      "bytes": 1472130,
+      "sha256": "0f04207fb9e1e8c188dd786cc849695e95b3d96cfb0196406581609505efdb2e"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/body.png",
+      "bytes": 1635721,
+      "sha256": "b57ba9e2705f23ed45581ba0377e8d409ccd887f741f9c513ff5f5dc133b84fc"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/cheeks_pair.png",
+      "bytes": 1360852,
+      "sha256": "fea13f83656cceedf5d783d5e0e845b5103ddf1a64a121b3ff4001400282a048"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/cheer.png",
+      "bytes": 1482742,
+      "sha256": "6a5acbb0c20a4ad3bd8ed6dec9608f02005b8e1e453284238804fa08c86648af"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/crying.png",
+      "bytes": 1505889,
+      "sha256": "56d9639ab04a846a2c38c9a893b5c86f13b5b76c56e265f1f3c1ba38f22d4f23"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/curl.png",
+      "bytes": 1776329,
+      "sha256": "21b5de9e7ffd787381e3ae465ec60c7925543a6f686672fc3a5fc892eb53dee7"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/evolution.png",
+      "bytes": 2156420,
+      "sha256": "58a8b0d696cadf1fb875c9662a0797433e76aa11fd8f6259a2223b5060f939d1"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/excited.png",
+      "bytes": 1451542,
+      "sha256": "dccd3a27e55922a5952d995e029ebb871da3c6c92357c907de1a8dc7d3340574"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/eyes_pair.png",
+      "bytes": 621637,
+      "sha256": "35c27dd088ac36c39a0cf5b1bb1f5df4b58be50bfc356d57fd8107f196ca38d9"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/giant.png",
+      "bytes": 1821031,
+      "sha256": "246d7ecde5a19500df57b4f46ab66f4b0c22d0e9c9c97083c555bdf54f02348a"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/hit.png",
+      "bytes": 1511467,
+      "sha256": "a16d1fb69a493ae347118026ea34911f0698c81c608f7ee0ed98ad863c8e8f7f"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/laugh.png",
+      "bytes": 1471109,
+      "sha256": "97e611c4fa51621802bcb30cbb48a0d7bf3a39eb3df8f9e69315013dc85f875a"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/leaves_pair.png",
+      "bytes": 963481,
+      "sha256": "c843b1cdd2b51ab1d383e7eb7ab160617f652ae1d34543e83450503b35c473e1"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/love.png",
+      "bytes": 1486908,
+      "sha256": "ee8b8f9b48f0c36811148c132fab535fdbd8612b680e4b2f57b198835078cbe5"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/medium.png",
+      "bytes": 1601231,
+      "sha256": "22f10a8739210d28be94b7eb952daf3b18dc9c20971d147f645f7b775537830a"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/mouth.png",
+      "bytes": 1143501,
+      "sha256": "3be562f5bfd67b4f48b49f5ca2309db6187e4b2fca6eacf881b69d914af83860"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/petal.png",
+      "bytes": 1636698,
+      "sha256": "2ece25ce858e7aa2bed2aeb0e8a0e06e12d3a9eecb3278fa7095b33a51524f1a"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/sad.png",
+      "bytes": 1524412,
+      "sha256": "547c89dbdb25ef72c99e028cfdb6a0e900c42ebc254b330cf0245a273b7551f4"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/sleepy.png",
+      "bytes": 1506202,
+      "sha256": "6e992866852b0a221d560a78fe0caffe85f76d72c98c18f5b475d62be3d6735c"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/small.png",
+      "bytes": 1422747,
+      "sha256": "b4feb9689aa7c89cb09ecfc22459b7a9c7647df94f3ab8213d191f171adebca6"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/surprised.png",
+      "bytes": 1488958,
+      "sha256": "0942d3ad69f2a751739780a3adefbfbc5c450e2675beee125f16b7c2472f0f14"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_045.png",
+      "bytes": 1711113,
+      "sha256": "9e8c8b8d711025be489f5f0e519ab984180f5fbc14c22ec6a0857133e0b43077"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_090.png",
+      "bytes": 1381027,
+      "sha256": "9b1441f0bbf4023eca8a764c6ce5da63262b538ec57b60f8011388ee9f19dbc2"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_135.png",
+      "bytes": 1421963,
+      "sha256": "a0397088aea86068b6fbe1ec50a7404316ab3d19dd3a1cfd807f4fb84040e196"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_180.png",
+      "bytes": 2030022,
+      "sha256": "b58bfcba7456c94b3739fa858e9bae09b8b900e6115a379171f0e9b611ab09f4"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_225.png",
+      "bytes": 1465386,
+      "sha256": "2a512eed6abbb932ac8baf0d0b7f4d0cc20ddada7346c1784c2cad140253911b"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_270.png",
+      "bytes": 1483081,
+      "sha256": "105a63033b8f90e2eadeb4dffc68559d6efc2344198a9d0df121ef3515fb68aa"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/view_315.png",
+      "bytes": 1502699,
+      "sha256": "f06cb82a3a049b4514cf4253d2a27505f89fc2d440d1f85571dd350e864ca02c"
+    },
+    {
+      "path": "locked/peachtells/v1/sources/generated/wink.png",
+      "bytes": 1486336,
+      "sha256": "4dce854ee4ad6863f8cfc96fa0484214540d7c8d3da39929dea412b02a4c7198"
     },
     {
       "path": "locked/rosybuns/v1/README.md",
@@ -4470,6 +5296,11 @@
       "sha256": "86d1efef1df88168784720c60e2d76bb8aeb30a848ee5187cc5f246bfd073573"
     },
     {
+      "path": "references/locked/peachtells/Peachtells Fantasy Character Asset Sheet.png",
+      "bytes": 2414868,
+      "sha256": "7414e627f6d1d56fc51f4ea575182208e34d0f9bf7fd7da1c953dd9bd5cbfa31"
+    },
+    {
       "path": "references/locked/rosybuns/Rosybuns Character Sprite Sheet.png",
       "bytes": 2859566,
       "sha256": "0c5bc5318ca0e464eac23d49f43f38c2ed6b2c7d997216c3dc030ee9814fa127"
@@ -4501,10 +5332,10 @@
     }
   ],
   "latest_delivery": {
-    "path": "locked/twirlpuffs/v1",
+    "path": "locked/peachtells/v1",
     "status": "integration_candidate",
-    "full_sprite_files": 23,
-    "gameplay_exports": 69,
+    "full_sprite_files": 24,
+    "gameplay_exports": 72,
     "animation_frames": 15,
     "components": 10,
     "art_approval": "pending",
@@ -4570,6 +5401,16 @@
       "status": "integration_candidate",
       "full_sprite_files": 23,
       "gameplay_exports": 69,
+      "animation_frames": 15,
+      "components": 10,
+      "art_approval": "pending",
+      "device_validation": "pending"
+    },
+    "peachtells": {
+      "path": "locked/peachtells/v1",
+      "status": "integration_candidate",
+      "full_sprite_files": 24,
+      "gameplay_exports": 72,
       "animation_frames": 15,
       "components": 10,
       "art_approval": "pending",
