@@ -1,0 +1,281 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "medium",
+      "prompt": "Use case: stylized-concept. Generate ONE standalone medium Leaflings game sprite based faithfully on the supplied original reference board. Round green plush furry ball, layered soft grass-green fur with pale lime highlights and deep green lower fur, TWO bright fresh green pointed veined leaves sprouting from top with short joined stems, glossy black round eyes with warm olive lower iris and white highlights, small green eyebrows, cheerful open dark red mouth and pink tongue, oval rosy pink furry cheeks. No ears, limbs, tail, nose, blue fur or heart tuft. Front view, centered full silhouette, soft upper-left lighting. Square REAL transparent RGBA background, opaque interior, delicate fur alpha, generous clear margin. No floor, shadow, labels, text, extra objects or glow. Match original Leaflings silhouette and leaf identity closely. This medium render establishes consistent identity for subsequent expressions.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "a6d7fb24baef8f8fa181c438f9a904cbe8f796a84f6ad012dfe20c35d4484e2e",
+      "file": "sources/generated/medium.png"
+    },
+    {
+      "id": "small",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. SMALL baby core form, slightly smaller leaf sprout and compact round body, same happy face. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "d0a9051eacd1d7f99723c0c5b282151fef00e637d11fff25cb5015bb6efd606d",
+      "file": "sources/generated/small.png"
+    },
+    {
+      "id": "giant",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. GIANT core form, fuller round body, same happy face. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e542a2be36351d717cd430261e70005d355862d0314f42b130a32ee591ce54f9",
+      "file": "sources/generated/giant.png"
+    },
+    {
+      "id": "laugh",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. LAUGH expression: curved closed laughing eyes, happy wide open smiling mouth. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "393cecc3df056560d26fc1ec95c919f37509a65dec2d8fa2fa22207c76c2169c",
+      "file": "sources/generated/laugh.png"
+    },
+    {
+      "id": "excited",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. EXCITED expression: golden star highlights in eyes, delighted open mouth. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c4dde30d73bef9097c22585f8cf803fb71ac76de8781cc8c46c266450be72ac2",
+      "file": "sources/generated/excited.png"
+    },
+    {
+      "id": "surprised",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. SURPRISED expression: wide round eyes, tiny round O mouth. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "407328c3e2ec7647cb3d377470c0194319f3fad27547cf4a93b5c6abcf882770",
+      "file": "sources/generated/surprised.png"
+    },
+    {
+      "id": "pout",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. CUTE POUT expression: sad gentle brows, glossy pleading eyes, tiny downturned mouth. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "270a622923e8b826e5e876b463fbfb34bead288abe68f6db7123e3ef1d836e94",
+      "file": "sources/generated/pout.png"
+    },
+    {
+      "id": "angry",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. ANGRY expression: furrowed green brows, narrowed eyes, small angry downturned mouth. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f56b004465f5e82af534c6a75a0395cc40344de71f847caf4cbfc4f801d1eb39",
+      "file": "sources/generated/angry.png"
+    },
+    {
+      "id": "sleepy",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. SLEEPY expression: gently closed black eyelids, tiny relaxed mouth. No Z text or floating symbols. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e1b72c8d47da9bd62b85ab2f7d28f693a37ea8081522588141f35adb862136ed",
+      "file": "sources/generated/sleepy.png"
+    },
+    {
+      "id": "love",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. IN LOVE expression: pink heart-shaped eyes, cute delighted mouth. No floating hearts. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "466e81d73af963ccf821e7e9758e2540bd878720127eff8d26dd9d9aaae92ae6",
+      "file": "sources/generated/love.png"
+    },
+    {
+      "id": "kiss",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. KISS expression: one eye winking, puckered tiny 3-shaped mouth. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "63267d4548eb2262c45be22b7c52fc766af68c0585195918135c665574ccf341",
+      "file": "sources/generated/kiss.png"
+    },
+    {
+      "id": "hit",
+      "prompt": "Use case: identity-preserve. ONE standalone Leaflings sprite. HIT expression: both eyes squeezed shut as small angled lines, tiny wavy mouth, no injury. First reference is identity master, second original design board. Keep exact same green fur palette, round body, TWO veined green leaves, pink oval furry cheeks, camera, upper-left soft lighting and full framing. For expressions change only face, keep body and leaves unchanged and face in identical position. No ears, limbs, tail, nose, extra objects, background, text, floor or shadow. Centered square REAL transparent RGBA with opaque interior and delicate fur alpha, generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "f83b77740e2da29c271baa5f36d80a092ac31f7d69735a534bd706915793d4d2",
+      "file": "sources/generated/hit.png"
+    },
+    {
+      "id": "view_045",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: three-quarter front facing LEFT, 45 degrees; both eyes visible with far eye smaller. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "104c4e4d5214ac60e0e11b99a374f38a3ade7eaf257e2adfdd0b72e79b45099c",
+      "file": "sources/generated/view_045.png"
+    },
+    {
+      "id": "view_090",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: LEFT-FACING exact side profile, 90 degrees; one near eye and cheek visible at far left edge. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "4c43cc7046381244fe592a1e552a5431d12b792a538771d5f9fbec7df5619f21",
+      "file": "sources/generated/view_090.png"
+    },
+    {
+      "id": "view_135",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: three-quarter rear LEFT, 135 degrees, no eyes, cheeks or mouth visible. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "573e5eb6a2c3b3ad9e6cbda0d25fe03561c00d21f8757ae897d0dbba7d97f77f",
+      "file": "sources/generated/view_135.png"
+    },
+    {
+      "id": "view_180",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: exact BACK, 180 degrees; no face features visible. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2f035c6d881f935d9a1a4323fb69efa446e1b05ec2bd6975a48b240c4a9daf11",
+      "file": "sources/generated/view_180.png"
+    },
+    {
+      "id": "view_225",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: three-quarter rear RIGHT, 225 degrees; no eyes, cheeks or mouth visible. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "67def0817ef4d229083e8d4d69e064b1e6e4b32e6904c7ef24447a468f6e6cdd",
+      "file": "sources/generated/view_225.png"
+    },
+    {
+      "id": "view_270",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: RIGHT-FACING exact side profile, 270 degrees; one near eye and cheek visible at far right edge. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "a56fdbed3354e6fbd4b2e6c69dfc2a3b667a0a301d1ee09c2f05d31892ea878f",
+      "file": "sources/generated/view_270.png"
+    },
+    {
+      "id": "view_315",
+      "prompt": "Use case: stylized-concept. ONE medium Leaflings turntable sprite: three-quarter front facing RIGHT, 315 degrees; both eyes visible with far eye smaller. First reference locks generated identity; second is original board. Preserve same round green plush body with soft layered grassy fur, pale lime highlights, deep green lower fur, TWO veined pointed green sprout leaves on short joined stems at top. Rotate the entire character including leaves naturally. Glossy black/olive eyes, green brows, oval pink furry cheeks and happy mouth only when visible. No ears, limbs, tail or nose. Same camera height, body volume, upper-left lighting. Full silhouette centered on square REAL transparent RGBA with opaque interior and generous clear margin. No text, floor, cast shadow, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "12c353aeb7ee7083b921daa9b3a70556983cf162773ed9283bc31af110cda3aa",
+      "file": "sources/generated/view_315.png"
+    },
+    {
+      "id": "evolution",
+      "prompt": "Use case: stylized-concept. Leaflings standalone game asset. ONE full evolution Leaflings sprite: same green furry ball, two veined leaves at crown, curved closed smiling eyes, tiny joyful red mouth, pink furry cheeks. Glowing golden-green leaf outlines across lower front fur, delicate golden light ribbons spiraling around body, a few floating small green leaves and golden sparkles. Match evolution on original board. No additional anatomy. All effects fully inside canvas with clear margin. First reference locks generated identity, second original Leaflings board. Preserve material and palette. REAL transparent RGBA background, opaque interior and delicate boundary alpha. Soft upper-left lighting. No background, floor, cast shadow, text, labels, watermark or unwanted haze. Centered with generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "26bf944906911bfe148d87f747357f82f929ae003cefdd42496d75063f677c44",
+      "file": "sources/generated/evolution.png"
+    },
+    {
+      "id": "body",
+      "prompt": "Use case: stylized-concept. Leaflings standalone game asset. ONLY a featureless round green plush furry body ball. Pale lime upper highlights and deeper grass-green lower fur. NO leaves, stems, eyes, brows, mouth, cheeks, ears or limbs. First reference locks generated identity, second original Leaflings board. Preserve material and palette. REAL transparent RGBA background, opaque interior and delicate boundary alpha. Soft upper-left lighting. No background, floor, cast shadow, text, labels, watermark or unwanted haze. Centered with generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "5e3385a78f3f4ead37bfe9cc28aa8510553e1ca50899aa66d4d7bb2b221bce84",
+      "file": "sources/generated/body.png"
+    },
+    {
+      "id": "leaves_pair",
+      "prompt": "Use case: stylized-concept. Leaflings standalone game asset. ONLY two separate pointed veined bright green leaves with short green stems, angled outward like original paired sprout: left-facing leaf on left half and right-facing leaf on right half, equal size, clean separation. No fur, body or face. First reference locks generated identity, second original Leaflings board. Preserve material and palette. REAL transparent RGBA background, opaque interior and delicate boundary alpha. Soft upper-left lighting. No background, floor, cast shadow, text, labels, watermark or unwanted haze. Centered with generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1774,
+        887
+      ],
+      "original_sha256": "377abbe2154925cc840a32a0063fe6714c6da0e8e4242dcb41ac0542a4fe7f9d",
+      "file": "sources/generated/leaves_pair.png"
+    },
+    {
+      "id": "eyes_pair",
+      "prompt": "Use case: stylized-concept. Leaflings standalone game asset. ONLY two complete glossy black round eyes with warm olive green lower iris and bright white upper-left highlights. Include one small curved green eyebrow above each eye. One eye+brow group centered on each half, equal size, clean separation. No fur, skin, face or other objects. First reference locks generated identity, second original Leaflings board. Preserve material and palette. REAL transparent RGBA background, opaque interior and delicate boundary alpha. Soft upper-left lighting. No background, floor, cast shadow, text, labels, watermark or unwanted haze. Centered with generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1774,
+        887
+      ],
+      "original_sha256": "09acd2f4523486e0a33c9fafea8bb14bd3b3b44035b7f1f6cb80e14c30805844",
+      "file": "sources/generated/eyes_pair.png"
+    },
+    {
+      "id": "cheeks_pair",
+      "prompt": "Use case: stylized-concept. Leaflings standalone game asset. ONLY two separated soft oval pink FURRY cheek blush patches, light pink fine fur with gentle highlights, matching reference cheeks. One on each half, equal size, generous separation. No green fur, body, face, hearts or other objects. First reference locks generated identity, second original Leaflings board. Preserve material and palette. REAL transparent RGBA background, opaque interior and delicate boundary alpha. Soft upper-left lighting. No background, floor, cast shadow, text, labels, watermark or unwanted haze. Centered with generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "15f70cf8297b86c46384f5d7e61a76bd5f7b6e5b641bc2bf8b592c290c669d9d",
+      "file": "sources/generated/cheeks_pair.png"
+    },
+    {
+      "id": "mouth",
+      "prompt": "Use case: stylized-concept. Leaflings standalone game asset. ONLY the happy open smiling dark red mouth and rounded pink tongue matching Leaflings reference, clean complete shape. No surrounding fur, skin, face, eyes or other objects. First reference locks generated identity, second original Leaflings board. Preserve material and palette. REAL transparent RGBA background, opaque interior and delicate boundary alpha. Soft upper-left lighting. No background, floor, cast shadow, text, labels, watermark or unwanted haze. Centered with generous margin.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "d5560fb8db4af0b614402266c8ac071e031e5339b3f6449bdfcc855d643f984f",
+      "file": "sources/generated/mouth.png"
+    }
+  ],
+  "processing": "User authorized deterministic alpha cleanup, resampling, alignment and exports. No original locked board was edited. Expression face-region composites reuse medium silhouette. Optional component alpha cleaned separately; cheek masks use a filled convex outline to retain pale highlights."
+}

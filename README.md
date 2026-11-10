@@ -2,6 +2,16 @@
 
 Private library preserving the user's locked reference artwork and versioned game-asset deliveries.
 
+## Leaflings delivery
+
+[Leaflings v1 — game integration candidate](locked/leaflings/v1/README.md)
+
+22 full sprite records, 66 lossless WebP exports, 15 animation frames, three atlases and eight optional component pieces. Includes PNG masters, metadata, a static asset map, complete prompts and generator originals, checksums and an offline interactive preview. Original reference preserved unchanged under `references/locked/leaflings/`.
+
+![Leaflings preview](locked/leaflings/v1/qa/contact-dark.png)
+
+Open `locked/leaflings/v1/preview.html` after downloading the repository. Final visual approval and actual game-engine/device testing remain pending.
+
 ## Skybubs delivery
 
 [Skybubs v1 — game integration candidate](locked/skybubs/v1/README.md)
