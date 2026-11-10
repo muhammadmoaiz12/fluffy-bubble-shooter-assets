@@ -23,8 +23,8 @@
     },
     {
       "path": "PROVENANCE.md",
-      "bytes": 1961,
-      "sha256": "58f84b15a79739184f6b8de914ef285ea7f02eab049d7a024afc7532a5a0d421"
+      "bytes": 2824,
+      "sha256": "2dc99c8936d403be02fbecace37791b8ce5d208a2558e7bdc7349ed5875cddb3"
     },
     {
       "path": "README.md",
@@ -856,6 +856,22 @@
       "path": "qa/README.md",
       "bytes": 1003,
       "sha256": "c744f20113ec96c60bb0ad1cf1ce5110dd287620540a9cd550fa6682c00764f1"
+    },
+    {
+      "path": "references/locked/rosybuns/Rosybuns Character Sprite Sheet.png",
+      "bytes": 2859566,
+      "sha256": "0c5bc5318ca0e464eac23d49f43f38c2ed6b2c7d997216c3dc030ee9814fa127",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "references/locked/rosybuns/Rosybuns Production Asset Pack Showcase.png",
+      "bytes": 2772084,
+      "sha256": "787424342bce3c8f7314a9ae30eca545c7c7bda0ffb4b12ead683a74a8ee7f93",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA"
     },
     {
       "path": "references/locked/rosybuns/extraction-source.png",
