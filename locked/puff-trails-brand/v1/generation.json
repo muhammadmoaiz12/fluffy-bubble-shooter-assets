@@ -2,20 +2,6 @@
   "tool": "built-in image_gen",
   "sources": [
     {
-      "id": "app-icons/characters",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Icon with Characters export bottom: square softly rounded purple app icon, pink bunny upper-left, green leaf-top fluff at top center, golden sun puff upper-right, purple horned fluff lower-left, peach curl fluff lower-right and blue bird front center. Match board characters faithfully. No words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Opaque finished artwork.",
-      "transparent": false,
-      "source_file": "sources/generated/app-icons/characters.png",
-      "sha256": "63b4c8e6950fda5ff74ac59eb467f08c1a929cf7785affd19cb52cea8922d6b8"
-    },
-    {
-      "id": "app-icons/rosybun",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: App Icon (Final) in upper-right: square blue-sky gradient app icon with softly rounded corners, smiling pink fluffy long-eared bunny rising from lavender clouds, small gold star upper-right. Match that exact bunny, not previous family boards. No words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Opaque finished artwork.",
-      "transparent": false,
-      "source_file": "sources/generated/app-icons/rosybun.png",
-      "sha256": "c71a1191951dec8840471789955845deb27cb03a294dd69702bf81dc51cce1dc"
-    },
-    {
       "id": "app-icons/simple",
       "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: App Icon (Simple) export bottom: square softly rounded glossy purple/lavender app icon with exact 'Puff Trails' pink-white fluffy Puff over golden Trails, gold inner border and subtle sparkles. No characters. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Opaque finished artwork.",
       "transparent": false,
@@ -58,48 +44,6 @@
       "sha256": "f0870491cdb0d417c37aa67a36fb73988c5a5191496cc24acd9abc5750a4e1fc"
     },
     {
-      "id": "characters/mossmops",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Mossmops bright green round fluffy creature, two broad green leaves on top, glossy black green eyes, small happy open mouth, pink cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
-      "transparent": true,
-      "source_file": "sources/generated/characters/mossmops.png",
-      "sha256": "214ae86ab5ca24a568d7b37d71dd5bb0e867f8cdc81b5220086bcc418d275874"
-    },
-    {
-      "id": "characters/peachpeeps",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Peachpeeps peach-orange round fluffy creature, curled orange tuft atop head, glossy brown-black eyes, happy open mouth and rosy cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
-      "transparent": true,
-      "source_file": "sources/generated/characters/peachpeeps.png",
-      "sha256": "8ee1c1532ba8451541a8650f78d0379bd05ed656bfb41f910e11cbdb944dd878"
-    },
-    {
-      "id": "characters/plumplets",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Plumplets purple round fluffy creature, two brown curled horns, glossy violet-black eyes, tiny happy open mouth and pink cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
-      "transparent": true,
-      "source_file": "sources/generated/characters/plumplets.png",
-      "sha256": "781c9ee0bb12a031a6e4c876c958fa295e7b9325106ed3284a435fb925b5364d"
-    },
-    {
-      "id": "characters/rosybuns",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Rosybuns pink round fluffy bunny portrait, two LONG upright pink-lined ears, glossy black purple eyes, tiny happy open mouth and rosy cheeks. Whole body, no badge or words. Preserve this board's design. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
-      "transparent": true,
-      "source_file": "sources/generated/characters/rosybuns.png",
-      "sha256": "8f73025ecb158fff9c15ca645ae7cdb10a8632a78a86565670798651d7ee5d23"
-    },
-    {
-      "id": "characters/skydoodles",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Skydoodles sky-blue fluffy bird, top feather tuft, small outspread blue wings, white belly, glossy black blue eyes, small golden beak, blush cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
-      "transparent": true,
-      "source_file": "sources/generated/characters/skydoodles.png",
-      "sha256": "8be693e088395bdad5fdc6db9213cdadc699ea1fbbd8a4ee73f0172c81d923fe"
-    },
-    {
-      "id": "characters/sunpuffs",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Sunpuffs golden-yellow round fluffy creature, triangular sunny spikes around head, glossy amber-black eyes, happy open mouth, peach cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
-      "transparent": true,
-      "source_file": "sources/generated/characters/sunpuffs.png",
-      "sha256": "2359428caaf8ee47863ee23d844cd82522e96dd5738cd7de408dcb5c7c77ee9f"
-    },
-    {
       "id": "decor/cloud-base",
       "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Logo component Cloud Base: standalone layered dreamy white clouds with pale lavender shadows, horizontal cushion arrangement. No lettering, stars or characters. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
       "transparent": true,
@@ -126,13 +70,6 @@
       "transparent": true,
       "source_file": "sources/generated/decor/trails-lettering.png",
       "sha256": "3f93c9beca6b1248e5f1d50ce53cfa26c247acc82fd357e0f5c7ad8f7c7d1bf0"
-    },
-    {
-      "id": "hero/brand-scene",
-      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Recreate ONLY the upper-left hero illustration as standalone wide landscape: exact large Puff Trails plush white-pink and golden logo on lavender cloud base with gold stars and swoosh, pink long-eared bunny left, blue fluffy bird above, green two-leaf fluff top-middle, gold sun puff top-right, purple horned fluff right; fantasy waterfall floating islands, pastel clouds and pink castle. No board, labels, panels or other text except exact 'Puff Trails'. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
-      "transparent": false,
-      "source_file": "sources/generated/hero/brand-scene.png",
-      "sha256": "4fbcc7c918185ddd9f6afa89bf8a9c6a22408a9af0373b53de1e3fae6bbebf6e"
     },
     {
       "id": "icons/coin",
@@ -317,5 +254,67 @@
       "sha256": "67c4daebb6be4e8ec698126daac4f8f0ad5166dc200c6d019d2320c7e0e15b2d"
     }
   ],
-  "processing": "Alpha values below 16 removed, near-opaque interiors restored, tiny disconnected specks removed, transparent RGB cleared; proportional resize and centering. Original generated sources retained. No prior family assets modified."
+  "processing": "Alpha values below 16 removed, near-opaque interiors restored, tiny disconnected specks removed, transparent RGB cleared; proportional resize and centering. Original generated sources retained. No prior family assets modified.",
+  "locked_character_update": {
+    "method": "Deterministic reuse/composition; no image generation for character replacements.",
+    "assets_updated": [
+      "characters/rosybuns",
+      "characters/skydoodles",
+      "characters/mossmops",
+      "characters/sunpuffs",
+      "characters/plumplets",
+      "characters/peachpeeps",
+      "app-icons/rosybun",
+      "app-icons/characters",
+      "hero/brand-scene"
+    ],
+    "mapping": {
+      "rosybuns": "rosybuns",
+      "skydoodles": "skybubs",
+      "mossmops": "leaflings",
+      "sunpuffs": "chirpyfluffs",
+      "plumplets": "twirlpuffs",
+      "peachpeeps": "peachtells"
+    },
+    "sources": [
+      {
+        "family": "rosybuns",
+        "path": "locked/rosybuns/v1/masters/core/medium.png",
+        "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      },
+      {
+        "family": "skybubs",
+        "path": "locked/skybubs/v1/masters/core/medium.png",
+        "sha256": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      },
+      {
+        "family": "leaflings",
+        "path": "locked/leaflings/v1/masters/core/medium.png",
+        "sha256": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      },
+      {
+        "family": "chirpyfluffs",
+        "path": "locked/chirpyfluffs/v1/masters/core/medium.png",
+        "sha256": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      },
+      {
+        "family": "twirlpuffs",
+        "path": "locked/twirlpuffs/v1/masters/core/medium.png",
+        "sha256": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      },
+      {
+        "family": "peachtells",
+        "path": "locked/peachtells/v1/masters/core/medium.png",
+        "sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      }
+    ],
+    "components_used": [
+      "masters/textures/clouds.png",
+      "masters/decor/cloud-base.png",
+      "masters/icons/star-gold.png",
+      "masters/backgrounds/world.png",
+      "masters/logos/main.png"
+    ],
+    "superseded_sources": "Nine new-look generated renders removed from active pack; retained in Git history."
+  }
 }

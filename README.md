@@ -79,4 +79,4 @@ No open-source license is granted. Preserve the user's artwork and provenance.
 
 ## Puff Trails brand assets
 
-[Browse the brand pack](locked/puff-trails-brand/v1/README.md): 45 individual generated assets, PNG and lossless WebP size exports, 15 sampled palette swatches, Baloo 2 and Quicksand fonts with licenses, and light/dark previews. The supplied board is preserved inside the pack. Visual approval and in-game testing remain pending; earlier character packs are unchanged.
+[Browse the brand pack](locked/puff-trails-brand/v1/README.md): 45 individual assets, PNG and lossless WebP size exports, 15 sampled palette swatches, Baloo 2 and Quicksand fonts with licenses, and light/dark previews. The supplied board is preserved inside the pack. Character portraits and character-bearing compositions reuse the prior locked family artwork. Visual approval and in-game testing remain pending; earlier character packs are unchanged.

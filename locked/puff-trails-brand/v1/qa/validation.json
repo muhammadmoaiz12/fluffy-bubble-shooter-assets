@@ -183,5 +183,48 @@
       "id": "ui/progress-track",
       "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
     }
+  ],
+  "locked_character_verification": [
+    {
+      "asset": "rosybuns",
+      "family": "rosybuns",
+      "byte_identical": true
+    },
+    {
+      "asset": "skydoodles",
+      "family": "skybubs",
+      "byte_identical": true
+    },
+    {
+      "asset": "mossmops",
+      "family": "leaflings",
+      "byte_identical": true
+    },
+    {
+      "asset": "sunpuffs",
+      "family": "chirpyfluffs",
+      "byte_identical": true
+    },
+    {
+      "asset": "plumplets",
+      "family": "twirlpuffs",
+      "byte_identical": true
+    },
+    {
+      "asset": "peachpeeps",
+      "family": "peachtells",
+      "byte_identical": true
+    }
+  ],
+  "changed_assets": [
+    "characters/rosybuns",
+    "characters/skydoodles",
+    "characters/mossmops",
+    "characters/sunpuffs",
+    "characters/plumplets",
+    "characters/peachpeeps",
+    "app-icons/rosybun",
+    "app-icons/characters",
+    "hero/brand-scene"
   ]
 }

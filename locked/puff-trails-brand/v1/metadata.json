@@ -1,6 +1,6 @@
 {
   "name": "Puff Trails brand assets",
-  "version": "1.0.0-candidate",
+  "version": "1.0.1-candidate",
   "assets": [
     {
       "id": "app-icons/characters",
@@ -43,7 +43,8 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "method": "deterministic composition of existing locked characters and existing brand elements; no AI regeneration"
     },
     {
       "id": "app-icons/rosybun",
@@ -86,7 +87,8 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "method": "deterministic composition of existing locked characters and existing brand elements; no AI regeneration"
     },
     {
       "id": "app-icons/simple",
@@ -315,8 +317,8 @@
       "id": "characters/mossmops",
       "master": "masters/characters/mossmops.png",
       "dimensions": [
-        1024,
-        1024
+        768,
+        768
       ],
       "transparent": true,
       "exports": {
@@ -345,14 +347,19 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "canonical_family": "leaflings",
+      "board_alias": "mossmops",
+      "source": "locked/leaflings/v1/masters/core/medium.png",
+      "source_sha256": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec",
+      "method": "byte-identical copy of locked medium master"
     },
     {
       "id": "characters/peachpeeps",
       "master": "masters/characters/peachpeeps.png",
       "dimensions": [
-        1024,
-        1024
+        768,
+        768
       ],
       "transparent": true,
       "exports": {
@@ -381,14 +388,19 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "canonical_family": "peachtells",
+      "board_alias": "peachpeeps",
+      "source": "locked/peachtells/v1/masters/core/medium.png",
+      "source_sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5",
+      "method": "byte-identical copy of locked medium master"
     },
     {
       "id": "characters/plumplets",
       "master": "masters/characters/plumplets.png",
       "dimensions": [
-        1024,
-        1024
+        768,
+        768
       ],
       "transparent": true,
       "exports": {
@@ -417,14 +429,19 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "canonical_family": "twirlpuffs",
+      "board_alias": "plumplets",
+      "source": "locked/twirlpuffs/v1/masters/core/medium.png",
+      "source_sha256": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+      "method": "byte-identical copy of locked medium master"
     },
     {
       "id": "characters/rosybuns",
       "master": "masters/characters/rosybuns.png",
       "dimensions": [
-        1024,
-        1024
+        768,
+        768
       ],
       "transparent": true,
       "exports": {
@@ -453,14 +470,19 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "canonical_family": "rosybuns",
+      "board_alias": "rosybuns",
+      "source": "locked/rosybuns/v1/masters/core/medium.png",
+      "source_sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "method": "byte-identical copy of locked medium master"
     },
     {
       "id": "characters/skydoodles",
       "master": "masters/characters/skydoodles.png",
       "dimensions": [
-        1024,
-        1024
+        768,
+        768
       ],
       "transparent": true,
       "exports": {
@@ -489,14 +511,19 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "canonical_family": "skybubs",
+      "board_alias": "skydoodles",
+      "source": "locked/skybubs/v1/masters/core/medium.png",
+      "source_sha256": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5",
+      "method": "byte-identical copy of locked medium master"
     },
     {
       "id": "characters/sunpuffs",
       "master": "masters/characters/sunpuffs.png",
       "dimensions": [
-        1024,
-        1024
+        768,
+        768
       ],
       "transparent": true,
       "exports": {
@@ -525,7 +552,12 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "canonical_family": "chirpyfluffs",
+      "board_alias": "sunpuffs",
+      "source": "locked/chirpyfluffs/v1/masters/core/medium.png",
+      "source_sha256": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c",
+      "method": "byte-identical copy of locked medium master"
     },
     {
       "id": "decor/cloud-base",
@@ -675,8 +707,8 @@
       "id": "hero/brand-scene",
       "master": "masters/hero/brand-scene.png",
       "dimensions": [
-        1672,
-        941
+        1920,
+        1080
       ],
       "transparent": false,
       "exports": {
@@ -705,7 +737,8 @@
           ]
         }
       },
-      "status": "art_review_pending"
+      "status": "locked_character_art_reused_composition_review_pending",
+      "method": "deterministic composition of existing locked characters and existing brand elements; no AI regeneration"
     },
     {
       "id": "icons/coin",
@@ -1648,9 +1681,10 @@
     "Generated interpretations, not pixel-perfect extractions.",
     "No editable SVG/AI source recovered or invented.",
     "Textures are not certified seamless.",
-    "App icons include illustrated rounded corners and white exterior margins; these are design previews, not store-submission masters.",
     "Button labels are baked into PNGs; real font files supplied for localized text.",
-    "Brand-board characters differ from earlier family packs; no renaming or replacement of those packs.",
-    "Technical validation does not replace art approval and testing in the game."
-  ]
+    "Technical validation does not replace art approval and testing in the game.",
+    "Character portraits are exact copies of previous locked medium masters. Composites use proportionally resized versions. Board character names in paths are aliases, not new character designs.",
+    "Rosybun and group app icons are full-bleed square composites; the simple logo app icon still has its original rounded preview framing. Platform-specific icon preparation remains separate."
+  ],
+  "character_source_policy": "Reuse previous locked family artwork; board names retained only as filename aliases."
 }
