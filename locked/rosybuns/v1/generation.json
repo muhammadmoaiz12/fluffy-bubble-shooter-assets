@@ -1,0 +1,281 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "laugh",
+      "prompt": "ONE medium Rosybuns expression game sprite: happy laughing eyes closed as upward curves and joyful wide open smiling mouth. Use first reference as exact body/fur/ears/tuft/cheeks/proportions and lighting baseline; second sheet defines expression. Change ONLY eyes and mouth for laugh. Same front-facing round pink body, same heart tuft and heart cheeks. Preserve entire silhouette and identity, no extra features. Single character square RGBA transparent canvas with 10% clear border, opaque interior, clean fur alpha, no shadows/background/text. Output just one full character.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "5247124329e97c3ca20927a0cc8673ff9ffaa62b271b5bf055f26e58529a8241",
+      "file": "sources/generated/laugh.png"
+    },
+    {
+      "id": "excited",
+      "prompt": "ONE medium Rosybuns expression game sprite: bright golden star shapes within eyes, joyful open mouth. Use first reference as exact body/fur/ears/tuft/cheeks/proportions and lighting baseline; second sheet defines expression. Change ONLY eyes and mouth for excited. Same front-facing round pink body, same heart tuft and heart cheeks. Preserve entire silhouette and identity, no extra features. Single character square RGBA transparent canvas with 10% clear border, opaque interior, clean fur alpha, no shadows/background/text. Output just one full character.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "1f4c0664c0c953dd4dfc2d18e2d0cb98692c965c6a55e0baf192db2fd28383c3",
+      "file": "sources/generated/excited.png"
+    },
+    {
+      "id": "surprised",
+      "prompt": "ONE medium Rosybuns expression game sprite: wide round glossy eyes, tiny circular open surprised mouth. Use first reference as exact body/fur/ears/tuft/cheeks/proportions and lighting baseline; second sheet defines expression. Change ONLY eyes and mouth for surprised. Same front-facing round pink body, same heart tuft and heart cheeks. Preserve entire silhouette and identity, no extra features. Single character square RGBA transparent canvas with 10% clear border, opaque interior, clean fur alpha, no shadows/background/text. Output just one full character.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "cd59f27f385d24a40c46b183169d613127e2b4108d5576fecf141e2f1c643085",
+      "file": "sources/generated/surprised.png"
+    },
+    {
+      "id": "pout",
+      "prompt": "ONE medium Rosybuns full-body game sprite. Match first reference exactly in pose, outline, fur, pink colors, ears, heart tuft and heart cheeks. Change ONLY expression to cute sad/pout as second sheet: big glossy worried eyes with raised inner brows and tiny downturned mouth. No tears. Same centered front view. Real transparent RGBA background, no floor or shadow or labels; full silhouette with clear margin. Opaque body, clean alpha edges. Do not redesign body.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "806af42690d07570b31c85c09ec658872e46c3c5d3cac413cd7e48a590c4f2e1",
+      "file": "sources/generated/pout.png"
+    },
+    {
+      "id": "angry",
+      "prompt": "ONE medium Rosybuns full-body game sprite. Match first reference exactly in pose, outline, fur, pink colors, ears, heart tuft and heart cheeks. Change ONLY expression to cute determined angry as second sheet: glossy eyes narrowed with inward-slanted dark brows and tiny downturned mouth. Same centered front view. Real transparent RGBA background, no floor or shadow or labels; full silhouette with clear margin. Opaque body, clean alpha edges. Do not redesign body.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ead669a3fd9256caff0e4d094702cfebec631d89c09faf147d195db750acbf9c",
+      "file": "sources/generated/angry.png"
+    },
+    {
+      "id": "sleepy",
+      "prompt": "ONE medium Rosybuns full-body game sprite. Match first reference exactly in body silhouette, fur, pink colors, ears, heart tuft and heart cheeks. Change ONLY expression to sleepy: both eyes gently closed with relaxed downward-curved eyelids, tiny relaxed pout mouth. Same centered front view. No floating Z symbols (effects separate). Real transparent RGBA background, no floor/shadow/text; full silhouette with clear margin. Opaque body, clean alpha edges. Preserve body and identity.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "cb9e1a2c531fa2868aa37ce3de8afc2261ff0c5fe92fce059f2c7c824eaa8263",
+      "file": "sources/generated/sleepy.png"
+    },
+    {
+      "id": "love",
+      "prompt": "ONE medium Rosybuns full-body game sprite. Match first reference exactly in body silhouette, fur, pink colors, ears, heart tuft and heart cheeks. Change ONLY expression to in-love as second sheet: both eyes replaced by large glossy pink hearts, joyful open mouth. Same centered front view. No floating hearts or effects. Real transparent RGBA background, no floor/shadow/text; full silhouette with clear margin. Opaque body, clean alpha edges. Preserve body and identity.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "50f29b02d5366c70138f0479de7e686a1d4961352347f34851af477f85813528",
+      "file": "sources/generated/love.png"
+    },
+    {
+      "id": "kiss",
+      "prompt": "ONE medium Rosybuns full-body game sprite. Match first reference exactly in body silhouette, fur, pink colors, ears, heart tuft and heart cheeks. Change ONLY expression to kiss as second sheet: viewer-left eye winking closed, viewer-right glossy eye open, tiny puckered sideways-3-shaped kiss mouth. Same centered front view. Real transparent RGBA background, no floor/shadow/text/effects; full silhouette with clear margin. Opaque body, clean alpha edges. Preserve body and identity.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e5e2d8124b581268ee7ceae4e18c0587c70e9c2d828383272e3b3302ad58a65f",
+      "file": "sources/generated/kiss.png"
+    },
+    {
+      "id": "view_045",
+      "prompt": "ONE medium Rosybuns turntable sprite, THREE-QUARTER FRONT view facing LEFT of canvas, about 45 degrees from frontal. Reference 1 locks its exact character identity and fur detail; reference 2 turntable row defines pose. Preserve round pink plush body, pale rimmed round ears, heart tuft and cheek hearts; both glossy eyes visible with far eye smaller, happy open mouth. No arms/legs/tail/new features. Camera same elevation and soft lighting as front, whole silhouette centered square with clear margins. REAL transparent RGBA, no ground, shadows, labels or effects. Only one character at this angle.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b3b5f885f71bcb9f9b2f61958e8bb47691fa7333f921f57a69d9325dd681cc90",
+      "file": "sources/generated/view_045.png"
+    },
+    {
+      "id": "view_090",
+      "prompt": "ONE medium Rosybuns turntable sprite, exact SIDE PROFILE facing LEFT of canvas, 90 degrees from frontal. Reference 1 locks identity/fur; reference 2 third turntable character defines profile. Almost spherical pink plush body, round ears, heart tuft seen side-on, only near glossy eye and near heart cheek visible along left edge, tiny mouth barely visible at far left profile. No nose, limbs, tail or new features. Same camera elevation and soft lighting as front, whole silhouette centered square with clear margins. REAL transparent RGBA, no ground/shadow/labels/effects. One character only.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "1695d079c2e6e883ad16d9791d5965901e979a63cfa79b3f8f29260471ccae51",
+      "file": "sources/generated/view_090.png"
+    },
+    {
+      "id": "view_135",
+      "prompt": "ONE medium Rosybuns turntable sprite, THREE-QUARTER REAR LEFT view, 135 degrees from frontal, as fourth turntable character in second reference. Reference 1 locks character identity: spherical pink fluffy body, two small round ears seen from backs, darker pink heart-shaped tuft seen obliquely. Face turns away LEFT, NO visible eyes, mouth, cheek hearts, NO tail, NO arms or legs. Show plush furry back. Same camera elevation/lighting and body proportions, centered square full silhouette with margins. REAL transparent RGBA, no floor/shadow/text/effects. Single character only.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "174b330b5d191c107b9ff004ef115d53ce73523e6ae3b7056eb8c4b35c456915",
+      "file": "sources/generated/view_135.png"
+    },
+    {
+      "id": "view_180",
+      "prompt": "ONE medium Rosybuns turntable sprite, exact REAR view, 180 degrees from frontal, symmetrical furry back as fifth turntable character in second reference. Reference 1 locks identity: spherical pink plush body, two small round furry ears seen from behind, darker pink heart-shaped tuft. Absolutely NO face, eyes, mouth, cheek hearts, tail, limbs or added features. Same body proportions and soft lighting, centered full silhouette square with margins. REAL transparent RGBA, no floor/shadow/text/effects. One rear-view character only.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "156f4bd461143adea85519c56da8ec47b9d466b9251b8c710641b07bea4d1e80",
+      "file": "sources/generated/view_180.png"
+    },
+    {
+      "id": "view_225",
+      "prompt": "ONE medium Rosybuns turntable sprite, THREE-QUARTER REAR RIGHT view, 225 degrees from frontal. Reference 1 locks character identity: spherical pink fluffy body, two small round ears seen from backs, darker pink heart-shaped tuft seen obliquely. Face turns away RIGHT, NO visible eyes, mouth, cheek hearts, NO tail, NO arms or legs. Show plush furry back, nearer ear on RIGHT. Same camera elevation and soft upper-left lighting, same body proportions, centered square full silhouette with margins. REAL transparent RGBA, no floor/shadow/text/effects. Single character only.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6cac54887e8e3119ff5071d54f571d68858f385a8d2917121ffb6679aea9ba8a",
+      "file": "sources/generated/view_225.png"
+    },
+    {
+      "id": "view_270",
+      "prompt": "ONE medium Rosybuns turntable sprite, exact SIDE PROFILE facing RIGHT of canvas, 270 degrees from frontal. Reference 1 locks identity/fur; reference 2 turntable defines profile. Almost spherical pink plush body, round ears, heart tuft seen side-on, only near glossy eye and near heart cheek visible along RIGHT edge, tiny mouth barely visible at far right profile. No nose, limbs, tail or new features. Same camera elevation and upper-left soft lighting as front, whole silhouette centered square with clear margins. REAL transparent RGBA, no ground/shadow/labels/effects. One character only.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "23399fce65d18c9a5a4746da8ff5cf62fc86654afe0fb4ce0f3837e56eece8b1",
+      "file": "sources/generated/view_270.png"
+    },
+    {
+      "id": "view_315",
+      "prompt": "ONE medium Rosybuns turntable sprite, THREE-QUARTER FRONT view facing RIGHT of canvas, 315 degrees turntable. Reference 1 locks exact body/fur/ears/tuft/cheeks/proportions. Preserve round pink plush body, round pale rimmed ears, heart tuft and heart cheeks; both glossy eyes visible with far eye smaller, joyful open mouth. No arms/legs/tail/new features. Camera same elevation and soft upper-left lighting, entire silhouette centered square with clear margins. REAL transparent RGBA, no ground, shadows, labels or effects. One character only.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "200722b2bdf7bac767b714dc9979999ac36326271acaec8e8592573805514851",
+      "file": "sources/generated/view_315.png"
+    },
+    {
+      "id": "evolution",
+      "prompt": "ONE evolved Rosybuns game sprite matching top-right Evolution character in supplied sheet. Round pink plush body, round ears, heart tuft, happy eyes closed as upward arcs, joyful open mouth, glossy pink heart cheeks. Golden luminous heart floating just above tuft, luminous golden heart at chest, delicate golden wing-like looping light arcs behind, two golden orbit ribbons wrapping around body and a few small gold sparkles. Match approved shape/colors/identity. Entire character AND every effect fully inside central 75% of square canvas. Real transparent RGBA background, preserve soft translucent glow, no opaque backdrop, no ground, pedestal, text or labels. Do not add limbs/crown/clothing. Only one evolution sprite, not a sheet.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e2528679b1242d78f99e73d580cbbbd877b1568b31e84dc49338a825fd2ce475",
+      "file": "sources/generated/evolution.png"
+    },
+    {
+      "id": "hit",
+      "prompt": "ONE medium Rosybuns full-body game sprite. Match input exactly in centered front pose, round body silhouette, fur, pink colors, ears, heart tuft and heart cheeks. Change ONLY expression to cute hit/squint reaction: both eyes tightly scrunched >< shaped curves, tiny tight wavy mouth. Keep body unsquashed; animation transforms will handle squash later. Real transparent RGBA background, no floor/shadow/text/effects; full silhouette with clear margin. Opaque body, clean alpha edges. Preserve body and identity.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c8322da358d293ad10c19808f7746373c42e7e05fd52af44da478eb492436605",
+      "file": "sources/generated/hit.png"
+    },
+    {
+      "id": "body",
+      "prompt": "Create ONE isolated reusable BODY FUR component for this exact Rosybuns game character. It is the round pink plush sphere underneath the face. Remove eyes, mouth, heart cheeks, ears and top heart tuft completely, replacing attachment areas with continuous matching pink fur. Only one nearly circular pink fur ball, preserving reference fur texture, pink palette, lighting and body volume. No facial features, no ears, no tuft, no limbs. Center on square real transparent RGBA canvas, fully opaque ball interior with fine furry antialiased edge and 12% transparent margin. No floor, shadow, text or effects. This is a modular game body layer matching the original, not a new creature.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2be2aed37806c0e2206a144ab40d7042a6c0def0d70954c397a3b84a018a167a",
+      "file": "sources/generated/body.png"
+    },
+    {
+      "id": "small",
+      "prompt_summary": "Isolated small Rosybuns front idle game sprite faithful to supplied sprite sheet; real transparency, clean silhouette, no floor, labels or shadow. Medium additionally received alpha-cleanup pass.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "80bb0c8cd564b25274d540189485ad967ade531208b3a2315413da7e730d5ffb",
+      "file": "sources/generated/small.png"
+    },
+    {
+      "id": "medium",
+      "prompt_summary": "Isolated medium Rosybuns front idle game sprite faithful to supplied sprite sheet; real transparency, clean silhouette, no floor, labels or shadow. Medium additionally received alpha-cleanup pass.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "02fb8e75bf8a7e1ca95166012cbc0565bf135f5f764fe70c36ffe7bc2dbee662",
+      "file": "sources/generated/medium.png"
+    },
+    {
+      "id": "giant",
+      "prompt_summary": "Isolated giant Rosybuns front idle game sprite faithful to supplied sprite sheet; real transparency, clean silhouette, no floor, labels or shadow. Medium additionally received alpha-cleanup pass.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "ebdec98b5eedcdb726f23cb1a6302f6abf28a30a1e23a272796985dd687792c4",
+      "file": "sources/generated/giant.png"
+    },
+    {
+      "id": "eyes_pair",
+      "prompt": "Create ONE reusable EYES PAIR component asset for this exact Rosybuns. ONLY TWO separate glossy dark round eyes with pink lower irises and bright white highlights, matching the reference eyes closely. No fur, face, body, eyelids, cheeks, ears, mouth, text, outlines beyond original thin dark rim. Left and right eyes complete unobscured oval silhouettes, symmetric size, horizontally aligned, generous transparent separation. Real transparent RGBA square canvas. Opaque eye interiors. Place both entire eyes in middle row occupying about 60% total canvas width with clear empty margins. Soft original plush render lighting, no cast shadow. This is just the two isolated eyes for game animation.",
+      "tool": "built-in image_gen",
+      "file": "sources/generated/eyes_pair.png",
+      "original_sha256": "316c5ab73ad8cd58dcecbb1b4067f25b10d1a03ad4eef4c29b8640c3fb285d0c",
+      "original_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "cheeks_pair",
+      "prompt": "ONE reusable CHEEK HEARTS PAIR component asset for this exact Rosybuns. ONLY TWO separate glossy soft pink heart-shaped cheek ornaments matching reference cheeks, with subtle pale pink beveled edges and white specular highlight. No fur, face, body, eyes, ears, mouth, text. Two complete heart silhouettes, symmetric size, horizontally aligned with generous clear separation. Real transparent RGBA square canvas. Opaque heart interiors. Place pair in middle row with margins. Original pink plush-toy render shading. No glow or cast shadow. Just two isolated cheek hearts.",
+      "tool": "built-in image_gen",
+      "file": "sources/generated/cheeks_pair.png",
+      "original_sha256": "7a6157c9935fbf7b197c282943f74c632ea08e59e103dd85862330de356fac71",
+      "original_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "ears_pair",
+      "prompt": "ONE reusable EAR PAIR component asset matching this exact Rosybuns. ONLY TWO separate round pink plush ears: circular fluffy pale pink rims, darker pink inner bowl, soft detailed fur. No body, face, tuft, cheeks or text. Both complete rounded ear shapes, left/right counterparts, aligned horizontally with large transparent gap, no cropping, no fur from body attached. Real transparent RGBA square canvas, opaque interiors and clean fur edges. Plenty of margin. Same reference proportions/color/lighting. No floor or cast shadow. Just the two ears.",
+      "tool": "built-in image_gen",
+      "file": "sources/generated/ears_pair.png",
+      "original_sha256": "e965b182625e00453817170ac2d790fbbaeac703ac520abc8b5578c0a890cc45",
+      "original_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "tuft",
+      "prompt": "ONE isolated HEART-SHAPED FUR TUFT component for this exact Rosybuns. Only the darker pink fluffy heart-shaped top tuft with two rounded lobes and tapering lower attachment tip, matching character's head tuft. Preserve pink strands/fur direction/soft plush rendering. No ears, body, face, skin, extra fur ball, text or effects. Full intact tuft centered within middle 70% of square real transparent RGBA canvas. Opaque interior and delicate clean fur alpha boundary. No floor/shadow/background.",
+      "tool": "built-in image_gen",
+      "file": "sources/generated/tuft.png",
+      "original_sha256": "df1da624f3b4a4b357c1a80ea026dcc12b6e1c71c6b96456bc9751bf4eb41553",
+      "original_dimensions": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "processing": "User authorized deterministic alpha cleanup, resampling, alignment and exports. No original locked board was edited. Expression face-region composites reuse medium silhouette. Failed threshold-based eye/cheek masks were replaced by separately generated complete components. Ears and tuft were also replaced by standalone components. Optional component placement is estimated, not a source rig."
+}

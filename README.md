@@ -1,27 +1,28 @@
-# Fluffy Bubble Shooter — original asset library
+# Fluffy Bubble Shooter — Rosybuns asset library
 
-Private recovery archive for the user's approved Rosybuns visual design. Artwork was copied unchanged; nothing was generated, redrawn, recolored, or re-extracted for this upload.
+Private library preserving the user's locked reference artwork and versioned game-asset deliveries.
 
-## Available files
+## Latest delivery
 
-- `references/locked/rosybuns/`: original ChatGPT upload and the local source used by the recovered extraction set. Their encoded file hashes differ, but all decoded RGBA pixels are identical (1536 × 1024).
-- `assets/characters/rosybuns/`: recovered local draft set: 3 base sizes, 9 expressions, and 8 views; 20 PNG exports, 20 lossless WebP exports, 20 native PNGs, source crops, masks, and original partial metadata. Its internal paths are relative to this directory and are preserved.
-- `manifest.json`: actual file inventory, dimensions, SHA-256 hashes, recovery status, and missing deliverables.
-- `PROVENANCE.md`: origin and limits of this recovery.
-- `qa/README.md`: review findings.
+[Rosybuns v1 — game integration candidate](locked/rosybuns/v1/README.md)
 
-## QA preview
+- 22 full sprite files: three core sizes, nine expressions plus hit, eight turntable angles and evolution.
+- 66 lossless WebP game exports (128 / 256 / 512 px), PNG masters, 15 animation frames and three atlases.
+- Nine optional component pieces, static TypeScript asset map, rendering metadata, generation provenance and checksums.
+- [Light preview](locked/rosybuns/v1/qa/contact-light.png), [dark preview](locked/rosybuns/v1/qa/contact-dark.png), [animation preview](locked/rosybuns/v1/qa/animations.webp), and [interactive viewer](locked/rosybuns/v1/preview.html).
 
-![Original crops beside draft extractions](assets/characters/rosybuns/qa/contact-sheet.png)
+![Rosybuns v1 sprites](locked/rosybuns/v1/qa/contact-dark.png)
 
-## Recovery limitations
+The new delivery was AI-generated from the supplied references, then cleaned and prepared using deterministic image processing explicitly authorized by the user. It is not pixel-identical to the reference artwork. File validation passed; final visual approval and actual engine/device testing remain pending. The `locked` path versions the delivery and does not imply the new artwork has already received final approval. Use full sprites first; optional component rigging requires placement review.
 
-The earlier ChatGPT `Rosybuns_Asset_Pack_v1.zip` and its renamed copies were not accessible here. This repository is NOT a verified copy of that ZIP. It contains a separately recovered local draft set and the original uploaded board. The earlier claimed evolution crop, collection portrait and TypeScript asset map were not recovered. The evolution artwork remains visible in the untouched board. No sprites for the other five families are included.
+## Original references and recovered drafts
 
-These extractions are **drafts requiring review**, not approved production assets: ear/tuft/fur regions are visibly missing in some views, and edges can retain background contamination. The locked board remains the source of truth. Do not redesign faces, fur, colors, silhouettes or proportions; do not substitute newly generated artwork.
+`references/locked/rosybuns/` contains the untouched original board and two detailed user-supplied sheets. `assets/characters/rosybuns/` preserves the older recovered local draft set; do not mix that set with v1.
 
-## Download
+The earlier ChatGPT ZIP was not accessible and has not been recovered. The local draft set is not represented as that ZIP. See [provenance](PROVENANCE.md) for the recovery history and limitations. Original boards remain the design authority; do not silently redesign or replace them.
 
-Sign into the owning GitHub account, then use **Code → Download ZIP** or clone this private repository. The repository ZIP is a new recovery archive, not the inaccessible earlier ZIP.
+## Download and review
 
-No open-source license is granted by this repository. Preserve the user's original artwork and provenance.
+Sign into the owning GitHub account, then choose **Code → Download ZIP**. Unzip and open `locked/rosybuns/v1/preview.html` locally to inspect expressions, turntable, bounce, blink and hit/pop, adjust sprite size and change the background. GitHub shows HTML source rather than running it.
+
+No open-source license is granted. Preserve the user's artwork and provenance.

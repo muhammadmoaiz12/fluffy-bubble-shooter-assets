@@ -1,0 +1,1203 @@
+{
+  "version": "1.0.0-candidate",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3395,
+      "sha256": "028a082a8fd3e4ccc8f034f39bd29381a4287e0843cbd8d02d46ad82849d66bf"
+    },
+    {
+      "path": "animations/blink/00.png",
+      "bytes": 75025,
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/blink/01.png",
+      "bytes": 74300,
+      "sha256": "6a178a49eb1d47febdf7c6e73fb2d3743240d65f3efa64361914f407980704a3",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/blink/02.png",
+      "bytes": 74300,
+      "sha256": "6a178a49eb1d47febdf7c6e73fb2d3743240d65f3efa64361914f407980704a3",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/blink/03.png",
+      "bytes": 75025,
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/bounce/00.png",
+      "bytes": 75025,
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/bounce/01.png",
+      "bytes": 74219,
+      "sha256": "ec018817eaaab18aec5c4078e890e769067a8f230adcce2a5c6994fd4412c226",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/bounce/02.png",
+      "bytes": 75548,
+      "sha256": "a12fdb2938683f9b99e816392aa152b63d6d91b0de85d21ddcbf4d5ce57d15dd",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/bounce/03.png",
+      "bytes": 75005,
+      "sha256": "0e32ba295038d601c8696343e6bbbebe01898463d761e6d36d3fe418f5cb3d79",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/bounce/04.png",
+      "bytes": 76128,
+      "sha256": "762d8b998bbf3554a3e5686c54866fccf8c20aec71ade9383c88cb38614bf20a",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/bounce/05.png",
+      "bytes": 75025,
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/hit-pop/00.png",
+      "bytes": 72988,
+      "sha256": "271d23318105cbb93315071546e06a13e36a7e37e12a8cc977d10b06f58839c3",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/hit-pop/01.png",
+      "bytes": 69061,
+      "sha256": "b2097633d17aa03e2198681793422b8a96074bb55a00685c857fff039e10d610",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/hit-pop/02.png",
+      "bytes": 75278,
+      "sha256": "41953f9d7d798a7dcfbe240fdd0dbb0f814258308a9be9ec70a3dc2839e32e27",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/hit-pop/03.png",
+      "bytes": 35307,
+      "sha256": "a9193a0599e4fafb4b36d49202e781d7e8d7fd1d3b462ab181f97f02dbe87865",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "animations/hit-pop/04.png",
+      "bytes": 908,
+      "sha256": "03257577beaf817cb6c70a480c45c87892229ef57574d30c8fa4fcb7c580e33f",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets.ts",
+      "bytes": 1238,
+      "sha256": "f97386616e6fdb8cdf4cd4bffb3ffcd5cbd691a2a0343545482beecf0aaa06e9"
+    },
+    {
+      "path": "atlases/blink.png",
+      "bytes": 96265,
+      "sha256": "60a5f5046629360a1c4ff0bc7f1d333101d5ec6d41d624b4ef701c1d8790426b",
+      "width": 1024,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "atlases/bounce.png",
+      "bytes": 378818,
+      "sha256": "2a9825b4bcf8de09b459a6cc3e32549d6902abb8872fba01f4ff9d1b665cef0a",
+      "width": 1536,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "atlases/hit-pop.png",
+      "bytes": 255344,
+      "sha256": "df2aa3da11ec87c44be74876950e28ce33133b7cecc3c75f4a3a55d226806edc",
+      "width": 1280,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/body-fur.png",
+      "bytes": 442209,
+      "sha256": "fe2cb43a125f4266c8a5c9fa2ee57d4ef284e87f180a55fbe909560400bee474",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/cheek-left.png",
+      "bytes": 14977,
+      "sha256": "b47f12e23c9c62527bfbc82aa9b0c19e910fa63e78f204b6341b043dc87cb554",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/cheek-right.png",
+      "bytes": 14962,
+      "sha256": "a5bf4a743decaa263c31c1f5aece664bcc9db2dd478f69ba121e4c10bb12b8d6",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/ear-left.png",
+      "bytes": 58946,
+      "sha256": "0a2d3ddf084781093a92ea63ef8cde73bba3882ba10162ceb8a0c37d92d70ba4",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/ear-right.png",
+      "bytes": 58934,
+      "sha256": "57d0f2a7062d8a372ece1144459445da2898ea1308f7bc0fd8d9186cffb00fbd",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/eye-left.png",
+      "bytes": 23280,
+      "sha256": "da694c1254db9e1a491e0588f2108f83b57405bfb03a724035dcce021f7eb2b3",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/eye-right.png",
+      "bytes": 23097,
+      "sha256": "01af09f08015cb68e65ec5ed3ebdddcb35c07515b8b3af08f2f5d855e55f8bc3",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/heart-tuft.png",
+      "bytes": 65320,
+      "sha256": "fb03dafc114ee71d73fed04864ad481a22989a065d196c9bdf419a15bd90270b",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "components/mouth.png",
+      "bytes": 18921,
+      "sha256": "c78d3112b19c5eea5546652ace37ecbdfada6c536ebdf7e0690837ab11cb8acd",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/angry.webp",
+      "bytes": 15774,
+      "sha256": "8691e05c20a01a176afe7e00685ea8c7fba21e1bc97f5894335cd12860446099",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/evolution.webp",
+      "bytes": 17236,
+      "sha256": "b6a1a8c59e3cb6fdf80e99c282f05f6ed963e5f36ae1cd2ac83b9f523c45805e",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/excited.webp",
+      "bytes": 15940,
+      "sha256": "945cf133d070f7c1d670670dc5c73b128cd56c9758a11ee08fb3ee15d2734449",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/giant.webp",
+      "bytes": 15716,
+      "sha256": "7ccf365e27dcf9c84647eff035ded79a33ef9ce66e7530b1e3a5c5ecc9e9fb96",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/hit.webp",
+      "bytes": 15494,
+      "sha256": "f23c12a74e55cf3039b38e44bcf2212f7c4884a34bc6e9d7e6adecb24ff50415",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/idle.webp",
+      "bytes": 15798,
+      "sha256": "7d293b0ea596c5e9cbb2d3102c448c9a378a05da86735a3ad0cc2d06d4d1f8bc",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/kiss.webp",
+      "bytes": 15588,
+      "sha256": "32d3edc37eae21b11d32176e7df3e0e9f6e65d4f6a6645a98204663360197417",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/laugh.webp",
+      "bytes": 15580,
+      "sha256": "1b54ddcfbc6a2a28f7eac49ce0aa933cb93bc04d9e185d4295eefcd4a709b423",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/love.webp",
+      "bytes": 15950,
+      "sha256": "915900d5b3addb8a5e743c0252bfa98630e4789e408ce55c986124c69e7f8095",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/medium.webp",
+      "bytes": 15798,
+      "sha256": "7d293b0ea596c5e9cbb2d3102c448c9a378a05da86735a3ad0cc2d06d4d1f8bc",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/pout.webp",
+      "bytes": 15806,
+      "sha256": "6935124eac94d3653bb646c62893c9ca75451910f100aca6c7103341aa3d1c62",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/sleepy.webp",
+      "bytes": 15472,
+      "sha256": "28cc52539b69e16d3ccafcd70d47dfdad62385960439c43fb7264bf133deb152",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/small.webp",
+      "bytes": 16062,
+      "sha256": "55766d916ad4131cd6a5b06ce1c09c58a360804d1c9e1757ae7c8efe042f2bc7",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/surprised.webp",
+      "bytes": 15826,
+      "sha256": "21f245422d9380ab5bacea03825e39fae04aa96ca489a5cd641c8602a961f9fd",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_000.webp",
+      "bytes": 15798,
+      "sha256": "7d293b0ea596c5e9cbb2d3102c448c9a378a05da86735a3ad0cc2d06d4d1f8bc",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_045.webp",
+      "bytes": 13738,
+      "sha256": "e1bce4a3d17543174de490ccb4deeabe429da8092ce15fabadb9d205040430a8",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_090.webp",
+      "bytes": 11974,
+      "sha256": "1afc3e93c70ec8b1b3da064abc4b2dc7d1df7dcca9678314c04a7633d069a7ae",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_135.webp",
+      "bytes": 12814,
+      "sha256": "541eb60fe4fed5991c54d31308128dc6ecf2d9eb7af339570f550346d0deeff5",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_180.webp",
+      "bytes": 13932,
+      "sha256": "eb80d339b986f519a305eb6a5249c0db17aa29ae0f91e8447004b86660260898",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_225.webp",
+      "bytes": 12846,
+      "sha256": "723225b0391a0ae927f1838a22220aacd597125f7e12b54b2db0a9157f11ce66",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_270.webp",
+      "bytes": 12158,
+      "sha256": "b8428636dd9c5f26735927071f0b8434270b50931a15fc2381a27429a6284012",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/128/view_315.webp",
+      "bytes": 14658,
+      "sha256": "1f4f83f1faa071457b60cf5f2d58c7d76c9f3eaeeb1bbe9156f305d026c9922c",
+      "width": 128,
+      "height": 128,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/angry.webp",
+      "bytes": 49518,
+      "sha256": "728d06fc0761d0e63b8f76172227d0b3fa5e05921f58ec4f336742cc003a7690",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/evolution.webp",
+      "bytes": 53622,
+      "sha256": "f24f3e1844fcee9b95d3c1b903f539a92c8bc0389450b1dfc55feaa72d4266f6",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/excited.webp",
+      "bytes": 50428,
+      "sha256": "e0e0382f0bf2b99506b3f897adbfcb31e5db6fc97ab623d9201e15f32e25a556",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/giant.webp",
+      "bytes": 50808,
+      "sha256": "fe3e9971502bd03048bc67cd736b30ae3a4e51dffe0bc88ae2d6cec1c27360b0",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/hit.webp",
+      "bytes": 48820,
+      "sha256": "6bf7695c2a5f5693fbaa658a7a45118a8a3e556b22e3245bc5bf12fdd80b38d6",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/idle.webp",
+      "bytes": 49546,
+      "sha256": "b49b7ec6d0ae24518ba9ae1be16221a809ebb113db4b643889b949caeb1a7819",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/kiss.webp",
+      "bytes": 49502,
+      "sha256": "d5e26563bc766b31886d5297481ee2dcff3a9a6efa9a837e469aeb3d6736308d",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/laugh.webp",
+      "bytes": 50100,
+      "sha256": "c48bfa597e39614b042d38bde2203d20f2d302c656e5b55773749ea3bece47fd",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/love.webp",
+      "bytes": 51912,
+      "sha256": "6ab72ea65553680b72c482d7a6e4499776de6db132a6289bbd8d7ac6cbefb206",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/medium.webp",
+      "bytes": 49546,
+      "sha256": "b49b7ec6d0ae24518ba9ae1be16221a809ebb113db4b643889b949caeb1a7819",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/pout.webp",
+      "bytes": 51428,
+      "sha256": "52c8f89557ba163f3c8726e272eac6b91c2a60b9a3b54ddc915d5e3f7ec3c6aa",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/sleepy.webp",
+      "bytes": 51250,
+      "sha256": "29214305ae9522f73a12d566bd837cf26d2d8ed98e257a6bf76ba65c4ac02095",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/small.webp",
+      "bytes": 51598,
+      "sha256": "e471e3d61629a0624344591a729bdef9c2e57fd790b39ab3e227315584db5f83",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/surprised.webp",
+      "bytes": 49224,
+      "sha256": "08db9495f67c85df8c6f469797c310d2186abfa0d62e6234e0914fc658099f62",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_000.webp",
+      "bytes": 49546,
+      "sha256": "b49b7ec6d0ae24518ba9ae1be16221a809ebb113db4b643889b949caeb1a7819",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_045.webp",
+      "bytes": 44560,
+      "sha256": "9bc60021f4d4f6a1e31a74a758838224328f4574666dd6c8958a66dab09ebbb9",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_090.webp",
+      "bytes": 39606,
+      "sha256": "d3dd5d94ed02c765109db9d0fe47595f9dbe4e8baf45574d4277f44fcc33eb20",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_135.webp",
+      "bytes": 42546,
+      "sha256": "441465c93247936e74706378a1a981b7ff6abf3952f960fe993bcf766cd95d68",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_180.webp",
+      "bytes": 46682,
+      "sha256": "1329a22b59dba9664a43cdc47b99b9263e9383366975f043aa25c648b35be5ae",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_225.webp",
+      "bytes": 40380,
+      "sha256": "ab163ebf4ea12dc734ef8acb6c455f7a24f2a03ecdc0c5176845eba8a8e6c88b",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_270.webp",
+      "bytes": 39358,
+      "sha256": "44801c2892a5d2abef694306ec16db2e96c78295caf11bd6a6accb5cf4183ab6",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/256/view_315.webp",
+      "bytes": 48214,
+      "sha256": "06f6e7789d0a2ba4aec795a9cb2a40bb24753473ffbb0c431ed53e3214c66bc6",
+      "width": 256,
+      "height": 256,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/angry.webp",
+      "bytes": 173058,
+      "sha256": "00913e2f6d99917d08f638c19b6eba0f0f408865eff64ef588914f809cec6fb4",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/evolution.webp",
+      "bytes": 178650,
+      "sha256": "e76073b3ed7c09d8a01fdff315dd351b677f3f72f353ef1ecb9aa41c5593404b",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/excited.webp",
+      "bytes": 173292,
+      "sha256": "89ffc66efbbdf9a78b9e9e14c03082d59a29ef1ab96bc39b53c474265988bb9d",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/giant.webp",
+      "bytes": 178136,
+      "sha256": "d2d8d99c6b80c7dc43702d53b56e305c53b5c958b7243abece83c151551a1c3a",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/hit.webp",
+      "bytes": 169818,
+      "sha256": "3946ced5df895eedd8aa24c8ddc11453d58ec5e9a550558e9aba07acc185c45d",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/idle.webp",
+      "bytes": 171874,
+      "sha256": "56f29e0d171ebefaac394530f578210517ab13eabfc80fe59cb1e403d85cf815",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/kiss.webp",
+      "bytes": 171168,
+      "sha256": "ed1c7906a40ab82cb878db887bd3701bca3a00ad147d34bc2d338be96764128b",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/laugh.webp",
+      "bytes": 170544,
+      "sha256": "75e48a8d59989381633d3fa265cf2bd7c53b93dd9c8d76ab9c5b241f5becd5fb",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/love.webp",
+      "bytes": 171042,
+      "sha256": "feaac79f9212c8a9286a05d6cc503f01f5c3b9915e6495f009242b054c81b55d",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/medium.webp",
+      "bytes": 171874,
+      "sha256": "56f29e0d171ebefaac394530f578210517ab13eabfc80fe59cb1e403d85cf815",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/pout.webp",
+      "bytes": 171090,
+      "sha256": "ee3ef07f484465c0ad9ed3519a5f8045370f04226c292741d896dc4f5b7053cb",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/sleepy.webp",
+      "bytes": 170626,
+      "sha256": "ab9a4ecb983769d3754e1b3106b178561da3911f39055763f1db26ab2792dc64",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/small.webp",
+      "bytes": 179132,
+      "sha256": "340fdb7cfd53034de96e62aa29e8a0f9558c7a15ed3652a575e404b3f516b474",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/surprised.webp",
+      "bytes": 171846,
+      "sha256": "a3806ed9fa00b044f9e0fdea7dc4a6e99a461aa91cc06c950d341a0c1e51dbb6",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_000.webp",
+      "bytes": 171874,
+      "sha256": "56f29e0d171ebefaac394530f578210517ab13eabfc80fe59cb1e403d85cf815",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_045.webp",
+      "bytes": 156122,
+      "sha256": "6a525ed17111a9166626c73d6466406a59bc412c0bc7297dc8e637eaaa7ce4bc",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_090.webp",
+      "bytes": 141108,
+      "sha256": "ca72dc9ded271b051cc4b7eea671707ff6c285ae09c7d351bf161632b50ffb58",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_135.webp",
+      "bytes": 143664,
+      "sha256": "17a330761482eabe35dc3d7742152de65ec709ef3c4b3251e95a98be5acebe16",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_180.webp",
+      "bytes": 159182,
+      "sha256": "14b319e1c5a9bd5cf41a814b0c2bce5c65ab3a9160d25bbc517d7baad21047a1",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_225.webp",
+      "bytes": 144578,
+      "sha256": "880642f041820d2d25e306410c3df3abdab459ecdeda8d56c788761120b986ec",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_270.webp",
+      "bytes": 138830,
+      "sha256": "915a35adbffe9c90fe735f31c2f2f061e7b57333f91cef59f381a316dcb77d52",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "gameplay/512/view_315.webp",
+      "bytes": 165032,
+      "sha256": "c918e33baa3e5ccdd3627ada82c093a0c8670b8101bb3379ac791f6edca4dc3f",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "generation.json",
+      "bytes": 20822,
+      "sha256": "36691ab2eff01e5847a67baebf663e5a86ce44e57e4555d2598c34c482df391a"
+    },
+    {
+      "path": "masters/core/giant.png",
+      "bytes": 1021499,
+      "sha256": "93c533009e9ae67dcd6ed869ce3f552bdfcd0b8894c81971331b67a28a652d7d",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/core/medium.png",
+      "bytes": 575251,
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/core/small.png",
+      "bytes": 267269,
+      "sha256": "1eed129074d1352fbb82bfd4b46c92d8ee194776f6496873044452489391b741",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/evolution/evolution.png",
+      "bytes": 941392,
+      "sha256": "a9e25a783447a114af63571b4e10aed379214b6ff901816cb4d2eb98cffc0750",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/angry.png",
+      "bytes": 576935,
+      "sha256": "e402690a388878d98762a2e6910d836f0076303aad8ecfd63f339a14aa26fce8",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/excited.png",
+      "bytes": 576074,
+      "sha256": "a00f8f5860183c89e82181e673216e04e2710d22bbf18986d090d9f2ba465ab4",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/hit.png",
+      "bytes": 572920,
+      "sha256": "24b02d3783d5f10f05cd4e1046d2627b7582dccacc4f59646722c7513f71cc5e",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/idle.png",
+      "bytes": 575251,
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/kiss.png",
+      "bytes": 575858,
+      "sha256": "9112e6039dbb53fad64c9b8f742b4d03f74ffaba4d428423945e9f23fc4c9a37",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/laugh.png",
+      "bytes": 573433,
+      "sha256": "26780d711887c3e9a758b406e1ff501f3bdd4d6656d98b1b9f77350780c27425",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/love.png",
+      "bytes": 572414,
+      "sha256": "06fe96e99f845040c469b793b124bcd669f589d1167e695930a9b2a168a49b2a",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/pout.png",
+      "bytes": 573327,
+      "sha256": "63a89182926721ea02c6ccedb66f145e00f4ad55a6a23a5d56e21ecc39628173",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/sleepy.png",
+      "bytes": 572534,
+      "sha256": "3bea01041de7acf9830522212ccad1d0e9a192987d0b6591c0cbf6b3c1f59e96",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/expressions/surprised.png",
+      "bytes": 573575,
+      "sha256": "35afddd4d0fab8f6900ec5eb4eced189a5cec74225ed0c8c336d22b6aede80e8",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_000.png",
+      "bytes": 575251,
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_045.png",
+      "bytes": 516323,
+      "sha256": "632dfe750cda9873a3c7bfe0693a95253644c15660bb9a7c8c2f3fd6767200a6",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_090.png",
+      "bytes": 455076,
+      "sha256": "ce78fa2a0c6c6b7163dfb65562c1bf0d4f8a27454a3c0dec1ffff90ca37546ed",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_135.png",
+      "bytes": 504292,
+      "sha256": "c8b22d6df85dd04e4cd070a61781b5c4869aa3ee510fc4439dfb93fb33741311",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_180.png",
+      "bytes": 550726,
+      "sha256": "9a21d8c7ea6e27c295f2590ec94d6ed99bd86f51b2becd2fb1d2c6671c224003",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_225.png",
+      "bytes": 507958,
+      "sha256": "39ecb93ebe6cc4c33890555c6cbbb5671f31ca0104c039b477b10b96a83b5665",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_270.png",
+      "bytes": 444989,
+      "sha256": "f580f5cc62414ba99b15096a72c0db41328d3c857c64095459e7f00d942701d1",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "masters/turntable/view_315.png",
+      "bytes": 529357,
+      "sha256": "75c51d9c1601bc9dd70ecf373982c3167502d89b2e7d0d9ec8b9b3279bea7327",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 19347,
+      "sha256": "a96f423731bdfb3956b8570de9a40b6f43c5ff07158caa25f24059959911b27d"
+    },
+    {
+      "path": "preview.html",
+      "bytes": 15741,
+      "sha256": "d6c004be0416a6f23ced1d8d3c122f7251bbc98bd30cfc217e6196c38fef9d78"
+    },
+    {
+      "path": "qa/animations.webp",
+      "bytes": 613202,
+      "sha256": "279c77ad1226b6a670e146655b6d4501b2e4efdf5e861f3bb0df95db4d82b9cd",
+      "width": 800,
+      "height": 300,
+      "mode": "RGBA"
+    },
+    {
+      "path": "qa/component-assembly.png",
+      "bytes": 490036,
+      "sha256": "b96117529eb64fbaced1111b51314c4c1b4a7463d698b188a958f022f9b2fc16",
+      "width": 768,
+      "height": 768,
+      "mode": "RGB"
+    },
+    {
+      "path": "qa/components.png",
+      "bytes": 249555,
+      "sha256": "581c80cf327ca5d4ac4e27843fd4e7b9ac921f40ac25fcdc249020834161ad93",
+      "width": 1000,
+      "height": 600,
+      "mode": "RGB"
+    },
+    {
+      "path": "qa/contact-dark.png",
+      "bytes": 631994,
+      "sha256": "041a65d409971d0bc4cf725111ea128d3ebff64166b47209a22d9cf5307edf78",
+      "width": 1050,
+      "height": 1175,
+      "mode": "RGB"
+    },
+    {
+      "path": "qa/contact-light.png",
+      "bytes": 614712,
+      "sha256": "98e1d2f529ee87b2628fd260013e66fa34b745119bcab2c4b623e0ea17e5ddff",
+      "width": 1050,
+      "height": 1175,
+      "mode": "RGB"
+    },
+    {
+      "path": "qa/gameplay-sizes.png",
+      "bytes": 114747,
+      "sha256": "f4e066e1c1c108138672c3abcbd723743155500bff2ab587e69a3a77f188ab30",
+      "width": 900,
+      "height": 330,
+      "mode": "RGB"
+    },
+    {
+      "path": "qa/validation.json",
+      "bytes": 4148,
+      "sha256": "42f9a2067ad7baa0d0212eefc00388140d6daab0ce75f3e7d3209d8f0828fd95"
+    },
+    {
+      "path": "sources/generated/angry.png",
+      "bytes": 1808021,
+      "sha256": "ead669a3fd9256caff0e4d094702cfebec631d89c09faf147d195db750acbf9c",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/body.png",
+      "bytes": 1836486,
+      "sha256": "2be2aed37806c0e2206a144ab40d7042a6c0def0d70954c397a3b84a018a167a",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/cheeks_pair.png",
+      "bytes": 404503,
+      "sha256": "7a6157c9935fbf7b197c282943f74c632ea08e59e103dd85862330de356fac71",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/ears_pair.png",
+      "bytes": 739148,
+      "sha256": "e965b182625e00453817170ac2d790fbbaeac703ac520abc8b5578c0a890cc45",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/evolution.png",
+      "bytes": 1778504,
+      "sha256": "e2528679b1242d78f99e73d580cbbbd877b1568b31e84dc49338a825fd2ce475",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/excited.png",
+      "bytes": 1756576,
+      "sha256": "1f4c0664c0c953dd4dfc2d18e2d0cb98692c965c6a55e0baf192db2fd28383c3",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/eyes_pair.png",
+      "bytes": 307283,
+      "sha256": "316c5ab73ad8cd58dcecbb1b4067f25b10d1a03ad4eef4c29b8640c3fb285d0c",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/giant.png",
+      "bytes": 2164279,
+      "sha256": "ebdec98b5eedcdb726f23cb1a6302f6abf28a30a1e23a272796985dd687792c4",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/hit.png",
+      "bytes": 1772560,
+      "sha256": "c8322da358d293ad10c19808f7746373c42e7e05fd52af44da478eb492436605",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/kiss.png",
+      "bytes": 1799147,
+      "sha256": "e5e2d8124b581268ee7ceae4e18c0587c70e9c2d828383272e3b3302ad58a65f",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/laugh.png",
+      "bytes": 1808729,
+      "sha256": "5247124329e97c3ca20927a0cc8673ff9ffaa62b271b5bf055f26e58529a8241",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/love.png",
+      "bytes": 1798120,
+      "sha256": "50f29b02d5366c70138f0479de7e686a1d4961352347f34851af477f85813528",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/medium.png",
+      "bytes": 1812765,
+      "sha256": "02fb8e75bf8a7e1ca95166012cbc0565bf135f5f764fe70c36ffe7bc2dbee662",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/pout.png",
+      "bytes": 1778174,
+      "sha256": "806af42690d07570b31c85c09ec658872e46c3c5d3cac413cd7e48a590c4f2e1",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/sleepy.png",
+      "bytes": 1804764,
+      "sha256": "cb9e1a2c531fa2868aa37ce3de8afc2261ff0c5fe92fce059f2c7c824eaa8263",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/small.png",
+      "bytes": 775678,
+      "sha256": "80bb0c8cd564b25274d540189485ad967ade531208b3a2315413da7e730d5ffb",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/surprised.png",
+      "bytes": 1769885,
+      "sha256": "cd59f27f385d24a40c46b183169d613127e2b4108d5576fecf141e2f1c643085",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/tuft.png",
+      "bytes": 1255883,
+      "sha256": "df1da624f3b4a4b357c1a80ea026dcc12b6e1c71c6b96456bc9751bf4eb41553",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_045.png",
+      "bytes": 1665894,
+      "sha256": "b3b5f885f71bcb9f9b2f61958e8bb47691fa7333f921f57a69d9325dd681cc90",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_090.png",
+      "bytes": 1445519,
+      "sha256": "1695d079c2e6e883ad16d9791d5965901e979a63cfa79b3f8f29260471ccae51",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_135.png",
+      "bytes": 1639271,
+      "sha256": "174b330b5d191c107b9ff004ef115d53ce73523e6ae3b7056eb8c4b35c456915",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_180.png",
+      "bytes": 1878248,
+      "sha256": "156f4bd461143adea85519c56da8ec47b9d466b9251b8c710641b07bea4d1e80",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_225.png",
+      "bytes": 1782541,
+      "sha256": "6cac54887e8e3119ff5071d54f571d68858f385a8d2917121ffb6679aea9ba8a",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_270.png",
+      "bytes": 1527409,
+      "sha256": "23399fce65d18c9a5a4746da8ff5cf62fc86654afe0fb4ce0f3837e56eece8b1",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    },
+    {
+      "path": "sources/generated/view_315.png",
+      "bytes": 1745228,
+      "sha256": "200722b2bdf7bac767b714dc9979999ac36326271acaec8e8592573805514851",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA"
+    }
+  ]
+}
