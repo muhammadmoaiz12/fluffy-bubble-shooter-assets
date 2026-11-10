@@ -2,6 +2,16 @@
 
 Private library preserving the user's locked reference artwork and versioned game-asset deliveries.
 
+## Chirpyfluffs delivery
+
+[Chirpyfluffs v1 — game integration candidate](locked/chirpyfluffs/v1/README.md)
+
+24 full sprite records, 72 lossless WebP exports, 15 animation frames, three atlases and ten optional components, including crown, sun emblem and rays. Includes PNG masters, metadata, static asset map, complete prompts and generator originals, checksums and offline interactive preview. Original reference preserved unchanged under `references/locked/chirpyfluffs/`.
+
+![Chirpyfluffs preview](locked/chirpyfluffs/v1/qa/contact-dark.png)
+
+Open `locked/chirpyfluffs/v1/preview.html` after downloading the repository. Final visual approval and actual game-engine/device testing remain pending.
+
 ## Leaflings delivery
 
 [Leaflings v1 — game integration candidate](locked/leaflings/v1/README.md)

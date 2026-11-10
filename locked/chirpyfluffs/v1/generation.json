@@ -1,0 +1,336 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "medium",
+      "prompt": "Use case: stylized-concept. ONE standalone medium Chirpyfluffs game sprite based faithfully on original reference board. Near-round golden yellow plush fluffy bird-like ball, dense layered feathery fur, cream-yellow upper highlights and warm orange-gold lower fur. Small TOP TUFT of three rounded upright fluffy golden feathers/petals, middle tallest. Glossy black round eyes with warm amber lower iris and white highlights, tiny cheerful open dark red mouth with pink tongue, oval blush-pink cheeks. No beak, wings, feet, limbs, ears, tail or nose: exactly board's simple ball character anatomy. Front view, centered full silhouette, soft upper-left lighting. Square REAL transparent RGBA background, fully opaque character interior, delicate fur boundary alpha and generous clear margin. No floor, pedestal, cast shadow, background, labels, text or glow. Match original identity and proportions closely; this medium master anchors later variants.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "3d86e266512e721b5ff4fceb64d5cf16278047857c246510fa59fd4911c9f6d8",
+      "file": "sources/generated/medium.png"
+    },
+    {
+      "id": "small",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: SMALL baby core form, compact round body and proportionately smaller three-feather tuft, happy open-eye face. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2d9c3c20196cadf976183e6a93175bf8be84fd901019f99e3afb6cb3c7944f0c",
+      "file": "sources/generated/small.png"
+    },
+    {
+      "id": "giant",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: GIANT core form, fuller round body and three-feather tuft, happy open-eye face. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "6ff2ddb31dbb162b44e8d1936ff8a26fe842c2c8f5eafebdb8e76176d61e05e2",
+      "file": "sources/generated/giant.png"
+    },
+    {
+      "id": "laugh",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: LAUGH: squeezed closed laughing eyes and wide happy open mouth. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "62f8b95af072f5d9ad640d3f69b127bc2db8c8bd9a3a973ac2f7bdbdbf6439bd",
+      "file": "sources/generated/laugh.png"
+    },
+    {
+      "id": "excited",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: EXCITED: golden star highlights in eyes, delighted open mouth. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "996861f0031c41b5f076977be10eee700434f65012c943175d377f7a877e4ece",
+      "file": "sources/generated/excited.png"
+    },
+    {
+      "id": "surprised",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: SURPRISED: raised brows, wide eyes, tiny O mouth. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "bcbec676d8e281946946cb31f6171a12663abf9933382f29bc1455e565317c99",
+      "file": "sources/generated/surprised.png"
+    },
+    {
+      "id": "sad",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: SAD: pleading glossy eyes, gentle sad brows, small downturned mouth. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "747436d3294cc9730f2be04e5cb2a56d977fc3bb3d552b56c66f049e547234c3",
+      "file": "sources/generated/sad.png"
+    },
+    {
+      "id": "crying",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: CRYING: sad brows, glossy eyes and visible small blue tears flowing down both cheeks, tiny downturned mouth; tears remain on face silhouette. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "b9b5bebe5acb7e04745076d08b111cfaf80575e6e737dd36f873564f08631e77",
+      "file": "sources/generated/crying.png"
+    },
+    {
+      "id": "sleepy",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: SLEEPY: gently closed black eyelids and tiny relaxed mouth, no Z text. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "5b504c9b19023f201ba573c1a4327baee186594f03dcd3502f72782a49a146e9",
+      "file": "sources/generated/sleepy.png"
+    },
+    {
+      "id": "love",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: IN LOVE: pink heart-shaped eyes and joyful mouth, no floating hearts. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "854190ae86bd34c2ca97457b83cab3d2b1d80e3d5740d0a1fda4303baf58fdd1",
+      "file": "sources/generated/love.png"
+    },
+    {
+      "id": "wink",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: WINK: one eye closed, other glossy amber eye open, happy small smile. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "aa1d6e614c3a0c6385505ff2188d49705b5c6211645172d985d097c4dce0e96c",
+      "file": "sources/generated/wink.png"
+    },
+    {
+      "id": "angry",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: ANGRY: narrowed eyes and angled brows, small annoyed mouth. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "26448aa025af1f0617d7fe47b5bb8f6fcf2d78df6ba7509b8a9e0a09926264c5",
+      "file": "sources/generated/angry.png"
+    },
+    {
+      "id": "cheer",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: CHEER: closed happy crescent eyes and extra-wide joyous mouth, uplifted cheeks, no confetti or floating symbols. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2b18288af2707a50cc517a58e52bf575d912d66bdba61b9ced1b8aba2c1d27fa",
+      "file": "sources/generated/cheer.png"
+    },
+    {
+      "id": "hit",
+      "prompt": "Use case: identity-preserve. ONE standalone Chirpyfluffs sprite: HIT: eyes squeezed as angled lines and small wavy mouth; no injury. First reference locks generated identity; second is original board. Preserve golden-yellow layered feathery plush fur, cream upper highlights, warm orange lower fur, TOP TUFT of three rounded golden fluffy feathers (middle tallest), round blush pink cheeks. For expressions change only face in identical position; keep entire body and tuft unchanged, same upper-left lighting and camera. No beak, limbs, ears, wings, feet, tail, nose or extra anatomy. Centered square REAL transparent RGBA canvas, opaque interior, soft fur alpha and generous margin. No background, floor, shadow, text, labels or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "0d183c247d47fdde1fc4581cda1e3c0075ea679d4767cf7679eab7c01de37b1a",
+      "file": "sources/generated/hit.png"
+    },
+    {
+      "id": "view_045",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, three-quarter front facing LEFT, both eyes visible, far eye smaller. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "38032d276b7171db9f4e6ec5d464f1f251db14c324f58f5c3cfd27ec1ee05880",
+      "file": "sources/generated/view_045.png"
+    },
+    {
+      "id": "view_090",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, exact LEFT side profile, only near eye and cheek at far left. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "4f8b057e6ddb7d61fd5e577143af414725a0fbfe39f3aac9631b4291453d8114",
+      "file": "sources/generated/view_090.png"
+    },
+    {
+      "id": "view_135",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, three-quarter rear LEFT, no face visible. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "2b15a55b47a08c4613f44b5f183387d147c08c77ab2b99d516d5ecdf67f7bea5",
+      "file": "sources/generated/view_135.png"
+    },
+    {
+      "id": "view_180",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, exact BACK, no face visible. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "366152764df413d35dabe691ff18867ea6e30d220a5dfccde71877c5bb28ddd9",
+      "file": "sources/generated/view_180.png"
+    },
+    {
+      "id": "view_225",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, three-quarter rear RIGHT, no face visible. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c72e13492b0520a0421b6608d33754eca2a8c179861381d111f101d3770d0dad",
+      "file": "sources/generated/view_225.png"
+    },
+    {
+      "id": "view_270",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, exact RIGHT side profile, only near eye and cheek at far right. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "d7e320fa4f711708efcf149b9e795aa98ced02689fc62cb06003f264ddef2ae6",
+      "file": "sources/generated/view_270.png"
+    },
+    {
+      "id": "view_315",
+      "prompt": "Use case: stylized-concept. ONE medium Chirpyfluffs turntable game sprite, three-quarter front facing RIGHT, both eyes visible, far eye smaller. First reference locks identity; second original board. Preserve round golden-yellow plush body, layered feathery fur, cream upper highlights, orange lower fur, three rounded upright fluffy golden top feathers with tallest central feather. Rotate entire character naturally. Glossy black/amber eyes, pink oval cheeks and happy red mouth only where visible. Same body volume and upper-left light. No beak, ears, wings, limbs, feet, nose, tail or added anatomy. Full silhouette centered square REAL transparent RGBA, opaque interior, soft boundary alpha, ample margins. No pedestal, floor, shadow, text, background or glow.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "fb672ef3563ded5f159e42a375c592452eb0c9011b421c62ffdf57643ea1ee13",
+      "file": "sources/generated/view_315.png"
+    },
+    {
+      "id": "evolution",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONE full evolved Chirpyfluffs sprite, matching evolution on original board: same round golden fluffy body, closed happy crescent eyes, joyous red mouth and pink cheeks. A small gold pointed crown with vivid cyan-blue diamond gems replaces the top tuft. Golden pointed petal-like sun rays radiate behind the body. Luminous gold sun emblem on chest, delicate golden orbit ribbons and sparse sparkles. Full effect silhouette within clear margins. No limbs or wings. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "9a716109acba708cc9980c991dbe3090d2d751c4a894538f1bc56678b39cf6cf",
+      "file": "sources/generated/evolution.png"
+    },
+    {
+      "id": "body",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY featureless round golden-yellow feathery plush body ball, cream highlights and orange-gold lower fur. No face, eyes, cheeks, mouth, tuft, ears or other features. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "cb269b6e244c39e5c0293540772af02c8cf236fa9d2957cf61bcd4a8650e3ced",
+      "file": "sources/generated/body.png"
+    },
+    {
+      "id": "tuft",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY the top tuft: three rounded upright fluffy golden feathers/petals joined at base, middle tallest, two side feathers shorter. No body or face. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1774,
+        887
+      ],
+      "original_sha256": "40ff1a17599b0b99edeacd42cce7516bf359d909620377beb7ba16b1273a24fd",
+      "file": "sources/generated/tuft.png"
+    },
+    {
+      "id": "eyes_pair",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY two complete separated glossy black round eyes with warm amber-gold lower irises and white upper-left highlights. One per half, equal size. No eyebrows, fur, face or other parts. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "8754dc9aabdeb92569afdde75f24d50f75eec700cdc7e00cc33c3295d49234bc",
+      "file": "sources/generated/eyes_pair.png"
+    },
+    {
+      "id": "cheeks_pair",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY two separate complete blush-pink oval soft cheek patches with gentle small white highlights and subtle fine fur. One per half, equal size. No yellow fur, face or other pieces. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1774,
+        887
+      ],
+      "original_sha256": "2c37e5ff7572c52772a8a7a2a1017fba87bc0e38ccf1ac4f4ea2be41a2e1c4ca",
+      "file": "sources/generated/cheeks_pair.png"
+    },
+    {
+      "id": "mouth",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY happy open smiling mouth with dark red interior and rounded pink tongue, exactly the character mouth shape. No surrounding fur, face or other pieces. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "f626aff4ccb354b8adbb31d69f6d88dfc4488b7b1bdf82e01bcb27c750c8e0a8",
+      "file": "sources/generated/mouth.png"
+    },
+    {
+      "id": "crown",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY small gold pointed royal crown from evolution reference, bright cyan-blue central diamond gemstone and smaller blue side gems, front view. Complete isolated crown. No character, body, fur or sun rays. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "dfc86298e3c0ecffa8849bce7e1d871369d16a1c0b60d50a09bb21b3ea80c952",
+      "file": "sources/generated/crown.png"
+    },
+    {
+      "id": "sun_emblem",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY the evolution chest sun emblem: bright golden circular center with pointed triangular sun rays around it and very soft yellow glow, matching original reference. Front view, complete isolated emblem. No character or crown. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "88ac2b59e3024f1f29b70a047f4ee0015baa4b80ea8f6458cecd86d9688790ba",
+      "file": "sources/generated/sun_emblem.png"
+    },
+    {
+      "id": "rays",
+      "prompt": "Use case: stylized-concept. Chirpyfluffs standalone game asset. ONLY an arrangement of golden pointed petal-like sun rays in a circular ring, for placement BEHIND the evolution character. Large completely transparent empty circular center. Separate softly dimensional golden pointed petals radiating outward. Match original evolution ray silhouette. No character, face, crown, central disc, text, ribbon or background. First reference is generated identity master, second original board. Preserve style and palette, soft upper-left lighting. Centered with generous clear margins on REAL transparent RGBA background, opaque object interiors and soft edge alpha. No floor, shadow, background, labels, watermark or unwanted haze.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "99a3202ec3e835fb77c6f503622e743b02cd5f143578d5662584a2268ccf2d26",
+      "file": "sources/generated/rays.png"
+    }
+  ],
+  "processing": "User authorized deterministic alpha cleanup, resampling, alignment and exports. No original locked board was edited. Expression face-region composites reuse medium silhouette. Low-opacity neutral haze suppressed around evolution and rays; cheek masks preserve highlight interiors. Raw outputs retained unchanged."
+}
