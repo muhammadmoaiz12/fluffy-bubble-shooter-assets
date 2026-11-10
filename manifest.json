@@ -1,0 +1,877 @@
+{
+  "schema_version": 1,
+  "recovery_date": "2026-11-10",
+  "status": "partial_recovery_draft_review_required",
+  "original_zip_recovered": false,
+  "artwork_modified_during_upload": false,
+  "sprite_count": 20,
+  "families_included": [
+    "rosybuns"
+  ],
+  "missing": [
+    "original ChatGPT ZIP",
+    "evolution crop",
+    "collection portrait",
+    "TypeScript asset map",
+    "other five family sprite sets"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 10,
+      "sha256": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 1961,
+      "sha256": "58f84b15a79739184f6b8de914ef285ea7f02eab049d7a024afc7532a5a0d421"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2176,
+      "sha256": "2ee47ae6aaf1938b345a5e39023c4669f67add3cc7858a2c74b1810b28a1d4c1"
+    },
+    {
+      "path": "assets/characters/rosybuns/manifest.partial.json",
+      "bytes": 26314,
+      "sha256": "932234a7b95b8e7ada7d45fd5e43be36d36209bdccfb29e2d4f904ada0dcbc84"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/base/giant.png",
+      "bytes": 274263,
+      "sha256": "bee8d38b020f6050fd800bcdf67a6e180947442b4298942fa30453ea341cb018",
+      "width": 394,
+      "height": 394,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/base/medium.png",
+      "bytes": 148507,
+      "sha256": "bbc54496c15b2a76cf9556cadfef47716c9c067e6f5c18731a680fec30295b23",
+      "width": 298,
+      "height": 298,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/base/small.png",
+      "bytes": 66314,
+      "sha256": "810c616c67e4804525f53db753030c4437a4adb17a63624426ac39b9a6bf4626",
+      "width": 204,
+      "height": 204,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/angry.png",
+      "bytes": 55732,
+      "sha256": "1142bbdbb292091b66381444497adc4750718840b287a2fb9bbe507170c1fca5",
+      "width": 182,
+      "height": 182,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/happy.png",
+      "bytes": 57621,
+      "sha256": "607986ee53cb501b11bc34dc939978b8ee2c804421b673fc0a9d206b662d6898",
+      "width": 178,
+      "height": 178,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/kiss.png",
+      "bytes": 55521,
+      "sha256": "09f2aa52fa5fa05ea35af2b0095e048292784ef992e67eaeb7e4e99ed8466334",
+      "width": 190,
+      "height": 190,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/laugh.png",
+      "bytes": 55992,
+      "sha256": "297766da2598714b237c0be7be68c566047bbba19f05383f2fb1f04e9dacf5ce",
+      "width": 182,
+      "height": 182,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/love.png",
+      "bytes": 53930,
+      "sha256": "8d2d6367643f2ad495981b5958eab53773c57b5b07638610ccbbe7e624c2fc34",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/sad.png",
+      "bytes": 54463,
+      "sha256": "9bc9baa2d06b272995aae79213e4da88a7bc76533745a1c353cb10b2038c4e20",
+      "width": 176,
+      "height": 176,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/sleepy.png",
+      "bytes": 51579,
+      "sha256": "d045c375888eaee0806c5dae616ce91ab47fd3f9534509df942a9f9f5f928ccb",
+      "width": 178,
+      "height": 178,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/star_eyes.png",
+      "bytes": 55858,
+      "sha256": "6e26e5d9b78c19df8cb0d9aaa1d6004a0cfc265ef0a7e3338b80e2ed43987486",
+      "width": 178,
+      "height": 178,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/expressions/surprised.png",
+      "bytes": 55488,
+      "sha256": "35b8317668265a0b58fad5d20c4a299295839c7a705882faadbc4b8a55a55d95",
+      "width": 180,
+      "height": 180,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/back_a.png",
+      "bytes": 53276,
+      "sha256": "43547d58b1939c0db2ccececca4ef1867c01eb738a5750f2de30855dc4873ef4",
+      "width": 184,
+      "height": 184,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/back_b.png",
+      "bytes": 69134,
+      "sha256": "ef070c62387f0d72fa530013f515559b54696c4bc0ce8b2231df5ec742c89386",
+      "width": 216,
+      "height": 216,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/front_a.png",
+      "bytes": 50012,
+      "sha256": "7fd3e12ab53458326741035d4dc44438aeb6248c97289671c81d8d62e1c0d0f8",
+      "width": 184,
+      "height": 184,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/front_b.png",
+      "bytes": 78991,
+      "sha256": "365e0e1171caf049f8b5ec4e2aa697189d931a8dbdadd1685ff07ff7032fee05",
+      "width": 214,
+      "height": 214,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/side_a.png",
+      "bytes": 52053,
+      "sha256": "74aba2431a0f3f0aadc449080080f64b14d69622aabcc61c92883bc167665250",
+      "width": 202,
+      "height": 202,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/side_b.png",
+      "bytes": 57706,
+      "sha256": "75e76747064b1fc3fbf28a768f826c22d94b9162753d2dd43541eba38d21ff7d",
+      "width": 224,
+      "height": 224,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/three_quarter_a.png",
+      "bytes": 54704,
+      "sha256": "c94d2f0b0168556e852b7876a4dce44192b336174fa6865af754f8da8cf88d4b",
+      "width": 202,
+      "height": 202,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/native/rosybuns/views/three_quarter_b.png",
+      "bytes": 72010,
+      "sha256": "d7b2c9563c44834119e960b420ded2e7686c383ddd3de1c23ac5fee75973c071",
+      "width": 208,
+      "height": 208,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/base/giant.png",
+      "bytes": 1110253,
+      "sha256": "48302d4a7b1672851ab15f3f35362458e85d240acdd2a6ba712ee55b80025df6",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/base/medium.png",
+      "bytes": 540562,
+      "sha256": "17b2a70e896f7618bc8c49bf25e1cf7ca940e2a5e3488ccfe7a79041cb7a9083",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/base/small.png",
+      "bytes": 225193,
+      "sha256": "1e124ef7215a4570470c08dbe83e1b34c6faa16c3d208c69649a8dc4649134fd",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/angry.png",
+      "bytes": 241126,
+      "sha256": "6dbc4c51e5aea26a24ee5170c398201e60c988ff2906825a52200c533f2e10aa",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/happy.png",
+      "bytes": 264955,
+      "sha256": "24f67ce45b270e2ea6b54ed82dde3f1e328c2042db9884e66225a71039c2b675",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/kiss.png",
+      "bytes": 218690,
+      "sha256": "4fd0fbe66b3904a2378b0aa9517c35c6f4a3867eb2e5c294f11671f84c5c2897",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/laugh.png",
+      "bytes": 244306,
+      "sha256": "da809205e704817bf9fa7f116b0a75d9383e13afd696a0d89fcaa3c706b0668a",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/love.png",
+      "bytes": 232978,
+      "sha256": "a887f1c7e51528aa71bb0308deafaa5af9103cf5b4ecf658c71592428edf8a5b",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/sad.png",
+      "bytes": 253813,
+      "sha256": "3f8510772efe304c4aa9731198327a362f2f4a64045954bc61f9bf753fc4082d",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/sleepy.png",
+      "bytes": 225103,
+      "sha256": "1d925404625dd8bc43e891dae23d353e723ea0b3bcae93ffd7557bc5673721f6",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/star_eyes.png",
+      "bytes": 248509,
+      "sha256": "26bac30ab4e0f44c2b5b8e4e9c4452d75cd7e22c674e476d00dfa90b592a0dad",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/expressions/surprised.png",
+      "bytes": 241259,
+      "sha256": "cf6144374881ed115217d7406b4d766b2277b3986d9bb68e3e1db50110cf3954",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/back_a.png",
+      "bytes": 230372,
+      "sha256": "6df009540b05572a514bb99fa2293d50bbb67c727402d10106519403990ecde2",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/back_b.png",
+      "bytes": 235454,
+      "sha256": "5bbb0f752feafdfde525ccd2d6181221116c031944fc8c50007285b9a187eeca",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/front_a.png",
+      "bytes": 220335,
+      "sha256": "dbe0501717055014ec5fa19a6487554cc0026876ca9b442812b69cab6c40b3cf",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/front_b.png",
+      "bytes": 263964,
+      "sha256": "53aee696befd3d5f907fc5cbf0b74f351983b75dedcf014a5374d7011a6c4069",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/side_a.png",
+      "bytes": 190214,
+      "sha256": "6c39eb1bbb9794dbd41740673c7f4635f31b0575c86aabb4bc591e783492c014",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/side_b.png",
+      "bytes": 169732,
+      "sha256": "905807dec51b62e35b7c3127c7f2abe684e6eb086c261c1d060d04d829801050",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/three_quarter_a.png",
+      "bytes": 204545,
+      "sha256": "694b86445d7b6e91ac67787403b44b6c7e5c9ccf23200c95602fbd0a74bbc1a9",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/png/rosybuns/views/three_quarter_b.png",
+      "bytes": 253323,
+      "sha256": "e0e91d82377ebbb0ccbc19dd2c728f95acb5dd7326a0f62bfcf31c0ab8d8dc66",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/contact-sheet.png",
+      "bytes": 1524735,
+      "sha256": "aa2965e80e5129f85c7d069da6483743cd90d0889a5e7518e61920696ae2b083",
+      "width": 1440,
+      "height": 1400,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/base/giant.png",
+      "bytes": 11619,
+      "sha256": "906b6dda56828c23e3db397ee536248a67b2fb2a571a5a0282507df2cda23171",
+      "width": 388,
+      "height": 353,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/base/medium.png",
+      "bytes": 7044,
+      "sha256": "6749131457b4a15aa0e01479a6ff0ba990278ca12ebe1fe65281acbaf42e1eba",
+      "width": 275,
+      "height": 266,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/base/small.png",
+      "bytes": 4471,
+      "sha256": "19eafc54523bcf8c4788e288feb2e40341666df7adba4d11fa0794982ec89db1",
+      "width": 180,
+      "height": 175,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/angry.png",
+      "bytes": 3915,
+      "sha256": "4a2050308baf0bc778edd90ee9549b12d4b2efda6813ab1793df126f0719cf56",
+      "width": 165,
+      "height": 159,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/happy.png",
+      "bytes": 4306,
+      "sha256": "9a212d729a030831968b22a9c432e5f3ae247595176432e6d589ef9eaafde150",
+      "width": 167,
+      "height": 162,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/kiss.png",
+      "bytes": 4190,
+      "sha256": "a5c0bc3dd8e26b11825047907a08abfa14e852e4f2b264103c8a2b40a51de1f8",
+      "width": 164,
+      "height": 161,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/laugh.png",
+      "bytes": 4602,
+      "sha256": "931136ebcb9924973733be846f2145fb513b737ea8595f41fe033ea80ae49001",
+      "width": 165,
+      "height": 162,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/love.png",
+      "bytes": 4049,
+      "sha256": "77dfef0ba24771a1464d458ba73655d505c3fa9e2ae049e23313229210dfa899",
+      "width": 162,
+      "height": 159,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/sad.png",
+      "bytes": 4140,
+      "sha256": "d4b32d7392beab8fe3f54a6073686e3be0b1596aae92299348e495cf5f796146",
+      "width": 161,
+      "height": 158,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/sleepy.png",
+      "bytes": 3667,
+      "sha256": "757df5025248edd43de52bb8a56e01a22293e13a2e99c7c63f5be987cbc7f404",
+      "width": 154,
+      "height": 155,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/star_eyes.png",
+      "bytes": 4255,
+      "sha256": "aaf1bb8047d9d9f975c767c2660b4bb8220489eb5bb96a0b7168d5d5ed16b641",
+      "width": 165,
+      "height": 161,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/expressions/surprised.png",
+      "bytes": 4154,
+      "sha256": "0010a4b2bf7ecb021d88b7eceba1f08d2bd3b2129ffc87313613a7edbf93b969",
+      "width": 162,
+      "height": 158,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/back_a.png",
+      "bytes": 4071,
+      "sha256": "b73f85f896bd40ca3ee74e87ed7f2b2b2bbc1ec9df20ea2e449a75e3677259fd",
+      "width": 158,
+      "height": 160,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/back_b.png",
+      "bytes": 5206,
+      "sha256": "1f507550c385f67d9dbdca45de4f9bd1b2410076ffe2279b54cdc6c851f4449e",
+      "width": 177,
+      "height": 185,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/front_a.png",
+      "bytes": 3925,
+      "sha256": "bba0ab60d3b0bb33086e5bc960584c5f02b0977f1ec5f0814db3e71d95b928d5",
+      "width": 148,
+      "height": 156,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/front_b.png",
+      "bytes": 5472,
+      "sha256": "6560f0a657b8fb67f08740c1727b4c0b5b1155b73228f791dc7f80ae163b68e1",
+      "width": 195,
+      "height": 194,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/side_a.png",
+      "bytes": 3858,
+      "sha256": "f6c00692701321fc69fb78e178f27271ad18365985ff87ed8636e6e9bd155829",
+      "width": 153,
+      "height": 168,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/side_b.png",
+      "bytes": 3704,
+      "sha256": "0600e0b17bc90c6f6103c0c9cacf44b7386d9559f91a114e933bb62dfc7383e4",
+      "width": 158,
+      "height": 181,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/three_quarter_a.png",
+      "bytes": 4302,
+      "sha256": "0c41e375d1da77e7305f200ae352f7931a3e3eacf6c81a0746a316d4275e60ef",
+      "width": 153,
+      "height": 168,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/masks/rosybuns/views/three_quarter_b.png",
+      "bytes": 5099,
+      "sha256": "f2d7a834cf232ad9be42a1275b8aa84f3d7cdc990af147b63759aa3547d8e446",
+      "width": 188,
+      "height": 187,
+      "mode": "L"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/rosybuns-base-test.png",
+      "bytes": 253437,
+      "sha256": "512f50337fd25d0cec380adfcfdf575ae1c3582a2d5b9025c727fd33259067f8",
+      "width": 1440,
+      "height": 280,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/base/giant.png",
+      "bytes": 232134,
+      "sha256": "be5d92b5b172f60db8f7634bc1ae76f1be86f37a3dccce19f379ad737c348c60",
+      "width": 388,
+      "height": 353,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/base/medium.png",
+      "bytes": 124382,
+      "sha256": "8b5d50f380e51062f5db215c60aaa2ba3aae518e2ffa3f4884a23b87af1174ff",
+      "width": 275,
+      "height": 266,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/base/small.png",
+      "bytes": 54254,
+      "sha256": "a2b85a67e04e767e7dd2e287fec6938f9c3019f556ee3e6c4f8161eda511bae8",
+      "width": 180,
+      "height": 175,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/angry.png",
+      "bytes": 45636,
+      "sha256": "c2572c693a543de9e1774cb597690d76f7265d369d439d9ac53b3259176c263a",
+      "width": 165,
+      "height": 159,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/happy.png",
+      "bytes": 47052,
+      "sha256": "56f326e7d6cde1b9b8441b818e4c3cc00b539e40ff1d8a7fea0319f135163ed9",
+      "width": 167,
+      "height": 162,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/kiss.png",
+      "bytes": 45040,
+      "sha256": "27ee2d8896a3d7f9f99cd8191a9dd7f0b0f4aea1b1ed660716fda444e30b0e92",
+      "width": 164,
+      "height": 161,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/laugh.png",
+      "bytes": 45299,
+      "sha256": "c24af9acd055c5a1f34caaf5ff06a65f7003725c8f650da7cafb38dce3ea882d",
+      "width": 165,
+      "height": 162,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/love.png",
+      "bytes": 43860,
+      "sha256": "2182d294f1018df9c4542a3e61107db7dc1471eae8e33e45bd9d0142a278abf6",
+      "width": 162,
+      "height": 159,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/sad.png",
+      "bytes": 44396,
+      "sha256": "7a15981c19afe98ca2e75d487d829e397634de3113b8aad7c3edca9bc33c32f5",
+      "width": 161,
+      "height": 158,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/sleepy.png",
+      "bytes": 42032,
+      "sha256": "bc92558514b480ea6c5fe4971b73a71042c5069b07960d7d5bbb67e9833fdefb",
+      "width": 154,
+      "height": 155,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/star_eyes.png",
+      "bytes": 45488,
+      "sha256": "33b6e4a2b163629e0f76f6b4765d3b5c3a66b556a924c28adc1ac7aa3c258f12",
+      "width": 165,
+      "height": 161,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/expressions/surprised.png",
+      "bytes": 45268,
+      "sha256": "9fd737fc3f6d7d2370209806ab972777b1697687bd50d03674e241a39cc6b9d5",
+      "width": 162,
+      "height": 158,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/back_a.png",
+      "bytes": 43046,
+      "sha256": "ad2186cd67e3a987e02cec8e2e3e1ef69703e4d711185330559995ca06475601",
+      "width": 158,
+      "height": 160,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/back_b.png",
+      "bytes": 56141,
+      "sha256": "836c2feb05d5c196a2789c576f6a63f8d810896301b50fc9546f8a56f92ca545",
+      "width": 177,
+      "height": 185,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/front_a.png",
+      "bytes": 40450,
+      "sha256": "e30618d2d26ef7b77b28eb6ac5ee1c7f29c6a7e7312d2625be473ab8a85822be",
+      "width": 148,
+      "height": 156,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/front_b.png",
+      "bytes": 64838,
+      "sha256": "65118287f8d5ead66b9d310972929fccf0920063f908b4536d532771a2b21d53",
+      "width": 195,
+      "height": 194,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/side_a.png",
+      "bytes": 42073,
+      "sha256": "d3d2b803139073719b4924a2e5cff0b6d75fa10a747cdcc92f6cbd39419b04fa",
+      "width": 153,
+      "height": 168,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/side_b.png",
+      "bytes": 46724,
+      "sha256": "d677a92786901fde253b6d345883d98c486da58a1105cf93f930c4eac240107c",
+      "width": 158,
+      "height": 181,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/three_quarter_a.png",
+      "bytes": 44136,
+      "sha256": "26f59d9bba60228c76535f292d06ef4e746510472aabf0f3218d4b3122993c3a",
+      "width": 153,
+      "height": 168,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/qa/source-crops/rosybuns/views/three_quarter_b.png",
+      "bytes": 59118,
+      "sha256": "b1ca1d686b41c8c66e146f2c60882227d18c5b9e41879602d7316bb6726ea922",
+      "width": 188,
+      "height": 187,
+      "mode": "RGB"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/base/giant.webp",
+      "bytes": 703870,
+      "sha256": "1f87a3f2fd0083b236ea84cdb6f88d9fa1533b763e5ae63f73a37d1227e37ad6",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/base/medium.webp",
+      "bytes": 337384,
+      "sha256": "297759e24311a2fa0e4ae820857536fb1545ea248f0ed4ff4f4bf6ed475ec893",
+      "width": 768,
+      "height": 768,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/base/small.webp",
+      "bytes": 145654,
+      "sha256": "fe44e52a54a01f35c9f687158133c9ce66fb356e75895d56d040b2cd20e1f9d9",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/angry.webp",
+      "bytes": 151258,
+      "sha256": "af7cc53d5daccfa23903dc08bdf4a99b257bbdbf37f342b630ea61e2f492cee8",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/happy.webp",
+      "bytes": 166884,
+      "sha256": "557f9099152d6fd5fe698b32be9841eacc605c2d0c316cb47d9336c4db9c4b1d",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/kiss.webp",
+      "bytes": 141024,
+      "sha256": "bfc9d4feae008224151d505249560a6e0bb64ad9b8099f59e2840536f7d2ffad",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/laugh.webp",
+      "bytes": 159072,
+      "sha256": "691b3f5aaad112262b9c97369bdd06dba1123683627c503a06317f3b6d276212",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/love.webp",
+      "bytes": 148000,
+      "sha256": "f92758abf4537b2f43402ee54cf20dbfac771b330d66f9e2d42b59824a588389",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/sad.webp",
+      "bytes": 160322,
+      "sha256": "62045275c50d5115bcd87a1fcff6595f1f30fdb9c869109ef90efd5097bc839c",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/sleepy.webp",
+      "bytes": 143826,
+      "sha256": "f44798ea742ec89362f12c1afc1bb176145e9b65da6efc64cad7acf992946099",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/star_eyes.webp",
+      "bytes": 160560,
+      "sha256": "60d5c5efb36c8622ed8788c7a56e65206c6e0364c2505dc62bb71eb86a37db42",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/expressions/surprised.webp",
+      "bytes": 154056,
+      "sha256": "a1f05760a369fb91e949e9bf1c53fd7f192adb82ad5ddb78436e8744020b1391",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/back_a.webp",
+      "bytes": 147518,
+      "sha256": "a4d4306b47007a8f5d8df788c80d5199ce138e90a7d0fc71c2660e827ff96167",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/back_b.webp",
+      "bytes": 151414,
+      "sha256": "fa123971a0fd65a5fb7be72e8b6f8c370aa90f2698c06644f74e6c50f9959fc2",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/front_a.webp",
+      "bytes": 138724,
+      "sha256": "07cf250c190ebb84e5e8e5cd3a0860a850a00ef87ec10d6e202719d9906f374c",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/front_b.webp",
+      "bytes": 171032,
+      "sha256": "1566e9440de2955e1c7b4fdecb80ab3c70fda3f969ffc78408fc7ff86d49b0b8",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/side_a.webp",
+      "bytes": 120590,
+      "sha256": "0a4e37cb7eea502aa038cb241da9c9b4391f8cee9387a222034c85189fee0364",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/side_b.webp",
+      "bytes": 108600,
+      "sha256": "596154bd781bfc3169c54a2879781e65bc2e01347beb491fa072d67b74a709e8",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/three_quarter_a.webp",
+      "bytes": 131040,
+      "sha256": "8154686bbb5afd91d317e71af8d2452d9f3af3353d9de53e667f2b8ceddf5c2b",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "assets/characters/rosybuns/webp/rosybuns/views/three_quarter_b.webp",
+      "bytes": 164038,
+      "sha256": "103d61602d87a66340a9de6c2f26f17c61e65d42c8f986353858562c20700cae",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA"
+    },
+    {
+      "path": "qa/README.md",
+      "bytes": 1003,
+      "sha256": "c744f20113ec96c60bb0ad1cf1ce5110dd287620540a9cd550fa6682c00764f1"
+    },
+    {
+      "path": "references/locked/rosybuns/extraction-source.png",
+      "bytes": 2340394,
+      "sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB"
+    },
+    {
+      "path": "references/locked/rosybuns/original-upload.png",
+      "bytes": 3156301,
+      "sha256": "905fd1d5fcfff560fda7c5b5a45870335c30c850eeabfdafb9ee32650469dc3c",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA"
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+[
+  {
+    "family": "rosybuns",
+    "kind": "base",
+    "name": "small",
+    "box": [
+      126,
+      180,
+      306,
+      355
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      126,
+      180,
+      306,
+      355
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/base/small.png",
+    "webp": "webp/rosybuns/base/small.webp",
+    "native_png": "native/rosybuns/base/small.png",
+    "native_canvas_px": [
+      214,
+      214
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      217,
+      283
+    ],
+    "native_crop_offset_xy": [
+      16,
+      4
+    ],
+    "body_diameter_native_px": 141,
+    "body_diameter_export_px": 337.3457943925234,
+    "upscale_factor": 2.392523364485981,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "base",
+    "name": "medium",
+    "box": [
+      307,
+      88,
+      582,
+      354
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      307,
+      88,
+      582,
+      354
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/base/medium.png",
+    "webp": "webp/rosybuns/base/medium.webp",
+    "native_png": "native/rosybuns/base/medium.png",
+    "native_canvas_px": [
+      310,
+      310
+    ],
+    "export_canvas_px": [
+      768,
+      768
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      451,
+      240
+    ],
+    "native_crop_offset_xy": [
+      11,
+      3
+    ],
+    "body_diameter_native_px": 226,
+    "body_diameter_export_px": 559.8967741935484,
+    "upscale_factor": 2.47741935483871,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "base",
+    "name": "giant",
+    "box": [
+      586,
+      5,
+      974,
+      358
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      586,
+      5,
+      974,
+      358
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/base/giant.png",
+    "webp": "webp/rosybuns/base/giant.webp",
+    "native_png": "native/rosybuns/base/giant.png",
+    "native_canvas_px": [
+      414,
+      414
+    ],
+    "export_canvas_px": [
+      1024,
+      1024
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      790,
+      186
+    ],
+    "native_crop_offset_xy": [
+      3,
+      26
+    ],
+    "body_diameter_native_px": 342,
+    "body_diameter_export_px": 845.9130434782609,
+    "upscale_factor": 2.473429951690821,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "happy",
+    "box": [
+      23,
+      622,
+      190,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      23,
+      622,
+      190,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/happy.png",
+    "webp": "webp/rosybuns/expressions/happy.webp",
+    "native_png": "native/rosybuns/expressions/happy.png",
+    "native_canvas_px": [
+      178,
+      178
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      109,
+      708
+    ],
+    "native_crop_offset_xy": [
+      3,
+      3
+    ],
+    "body_diameter_native_px": 150,
+    "body_diameter_export_px": 431.46067415730334,
+    "upscale_factor": 2.8764044943820224,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "laugh",
+    "box": [
+      193,
+      622,
+      358,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      193,
+      622,
+      358,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/laugh.png",
+    "webp": "webp/rosybuns/expressions/laugh.webp",
+    "native_png": "native/rosybuns/expressions/laugh.png",
+    "native_canvas_px": [
+      182,
+      182
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      280,
+      707
+    ],
+    "native_crop_offset_xy": [
+      4,
+      6
+    ],
+    "body_diameter_native_px": 147,
+    "body_diameter_export_px": 413.53846153846155,
+    "upscale_factor": 2.8131868131868134,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "star_eyes",
+    "box": [
+      363,
+      623,
+      528,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      363,
+      623,
+      528,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/star_eyes.png",
+    "webp": "webp/rosybuns/expressions/star_eyes.webp",
+    "native_png": "native/rosybuns/expressions/star_eyes.png",
+    "native_canvas_px": [
+      178,
+      178
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      448,
+      708
+    ],
+    "native_crop_offset_xy": [
+      4,
+      4
+    ],
+    "body_diameter_native_px": 143,
+    "body_diameter_export_px": 411.3258426966292,
+    "upscale_factor": 2.8764044943820224,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "surprised",
+    "box": [
+      533,
+      626,
+      695,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      533,
+      626,
+      695,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/surprised.png",
+    "webp": "webp/rosybuns/expressions/surprised.webp",
+    "native_png": "native/rosybuns/expressions/surprised.png",
+    "native_canvas_px": [
+      180,
+      180
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      613,
+      712
+    ],
+    "native_crop_offset_xy": [
+      10,
+      4
+    ],
+    "body_diameter_native_px": 141,
+    "body_diameter_export_px": 401.06666666666666,
+    "upscale_factor": 2.8444444444444446,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "sad",
+    "box": [
+      697,
+      626,
+      858,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      697,
+      626,
+      858,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/sad.png",
+    "webp": "webp/rosybuns/expressions/sad.webp",
+    "native_png": "native/rosybuns/expressions/sad.png",
+    "native_canvas_px": [
+      176,
+      176
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      780,
+      711
+    ],
+    "native_crop_offset_xy": [
+      5,
+      3
+    ],
+    "body_diameter_native_px": 144,
+    "body_diameter_export_px": 418.90909090909093,
+    "upscale_factor": 2.909090909090909,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "angry",
+    "box": [
+      861,
+      625,
+      1026,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      861,
+      625,
+      1026,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/angry.png",
+    "webp": "webp/rosybuns/expressions/angry.webp",
+    "native_png": "native/rosybuns/expressions/angry.png",
+    "native_canvas_px": [
+      182,
+      182
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      946,
+      712
+    ],
+    "native_crop_offset_xy": [
+      6,
+      4
+    ],
+    "body_diameter_native_px": 141,
+    "body_diameter_export_px": 396.65934065934067,
+    "upscale_factor": 2.8131868131868134,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "sleepy",
+    "box": [
+      1028,
+      629,
+      1182,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      1028,
+      629,
+      1182,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/sleepy.png",
+    "webp": "webp/rosybuns/expressions/sleepy.webp",
+    "native_png": "native/rosybuns/expressions/sleepy.png",
+    "native_canvas_px": [
+      178,
+      178
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      1107,
+      714
+    ],
+    "native_crop_offset_xy": [
+      10,
+      4
+    ],
+    "body_diameter_native_px": 137,
+    "body_diameter_export_px": 394.0674157303371,
+    "upscale_factor": 2.8764044943820224,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "love",
+    "box": [
+      1186,
+      625,
+      1348,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      1186,
+      625,
+      1348,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/love.png",
+    "webp": "webp/rosybuns/expressions/love.webp",
+    "native_png": "native/rosybuns/expressions/love.png",
+    "native_canvas_px": [
+      180,
+      180
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      1270,
+      712
+    ],
+    "native_crop_offset_xy": [
+      6,
+      3
+    ],
+    "body_diameter_native_px": 142,
+    "body_diameter_export_px": 403.9111111111111,
+    "upscale_factor": 2.8444444444444446,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "expressions",
+    "name": "kiss",
+    "box": [
+      1352,
+      623,
+      1516,
+      784
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      1352,
+      623,
+      1516,
+      784
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/expressions/kiss.png",
+    "webp": "webp/rosybuns/expressions/kiss.webp",
+    "native_png": "native/rosybuns/expressions/kiss.png",
+    "native_canvas_px": [
+      190,
+      190
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      1439,
+      714
+    ],
+    "native_crop_offset_xy": [
+      8,
+      4
+    ],
+    "body_diameter_native_px": 137,
+    "body_diameter_export_px": 369.17894736842106,
+    "upscale_factor": 2.694736842105263,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "front_a",
+    "box": [
+      39,
+      428,
+      187,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      39,
+      428,
+      187,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/front_a.png",
+    "webp": "webp/rosybuns/views/front_a.webp",
+    "native_png": "native/rosybuns/views/front_a.png",
+    "native_canvas_px": [
+      184,
+      184
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      115,
+      516
+    ],
+    "native_crop_offset_xy": [
+      16,
+      4
+    ],
+    "body_diameter_native_px": 133,
+    "body_diameter_export_px": 370.0869565217391,
+    "upscale_factor": 2.782608695652174,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "three_quarter_a",
+    "box": [
+      207,
+      416,
+      360,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      207,
+      416,
+      360,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/three_quarter_a.png",
+    "webp": "webp/rosybuns/views/three_quarter_a.webp",
+    "native_png": "native/rosybuns/views/three_quarter_a.png",
+    "native_canvas_px": [
+      202,
+      202
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      288,
+      513
+    ],
+    "native_crop_offset_xy": [
+      20,
+      4
+    ],
+    "body_diameter_native_px": 139,
+    "body_diameter_export_px": 352.3168316831683,
+    "upscale_factor": 2.5346534653465347,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "side_a",
+    "box": [
+      382,
+      416,
+      535,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      382,
+      416,
+      535,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/side_a.png",
+    "webp": "webp/rosybuns/views/side_a.webp",
+    "native_png": "native/rosybuns/views/side_a.png",
+    "native_canvas_px": [
+      202,
+      202
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      464,
+      514
+    ],
+    "native_crop_offset_xy": [
+      19,
+      3
+    ],
+    "body_diameter_native_px": 138,
+    "body_diameter_export_px": 349.7821782178218,
+    "upscale_factor": 2.5346534653465347,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "back_a",
+    "box": [
+      554,
+      424,
+      712,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      554,
+      424,
+      712,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/back_a.png",
+    "webp": "webp/rosybuns/views/back_a.webp",
+    "native_png": "native/rosybuns/views/back_a.png",
+    "native_canvas_px": [
+      184,
+      184
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      640,
+      512
+    ],
+    "native_crop_offset_xy": [
+      6,
+      4
+    ],
+    "body_diameter_native_px": 139,
+    "body_diameter_export_px": 386.7826086956522,
+    "upscale_factor": 2.782608695652174,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "front_b",
+    "box": [
+      784,
+      390,
+      979,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      784,
+      390,
+      979,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/front_b.png",
+    "webp": "webp/rosybuns/views/front_b.webp",
+    "native_png": "native/rosybuns/views/front_b.png",
+    "native_canvas_px": [
+      214,
+      214
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      887,
+      493
+    ],
+    "native_crop_offset_xy": [
+      4,
+      4
+    ],
+    "body_diameter_native_px": 179,
+    "body_diameter_export_px": 428.2616822429907,
+    "upscale_factor": 2.392523364485981,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "three_quarter_b",
+    "box": [
+      985,
+      397,
+      1173,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      985,
+      397,
+      1173,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/three_quarter_b.png",
+    "webp": "webp/rosybuns/views/three_quarter_b.webp",
+    "native_png": "native/rosybuns/views/three_quarter_b.png",
+    "native_canvas_px": [
+      208,
+      208
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      1082,
+      498
+    ],
+    "native_crop_offset_xy": [
+      7,
+      3
+    ],
+    "body_diameter_native_px": 170,
+    "body_diameter_export_px": 418.46153846153845,
+    "upscale_factor": 2.4615384615384617,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "side_b",
+    "box": [
+      1178,
+      403,
+      1336,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      1178,
+      403,
+      1336,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/side_b.png",
+    "webp": "webp/rosybuns/views/side_b.webp",
+    "native_png": "native/rosybuns/views/side_b.png",
+    "native_canvas_px": [
+      224,
+      224
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      1260,
+      511
+    ],
+    "native_crop_offset_xy": [
+      30,
+      4
+    ],
+    "body_diameter_native_px": 143,
+    "body_diameter_export_px": 326.85714285714283,
+    "upscale_factor": 2.2857142857142856,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  },
+  {
+    "family": "rosybuns",
+    "kind": "views",
+    "name": "back_b",
+    "box": [
+      1342,
+      399,
+      1519,
+      584
+    ],
+    "pivot": null,
+    "source": "Rosybuns Fluffy Family Design Board-1.png",
+    "source_rect_xyxy": [
+      1342,
+      399,
+      1519,
+      584
+    ],
+    "source_sha256": "a12fef73aaeb53d86f394fbf181e520bbb50ec15bfa1ec172e497a714a7bed94",
+    "png": "png/rosybuns/views/back_b.png",
+    "webp": "webp/rosybuns/views/back_b.webp",
+    "native_png": "native/rosybuns/views/back_b.png",
+    "native_canvas_px": [
+      216,
+      216
+    ],
+    "export_canvas_px": [
+      512,
+      512
+    ],
+    "pivot_normalized": [
+      0.5,
+      0.5
+    ],
+    "source_pivot_xy": [
+      1434,
+      504
+    ],
+    "native_crop_offset_xy": [
+      16,
+      3
+    ],
+    "body_diameter_native_px": 158,
+    "body_diameter_export_px": 374.51851851851853,
+    "upscale_factor": 2.3703703703703702,
+    "alpha_method": "color-seeded foreground/background edge matting; original RGB retained",
+    "qa_status": "extracted_review_required",
+    "limitations": [
+      "Flattened background may remain in semitransparent edge RGB.",
+      "Pivot is a visual body-center estimate, not a recovered rig.",
+      "No hidden fur reconstructed; no independent facial layers."
+    ]
+  }
+]
