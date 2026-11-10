@@ -1,0 +1,18 @@
+[
+  {
+    "file": "fonts/baloo2/Baloo2[wght].ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baloo2/Baloo2%5Bwght%5D.ttf"
+  },
+  {
+    "file": "fonts/baloo2/OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baloo2/OFL.txt"
+  },
+  {
+    "file": "fonts/quicksand/OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/quicksand/OFL.txt"
+  },
+  {
+    "file": "fonts/quicksand/Quicksand[wght].ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/quicksand/Quicksand%5Bwght%5D.ttf"
+  }
+]

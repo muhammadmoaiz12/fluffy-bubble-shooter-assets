@@ -76,3 +76,7 @@ The earlier ChatGPT ZIP was not accessible and has not been recovered. The local
 Sign into the owning GitHub account, then choose **Code → Download ZIP**. Unzip and open `locked/rosybuns/v1/preview.html` locally to inspect expressions, turntable, bounce, blink and hit/pop, adjust sprite size and change the background. GitHub shows HTML source rather than running it.
 
 No open-source license is granted. Preserve the user's artwork and provenance.
+
+## Puff Trails brand assets
+
+[Browse the brand pack](locked/puff-trails-brand/v1/README.md): 45 individual generated assets, PNG and lossless WebP size exports, 15 sampled palette swatches, Baloo 2 and Quicksand fonts with licenses, and light/dark previews. The supplied board is preserved inside the pack. Visual approval and in-game testing remain pending; earlier character packs are unchanged.

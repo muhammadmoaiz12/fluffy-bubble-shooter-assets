@@ -1,0 +1,321 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "app-icons/characters",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Icon with Characters export bottom: square softly rounded purple app icon, pink bunny upper-left, green leaf-top fluff at top center, golden sun puff upper-right, purple horned fluff lower-left, peach curl fluff lower-right and blue bird front center. Match board characters faithfully. No words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/app-icons/characters.png",
+      "sha256": "63b4c8e6950fda5ff74ac59eb467f08c1a929cf7785affd19cb52cea8922d6b8"
+    },
+    {
+      "id": "app-icons/rosybun",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: App Icon (Final) in upper-right: square blue-sky gradient app icon with softly rounded corners, smiling pink fluffy long-eared bunny rising from lavender clouds, small gold star upper-right. Match that exact bunny, not previous family boards. No words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/app-icons/rosybun.png",
+      "sha256": "c71a1191951dec8840471789955845deb27cb03a294dd69702bf81dc51cce1dc"
+    },
+    {
+      "id": "app-icons/simple",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: App Icon (Simple) export bottom: square softly rounded glossy purple/lavender app icon with exact 'Puff Trails' pink-white fluffy Puff over golden Trails, gold inner border and subtle sparkles. No characters. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/app-icons/simple.png",
+      "sha256": "dc3d9687b4c4a6a14d6b3986cd55dbb6faec708f95a2b55d92baf95cd1e8118a"
+    },
+    {
+      "id": "backgrounds/world",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Background & Texture world image: bright storybook fantasy floating green islands with waterfalls, winding path, flowers, lavender clouds, bright blue sky, distant pink castle on upper-right island. Full-bleed landscape environment, no characters, logos, typography or panels. Faithfully match board world. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/backgrounds/world.png",
+      "sha256": "f0133dfb123b84eaeb9440cdbd9f20818a3980a680342a5fe007ece1854af6cb"
+    },
+    {
+      "id": "buttons/levels",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI Elements & Buttons: ONE wide pill Levels button, glossy lavender top deep purple bottom with slim lavender rim, exact white 'Levels' lettering deep purple outline, small white folded map icon with purple marks on left. Front-on. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/buttons/levels.png",
+      "sha256": "bc54fab20232e6dfbf50fbe05b189c8ea32e347ee0db2c9ec9a41536ede4b2c7"
+    },
+    {
+      "id": "buttons/play",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI Elements & Buttons: ONE wide pill Play button, glossy warm yellow top orange bottom with thin gold rim, exact white 'Play' lettering red outline and right-facing white triangle red outline to right. Front-on, no perspective. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/buttons/play.png",
+      "sha256": "37bb3c5cb6a30eee2139a496a40618fd25bc82b1b1f8a891670b0531c29bd0cf"
+    },
+    {
+      "id": "buttons/rewards",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI Elements & Buttons: ONE wide pill Rewards button, glossy pink top magenta bottom with rim, exact white 'Rewards' lettering dark pink outline, small white gold/pink gift box on left. Front-on. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/buttons/rewards.png",
+      "sha256": "b6e8b0dca4c37f2fee035f1ec6a8c91978d0e007df49d41f625a8b11cb999d71"
+    },
+    {
+      "id": "buttons/worlds",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI Elements & Buttons: ONE wide pill Worlds button, glossy cyan top blue bottom with blue rim, exact white 'Worlds' lettering blue outline, small white and blue globe on left. Front-on. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/buttons/worlds.png",
+      "sha256": "f0870491cdb0d417c37aa67a36fb73988c5a5191496cc24acd9abc5750a4e1fc"
+    },
+    {
+      "id": "characters/mossmops",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Mossmops bright green round fluffy creature, two broad green leaves on top, glossy black green eyes, small happy open mouth, pink cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/characters/mossmops.png",
+      "sha256": "214ae86ab5ca24a568d7b37d71dd5bb0e867f8cdc81b5220086bcc418d275874"
+    },
+    {
+      "id": "characters/peachpeeps",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Peachpeeps peach-orange round fluffy creature, curled orange tuft atop head, glossy brown-black eyes, happy open mouth and rosy cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/characters/peachpeeps.png",
+      "sha256": "8ee1c1532ba8451541a8650f78d0379bd05ed656bfb41f910e11cbdb944dd878"
+    },
+    {
+      "id": "characters/plumplets",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Plumplets purple round fluffy creature, two brown curled horns, glossy violet-black eyes, tiny happy open mouth and pink cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/characters/plumplets.png",
+      "sha256": "781c9ee0bb12a031a6e4c876c958fa295e7b9325106ed3284a435fb925b5364d"
+    },
+    {
+      "id": "characters/rosybuns",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Rosybuns pink round fluffy bunny portrait, two LONG upright pink-lined ears, glossy black purple eyes, tiny happy open mouth and rosy cheeks. Whole body, no badge or words. Preserve this board's design. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/characters/rosybuns.png",
+      "sha256": "8f73025ecb158fff9c15ca645ae7cdb10a8632a78a86565670798651d7ee5d23"
+    },
+    {
+      "id": "characters/skydoodles",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Skydoodles sky-blue fluffy bird, top feather tuft, small outspread blue wings, white belly, glossy black blue eyes, small golden beak, blush cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/characters/skydoodles.png",
+      "sha256": "8be693e088395bdad5fdc6db9213cdadc699ea1fbbd8a4ee73f0172c81d923fe"
+    },
+    {
+      "id": "characters/sunpuffs",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Six Fluffy Families row: ONE Sunpuffs golden-yellow round fluffy creature, triangular sunny spikes around head, glossy amber-black eyes, happy open mouth, peach cheeks. Whole body no badge or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/characters/sunpuffs.png",
+      "sha256": "2359428caaf8ee47863ee23d844cd82522e96dd5738cd7de408dcb5c7c77ee9f"
+    },
+    {
+      "id": "decor/cloud-base",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Logo component Cloud Base: standalone layered dreamy white clouds with pale lavender shadows, horizontal cushion arrangement. No lettering, stars or characters. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/decor/cloud-base.png",
+      "sha256": "1bb7fca68dcd4e02593bb0328ddcf0cd318b1e93322e990526dc072f0e80f9d7"
+    },
+    {
+      "id": "decor/magic-trail",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Logo component Magic Trail & Star: one golden star on a sweeping golden-yellow and pink curved magical swoosh, complete isolated decorative effect, no lettering, clouds or characters. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/decor/magic-trail.png",
+      "sha256": "d54c22ae0f6d5629391ce79d24f188d8c7cadabb2e3dc1de7ef41e98d6486cb0"
+    },
+    {
+      "id": "decor/puff-lettering",
+      "prompt": "Use case: logo-brand. Visual reference is attached brand board. Generate one standalone individual game asset: ONLY word 'Puff', exact lettering from main logo: white-pink fluffy plush chunky rounded letters. No purple backing, no Trails, no stars or clouds. Standalone logo component. Match board style. Transparent RGBA background with no checkerboard, no panel and no ambient backdrop. Centered, whole silhouette, 8% padding.",
+      "transparent": true,
+      "source_file": "sources/generated/decor/puff-lettering.png",
+      "sha256": "58252338cc70af827bb64122dd4090c9a54e85907dcc9f1dce0de5b5e870f580"
+    },
+    {
+      "id": "decor/trails-lettering",
+      "prompt": "Use case: logo-brand. Visual reference is attached brand board. Generate one standalone individual game asset: ONLY word 'Trails', exact lettering from main logo: glossy golden yellow-orange dimensional chunky rounded lettering with dark warm orange lower edge. No Puff, no backing, no stars or clouds. Standalone logo component. Match board style. Transparent RGBA background with no checkerboard, no panel and no ambient backdrop. Centered, whole silhouette, 8% padding.",
+      "transparent": true,
+      "source_file": "sources/generated/decor/trails-lettering.png",
+      "sha256": "3f93c9beca6b1248e5f1d50ce53cfa26c247acc82fd357e0f5c7ad8f7c7d1bf0"
+    },
+    {
+      "id": "hero/brand-scene",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Recreate ONLY the upper-left hero illustration as standalone wide landscape: exact large Puff Trails plush white-pink and golden logo on lavender cloud base with gold stars and swoosh, pink long-eared bunny left, blue fluffy bird above, green two-leaf fluff top-middle, gold sun puff top-right, purple horned fluff right; fantasy waterfall floating islands, pastel clouds and pink castle. No board, labels, panels or other text except exact 'Puff Trails'. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/hero/brand-scene.png",
+      "sha256": "4fbcc7c918185ddd9f6afa89bf8a9c6a22408a9af0373b53de1e3fae6bbebf6e"
+    },
+    {
+      "id": "icons/coin",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI currency icon: ONE glossy golden round coin, thick orange-gold rim, embossed paw-print symbol at center, slight dimensional bevel but front-facing. No text. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/coin.png",
+      "sha256": "8181caf736d019622936c17c3e17f5e8a0fe7e619353c0ed721557d5ff4fcd60"
+    },
+    {
+      "id": "icons/energy",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI energy icon: ONE glossy cyan-blue lightning bolt, sharp zigzag shape with bright pale-blue highlights and deep-blue edges. No text. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/energy.png",
+      "sha256": "a5609761080309180b5b155f423a106339cde42108c9236b38384f5a95ea71fb"
+    },
+    {
+      "id": "icons/favicon-star-cloud",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Favicon export bottom-right: one glossy golden five-point star resting on three fluffy lavender-white clouds. No text, no container. Isolated complete silhouette. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/favicon-star-cloud.png",
+      "sha256": "d39ac7a99db77bcf492fba4389e3a18becfe4d0e30b3d21dd92c9e13800789d2"
+    },
+    {
+      "id": "icons/gem",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI currency icon: ONE faceted pink diamond gemstone, broad flat top, pointed lower tip, hot-magenta sides and pale pink highlights. No text. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/gem.png",
+      "sha256": "e8bbb1fcf457f391c78c8a55e9510b19c7e4062ecde31a31e5ff9d89384abfca"
+    },
+    {
+      "id": "icons/gift",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Standalone small gift symbol from Rewards button: white present box with gold/pink ribbon and bow, dimensional game icon. No button or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/gift.png",
+      "sha256": "d1aa4160f24be03716866a4a717d1ffcce6667a41b9a2db55aacfaa4867e0daa"
+    },
+    {
+      "id": "icons/globe",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Standalone small globe symbol from Worlds button: white-and-blue round earth icon. No button or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/globe.png",
+      "sha256": "6c45bb0d7824358873fcdea28a819754772aa7f606045fb6e380a13025c12b92"
+    },
+    {
+      "id": "icons/heart",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI life icon: ONE glossy hot-pink heart, rich magenta lower edge, white/lavender outer bevel, two white shine spots upper-left. No text. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/heart.png",
+      "sha256": "59bb36a6f417ab1a2c167baa2d10d5c390f1b6c80cf72e84a5e436a769dcb814"
+    },
+    {
+      "id": "icons/map",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Standalone small map symbol from Levels button: folded white map with purple location marks and purple edge. No button or words. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/map.png",
+      "sha256": "8082c9b17e1f71336d0cc45df6aa1997fe90a691a969d7eb1330a155ff6e91cf"
+    },
+    {
+      "id": "icons/play-triangle",
+      "prompt": "Use case: logo-brand. Visual reference is attached brand board. Generate one standalone individual game asset: ONE right-facing white rounded triangular play symbol with bold warm red-orange outline, exactly the icon from the Play button. No button or text. Match board style. Transparent RGBA background with no checkerboard, no panel and no ambient backdrop. Centered, whole silhouette, 8% padding.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/play-triangle.png",
+      "sha256": "1b79c9fdcbec5bdd283d59fdd935b8fa59781c2f6136aec2c0db21627c0969aa"
+    },
+    {
+      "id": "icons/sparkle",
+      "prompt": "Use case: logo-brand. Visual reference is attached brand board. Generate one standalone individual game asset: ONE four-point glowing pale gold-white sparkle from the fantasy background, thin elongated diamond star and very subtle golden halo. No other objects. Match board style. Transparent RGBA background with no checkerboard, no panel and no ambient backdrop. Centered, whole silhouette, 8% padding.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/sparkle.png",
+      "sha256": "5e9e17a75f1b4d01c3fab2bdd68fed4f36f6eb823bb917d5b0ce774fd561c60e"
+    },
+    {
+      "id": "icons/star-empty",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI rating icon: ONE inactive five-point star, pale icy lavender-gray interior, white and lavender beveled outline, same rounded form as filled gold star. No text. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/star-empty.png",
+      "sha256": "57fa04c743bd421d144bc230005fb8446914199952dfe9ae2d691ff621e84179"
+    },
+    {
+      "id": "icons/star-gold",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI rating icon: ONE glossy golden yellow five-point star, orange rim, white upper-left shine, puffy rounded bevel. No text. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/icons/star-gold.png",
+      "sha256": "414adc611a596813b57ec0e6b2a5243da2f88e28dabb0778782b1108249f8698"
+    },
+    {
+      "id": "logos/main",
+      "prompt": "Use case: logo-brand. Reference image: Puff Trails brand board. Create ONE isolated main full-color Puff Trails logo faithfully matching the Main Logo (Transparent PNG) in the bottom-left export set: exact words 'Puff Trails', Puff in soft white-pink fluffy plush lettering, Trails glossy golden yellow-orange rounded lettering, thick dark purple dimensional outline, gold star at left, small gold star top-right, golden swoosh circling right, lavender white cloud base. No characters, no scene, no panel, no captions, no additional text. Large clean detailed game brand asset, centered complete silhouette with generous transparent padding, genuine RGBA transparent background, no checkerboard baked in. Preserve reference design and lettering. This is a standalone asset, not a board.",
+      "transparent": true,
+      "source_file": "sources/generated/logos/main.png",
+      "sha256": "7eebdf7765d953a360df89331e9299a9972e060b11cc36a92018cc5c7770fbab"
+    },
+    {
+      "id": "logos/mono-black",
+      "prompt": "Use case: logo-brand. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Monochrome Black (For Light BG) export bottom: exact 'Puff Trails' lettering rendered as black outlines with white letter interiors and tiny stars, cloud base and swoosh. Crisp flat black and white; outside silhouette transparent. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping, no captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/logos/mono-black.png",
+      "sha256": "0e24b62ccd6ff9271fd7ec11f21309a8ec6506d12b64faaf333ea1d0e3b0112f"
+    },
+    {
+      "id": "logos/mono-purple",
+      "prompt": "Use case: logo-brand. Visual reference is attached brand board. Generate one standalone individual game asset: ONE Mono Logo (Single Color) variation from upper-right board: exact Puff Trails in white interiors with dark-purple outlines, small stars and a swoosh-cloud underline. Flat clean outline logo, no gradients or glow. Match board style. Transparent RGBA background with no checkerboard, no panel and no ambient backdrop. Centered, whole silhouette, 8% padding.",
+      "transparent": true,
+      "source_file": "sources/generated/logos/mono-purple.png",
+      "sha256": "ea942fbf291339694cf4ec74d79b6a7eda22ddeb08a1802c029ae741e61d5ef2"
+    },
+    {
+      "id": "logos/mono-white",
+      "prompt": "Use case: logo-brand. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Monochrome White (For Dark BG) export: exact 'Puff Trails', flat opaque WHITE lettering, white stars, white cloud base and swoosh. Negative spaces TRANSPARENT, absolutely no dark filled background. Single ink white logo visible on dark surfaces. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/logos/mono-white.png",
+      "sha256": "0ddd13f33bb04b4bd20a5d193d8e52d8041bf7bdb5a45c9468e75761203395eb"
+    },
+    {
+      "id": "logos/solid-dark",
+      "prompt": "Use case: logo-brand. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Solid Logo (Dark BG) variation in upper-right: exact 'Puff Trails' white rounded hand-lettered script on a solid deep purple compact silhouette, small stars and cloud/scallop base. Flat crisp two-color logo, no gradients. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping, no captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/logos/solid-dark.png",
+      "sha256": "545b26af60a587c62bb5792ab50bf6ae36c071b113c5232b6be92d3d5ef86cee"
+    },
+    {
+      "id": "logos/wordmark",
+      "prompt": "Use case: logo-brand. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Wordmark Only export: exact text 'Puff Trails'; fluffy pink-white Puff above glossy yellow-orange Trails, dark purple dimensional outline. No clouds, stars, trails, characters or background. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping, no captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/logos/wordmark.png",
+      "sha256": "a974b59f53598db16e1ac4d1b321ecc5e656f9275e3c5d5c2b78a351dc88ee8f"
+    },
+    {
+      "id": "textures/clouds",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Background & Texture cloud swatch: full-bleed square dreamy lavender pink and white clouds with soft volumetric lighting. No rounded border, words or objects. Texture only. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/textures/clouds.png",
+      "sha256": "49bfed492b01f811f9e6359af15b14b5922bdeb9ffda357098329a27ae418b07"
+    },
+    {
+      "id": "textures/golden-gloss",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Logo component Trails Text material swatch: full-bleed square smooth golden yellow upper-left through amber orange lower-right glossy candy finish with broad soft highlight. No letters, borders or objects. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/textures/golden-gloss.png",
+      "sha256": "8e96ed2f81b769ce3bcaeeb2dccda10c94a60c30961e28ddfe5a389a314dd310"
+    },
+    {
+      "id": "textures/magic-gradient",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Background & Texture magical pastel swatch: full-bleed square lavender upper-left fading pink and warm pale gold bottom, a few soft glowing white four-point sparkles. No border or text. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/textures/magic-gradient.png",
+      "sha256": "d9782b7ff5b5f059332e09706863aac54639e2f3cfc226ed8bb46f223e7f3bfd"
+    },
+    {
+      "id": "textures/pink-plush",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Logo component Fluffy Text (Puff) material swatch: full-bleed square soft pink-white plush fur with fine silky fibers flowing diagonally, light pink shadows, no letters or border. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/textures/pink-plush.png",
+      "sha256": "8b16f24d602351229b431c51d43f5985ed49da6e93c40730f358056b0a9d1a16"
+    },
+    {
+      "id": "textures/purple-fur",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: Background & Texture purple fur swatch: full-bleed square close-up of soft fluffy violet fur radiating gently, detailed strands, lavender highlights and purple shadows. No rounded border or panel. No text. Texture only. Faithfully match the referenced design, colors and materials. Full bleed artwork, no surrounding board. No captions or watermarks. Opaque finished artwork.",
+      "transparent": false,
+      "source_file": "sources/generated/textures/purple-fur.png",
+      "sha256": "df7891bc6e122d2c07e51e4d15c462f59400ebfdd678664480522c4d9715d06b"
+    },
+    {
+      "id": "ui/character-nameplate",
+      "prompt": "Use case: logo-brand. Visual reference is attached brand board. Generate one standalone individual game asset: ONE blank character nameplate from Six Fluffy Families row: white/light lavender horizontally rounded capsule with soft lavender beveled border and slight shadow. No character, symbols or text. Match board style. Transparent RGBA background with no checkerboard, no panel and no ambient backdrop. Centered, whole silhouette, 8% padding.",
+      "transparent": true,
+      "source_file": "sources/generated/ui/character-nameplate.png",
+      "sha256": "f625ac119ec1f1074407d713a9dabfc25e68a8f70c00703f1295fcb49b80eb99"
+    },
+    {
+      "id": "ui/progress-fill",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI progress bar: golden yellow-orange glossy rounded capsule fill ONLY, no track, no text. Wide horizontal pill. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/ui/progress-fill.png",
+      "sha256": "cdba453541821a6621ed0267455870734433a612020d3a6e4f2399094bbc45d6"
+    },
+    {
+      "id": "ui/progress-track",
+      "prompt": "Use case: stylized-concept. Input image is the visual reference board. Generate exactly ONE individual asset, not a sheet: UI progress bar: empty wide rounded capsule track, deep lavender recessed interior, pale pink-white outside border. No fill, words or symbols. Faithfully match the referenced design, colors and materials. Center the complete asset with 8% clear padding, no clipping. No captions or watermarks. Genuine transparent RGBA background, no backdrop, no checkerboard, no ambient glow outside object.",
+      "transparent": true,
+      "source_file": "sources/generated/ui/progress-track.png",
+      "sha256": "67c4daebb6be4e8ec698126daac4f8f0ad5166dc200c6d019d2320c7e0e15b2d"
+    }
+  ],
+  "processing": "Alpha values below 16 removed, near-opaque interiors restored, tiny disconnected specks removed, transparent RGB cleared; proportional resize and centering. Original generated sources retained. No prior family assets modified."
+}

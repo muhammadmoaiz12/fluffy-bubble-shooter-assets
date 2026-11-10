@@ -1,0 +1,1656 @@
+{
+  "name": "Puff Trails brand assets",
+  "version": "1.0.0-candidate",
+  "assets": [
+    {
+      "id": "app-icons/characters",
+      "master": "masters/app-icons/characters.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/app-icons/characters.png",
+          "webp": "webp/128/app-icons/characters.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/app-icons/characters.png",
+          "webp": "webp/256/app-icons/characters.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/app-icons/characters.png",
+          "webp": "webp/512/app-icons/characters.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        "1024": {
+          "png": "masters/app-icons/characters.png",
+          "dimensions": [
+            1024,
+            1024
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "app-icons/rosybun",
+      "master": "masters/app-icons/rosybun.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/app-icons/rosybun.png",
+          "webp": "webp/128/app-icons/rosybun.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/app-icons/rosybun.png",
+          "webp": "webp/256/app-icons/rosybun.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/app-icons/rosybun.png",
+          "webp": "webp/512/app-icons/rosybun.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        "1024": {
+          "png": "masters/app-icons/rosybun.png",
+          "dimensions": [
+            1024,
+            1024
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "app-icons/simple",
+      "master": "masters/app-icons/simple.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/app-icons/simple.png",
+          "webp": "webp/128/app-icons/simple.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/app-icons/simple.png",
+          "webp": "webp/256/app-icons/simple.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/app-icons/simple.png",
+          "webp": "webp/512/app-icons/simple.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        "1024": {
+          "png": "masters/app-icons/simple.png",
+          "dimensions": [
+            1024,
+            1024
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "backgrounds/world",
+      "master": "masters/backgrounds/world.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/backgrounds/world.png",
+          "webp": "webp/128/backgrounds/world.webp",
+          "dimensions": [
+            128,
+            72
+          ]
+        },
+        "256": {
+          "png": "png/256/backgrounds/world.png",
+          "webp": "webp/256/backgrounds/world.webp",
+          "dimensions": [
+            256,
+            144
+          ]
+        },
+        "512": {
+          "png": "png/512/backgrounds/world.png",
+          "webp": "webp/512/backgrounds/world.webp",
+          "dimensions": [
+            512,
+            288
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "buttons/levels",
+      "master": "masters/buttons/levels.png",
+      "dimensions": [
+        1024,
+        320
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/buttons/levels.png",
+          "webp": "webp/128/buttons/levels.webp",
+          "dimensions": [
+            128,
+            40
+          ]
+        },
+        "256": {
+          "png": "png/256/buttons/levels.png",
+          "webp": "webp/256/buttons/levels.webp",
+          "dimensions": [
+            256,
+            80
+          ]
+        },
+        "512": {
+          "png": "png/512/buttons/levels.png",
+          "webp": "webp/512/buttons/levels.webp",
+          "dimensions": [
+            512,
+            160
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "buttons/play",
+      "master": "masters/buttons/play.png",
+      "dimensions": [
+        1024,
+        320
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/buttons/play.png",
+          "webp": "webp/128/buttons/play.webp",
+          "dimensions": [
+            128,
+            40
+          ]
+        },
+        "256": {
+          "png": "png/256/buttons/play.png",
+          "webp": "webp/256/buttons/play.webp",
+          "dimensions": [
+            256,
+            80
+          ]
+        },
+        "512": {
+          "png": "png/512/buttons/play.png",
+          "webp": "webp/512/buttons/play.webp",
+          "dimensions": [
+            512,
+            160
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "buttons/rewards",
+      "master": "masters/buttons/rewards.png",
+      "dimensions": [
+        1024,
+        320
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/buttons/rewards.png",
+          "webp": "webp/128/buttons/rewards.webp",
+          "dimensions": [
+            128,
+            40
+          ]
+        },
+        "256": {
+          "png": "png/256/buttons/rewards.png",
+          "webp": "webp/256/buttons/rewards.webp",
+          "dimensions": [
+            256,
+            80
+          ]
+        },
+        "512": {
+          "png": "png/512/buttons/rewards.png",
+          "webp": "webp/512/buttons/rewards.webp",
+          "dimensions": [
+            512,
+            160
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "buttons/worlds",
+      "master": "masters/buttons/worlds.png",
+      "dimensions": [
+        1024,
+        320
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/buttons/worlds.png",
+          "webp": "webp/128/buttons/worlds.webp",
+          "dimensions": [
+            128,
+            40
+          ]
+        },
+        "256": {
+          "png": "png/256/buttons/worlds.png",
+          "webp": "webp/256/buttons/worlds.webp",
+          "dimensions": [
+            256,
+            80
+          ]
+        },
+        "512": {
+          "png": "png/512/buttons/worlds.png",
+          "webp": "webp/512/buttons/worlds.webp",
+          "dimensions": [
+            512,
+            160
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "characters/mossmops",
+      "master": "masters/characters/mossmops.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/characters/mossmops.png",
+          "webp": "webp/128/characters/mossmops.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/characters/mossmops.png",
+          "webp": "webp/256/characters/mossmops.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/characters/mossmops.png",
+          "webp": "webp/512/characters/mossmops.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "characters/peachpeeps",
+      "master": "masters/characters/peachpeeps.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/characters/peachpeeps.png",
+          "webp": "webp/128/characters/peachpeeps.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/characters/peachpeeps.png",
+          "webp": "webp/256/characters/peachpeeps.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/characters/peachpeeps.png",
+          "webp": "webp/512/characters/peachpeeps.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "characters/plumplets",
+      "master": "masters/characters/plumplets.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/characters/plumplets.png",
+          "webp": "webp/128/characters/plumplets.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/characters/plumplets.png",
+          "webp": "webp/256/characters/plumplets.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/characters/plumplets.png",
+          "webp": "webp/512/characters/plumplets.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "characters/rosybuns",
+      "master": "masters/characters/rosybuns.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/characters/rosybuns.png",
+          "webp": "webp/128/characters/rosybuns.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/characters/rosybuns.png",
+          "webp": "webp/256/characters/rosybuns.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/characters/rosybuns.png",
+          "webp": "webp/512/characters/rosybuns.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "characters/skydoodles",
+      "master": "masters/characters/skydoodles.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/characters/skydoodles.png",
+          "webp": "webp/128/characters/skydoodles.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/characters/skydoodles.png",
+          "webp": "webp/256/characters/skydoodles.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/characters/skydoodles.png",
+          "webp": "webp/512/characters/skydoodles.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "characters/sunpuffs",
+      "master": "masters/characters/sunpuffs.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/characters/sunpuffs.png",
+          "webp": "webp/128/characters/sunpuffs.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/characters/sunpuffs.png",
+          "webp": "webp/256/characters/sunpuffs.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/characters/sunpuffs.png",
+          "webp": "webp/512/characters/sunpuffs.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "decor/cloud-base",
+      "master": "masters/decor/cloud-base.png",
+      "dimensions": [
+        1024,
+        400
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/decor/cloud-base.png",
+          "webp": "webp/128/decor/cloud-base.webp",
+          "dimensions": [
+            128,
+            50
+          ]
+        },
+        "256": {
+          "png": "png/256/decor/cloud-base.png",
+          "webp": "webp/256/decor/cloud-base.webp",
+          "dimensions": [
+            256,
+            100
+          ]
+        },
+        "512": {
+          "png": "png/512/decor/cloud-base.png",
+          "webp": "webp/512/decor/cloud-base.webp",
+          "dimensions": [
+            512,
+            200
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "decor/magic-trail",
+      "master": "masters/decor/magic-trail.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/decor/magic-trail.png",
+          "webp": "webp/128/decor/magic-trail.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/decor/magic-trail.png",
+          "webp": "webp/256/decor/magic-trail.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/decor/magic-trail.png",
+          "webp": "webp/512/decor/magic-trail.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "decor/puff-lettering",
+      "master": "masters/decor/puff-lettering.png",
+      "dimensions": [
+        1024,
+        400
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/decor/puff-lettering.png",
+          "webp": "webp/128/decor/puff-lettering.webp",
+          "dimensions": [
+            128,
+            50
+          ]
+        },
+        "256": {
+          "png": "png/256/decor/puff-lettering.png",
+          "webp": "webp/256/decor/puff-lettering.webp",
+          "dimensions": [
+            256,
+            100
+          ]
+        },
+        "512": {
+          "png": "png/512/decor/puff-lettering.png",
+          "webp": "webp/512/decor/puff-lettering.webp",
+          "dimensions": [
+            512,
+            200
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "decor/trails-lettering",
+      "master": "masters/decor/trails-lettering.png",
+      "dimensions": [
+        1024,
+        400
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/decor/trails-lettering.png",
+          "webp": "webp/128/decor/trails-lettering.webp",
+          "dimensions": [
+            128,
+            50
+          ]
+        },
+        "256": {
+          "png": "png/256/decor/trails-lettering.png",
+          "webp": "webp/256/decor/trails-lettering.webp",
+          "dimensions": [
+            256,
+            100
+          ]
+        },
+        "512": {
+          "png": "png/512/decor/trails-lettering.png",
+          "webp": "webp/512/decor/trails-lettering.webp",
+          "dimensions": [
+            512,
+            200
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "hero/brand-scene",
+      "master": "masters/hero/brand-scene.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/hero/brand-scene.png",
+          "webp": "webp/128/hero/brand-scene.webp",
+          "dimensions": [
+            128,
+            72
+          ]
+        },
+        "256": {
+          "png": "png/256/hero/brand-scene.png",
+          "webp": "webp/256/hero/brand-scene.webp",
+          "dimensions": [
+            256,
+            144
+          ]
+        },
+        "512": {
+          "png": "png/512/hero/brand-scene.png",
+          "webp": "webp/512/hero/brand-scene.webp",
+          "dimensions": [
+            512,
+            288
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/coin",
+      "master": "masters/icons/coin.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/coin.png",
+          "webp": "webp/128/icons/coin.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/coin.png",
+          "webp": "webp/256/icons/coin.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/coin.png",
+          "webp": "webp/512/icons/coin.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/energy",
+      "master": "masters/icons/energy.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/energy.png",
+          "webp": "webp/128/icons/energy.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/energy.png",
+          "webp": "webp/256/icons/energy.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/energy.png",
+          "webp": "webp/512/icons/energy.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/favicon-star-cloud",
+      "master": "masters/icons/favicon-star-cloud.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/favicon-star-cloud.png",
+          "webp": "webp/128/icons/favicon-star-cloud.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/favicon-star-cloud.png",
+          "webp": "webp/256/icons/favicon-star-cloud.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/favicon-star-cloud.png",
+          "webp": "webp/512/icons/favicon-star-cloud.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/gem",
+      "master": "masters/icons/gem.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/gem.png",
+          "webp": "webp/128/icons/gem.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/gem.png",
+          "webp": "webp/256/icons/gem.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/gem.png",
+          "webp": "webp/512/icons/gem.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/gift",
+      "master": "masters/icons/gift.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/gift.png",
+          "webp": "webp/128/icons/gift.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/gift.png",
+          "webp": "webp/256/icons/gift.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/gift.png",
+          "webp": "webp/512/icons/gift.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/globe",
+      "master": "masters/icons/globe.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/globe.png",
+          "webp": "webp/128/icons/globe.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/globe.png",
+          "webp": "webp/256/icons/globe.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/globe.png",
+          "webp": "webp/512/icons/globe.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/heart",
+      "master": "masters/icons/heart.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/heart.png",
+          "webp": "webp/128/icons/heart.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/heart.png",
+          "webp": "webp/256/icons/heart.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/heart.png",
+          "webp": "webp/512/icons/heart.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/map",
+      "master": "masters/icons/map.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/map.png",
+          "webp": "webp/128/icons/map.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/map.png",
+          "webp": "webp/256/icons/map.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/map.png",
+          "webp": "webp/512/icons/map.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/play-triangle",
+      "master": "masters/icons/play-triangle.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/play-triangle.png",
+          "webp": "webp/128/icons/play-triangle.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/play-triangle.png",
+          "webp": "webp/256/icons/play-triangle.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/play-triangle.png",
+          "webp": "webp/512/icons/play-triangle.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/sparkle",
+      "master": "masters/icons/sparkle.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/sparkle.png",
+          "webp": "webp/128/icons/sparkle.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/sparkle.png",
+          "webp": "webp/256/icons/sparkle.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/sparkle.png",
+          "webp": "webp/512/icons/sparkle.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/star-empty",
+      "master": "masters/icons/star-empty.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/star-empty.png",
+          "webp": "webp/128/icons/star-empty.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/star-empty.png",
+          "webp": "webp/256/icons/star-empty.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/star-empty.png",
+          "webp": "webp/512/icons/star-empty.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "icons/star-gold",
+      "master": "masters/icons/star-gold.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/icons/star-gold.png",
+          "webp": "webp/128/icons/star-gold.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/icons/star-gold.png",
+          "webp": "webp/256/icons/star-gold.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/icons/star-gold.png",
+          "webp": "webp/512/icons/star-gold.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "logos/main",
+      "master": "masters/logos/main.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/logos/main.png",
+          "webp": "webp/128/logos/main.webp",
+          "dimensions": [
+            128,
+            85
+          ]
+        },
+        "256": {
+          "png": "png/256/logos/main.png",
+          "webp": "webp/256/logos/main.webp",
+          "dimensions": [
+            256,
+            171
+          ]
+        },
+        "512": {
+          "png": "png/512/logos/main.png",
+          "webp": "webp/512/logos/main.webp",
+          "dimensions": [
+            512,
+            341
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "logos/mono-black",
+      "master": "masters/logos/mono-black.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/logos/mono-black.png",
+          "webp": "webp/128/logos/mono-black.webp",
+          "dimensions": [
+            128,
+            85
+          ]
+        },
+        "256": {
+          "png": "png/256/logos/mono-black.png",
+          "webp": "webp/256/logos/mono-black.webp",
+          "dimensions": [
+            256,
+            171
+          ]
+        },
+        "512": {
+          "png": "png/512/logos/mono-black.png",
+          "webp": "webp/512/logos/mono-black.webp",
+          "dimensions": [
+            512,
+            341
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "logos/mono-purple",
+      "master": "masters/logos/mono-purple.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/logos/mono-purple.png",
+          "webp": "webp/128/logos/mono-purple.webp",
+          "dimensions": [
+            128,
+            85
+          ]
+        },
+        "256": {
+          "png": "png/256/logos/mono-purple.png",
+          "webp": "webp/256/logos/mono-purple.webp",
+          "dimensions": [
+            256,
+            171
+          ]
+        },
+        "512": {
+          "png": "png/512/logos/mono-purple.png",
+          "webp": "webp/512/logos/mono-purple.webp",
+          "dimensions": [
+            512,
+            341
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "logos/mono-white",
+      "master": "masters/logos/mono-white.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/logos/mono-white.png",
+          "webp": "webp/128/logos/mono-white.webp",
+          "dimensions": [
+            128,
+            85
+          ]
+        },
+        "256": {
+          "png": "png/256/logos/mono-white.png",
+          "webp": "webp/256/logos/mono-white.webp",
+          "dimensions": [
+            256,
+            171
+          ]
+        },
+        "512": {
+          "png": "png/512/logos/mono-white.png",
+          "webp": "webp/512/logos/mono-white.webp",
+          "dimensions": [
+            512,
+            341
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "logos/solid-dark",
+      "master": "masters/logos/solid-dark.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/logos/solid-dark.png",
+          "webp": "webp/128/logos/solid-dark.webp",
+          "dimensions": [
+            128,
+            85
+          ]
+        },
+        "256": {
+          "png": "png/256/logos/solid-dark.png",
+          "webp": "webp/256/logos/solid-dark.webp",
+          "dimensions": [
+            256,
+            171
+          ]
+        },
+        "512": {
+          "png": "png/512/logos/solid-dark.png",
+          "webp": "webp/512/logos/solid-dark.webp",
+          "dimensions": [
+            512,
+            341
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "logos/wordmark",
+      "master": "masters/logos/wordmark.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/logos/wordmark.png",
+          "webp": "webp/128/logos/wordmark.webp",
+          "dimensions": [
+            128,
+            85
+          ]
+        },
+        "256": {
+          "png": "png/256/logos/wordmark.png",
+          "webp": "webp/256/logos/wordmark.webp",
+          "dimensions": [
+            256,
+            171
+          ]
+        },
+        "512": {
+          "png": "png/512/logos/wordmark.png",
+          "webp": "webp/512/logos/wordmark.webp",
+          "dimensions": [
+            512,
+            341
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "textures/clouds",
+      "master": "masters/textures/clouds.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/textures/clouds.png",
+          "webp": "webp/128/textures/clouds.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/textures/clouds.png",
+          "webp": "webp/256/textures/clouds.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/textures/clouds.png",
+          "webp": "webp/512/textures/clouds.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "textures/golden-gloss",
+      "master": "masters/textures/golden-gloss.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/textures/golden-gloss.png",
+          "webp": "webp/128/textures/golden-gloss.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/textures/golden-gloss.png",
+          "webp": "webp/256/textures/golden-gloss.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/textures/golden-gloss.png",
+          "webp": "webp/512/textures/golden-gloss.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "textures/magic-gradient",
+      "master": "masters/textures/magic-gradient.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/textures/magic-gradient.png",
+          "webp": "webp/128/textures/magic-gradient.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/textures/magic-gradient.png",
+          "webp": "webp/256/textures/magic-gradient.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/textures/magic-gradient.png",
+          "webp": "webp/512/textures/magic-gradient.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "textures/pink-plush",
+      "master": "masters/textures/pink-plush.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/textures/pink-plush.png",
+          "webp": "webp/128/textures/pink-plush.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/textures/pink-plush.png",
+          "webp": "webp/256/textures/pink-plush.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/textures/pink-plush.png",
+          "webp": "webp/512/textures/pink-plush.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "textures/purple-fur",
+      "master": "masters/textures/purple-fur.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "transparent": false,
+      "exports": {
+        "128": {
+          "png": "png/128/textures/purple-fur.png",
+          "webp": "webp/128/textures/purple-fur.webp",
+          "dimensions": [
+            128,
+            128
+          ]
+        },
+        "256": {
+          "png": "png/256/textures/purple-fur.png",
+          "webp": "webp/256/textures/purple-fur.webp",
+          "dimensions": [
+            256,
+            256
+          ]
+        },
+        "512": {
+          "png": "png/512/textures/purple-fur.png",
+          "webp": "webp/512/textures/purple-fur.webp",
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "ui/character-nameplate",
+      "master": "masters/ui/character-nameplate.png",
+      "dimensions": [
+        1024,
+        400
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/ui/character-nameplate.png",
+          "webp": "webp/128/ui/character-nameplate.webp",
+          "dimensions": [
+            128,
+            50
+          ]
+        },
+        "256": {
+          "png": "png/256/ui/character-nameplate.png",
+          "webp": "webp/256/ui/character-nameplate.webp",
+          "dimensions": [
+            256,
+            100
+          ]
+        },
+        "512": {
+          "png": "png/512/ui/character-nameplate.png",
+          "webp": "webp/512/ui/character-nameplate.webp",
+          "dimensions": [
+            512,
+            200
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "ui/progress-fill",
+      "master": "masters/ui/progress-fill.png",
+      "dimensions": [
+        1024,
+        180
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/ui/progress-fill.png",
+          "webp": "webp/128/ui/progress-fill.webp",
+          "dimensions": [
+            128,
+            22
+          ]
+        },
+        "256": {
+          "png": "png/256/ui/progress-fill.png",
+          "webp": "webp/256/ui/progress-fill.webp",
+          "dimensions": [
+            256,
+            45
+          ]
+        },
+        "512": {
+          "png": "png/512/ui/progress-fill.png",
+          "webp": "webp/512/ui/progress-fill.webp",
+          "dimensions": [
+            512,
+            90
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    },
+    {
+      "id": "ui/progress-track",
+      "master": "masters/ui/progress-track.png",
+      "dimensions": [
+        1024,
+        180
+      ],
+      "transparent": true,
+      "exports": {
+        "128": {
+          "png": "png/128/ui/progress-track.png",
+          "webp": "webp/128/ui/progress-track.webp",
+          "dimensions": [
+            128,
+            22
+          ]
+        },
+        "256": {
+          "png": "png/256/ui/progress-track.png",
+          "webp": "webp/256/ui/progress-track.webp",
+          "dimensions": [
+            256,
+            45
+          ]
+        },
+        "512": {
+          "png": "png/512/ui/progress-track.png",
+          "webp": "webp/512/ui/progress-track.webp",
+          "dimensions": [
+            512,
+            90
+          ]
+        }
+      },
+      "status": "art_review_pending"
+    }
+  ],
+  "limitations": [
+    "Generated interpretations, not pixel-perfect extractions.",
+    "No editable SVG/AI source recovered or invented.",
+    "Textures are not certified seamless.",
+    "App icons include illustrated rounded corners and white exterior margins; these are design previews, not store-submission masters.",
+    "Button labels are baked into PNGs; real font files supplied for localized text.",
+    "Brand-board characters differ from earlier family packs; no renaming or replacement of those packs.",
+    "Technical validation does not replace art approval and testing in the game."
+  ]
+}

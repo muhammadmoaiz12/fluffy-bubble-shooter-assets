@@ -1,0 +1,1954 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2647,
+      "sha256": "b866de387bfd1fb929ef2b9034638d35a1d5dd7b07e44aa6217f1539b47edb17"
+    },
+    {
+      "path": "fonts/baloo2/Baloo2[wght].ttf",
+      "bytes": 683200,
+      "sha256": "d47a6852548059b1db49a1319d06d499d546c3fa2237cf9eee9c43c8abb025c2"
+    },
+    {
+      "path": "fonts/baloo2/OFL.txt",
+      "bytes": 4384,
+      "sha256": "ad09b05dc8bc678c9daf7c4c5f7ef1f55e5726127f4330b2e98e40b9dffcb860"
+    },
+    {
+      "path": "fonts/quicksand/OFL.txt",
+      "bytes": 4445,
+      "sha256": "14d28541780d90f6577bb7abcc6f005bf6969614294e75c82abb8758a696ad46"
+    },
+    {
+      "path": "fonts/quicksand/Quicksand[wght].ttf",
+      "bytes": 124824,
+      "sha256": "39c9b64223561f56aaff6062a6f04063c4fc86809ad6768722c06614d977e1cc"
+    },
+    {
+      "path": "fonts/sources.json",
+      "bytes": 593,
+      "sha256": "52567b126a2099d49467e878af7c779f007c8c5fb4624a2a58855e785920c873"
+    },
+    {
+      "path": "generation.json",
+      "bytes": 35123,
+      "sha256": "eecc881b830a0c7d7de82ae99925e582860811c47dd5c1138a6f58eec5e7c68b"
+    },
+    {
+      "path": "masters/app-icons/characters.png",
+      "bytes": 1424427,
+      "sha256": "25a925623849ec917b19709f074b7467eb6383f1cf9ff1c69a9f0015a53a92d6"
+    },
+    {
+      "path": "masters/app-icons/rosybun.png",
+      "bytes": 1321806,
+      "sha256": "0d958a0172e20686272f3bb53ae89e42febca2ddf3bf19192e498d022deb2bae"
+    },
+    {
+      "path": "masters/app-icons/simple.png",
+      "bytes": 1330954,
+      "sha256": "ab0c9b487b282ea201c82d39d08435b0b4de7bd4eda9b1ce61b207bfad020bfa"
+    },
+    {
+      "path": "masters/backgrounds/world.png",
+      "bytes": 2814652,
+      "sha256": "765db15ecec088eba7e82358f25200c650f63e70e8ec2dee167f29733a606fe4"
+    },
+    {
+      "path": "masters/buttons/levels.png",
+      "bytes": 245046,
+      "sha256": "bf33fdc4a36b2883515e2e3b954e7aa664bc1b7e4e93d69a01e54356d197cf04"
+    },
+    {
+      "path": "masters/buttons/play.png",
+      "bytes": 244969,
+      "sha256": "ba3b9dba3f4ae23e0d91ffcb4992c24b4d38416b191f84bbba94e255b13718b7"
+    },
+    {
+      "path": "masters/buttons/rewards.png",
+      "bytes": 252047,
+      "sha256": "4b4ee3fc5f67a3dfea6f546f709ba97e052b1f5986484705e5750ea7ff49e354"
+    },
+    {
+      "path": "masters/buttons/worlds.png",
+      "bytes": 239429,
+      "sha256": "726c678c516e1b29237ff2cbf94d70e1c770f093273e5404e093b4accfd6be9f"
+    },
+    {
+      "path": "masters/characters/mossmops.png",
+      "bytes": 1248956,
+      "sha256": "8e0a5c48f4d32c66227e78885170531c7a3d6cc53fbbd40d2d2530ab3aa6a261"
+    },
+    {
+      "path": "masters/characters/peachpeeps.png",
+      "bytes": 971402,
+      "sha256": "5fafea8532bdd2e1f3fb9206aaaea2c9a43b10cffab46a3cde6df74812da83a1"
+    },
+    {
+      "path": "masters/characters/plumplets.png",
+      "bytes": 1254626,
+      "sha256": "1b6ba0c229a9ca30c346fef6496ac63ad78ff23797cee60e21ce0b9153bf2016"
+    },
+    {
+      "path": "masters/characters/rosybuns.png",
+      "bytes": 863912,
+      "sha256": "9b893c08621d3973210de17826cd24f0bbe2d84dc5d9f4c07bf2d14d14dcb00a"
+    },
+    {
+      "path": "masters/characters/skydoodles.png",
+      "bytes": 933896,
+      "sha256": "1f16f49007e6c1c04d60851caaa5f8544a8455bdf2396df19cc8b1a23b0f7ca2"
+    },
+    {
+      "path": "masters/characters/sunpuffs.png",
+      "bytes": 961185,
+      "sha256": "4937aa9dfd6783b14c7f8dee20e22ff764ea84a2005645e7b6336a838dbe808e"
+    },
+    {
+      "path": "masters/decor/cloud-base.png",
+      "bytes": 225304,
+      "sha256": "86de246a60fbda0ce416d8fe654bf02b677c19237839074d05393233a826d797"
+    },
+    {
+      "path": "masters/decor/magic-trail.png",
+      "bytes": 220069,
+      "sha256": "9b7b3789eb03c0afe85f886f210d278ae2c228d59d373a9e9e2518e1b28c8779"
+    },
+    {
+      "path": "masters/decor/puff-lettering.png",
+      "bytes": 378213,
+      "sha256": "7d95c26459864525c6c5fb6e3ab3a6b28fa77ae7baa3f22cffa8aae18329e766"
+    },
+    {
+      "path": "masters/decor/trails-lettering.png",
+      "bytes": 315578,
+      "sha256": "16999b8e62e1d4ea88d1132ea6cc700a3d7faa1cc7f5315a7bc00a7407ffbbec"
+    },
+    {
+      "path": "masters/hero/brand-scene.png",
+      "bytes": 2594874,
+      "sha256": "292f678a2f179ae04b77ac1d6bb901bf3fe394052aebfc94a59d495f7c349ffe"
+    },
+    {
+      "path": "masters/icons/coin.png",
+      "bytes": 831654,
+      "sha256": "2fd2623b17148da1812a685f74ba6786bcb204c923877fbdb6c1b8536a72b510"
+    },
+    {
+      "path": "masters/icons/energy.png",
+      "bytes": 447439,
+      "sha256": "223cfba7ba7bceb848773ae59a8803ea4fbff8bcde8d1bf6ed63c5cf579cc2a4"
+    },
+    {
+      "path": "masters/icons/favicon-star-cloud.png",
+      "bytes": 604957,
+      "sha256": "86667c509428b2d0e921acec5bfcdff28a46d72a482ae2a7d08818941d1e926a"
+    },
+    {
+      "path": "masters/icons/gem.png",
+      "bytes": 524658,
+      "sha256": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d"
+    },
+    {
+      "path": "masters/icons/gift.png",
+      "bytes": 788328,
+      "sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b"
+    },
+    {
+      "path": "masters/icons/globe.png",
+      "bytes": 657613,
+      "sha256": "bb0d663a6cc3f251650b4b127ceb0f2d40dea23bb2575bb8a11240167f724548"
+    },
+    {
+      "path": "masters/icons/heart.png",
+      "bytes": 619094,
+      "sha256": "507c9b7ab39068028fb28ecf769bc9bd0976b02beaf76c8bcfa8001647d4dfce"
+    },
+    {
+      "path": "masters/icons/map.png",
+      "bytes": 565399,
+      "sha256": "9436efb7279faacf614e25e4d92eaee4110c932aa729827efb0087df2a365afd"
+    },
+    {
+      "path": "masters/icons/play-triangle.png",
+      "bytes": 497852,
+      "sha256": "74ada27480696bc06a107420a154168546d7a5dbab9d931a74b67f7847fc7543"
+    },
+    {
+      "path": "masters/icons/sparkle.png",
+      "bytes": 220197,
+      "sha256": "0929529a19e83518d67ddb745f06fb952ef6b1896156e830abb6bdde56ea1d09"
+    },
+    {
+      "path": "masters/icons/star-empty.png",
+      "bytes": 571694,
+      "sha256": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80"
+    },
+    {
+      "path": "masters/icons/star-gold.png",
+      "bytes": 575235,
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+    },
+    {
+      "path": "masters/logos/main.png",
+      "bytes": 1468532,
+      "sha256": "574b659cd0cf471831088d3483817f041033b3db79caa68d1f6995a20819d53a"
+    },
+    {
+      "path": "masters/logos/mono-black.png",
+      "bytes": 774690,
+      "sha256": "f238f9a684b3343abd58732985b2ba2e2282c8b6ab0dbbf6f97248d4a6a84824"
+    },
+    {
+      "path": "masters/logos/mono-purple.png",
+      "bytes": 853552,
+      "sha256": "a088432642f8bb79cf65682ce3c011f602218f9099a9e3e09923eba071c9c67f"
+    },
+    {
+      "path": "masters/logos/mono-white.png",
+      "bytes": 588176,
+      "sha256": "972ea4c7f214b3be8ecf8374e663ca84b678221bd3d88c0a40021bbc6c0617b7"
+    },
+    {
+      "path": "masters/logos/solid-dark.png",
+      "bytes": 810251,
+      "sha256": "f4a8f645de0608be3d3a36176b010371bfbe43ebd1385d68396ebc7f722b8795"
+    },
+    {
+      "path": "masters/logos/wordmark.png",
+      "bytes": 1417277,
+      "sha256": "4732ce90b082dfdcc627741653859f08ea58863cd24605c703a962d72c461a5b"
+    },
+    {
+      "path": "masters/textures/clouds.png",
+      "bytes": 1154121,
+      "sha256": "df52e663cddf4a77abc6e7e03be4dced125ee853435d404980be9a96202d7f3b"
+    },
+    {
+      "path": "masters/textures/golden-gloss.png",
+      "bytes": 915444,
+      "sha256": "1c8e9f07ac7e13b678063af8794010ef56efcfedff4d570e9372de1f5b87630f"
+    },
+    {
+      "path": "masters/textures/magic-gradient.png",
+      "bytes": 986857,
+      "sha256": "82cdd317d346c35a753ff8b0208572f18370dcc13d072c935c2234ad63d1421c"
+    },
+    {
+      "path": "masters/textures/pink-plush.png",
+      "bytes": 1993520,
+      "sha256": "bffb72163ef527babc4e2b920befe3ad5c66184879bf37fa6a18d86c4b00a359"
+    },
+    {
+      "path": "masters/textures/purple-fur.png",
+      "bytes": 2179985,
+      "sha256": "0bb1294f7d863dfb24ae0f305d2daae88f2bb948ca0ae5ceb6c6b5c6f420f401"
+    },
+    {
+      "path": "masters/ui/character-nameplate.png",
+      "bytes": 223095,
+      "sha256": "3a06c91e7cd500a5ea34d5150d74c12914ec46205ff3ccfc65bb3ac1a8d767db"
+    },
+    {
+      "path": "masters/ui/progress-fill.png",
+      "bytes": 136680,
+      "sha256": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a"
+    },
+    {
+      "path": "masters/ui/progress-track.png",
+      "bytes": 117581,
+      "sha256": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 39134,
+      "sha256": "57b15dc9f7d6d4a672f75755a8526d65b53b7c2e316f9778575b9f856235f435"
+    },
+    {
+      "path": "palette/neutral-1.png",
+      "bytes": 362,
+      "sha256": "0508bc20e2e03fe15f080fce700a6469a6cce116d0356fef95a43b78be2135ab"
+    },
+    {
+      "path": "palette/neutral-2.png",
+      "bytes": 362,
+      "sha256": "5dddbdfcab223586b564ce4a778714183f86c16f45000adbfba9b26d1e1d86f2"
+    },
+    {
+      "path": "palette/neutral-3.png",
+      "bytes": 363,
+      "sha256": "4f1461bdf171b2d99e31e9e6ada8d5d19f59f980fe4745072edea29cc007a4fa"
+    },
+    {
+      "path": "palette/neutral-4.png",
+      "bytes": 362,
+      "sha256": "9c25668f03072290bbaf840fad9d6f994f6fd124109085c57b46b3a9d8b18301"
+    },
+    {
+      "path": "palette/neutral-5.png",
+      "bytes": 360,
+      "sha256": "39309ac7cd9536193d583b394c5f0b043d7302dd5ba02773c4cd4c652f04b3c6"
+    },
+    {
+      "path": "palette/primary-1.png",
+      "bytes": 362,
+      "sha256": "c895c2257fe7f074326a8bdab0617b610d88d09f0d652f9a89bbef97282581cc"
+    },
+    {
+      "path": "palette/primary-2.png",
+      "bytes": 361,
+      "sha256": "00ef042b303f508e529607e413a79a1ad2542f5143ba6b42e73beecfb219174b"
+    },
+    {
+      "path": "palette/primary-3.png",
+      "bytes": 361,
+      "sha256": "2cf9e09b6d16187e95af596cbeb28f183aa12b32f71497ad977067a0e69d4463"
+    },
+    {
+      "path": "palette/primary-4.png",
+      "bytes": 363,
+      "sha256": "b73c9299f844c4c238ec8725c5118b853e2366fdfb9d146a1f85044aeb35da19"
+    },
+    {
+      "path": "palette/primary-5.png",
+      "bytes": 357,
+      "sha256": "73b0a0fd35feb3f4fa775114af0036753764801581e7c5c6f00909927d7d2af8"
+    },
+    {
+      "path": "palette/secondary-1.png",
+      "bytes": 361,
+      "sha256": "81485f1646c332c1f2ea9d9e1979632f0b9282e13f69be2a7d73dd8025720d76"
+    },
+    {
+      "path": "palette/secondary-2.png",
+      "bytes": 361,
+      "sha256": "c704eab8b5cb7a7bfc35f4e22c7f1edc051e5fc97b7a3b3cee33dae77d47ea87"
+    },
+    {
+      "path": "palette/secondary-3.png",
+      "bytes": 362,
+      "sha256": "aa9c98d2c7aa8ae90ac08c0b4a363d171732cbe5190a405aa6f9c19da482152c"
+    },
+    {
+      "path": "palette/secondary-4.png",
+      "bytes": 362,
+      "sha256": "a93c0d031bcc68114900565b4ffcf2916751d5b986b4b5dd99ca9d655ab41b6d"
+    },
+    {
+      "path": "palette/secondary-5.png",
+      "bytes": 362,
+      "sha256": "8be6a72f12bcd1380e7712e34dd251bd583a8124e19dc8e8f43951ae64cf8614"
+    },
+    {
+      "path": "palette.json",
+      "bytes": 500,
+      "sha256": "d9a38a531f82c76f52702f34bef5bdf8da8703240f2e8deaac88016cb1b886ba"
+    },
+    {
+      "path": "png/128/app-icons/characters.png",
+      "bytes": 33456,
+      "sha256": "ecaf128ba1765e2bdc7ff0575263279808b904de5a370281514b1aadbad72666"
+    },
+    {
+      "path": "png/128/app-icons/rosybun.png",
+      "bytes": 28108,
+      "sha256": "153ef8eec9311ff1f661cfe27001bfa096a26eae024e2bda9f9f0fc1c09fa270"
+    },
+    {
+      "path": "png/128/app-icons/simple.png",
+      "bytes": 32323,
+      "sha256": "f47be95c9a93b6a8e38a1ff700faeb224cc8e39e7cfbf397433ed9c2d7324f98"
+    },
+    {
+      "path": "png/128/backgrounds/world.png",
+      "bytes": 25927,
+      "sha256": "9b2625f6350c970ad09ce3a58764b522a00fa31a7d44998fd7237031119ddb3d"
+    },
+    {
+      "path": "png/128/buttons/levels.png",
+      "bytes": 7959,
+      "sha256": "2edc83b3c04460d857b3517688911239fb2b2a180561dcace45e9f29d3bab163"
+    },
+    {
+      "path": "png/128/buttons/play.png",
+      "bytes": 6982,
+      "sha256": "026c24f44038fb3384df0bb33cd95ac70b895b34a5613b2abdb13794e7d0db5a"
+    },
+    {
+      "path": "png/128/buttons/rewards.png",
+      "bytes": 7812,
+      "sha256": "7d67e2c84b6a8cadc40417c77eda87f0800fcfd3397cac96fe6180f8fb9eabba"
+    },
+    {
+      "path": "png/128/buttons/worlds.png",
+      "bytes": 7234,
+      "sha256": "2c2a202995392ccd9021a77fd5e755afad4dacbfab07a8914e71e81d8c7d6fed"
+    },
+    {
+      "path": "png/128/characters/mossmops.png",
+      "bytes": 27213,
+      "sha256": "5002aecc960fb7d944af6416b6949b31679254acce7c216c748e31503bfb59ac"
+    },
+    {
+      "path": "png/128/characters/peachpeeps.png",
+      "bytes": 22038,
+      "sha256": "3bc8425667ac2f4adf46b6568227e620088d54a1ce20b5bc9bc45d4d77f118ee"
+    },
+    {
+      "path": "png/128/characters/plumplets.png",
+      "bytes": 27837,
+      "sha256": "744e45bf861262b0a0cedbd7c3ce2093784f373d9a6c415e5fb63346be631b16"
+    },
+    {
+      "path": "png/128/characters/rosybuns.png",
+      "bytes": 20178,
+      "sha256": "76dc6af704482430c79992c8f15294a0c3e171db3a3f61e3e9e649766558e67d"
+    },
+    {
+      "path": "png/128/characters/skydoodles.png",
+      "bytes": 21792,
+      "sha256": "b00d36fa342c5abbc3f57e932e9055caa51ba2a1aac59bc04db7f9266a67f207"
+    },
+    {
+      "path": "png/128/characters/sunpuffs.png",
+      "bytes": 21879,
+      "sha256": "3232ee2e2a8e5f544a4bd715eb9fef292f08bc4d376de615ca55108ccba7ba04"
+    },
+    {
+      "path": "png/128/decor/cloud-base.png",
+      "bytes": 7237,
+      "sha256": "ae7bb456b2ec4fe8c34e1265e0dc6ae197c5e6a7bf16217e42cddea9bf2ae375"
+    },
+    {
+      "path": "png/128/decor/magic-trail.png",
+      "bytes": 7300,
+      "sha256": "4d30a100ab627611b316d891fc482270f0f0d7ec804596b5045be5446fcfad01"
+    },
+    {
+      "path": "png/128/decor/puff-lettering.png",
+      "bytes": 9716,
+      "sha256": "e6bec8d31cb31f9002fe67b0e3c6c758724f7a4fe9b5defdd4a7c642bbbb0626"
+    },
+    {
+      "path": "png/128/decor/trails-lettering.png",
+      "bytes": 10406,
+      "sha256": "ab4b74e99b45f7ca86dba93a934339865f889a4ca809358d11535ffa7f6d1068"
+    },
+    {
+      "path": "png/128/hero/brand-scene.png",
+      "bytes": 26312,
+      "sha256": "2fe977ce1ebd0d27aa378a2ec3871f472c76080b8eb272fcc5b18438a908b4c2"
+    },
+    {
+      "path": "png/128/icons/coin.png",
+      "bytes": 23235,
+      "sha256": "d2d7782fbe1d676d7196fca764cd1d18d3fdaab8e038bb02d5348de68987a4e7"
+    },
+    {
+      "path": "png/128/icons/energy.png",
+      "bytes": 14419,
+      "sha256": "59d86e4a5dc0998380e420bc09ddb95ce0c64cd20d00d74b114089ad76127708"
+    },
+    {
+      "path": "png/128/icons/favicon-star-cloud.png",
+      "bytes": 16489,
+      "sha256": "077cebf107faeffaa0d4d7b4ae3ea943ee87e59479f2f866bc228e30368d4497"
+    },
+    {
+      "path": "png/128/icons/gem.png",
+      "bytes": 15350,
+      "sha256": "5d734a902f0e7de511f0c2e3592c7644e44f2455dfa8920c4e2cda59bcc28e8e"
+    },
+    {
+      "path": "png/128/icons/gift.png",
+      "bytes": 25103,
+      "sha256": "743f3af17e39623b56f42d3f6fb5438bd711cadb57f71e1edfc7f0fb3321c534"
+    },
+    {
+      "path": "png/128/icons/globe.png",
+      "bytes": 21368,
+      "sha256": "3804ccdf4f44bae09cca09b4d506e66bc9f52b749efca9001ca5f027888734e5"
+    },
+    {
+      "path": "png/128/icons/heart.png",
+      "bytes": 18119,
+      "sha256": "2d873e3628c8233d37361da3118917aa6bdd9b2dcc9eec843a285d8ae06ee4a7"
+    },
+    {
+      "path": "png/128/icons/map.png",
+      "bytes": 17592,
+      "sha256": "e2dd83d254313088ee57a64f9f1285b6b6a5baf4e9b9043e28d279c7d58d6d07"
+    },
+    {
+      "path": "png/128/icons/play-triangle.png",
+      "bytes": 14828,
+      "sha256": "17dc6b490026d70593980afe611fb8ce47c9a678626eb737ddac717407ed94d4"
+    },
+    {
+      "path": "png/128/icons/sparkle.png",
+      "bytes": 6457,
+      "sha256": "d4b9b952b6f45445b43f3e2b84a361a7b1a559b158ff40d2385e2c811d7dbb4d"
+    },
+    {
+      "path": "png/128/icons/star-empty.png",
+      "bytes": 16760,
+      "sha256": "ad523e5f19f47071b366b6429066a9695d8ad6e2a16252f4ae0fd7b74f5eed3c"
+    },
+    {
+      "path": "png/128/icons/star-gold.png",
+      "bytes": 16005,
+      "sha256": "3eb74953f55526e81a39f718de9cc44f2ac557c5b8278331b295b048f562d3f5"
+    },
+    {
+      "path": "png/128/logos/main.png",
+      "bytes": 19300,
+      "sha256": "017b60a24f9ddf1c742879a61b4954ca4059bf2c609fc9562e6d10e97b2e36c0"
+    },
+    {
+      "path": "png/128/logos/mono-black.png",
+      "bytes": 11439,
+      "sha256": "6f85dcd67b1a26c89c518f4964449c1f0578f7e69091f80ba59b76722511438e"
+    },
+    {
+      "path": "png/128/logos/mono-purple.png",
+      "bytes": 16593,
+      "sha256": "8abd0a7d48794347aa524fdfa389246da49c3ccd8196103545311026193382f5"
+    },
+    {
+      "path": "png/128/logos/mono-white.png",
+      "bytes": 9654,
+      "sha256": "d2da32458da5bcc985eced5ce13ff0818ec7b0bc6e4c37346fbe0f8cb0f8c8db"
+    },
+    {
+      "path": "png/128/logos/solid-dark.png",
+      "bytes": 16243,
+      "sha256": "175b92d7cea0a51accc3cd9f1c64a23ab2224519939917168b1ea372fc527a9b"
+    },
+    {
+      "path": "png/128/logos/wordmark.png",
+      "bytes": 20070,
+      "sha256": "9b5d8937b772bdfc39a8cb6e9735345d11c713e36b9382bbba133612bd88ae14"
+    },
+    {
+      "path": "png/128/textures/clouds.png",
+      "bytes": 28049,
+      "sha256": "d2294f7e1515cc0d3c0d9211d571ad44a04aa0f9ead202761e0e4bdb8c824519"
+    },
+    {
+      "path": "png/128/textures/golden-gloss.png",
+      "bytes": 14436,
+      "sha256": "77d1df215706621b1c6fa8facf7431b79a843b0fd1750423cf7d8e700a0286b4"
+    },
+    {
+      "path": "png/128/textures/magic-gradient.png",
+      "bytes": 21296,
+      "sha256": "f302cf6f31f7f21662af4af7498f04b6f6ff032302ff51ac4dacdbc2124d4867"
+    },
+    {
+      "path": "png/128/textures/pink-plush.png",
+      "bytes": 30751,
+      "sha256": "bb55b69130f0a6fca6ccfbdea67f7e15ea1784bc54918b483cf4589acbe33a36"
+    },
+    {
+      "path": "png/128/textures/purple-fur.png",
+      "bytes": 35918,
+      "sha256": "b66a23daa5424c421471b38a1a90280e1851f7fc3fbbeb7d59df7c74d2c4dba8"
+    },
+    {
+      "path": "png/128/ui/character-nameplate.png",
+      "bytes": 4932,
+      "sha256": "4dc780c175b7ba30b8b2256ecba9b7a61cf6ae450545fdac02cfd6adbbfd7625"
+    },
+    {
+      "path": "png/128/ui/progress-fill.png",
+      "bytes": 3342,
+      "sha256": "d990687a944dbc8e36a14c894aa195e63a422395b4ddcfa2377360f05f2a3c58"
+    },
+    {
+      "path": "png/128/ui/progress-track.png",
+      "bytes": 3351,
+      "sha256": "f13f67dbcef0aea174498e89adaf2952c0cfea59b9193a208851c451da6440e0"
+    },
+    {
+      "path": "png/256/app-icons/characters.png",
+      "bytes": 118403,
+      "sha256": "24002d30da8a22722fa0cd719a407156c5e68ed8e16ea00d606deefcf6110bdb"
+    },
+    {
+      "path": "png/256/app-icons/rosybun.png",
+      "bytes": 98624,
+      "sha256": "7a1168ebe1367f68bbb702e42ddd9434aad853990c1112acdd35bf3d14f1bf67"
+    },
+    {
+      "path": "png/256/app-icons/simple.png",
+      "bytes": 112876,
+      "sha256": "18a0fff1593187fc939817a7c15a3df55dfd103a063f65a93314fa9e68fb859c"
+    },
+    {
+      "path": "png/256/backgrounds/world.png",
+      "bytes": 95635,
+      "sha256": "decd5c343f154143b26deb2a7eea067b9f7226ba3818a10ab94034d967306fc0"
+    },
+    {
+      "path": "png/256/buttons/levels.png",
+      "bytes": 24492,
+      "sha256": "caac073660041ac81f94e8d0301373c2edc9e70327becad67d92d9a655913349"
+    },
+    {
+      "path": "png/256/buttons/play.png",
+      "bytes": 21768,
+      "sha256": "fb8096ffc3052263537e95b7c282978d7e840bc8d339e51cf8a97cce8b6cf263"
+    },
+    {
+      "path": "png/256/buttons/rewards.png",
+      "bytes": 24447,
+      "sha256": "76b1388f595148924e683ce1af13bd7de6f0c2382a1007c1cde9fa2aea8d6b6b"
+    },
+    {
+      "path": "png/256/buttons/worlds.png",
+      "bytes": 22569,
+      "sha256": "f6ef9d967894d5818942a612c2bd6fe0e62d8b2f38a348259d242850e7a90d8c"
+    },
+    {
+      "path": "png/256/characters/mossmops.png",
+      "bytes": 89963,
+      "sha256": "118607c435e644d4dccc37ca1bbd638abf70bb7d48f509c113993a3d7462c740"
+    },
+    {
+      "path": "png/256/characters/peachpeeps.png",
+      "bytes": 71876,
+      "sha256": "e588a5e7d7339401d06e2de64a99d909a2d3697369501c30459fd77c5e1026cb"
+    },
+    {
+      "path": "png/256/characters/plumplets.png",
+      "bytes": 91416,
+      "sha256": "6e860ca1c5696036bf0f7b19c9f286e58c9babf05f2f339259a111eef3f8566b"
+    },
+    {
+      "path": "png/256/characters/rosybuns.png",
+      "bytes": 65327,
+      "sha256": "09f5de462d98dec4f2a30bdb540e3269f364443ac50966cda29c74000aec60d7"
+    },
+    {
+      "path": "png/256/characters/skydoodles.png",
+      "bytes": 70732,
+      "sha256": "20c20d3bdfc68ddbcb9908dcea63d335803d3afe34ac3a66273a64775a1eb366"
+    },
+    {
+      "path": "png/256/characters/sunpuffs.png",
+      "bytes": 70713,
+      "sha256": "5921bde207b86bc898635c5f43fa2e31f07ae69b234c2f52908015c887da5d48"
+    },
+    {
+      "path": "png/256/decor/cloud-base.png",
+      "bytes": 21050,
+      "sha256": "6a1e53e1eca49a575e9a2f28ae372c2fa4c3adebd4711da6a80982b552d33a88"
+    },
+    {
+      "path": "png/256/decor/magic-trail.png",
+      "bytes": 21734,
+      "sha256": "f5577654686184b60a89ad7525ab769b01e8e19adc0ddc7024e49e21c939cb03"
+    },
+    {
+      "path": "png/256/decor/puff-lettering.png",
+      "bytes": 30208,
+      "sha256": "9ca0cb6c1d6389ed5ee99e0f55b0ae279a1c0c6e9443d4a5f060785ee1036b26"
+    },
+    {
+      "path": "png/256/decor/trails-lettering.png",
+      "bytes": 31244,
+      "sha256": "1b01e1e423ecc9af3dd4285e6a3ddf94349a2533ac72ac15ad92c6d2ca9068b8"
+    },
+    {
+      "path": "png/256/hero/brand-scene.png",
+      "bytes": 94355,
+      "sha256": "6605508a1bbe2d7f3433e770e1659575946e7535b52f0f61a45cfe2a6c9b3333"
+    },
+    {
+      "path": "png/256/icons/coin.png",
+      "bytes": 74199,
+      "sha256": "673fa09ba87e74ebe78bd80f0a67b1f5f2cf00f84516b3361184b26163532e71"
+    },
+    {
+      "path": "png/256/icons/energy.png",
+      "bytes": 45118,
+      "sha256": "7929b889a1363369c34b9931520d2f447e95d0e56db5defe320120d7d903fe8e"
+    },
+    {
+      "path": "png/256/icons/favicon-star-cloud.png",
+      "bytes": 50882,
+      "sha256": "8f4ca13018cdba613248d85affd1d03b44fcf5b9d9c32721b673f21a77861a66"
+    },
+    {
+      "path": "png/256/icons/gem.png",
+      "bytes": 47055,
+      "sha256": "9d90f1594d18ce1aa0a4ec2d0360878f6b40dc723a4c609c0bab993d63a53f66"
+    },
+    {
+      "path": "png/256/icons/gift.png",
+      "bytes": 77673,
+      "sha256": "fecde629a61c25e12d445098d7c531a45d3db6f453210b13169dd74804523438"
+    },
+    {
+      "path": "png/256/icons/globe.png",
+      "bytes": 68053,
+      "sha256": "401e3605a6b9342f9eb4a8c8ccb0545afef1d65456c5ae1cb35f0a309282f90d"
+    },
+    {
+      "path": "png/256/icons/heart.png",
+      "bytes": 55877,
+      "sha256": "2c80a6ecd752770cd7eeada223f325e440efa9de2603ea7abd0e46e7a1afbc43"
+    },
+    {
+      "path": "png/256/icons/map.png",
+      "bytes": 54560,
+      "sha256": "920b9c45951e1986db8f66c18cd448b92a2a50a6de661a62f98b392a073b1fa5"
+    },
+    {
+      "path": "png/256/icons/play-triangle.png",
+      "bytes": 47775,
+      "sha256": "c4b023b8007fb269f7400064954e4406e3434001cbf3be252a7c10c9e3e8d9d4"
+    },
+    {
+      "path": "png/256/icons/sparkle.png",
+      "bytes": 20092,
+      "sha256": "a02c138bc4d7b01026040fa666d0cd29a1944bd0278af2a03aa3d62245809893"
+    },
+    {
+      "path": "png/256/icons/star-empty.png",
+      "bytes": 51319,
+      "sha256": "3ef896acb572106272d3b3d8ebb38a3323c47466ea3a0533794aaf9ac80a0d98"
+    },
+    {
+      "path": "png/256/icons/star-gold.png",
+      "bytes": 50211,
+      "sha256": "fdf0039eae46b84b4104e02ee35d0b2dbdab920a92305a5ca199a268cb8b4718"
+    },
+    {
+      "path": "png/256/logos/main.png",
+      "bytes": 62833,
+      "sha256": "f4fe18671136ff489db3aed872c64ff6a4da2fea55c9fe657628982eadb0cce9"
+    },
+    {
+      "path": "png/256/logos/mono-black.png",
+      "bytes": 32982,
+      "sha256": "e6a75b39a9f290ca07c78a7d57bb467ad097af0252159edd4552300577ce45ea"
+    },
+    {
+      "path": "png/256/logos/mono-purple.png",
+      "bytes": 48756,
+      "sha256": "cbe1e1574f6cec42b96eaa4a730b41f05e9fff40baf921e6b268c7135cfbcabc"
+    },
+    {
+      "path": "png/256/logos/mono-white.png",
+      "bytes": 30153,
+      "sha256": "7d9c271c85160a1e76c2b855dfe54b146446a17986655854a814884a861bef52"
+    },
+    {
+      "path": "png/256/logos/solid-dark.png",
+      "bytes": 46914,
+      "sha256": "3e4244e5edee40ef9b00793e8c1e87b25d92a6e79aad6bf1c6dffec795d2d777"
+    },
+    {
+      "path": "png/256/logos/wordmark.png",
+      "bytes": 64646,
+      "sha256": "ccb7e01376371755139468831e8faade912abd7a755ea839ba6cc6ed6079af21"
+    },
+    {
+      "path": "png/256/textures/clouds.png",
+      "bytes": 90434,
+      "sha256": "9f867db921e84e428ba3bbef11c2b85fac7b38348f20a32acd62d250eff1b9ff"
+    },
+    {
+      "path": "png/256/textures/golden-gloss.png",
+      "bytes": 54335,
+      "sha256": "58e4c2490761e55d119cdeaf23a402ee8ef33bbbcc6f5c436f23b9011c348a09"
+    },
+    {
+      "path": "png/256/textures/magic-gradient.png",
+      "bytes": 70647,
+      "sha256": "aab1c350f0e787a30a8d05c1d337d6870b33240b53287000a2345f3cd68c876f"
+    },
+    {
+      "path": "png/256/textures/pink-plush.png",
+      "bytes": 122169,
+      "sha256": "75a0554a10d0b775449664746bce85f7ee7307d956388ea8602ac34f3297f1dd"
+    },
+    {
+      "path": "png/256/textures/purple-fur.png",
+      "bytes": 135690,
+      "sha256": "b371974a3980db850bee9dfb0a4ed41c0a07e05d6de6be8d79d998da7d2b0bf2"
+    },
+    {
+      "path": "png/256/ui/character-nameplate.png",
+      "bytes": 16236,
+      "sha256": "9afd3a675336e365a046f03c90fc925af43054a6bc247ccc6a251ec41bd0e2b8"
+    },
+    {
+      "path": "png/256/ui/progress-fill.png",
+      "bytes": 11315,
+      "sha256": "9bfedc9976babb1986af3b48eaf679cdab4038071890eb694026b98edc7cdc39"
+    },
+    {
+      "path": "png/256/ui/progress-track.png",
+      "bytes": 10634,
+      "sha256": "3a3e4ce91a4dd0edd4ee495ed7e6894e269f038782f2993cf92d882664a252e0"
+    },
+    {
+      "path": "png/512/app-icons/characters.png",
+      "bytes": 415186,
+      "sha256": "a1bc8748f04b866f7da0ed5ec85b825f43f2bb2de27252b4e692287eb939b622"
+    },
+    {
+      "path": "png/512/app-icons/rosybun.png",
+      "bytes": 363639,
+      "sha256": "523ef04c1c0964d319cb3a6ac19d1b82b722e9cc42088d17523ba953cd31969a"
+    },
+    {
+      "path": "png/512/app-icons/simple.png",
+      "bytes": 395402,
+      "sha256": "0c4850a60917b18a65d09e593d7c141276abf29a942fc9caeec65d082c10030b"
+    },
+    {
+      "path": "png/512/backgrounds/world.png",
+      "bytes": 341507,
+      "sha256": "153712a5fed48ab4ac70cb5093cdca2816b929ccc820fbbec26201cabaab987c"
+    },
+    {
+      "path": "png/512/buttons/levels.png",
+      "bytes": 77818,
+      "sha256": "8e39611053347a9cab7decdbf22be6ec1172deb91caaa9400bc066943697f08e"
+    },
+    {
+      "path": "png/512/buttons/play.png",
+      "bytes": 72598,
+      "sha256": "6b704aef73e5480d503b123f7a4f3729af4e796167d05123922864e6ac826177"
+    },
+    {
+      "path": "png/512/buttons/rewards.png",
+      "bytes": 79199,
+      "sha256": "0769717482c348eb8576774d1e37eb135f73abd171c8cb140abb4b4084e231d1"
+    },
+    {
+      "path": "png/512/buttons/worlds.png",
+      "bytes": 74217,
+      "sha256": "726ecf9a84ce4be90099d6541f19a2ddfe6b44bf47c23ef7a12b390a50bd73d9"
+    },
+    {
+      "path": "png/512/characters/mossmops.png",
+      "bytes": 328208,
+      "sha256": "afdea410a734c47cee44e4b522276b20a52a36eadbb943d91cd75cc22b2bffdb"
+    },
+    {
+      "path": "png/512/characters/peachpeeps.png",
+      "bytes": 260593,
+      "sha256": "296c48a041821aa97ff6820baa45d879de5b581ebf7a399cf10cf029c84e02de"
+    },
+    {
+      "path": "png/512/characters/plumplets.png",
+      "bytes": 332102,
+      "sha256": "3903145c5de07c7958975cea5785222ad636166070b4c903e35ca58348354c93"
+    },
+    {
+      "path": "png/512/characters/rosybuns.png",
+      "bytes": 232885,
+      "sha256": "8cb351a4218b319515a59383cc2a3f6478be4a89826595cfb807cfaffe36e260"
+    },
+    {
+      "path": "png/512/characters/skydoodles.png",
+      "bytes": 252471,
+      "sha256": "e9901144313ae10b632ae5763b1aaa2ec9767e99f4851195226a81acfe111253"
+    },
+    {
+      "path": "png/512/characters/sunpuffs.png",
+      "bytes": 251691,
+      "sha256": "1032ff72f0e6c44ef163ac6103d9ab144bc346314597d8521d581304822e5113"
+    },
+    {
+      "path": "png/512/decor/cloud-base.png",
+      "bytes": 66707,
+      "sha256": "e8fdba13444ee5d5335e4a5aab3c554291037a4d35870cffa903dbdc926bcf13"
+    },
+    {
+      "path": "png/512/decor/magic-trail.png",
+      "bytes": 69609,
+      "sha256": "f23f31cc72dbc40f91f4775df4a5e6a32bd95d44c0b019f30d928710dcc09220"
+    },
+    {
+      "path": "png/512/decor/puff-lettering.png",
+      "bytes": 101898,
+      "sha256": "9ed5fefc85e2368b906dad4c937a6b427bc2e1d0809f56589056969917a6a2bb"
+    },
+    {
+      "path": "png/512/decor/trails-lettering.png",
+      "bytes": 98899,
+      "sha256": "5c3fe4c74bcb75724839c6cebf1f6cb73f18a394e32874d3c258e81cf10e6f2f"
+    },
+    {
+      "path": "png/512/hero/brand-scene.png",
+      "bytes": 326353,
+      "sha256": "979dc4012ebe36e12ea7270f0d71b76e78feb10ac9eb88aa7099448b1ea252a1"
+    },
+    {
+      "path": "png/512/icons/coin.png",
+      "bytes": 247632,
+      "sha256": "062e55bf9063558cf2c9f7f29746860e6bbcee672ce56b91520349b80ccf5b7f"
+    },
+    {
+      "path": "png/512/icons/energy.png",
+      "bytes": 145999,
+      "sha256": "901b50b81a3ce0a57bacb83434831e3316adfa7bccbca068e6960a33e999ac20"
+    },
+    {
+      "path": "png/512/icons/favicon-star-cloud.png",
+      "bytes": 174012,
+      "sha256": "082e277856b07a21db158f6673456deab0fbbe3cd1d2bacdba3af0fb1629352a"
+    },
+    {
+      "path": "png/512/icons/gem.png",
+      "bytes": 157423,
+      "sha256": "adf471116101012b5610c1f756aecea306414e37c43b10ebcc56c20cc888b788"
+    },
+    {
+      "path": "png/512/icons/gift.png",
+      "bytes": 253110,
+      "sha256": "cbf1df2195acdd3e7f6ae9273086cbb2862a8d005544cd08b0c6449cd0ee6ca4"
+    },
+    {
+      "path": "png/512/icons/globe.png",
+      "bytes": 219683,
+      "sha256": "68bddbfa139768ef461a17ea4862ab66a65e0df89aa3a7d5ba189ebefa227c35"
+    },
+    {
+      "path": "png/512/icons/heart.png",
+      "bytes": 182932,
+      "sha256": "0ae8b51ee6ce7885c0bd5ddbcc9b7fc012242a6c7915f257da9a043cd4e627cb"
+    },
+    {
+      "path": "png/512/icons/map.png",
+      "bytes": 179530,
+      "sha256": "30fd8392ca4bc414a243e24e63a18f9ad67e98ef522f451817493b38beb5b4b0"
+    },
+    {
+      "path": "png/512/icons/play-triangle.png",
+      "bytes": 162310,
+      "sha256": "0989a9bec34e43eb3f4c9ee62514bce5ebfb7506eddfb064b539f7d08eb72530"
+    },
+    {
+      "path": "png/512/icons/sparkle.png",
+      "bytes": 67969,
+      "sha256": "84d4e58228eea8b63fda4647b87bc51a6993cfcf10a4d726bf6897c13b02c33d"
+    },
+    {
+      "path": "png/512/icons/star-empty.png",
+      "bytes": 177030,
+      "sha256": "1ec093f300ea80ec98a7153122536fb43e5960865601428b72c2b923c75caab4"
+    },
+    {
+      "path": "png/512/icons/star-gold.png",
+      "bytes": 169778,
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736"
+    },
+    {
+      "path": "png/512/logos/main.png",
+      "bytes": 207708,
+      "sha256": "24e874010451508fbe06b5cbae0f13507f1a3cadf31f733027015aeb5ae6a9af"
+    },
+    {
+      "path": "png/512/logos/mono-black.png",
+      "bytes": 120586,
+      "sha256": "70557bf1ae1f3c52f4ce5672de9a307782ddfb73a810006358fb838d547ef7e4"
+    },
+    {
+      "path": "png/512/logos/mono-purple.png",
+      "bytes": 150016,
+      "sha256": "5b1841894896fea5ca68a83806b9c3e9a9d5b1a647baa0ddd370302e04384026"
+    },
+    {
+      "path": "png/512/logos/mono-white.png",
+      "bytes": 108765,
+      "sha256": "46af2aba41af862568be95a72646d609859971c6b0ded39013b09a5f4da4fe02"
+    },
+    {
+      "path": "png/512/logos/solid-dark.png",
+      "bytes": 150768,
+      "sha256": "984e7cab3dd5e6ca035e39ca4bb117eb4898e38cdaf3d3c3525db4b4c2ce2b2c"
+    },
+    {
+      "path": "png/512/logos/wordmark.png",
+      "bytes": 211969,
+      "sha256": "24d8524380465d851fde5bed5b1e7adaafa027fbe8116caed7f165325f3cac0a"
+    },
+    {
+      "path": "png/512/textures/clouds.png",
+      "bytes": 320040,
+      "sha256": "f91b6c59c682ff33fb816fae75502cdf788fc8f955b9d7e331817b74bb17f8e6"
+    },
+    {
+      "path": "png/512/textures/golden-gloss.png",
+      "bytes": 237129,
+      "sha256": "d4919c10be48a60ba2521b45b6bedd9dab7902fb9a2879e85fc9d5c910207913"
+    },
+    {
+      "path": "png/512/textures/magic-gradient.png",
+      "bytes": 269250,
+      "sha256": "f2a817719589ea41d010ae3ce51f1f1bb47c95072a2269336b5feed45efad930"
+    },
+    {
+      "path": "png/512/textures/pink-plush.png",
+      "bytes": 495910,
+      "sha256": "50112a71f8ad2969fe1f33eb01cf15fb63799afa6bf154d9e7f32a805653eee1"
+    },
+    {
+      "path": "png/512/textures/purple-fur.png",
+      "bytes": 540060,
+      "sha256": "e0c841fe95777efbcba36f6b4413a339fe13a203e0dcb5f1ec1cea325957dbdc"
+    },
+    {
+      "path": "png/512/ui/character-nameplate.png",
+      "bytes": 60258,
+      "sha256": "0646a816312a0761ddb1c2f643ed49ef8e40a6f919fd89e3e08cb69f8f935dcf"
+    },
+    {
+      "path": "png/512/ui/progress-fill.png",
+      "bytes": 39706,
+      "sha256": "d41c5fc430c5086fcccc45d5caa15565fa79be396153cd3e201d6580112d8761"
+    },
+    {
+      "path": "png/512/ui/progress-track.png",
+      "bytes": 35700,
+      "sha256": "e50a3c950f4f11745ef806758c677e0736918aa7cc7a0e00221f8c59171cf80b"
+    },
+    {
+      "path": "preview.html",
+      "bytes": 16477,
+      "sha256": "0d0a96e3dbf1c03a3ca3f37b8ef5b59e85edb3de76a3ad347795fd22b223f7c3"
+    },
+    {
+      "path": "qa/contact-dark.jpg",
+      "bytes": 654264,
+      "sha256": "e8dd6bfa368204a542456782c7e0f9e73048973693fb5c88eb0810896a9f3558"
+    },
+    {
+      "path": "qa/contact-light.jpg",
+      "bytes": 635677,
+      "sha256": "a75b706f1f7123d8649ea7580bb0aed42c83aeb9a161eb1b2b9daea04e085e4b"
+    },
+    {
+      "path": "qa/validation.json",
+      "bytes": 5843,
+      "sha256": "70dd8b10a4deb65b67a5153df7f1bf77389ec0a830438e0ca9399fd6bc90a17d"
+    },
+    {
+      "path": "reference/Puff Trails Brand Typography Board.png",
+      "bytes": 2283241,
+      "sha256": "51c9388dadd668217ebdd3b9e398c995edc9b310aa378e66b558b7a12e7c0d1d"
+    },
+    {
+      "path": "sources/generated/app-icons/characters.png",
+      "bytes": 1764710,
+      "sha256": "63b4c8e6950fda5ff74ac59eb467f08c1a929cf7785affd19cb52cea8922d6b8"
+    },
+    {
+      "path": "sources/generated/app-icons/rosybun.png",
+      "bytes": 1713266,
+      "sha256": "c71a1191951dec8840471789955845deb27cb03a294dd69702bf81dc51cce1dc"
+    },
+    {
+      "path": "sources/generated/app-icons/simple.png",
+      "bytes": 1649053,
+      "sha256": "dc3d9687b4c4a6a14d6b3986cd55dbb6faec708f95a2b55d92baf95cd1e8118a"
+    },
+    {
+      "path": "sources/generated/backgrounds/world.png",
+      "bytes": 2381321,
+      "sha256": "f0133dfb123b84eaeb9440cdbd9f20818a3980a680342a5fe007ece1854af6cb"
+    },
+    {
+      "path": "sources/generated/buttons/levels.png",
+      "bytes": 1021865,
+      "sha256": "bc54fab20232e6dfbf50fbe05b189c8ea32e347ee0db2c9ec9a41536ede4b2c7"
+    },
+    {
+      "path": "sources/generated/buttons/play.png",
+      "bytes": 1077015,
+      "sha256": "37bb3c5cb6a30eee2139a496a40618fd25bc82b1b1f8a891670b0531c29bd0cf"
+    },
+    {
+      "path": "sources/generated/buttons/rewards.png",
+      "bytes": 865426,
+      "sha256": "b6e8b0dca4c37f2fee035f1ec6a8c91978d0e007df49d41f625a8b11cb999d71"
+    },
+    {
+      "path": "sources/generated/buttons/worlds.png",
+      "bytes": 961276,
+      "sha256": "f0870491cdb0d417c37aa67a36fb73988c5a5191496cc24acd9abc5750a4e1fc"
+    },
+    {
+      "path": "sources/generated/characters/mossmops.png",
+      "bytes": 1894314,
+      "sha256": "214ae86ab5ca24a568d7b37d71dd5bb0e867f8cdc81b5220086bcc418d275874"
+    },
+    {
+      "path": "sources/generated/characters/peachpeeps.png",
+      "bytes": 1634616,
+      "sha256": "8ee1c1532ba8451541a8650f78d0379bd05ed656bfb41f910e11cbdb944dd878"
+    },
+    {
+      "path": "sources/generated/characters/plumplets.png",
+      "bytes": 2002531,
+      "sha256": "781c9ee0bb12a031a6e4c876c958fa295e7b9325106ed3284a435fb925b5364d"
+    },
+    {
+      "path": "sources/generated/characters/rosybuns.png",
+      "bytes": 1667260,
+      "sha256": "8f73025ecb158fff9c15ca645ae7cdb10a8632a78a86565670798651d7ee5d23"
+    },
+    {
+      "path": "sources/generated/characters/skydoodles.png",
+      "bytes": 1719003,
+      "sha256": "8be693e088395bdad5fdc6db9213cdadc699ea1fbbd8a4ee73f0172c81d923fe"
+    },
+    {
+      "path": "sources/generated/characters/sunpuffs.png",
+      "bytes": 1933822,
+      "sha256": "2359428caaf8ee47863ee23d844cd82522e96dd5738cd7de408dcb5c7c77ee9f"
+    },
+    {
+      "path": "sources/generated/decor/cloud-base.png",
+      "bytes": 1021380,
+      "sha256": "1bb7fca68dcd4e02593bb0328ddcf0cd318b1e93322e990526dc072f0e80f9d7"
+    },
+    {
+      "path": "sources/generated/decor/magic-trail.png",
+      "bytes": 1267597,
+      "sha256": "d54c22ae0f6d5629391ce79d24f188d8c7cadabb2e3dc1de7ef41e98d6486cb0"
+    },
+    {
+      "path": "sources/generated/decor/puff-lettering.png",
+      "bytes": 1387717,
+      "sha256": "58252338cc70af827bb64122dd4090c9a54e85907dcc9f1dce0de5b5e870f580"
+    },
+    {
+      "path": "sources/generated/decor/trails-lettering.png",
+      "bytes": 989774,
+      "sha256": "3f93c9beca6b1248e5f1d50ce53cfa26c247acc82fd357e0f5c7ad8f7c7d1bf0"
+    },
+    {
+      "path": "sources/generated/hero/brand-scene.png",
+      "bytes": 2193544,
+      "sha256": "4fbcc7c918185ddd9f6afa89bf8a9c6a22408a9af0373b53de1e3fae6bbebf6e"
+    },
+    {
+      "path": "sources/generated/icons/coin.png",
+      "bytes": 1443815,
+      "sha256": "8181caf736d019622936c17c3e17f5e8a0fe7e619353c0ed721557d5ff4fcd60"
+    },
+    {
+      "path": "sources/generated/icons/energy.png",
+      "bytes": 1048095,
+      "sha256": "a5609761080309180b5b155f423a106339cde42108c9236b38384f5a95ea71fb"
+    },
+    {
+      "path": "sources/generated/icons/favicon-star-cloud.png",
+      "bytes": 1402009,
+      "sha256": "d39ac7a99db77bcf492fba4389e3a18becfe4d0e30b3d21dd92c9e13800789d2"
+    },
+    {
+      "path": "sources/generated/icons/gem.png",
+      "bytes": 1253324,
+      "sha256": "e8bbb1fcf457f391c78c8a55e9510b19c7e4062ecde31a31e5ff9d89384abfca"
+    },
+    {
+      "path": "sources/generated/icons/gift.png",
+      "bytes": 1373436,
+      "sha256": "d1aa4160f24be03716866a4a717d1ffcce6667a41b9a2db55aacfaa4867e0daa"
+    },
+    {
+      "path": "sources/generated/icons/globe.png",
+      "bytes": 1183479,
+      "sha256": "6c45bb0d7824358873fcdea28a819754772aa7f606045fb6e380a13025c12b92"
+    },
+    {
+      "path": "sources/generated/icons/heart.png",
+      "bytes": 1386931,
+      "sha256": "59bb36a6f417ab1a2c167baa2d10d5c390f1b6c80cf72e84a5e436a769dcb814"
+    },
+    {
+      "path": "sources/generated/icons/map.png",
+      "bytes": 1193173,
+      "sha256": "8082c9b17e1f71336d0cc45df6aa1997fe90a691a969d7eb1330a155ff6e91cf"
+    },
+    {
+      "path": "sources/generated/icons/play-triangle.png",
+      "bytes": 1126870,
+      "sha256": "1b79c9fdcbec5bdd283d59fdd935b8fa59781c2f6136aec2c0db21627c0969aa"
+    },
+    {
+      "path": "sources/generated/icons/sparkle.png",
+      "bytes": 898432,
+      "sha256": "5e9e17a75f1b4d01c3fab2bdd68fed4f36f6eb823bb917d5b0ce774fd561c60e"
+    },
+    {
+      "path": "sources/generated/icons/star-empty.png",
+      "bytes": 1212948,
+      "sha256": "57fa04c743bd421d144bc230005fb8446914199952dfe9ae2d691ff621e84179"
+    },
+    {
+      "path": "sources/generated/icons/star-gold.png",
+      "bytes": 1280461,
+      "sha256": "414adc611a596813b57ec0e6b2a5243da2f88e28dabb0778782b1108249f8698"
+    },
+    {
+      "path": "sources/generated/logos/main.png",
+      "bytes": 2048832,
+      "sha256": "7eebdf7765d953a360df89331e9299a9972e060b11cc36a92018cc5c7770fbab"
+    },
+    {
+      "path": "sources/generated/logos/mono-black.png",
+      "bytes": 1008689,
+      "sha256": "0e24b62ccd6ff9271fd7ec11f21309a8ec6506d12b64faaf333ea1d0e3b0112f"
+    },
+    {
+      "path": "sources/generated/logos/mono-purple.png",
+      "bytes": 1212053,
+      "sha256": "ea942fbf291339694cf4ec74d79b6a7eda22ddeb08a1802c029ae741e61d5ef2"
+    },
+    {
+      "path": "sources/generated/logos/mono-white.png",
+      "bytes": 1208653,
+      "sha256": "0ddd13f33bb04b4bd20a5d193d8e52d8041bf7bdb5a45c9468e75761203395eb"
+    },
+    {
+      "path": "sources/generated/logos/solid-dark.png",
+      "bytes": 1102830,
+      "sha256": "545b26af60a587c62bb5792ab50bf6ae36c071b113c5232b6be92d3d5ef86cee"
+    },
+    {
+      "path": "sources/generated/logos/wordmark.png",
+      "bytes": 1737514,
+      "sha256": "a974b59f53598db16e1ac4d1b321ecc5e656f9275e3c5d5c2b78a351dc88ee8f"
+    },
+    {
+      "path": "sources/generated/textures/clouds.png",
+      "bytes": 1571884,
+      "sha256": "49bfed492b01f811f9e6359af15b14b5922bdeb9ffda357098329a27ae418b07"
+    },
+    {
+      "path": "sources/generated/textures/golden-gloss.png",
+      "bytes": 1435694,
+      "sha256": "8e96ed2f81b769ce3bcaeeb2dccda10c94a60c30961e28ddfe5a389a314dd310"
+    },
+    {
+      "path": "sources/generated/textures/magic-gradient.png",
+      "bytes": 1467113,
+      "sha256": "d9782b7ff5b5f059332e09706863aac54639e2f3cfc226ed8bb46f223e7f3bfd"
+    },
+    {
+      "path": "sources/generated/textures/pink-plush.png",
+      "bytes": 2875384,
+      "sha256": "8b16f24d602351229b431c51d43f5985ed49da6e93c40730f358056b0a9d1a16"
+    },
+    {
+      "path": "sources/generated/textures/purple-fur.png",
+      "bytes": 3390804,
+      "sha256": "df7891bc6e122d2c07e51e4d15c462f59400ebfdd678664480522c4d9715d06b"
+    },
+    {
+      "path": "sources/generated/ui/character-nameplate.png",
+      "bytes": 683908,
+      "sha256": "f625ac119ec1f1074407d713a9dabfc25e68a8f70c00703f1295fcb49b80eb99"
+    },
+    {
+      "path": "sources/generated/ui/progress-fill.png",
+      "bytes": 716118,
+      "sha256": "cdba453541821a6621ed0267455870734433a612020d3a6e4f2399094bbc45d6"
+    },
+    {
+      "path": "sources/generated/ui/progress-track.png",
+      "bytes": 584099,
+      "sha256": "67c4daebb6be4e8ec698126daac4f8f0ad5166dc200c6d019d2320c7e0e15b2d"
+    },
+    {
+      "path": "tokens.css",
+      "bytes": 455,
+      "sha256": "58f4bb0e8a7f76894a7f02ee8e053c3e67f50a2dc56fd0ec2fb37fb203dad6c6"
+    },
+    {
+      "path": "webp/128/app-icons/characters.webp",
+      "bytes": 24518,
+      "sha256": "80ce41e86d743672ad9e08b529928db090c479436e6638341ec0ca482e0147bc"
+    },
+    {
+      "path": "webp/128/app-icons/rosybun.webp",
+      "bytes": 19474,
+      "sha256": "251a560605fe5d389bec96226a0f444380ea28b64f7b9d0ca0072c501c304c12"
+    },
+    {
+      "path": "webp/128/app-icons/simple.webp",
+      "bytes": 24114,
+      "sha256": "4529dd5ed035751c119635ba4470d5b0f8e136494378cfd1b4219d9954a7a246"
+    },
+    {
+      "path": "webp/128/backgrounds/world.webp",
+      "bytes": 21170,
+      "sha256": "29af77c549948bc936f994e17b3b53f482b9509073b7e3209de786900fad79c7"
+    },
+    {
+      "path": "webp/128/buttons/levels.webp",
+      "bytes": 6244,
+      "sha256": "d83fd3bc4ad029cf35eed155ec903b22f80d5bd6c2e297624d0a8abb8c9ddacc"
+    },
+    {
+      "path": "webp/128/buttons/play.webp",
+      "bytes": 5718,
+      "sha256": "8b4af92cbbe61c5b1ce617a89d5b4aea8920886c8a4437558fd2f95eac0108e0"
+    },
+    {
+      "path": "webp/128/buttons/rewards.webp",
+      "bytes": 6300,
+      "sha256": "16c57de490da1340ae4c0cd0658ccad18993e9d08720d663ec6a259bf09543ee"
+    },
+    {
+      "path": "webp/128/buttons/worlds.webp",
+      "bytes": 6154,
+      "sha256": "15e42dddd1344e82a3a224db6676a85268ed7a68471d92a5fdc613bd551a981f"
+    },
+    {
+      "path": "webp/128/characters/mossmops.webp",
+      "bytes": 20408,
+      "sha256": "a0049eeb07ecfd1c40a536fe80d188e8ee7405e205b145b775cc54b02f125399"
+    },
+    {
+      "path": "webp/128/characters/peachpeeps.webp",
+      "bytes": 16360,
+      "sha256": "c3be18a8ab8c45151c4fa1ed7a8a91dfd582596b27964a02db5f7c014dc9559b"
+    },
+    {
+      "path": "webp/128/characters/plumplets.webp",
+      "bytes": 20790,
+      "sha256": "5c4f5e5b4dc388c149c5544b711edc7299d6b4d462bb37ed1ea41d09a68abe2c"
+    },
+    {
+      "path": "webp/128/characters/rosybuns.webp",
+      "bytes": 14994,
+      "sha256": "9affab3f9d22adde967e8dbf886af2234b03df8032d0094045e0d82fef9eec95"
+    },
+    {
+      "path": "webp/128/characters/skydoodles.webp",
+      "bytes": 17050,
+      "sha256": "07ffff8c4a3c71caf7708a92d1f8a852fa3705c9d962ff8933dc2a4b2e5071a2"
+    },
+    {
+      "path": "webp/128/characters/sunpuffs.webp",
+      "bytes": 17222,
+      "sha256": "b0c29286010745cc423c464f363d2a25b1621f7c422ec7121c50f66e6f60650e"
+    },
+    {
+      "path": "webp/128/decor/cloud-base.webp",
+      "bytes": 5922,
+      "sha256": "4495f4c6afaecd7377ec858611bec6820626ac27d0719882341945a2f53c36eb"
+    },
+    {
+      "path": "webp/128/decor/magic-trail.webp",
+      "bytes": 6142,
+      "sha256": "b6be8d85be80a0d0261b3a48b4110efda2960ee72e8f4a578af0f09e89742638"
+    },
+    {
+      "path": "webp/128/decor/puff-lettering.webp",
+      "bytes": 7954,
+      "sha256": "b5afd89eb2ccbd585fff145a4ae2998424311c52fb76ed735064166f497537d1"
+    },
+    {
+      "path": "webp/128/decor/trails-lettering.webp",
+      "bytes": 9190,
+      "sha256": "ec2383cbc89af9f2b03994e2a37de546ff841090ef6b3b6286350bbc9b10eb7d"
+    },
+    {
+      "path": "webp/128/hero/brand-scene.webp",
+      "bytes": 21564,
+      "sha256": "1954c4c48dae1f06a21823c394c909618b9466ac951e7f6f16c18559e3a64637"
+    },
+    {
+      "path": "webp/128/icons/coin.webp",
+      "bytes": 17866,
+      "sha256": "4e57a3bfb3a200eace153bc16bc98acf089e9df96547b32b60477f347a82f7d5"
+    },
+    {
+      "path": "webp/128/icons/energy.webp",
+      "bytes": 10712,
+      "sha256": "4178ffd5fc32101bc32fbe74a705b9d0aa324d7ab2aa013ac457bef04689d040"
+    },
+    {
+      "path": "webp/128/icons/favicon-star-cloud.webp",
+      "bytes": 12592,
+      "sha256": "29b53defe72ebb5d4f246c7082b01badbe9bed4d9117488d42c26bc0844e9d5e"
+    },
+    {
+      "path": "webp/128/icons/gem.webp",
+      "bytes": 9952,
+      "sha256": "d00ebd04af40dbfb0ee11952f5fa8248b6264c1ea503f4d637de6e3fbc6e3049"
+    },
+    {
+      "path": "webp/128/icons/gift.webp",
+      "bytes": 19942,
+      "sha256": "7339c6ee1f9f2f2b3f53e93d0d9cb04e125a7e1cf428f2f1882498d0e49f9579"
+    },
+    {
+      "path": "webp/128/icons/globe.webp",
+      "bytes": 16058,
+      "sha256": "6cf2201a15b9a8a15ad7d23b59b767a566c9bec983368948f02baf4e8b71394a"
+    },
+    {
+      "path": "webp/128/icons/heart.webp",
+      "bytes": 12440,
+      "sha256": "5614a11805f8d6d6b8e450727638df24be4758ed83a54a17d517ae180a584c74"
+    },
+    {
+      "path": "webp/128/icons/map.webp",
+      "bytes": 13368,
+      "sha256": "5613b5e13897ac66a57a68507384c891a82b30c238d3e5668eb33ab822fa2b78"
+    },
+    {
+      "path": "webp/128/icons/play-triangle.webp",
+      "bytes": 10612,
+      "sha256": "9db8e4788cff6f99b9317b945b3442960905c4c8cbc42e54d73ed8f907f01030"
+    },
+    {
+      "path": "webp/128/icons/sparkle.webp",
+      "bytes": 5362,
+      "sha256": "ffa3c94ac204d6e24502d1189b9100eedf3adb3424974c7e46e567cc74b5c2aa"
+    },
+    {
+      "path": "webp/128/icons/star-empty.webp",
+      "bytes": 11792,
+      "sha256": "4de329cac6328c4fb3f51d595493d1084715e011c74492c4321a9bacdfea9d77"
+    },
+    {
+      "path": "webp/128/icons/star-gold.webp",
+      "bytes": 11462,
+      "sha256": "72dff413004fa17e43d29cd4fd8ea4ccef73cd50b8404732b40991ef2d1885d6"
+    },
+    {
+      "path": "webp/128/logos/main.webp",
+      "bytes": 16704,
+      "sha256": "b8549507729889689dbcb726a92045bb8cb4de3e19a575b40c3c67b82eb63fd9"
+    },
+    {
+      "path": "webp/128/logos/mono-black.webp",
+      "bytes": 7042,
+      "sha256": "db4bd02180d5dacfa03878a049186e5788341323c09d76967ffcc573f7a000ba"
+    },
+    {
+      "path": "webp/128/logos/mono-purple.webp",
+      "bytes": 11082,
+      "sha256": "03d677177d2c60b08e3a7639fba6df1bb9077a36d55231eb541658c6f2eedbbd"
+    },
+    {
+      "path": "webp/128/logos/mono-white.webp",
+      "bytes": 5868,
+      "sha256": "969f7e04f4e9a071d72262a3806d41d74a5202ba59354fdcd582a74b52cbaaf5"
+    },
+    {
+      "path": "webp/128/logos/solid-dark.webp",
+      "bytes": 10930,
+      "sha256": "bbdd78f09f132701ac07331ee678a8c9c82f2646ca61432b33c1893324d91433"
+    },
+    {
+      "path": "webp/128/logos/wordmark.webp",
+      "bytes": 16952,
+      "sha256": "22e7f49162c4c6f72dee095e500fccc2d362b66e3f2f58cefaf1c8f4b9bad182"
+    },
+    {
+      "path": "webp/128/textures/clouds.webp",
+      "bytes": 19012,
+      "sha256": "deef2762c4efdba46e3c10fbb57421533eb21c214095fb3d3448cec2fee8e18d"
+    },
+    {
+      "path": "webp/128/textures/golden-gloss.webp",
+      "bytes": 8862,
+      "sha256": "483330c8fea4db373b9860826dba54a70c5ab24e48c79b90af542e938837434d"
+    },
+    {
+      "path": "webp/128/textures/magic-gradient.webp",
+      "bytes": 14302,
+      "sha256": "5e269de9edc6ecf03ef41018f84e0efbb660f0c64eaf86eb26de01463086b422"
+    },
+    {
+      "path": "webp/128/textures/pink-plush.webp",
+      "bytes": 18866,
+      "sha256": "4504684753d72a4b24d84a93db7e4e60ac9fbe2759e15a3c647684ccae039a66"
+    },
+    {
+      "path": "webp/128/textures/purple-fur.webp",
+      "bytes": 21784,
+      "sha256": "7bc966cef24a55bb3f240e77c59ec7e812cd43519f5531a7f61fc99b929427ca"
+    },
+    {
+      "path": "webp/128/ui/character-nameplate.webp",
+      "bytes": 3722,
+      "sha256": "f17a826fa6c3cc1cc337934fba5d5058e90494ca61dfb452020d9434b3b4ad65"
+    },
+    {
+      "path": "webp/128/ui/progress-fill.webp",
+      "bytes": 2624,
+      "sha256": "b75d29a8694fecf4d905d21b2a1b1013a208fa5b864c9e2fb37cfff25d90f370"
+    },
+    {
+      "path": "webp/128/ui/progress-track.webp",
+      "bytes": 2724,
+      "sha256": "4fa12299850779ec7b5ab7e710d245d975224bbf366fe7fbd5dc40da2af536d4"
+    },
+    {
+      "path": "webp/256/app-icons/characters.webp",
+      "bytes": 80888,
+      "sha256": "c9466b554e0fb6dd4ed2539f21db4e0a05e96864d11db5c66b9ccba85600477c"
+    },
+    {
+      "path": "webp/256/app-icons/rosybun.webp",
+      "bytes": 63190,
+      "sha256": "c6ab86282ff495f9d9df8b9172008f0dcf8fc5c80b5a2464f0b2d62e776cff82"
+    },
+    {
+      "path": "webp/256/app-icons/simple.webp",
+      "bytes": 77360,
+      "sha256": "5ccfcff3aac540bc4741c078afd470b7280da27ee5f8cfc4e9d9c8ec18a19443"
+    },
+    {
+      "path": "webp/256/backgrounds/world.webp",
+      "bytes": 74262,
+      "sha256": "c505069ee5649c9dd0f040642cb453b395d009519ccfd5de4416eb096532be79"
+    },
+    {
+      "path": "webp/256/buttons/levels.webp",
+      "bytes": 18040,
+      "sha256": "1f30ef468641e6d4464bb76568f94076f74d6c813438f2359eaebca4a624fcf0"
+    },
+    {
+      "path": "webp/256/buttons/play.webp",
+      "bytes": 16468,
+      "sha256": "530c40c8efea9786ee729fbcfd8411898e78c9a4e142bb1c3ed026918618d5c7"
+    },
+    {
+      "path": "webp/256/buttons/rewards.webp",
+      "bytes": 18526,
+      "sha256": "0e67377dd997c35d87adec556915f8d50e45ac0cf18d0ea98fbbfd2bfc3d2dfb"
+    },
+    {
+      "path": "webp/256/buttons/worlds.webp",
+      "bytes": 17584,
+      "sha256": "c630df3d81b2870b1c0050a517fd71591f9bdc5a0b2a4cd5d4ef4351823c308a"
+    },
+    {
+      "path": "webp/256/characters/mossmops.webp",
+      "bytes": 63228,
+      "sha256": "dde90cf4d4e1cc7a462c9d4ab35657023e10bfa0abc5b71bc84711d5dc2083af"
+    },
+    {
+      "path": "webp/256/characters/peachpeeps.webp",
+      "bytes": 49094,
+      "sha256": "197c200d6e2ecd165b93acb2bd37c7c9054770b85632976adf7b2c5c63712533"
+    },
+    {
+      "path": "webp/256/characters/plumplets.webp",
+      "bytes": 64518,
+      "sha256": "bddb7e388fa9e85a61a4cb1a2eb3f3471c1318ddc07b7914c5e09bfe893a50b7"
+    },
+    {
+      "path": "webp/256/characters/rosybuns.webp",
+      "bytes": 43012,
+      "sha256": "8de54cd379c5b87d1bc4a327b24fedd4d80368233e4314f35cefd7481b7386f0"
+    },
+    {
+      "path": "webp/256/characters/skydoodles.webp",
+      "bytes": 50092,
+      "sha256": "c07dacd89e9a969822c5ae4a95585ca14c620308f1d916d154a317db178fd42c"
+    },
+    {
+      "path": "webp/256/characters/sunpuffs.webp",
+      "bytes": 49708,
+      "sha256": "7c0da3b33762b6250a0a767a70496e4257b96aa956ee9ebc90c62a4d3bfb0c9a"
+    },
+    {
+      "path": "webp/256/decor/cloud-base.webp",
+      "bytes": 15370,
+      "sha256": "9bda48925eacd05948db51c4300ea04712d144119dbd95c4f585cf07efd9a885"
+    },
+    {
+      "path": "webp/256/decor/magic-trail.webp",
+      "bytes": 16866,
+      "sha256": "05be9bd7cd914e323303db9be6635cd4d6694b6f4f174301b535452839600529"
+    },
+    {
+      "path": "webp/256/decor/puff-lettering.webp",
+      "bytes": 22426,
+      "sha256": "f6b8bbb2ce8b11d4b809448f63f5e6ddb962df503667c1a8ccac1db1e630ccf6"
+    },
+    {
+      "path": "webp/256/decor/trails-lettering.webp",
+      "bytes": 25056,
+      "sha256": "a2a52516c0b901ff8ab2ff1438c618f56e4bd847b0b82fa40821d844d79acf30"
+    },
+    {
+      "path": "webp/256/hero/brand-scene.webp",
+      "bytes": 71846,
+      "sha256": "da25c9c3559af4ced1412933802d0236b4ed2a3ddbda4c967d7bee6998cb2727"
+    },
+    {
+      "path": "webp/256/icons/coin.webp",
+      "bytes": 51138,
+      "sha256": "3d3a9dc8e57816fdfd1840658aebd89c09f2d56930298f8f653adef4c0d61b28"
+    },
+    {
+      "path": "webp/256/icons/energy.webp",
+      "bytes": 29628,
+      "sha256": "810a7abf80423d9cef47491d08633bae6d03fffc81d2bded7207edfbe2b37d90"
+    },
+    {
+      "path": "webp/256/icons/favicon-star-cloud.webp",
+      "bytes": 35280,
+      "sha256": "396caaaac2935af892fe18076c7231aac6b9653add1029487605acd8317991e7"
+    },
+    {
+      "path": "webp/256/icons/gem.webp",
+      "bytes": 29384,
+      "sha256": "3214de657d9f1b81bbe08c68475a8782f576dbed2f4f0ac0e1a3d108e6247049"
+    },
+    {
+      "path": "webp/256/icons/gift.webp",
+      "bytes": 56348,
+      "sha256": "df49784759578585c259fe38a71d2592195a561b67aa06298732e4e7bbfa4cab"
+    },
+    {
+      "path": "webp/256/icons/globe.webp",
+      "bytes": 46554,
+      "sha256": "0d354aab97f9514e07e80dfc289585f838eb957c378090ef8d150d3b84f9b624"
+    },
+    {
+      "path": "webp/256/icons/heart.webp",
+      "bytes": 35402,
+      "sha256": "260bbf64bb0e22ef6d04691e335bfe7fa57d8d0e6f8e1754ec0ca79e5388d5fb"
+    },
+    {
+      "path": "webp/256/icons/map.webp",
+      "bytes": 37572,
+      "sha256": "6d90b985d2b6f3e102a4abefd923f5e7f076ed5aafd6e61e5fd697e55cc5eeda"
+    },
+    {
+      "path": "webp/256/icons/play-triangle.webp",
+      "bytes": 30664,
+      "sha256": "2abc67530c422cf7435a0cf8b29e127c9814eff8005c8de5295af5632f4805ed"
+    },
+    {
+      "path": "webp/256/icons/sparkle.webp",
+      "bytes": 15316,
+      "sha256": "d0c34c044fb9c2a4f1a32ebd7957ee77615835235d4aa66afcd81b452858f17f"
+    },
+    {
+      "path": "webp/256/icons/star-empty.webp",
+      "bytes": 33212,
+      "sha256": "62e3183059c2cfcf444d7c47ee1e6f78fbbc015c52686d0ad573dd050de4a355"
+    },
+    {
+      "path": "webp/256/icons/star-gold.webp",
+      "bytes": 32620,
+      "sha256": "6fa8546114cd84795d0dd614ee80a35beae9c62573d240895c2492359a6c0538"
+    },
+    {
+      "path": "webp/256/logos/main.webp",
+      "bytes": 49024,
+      "sha256": "6fbed76869e36c96b4e8e77e9400b6fbf9460f826f3dec83243ed7f1c54949a6"
+    },
+    {
+      "path": "webp/256/logos/mono-black.webp",
+      "bytes": 19796,
+      "sha256": "038d724a8233dd443e58c929d3db6dabffaf6a21f0e5e244387d98db4c651885"
+    },
+    {
+      "path": "webp/256/logos/mono-purple.webp",
+      "bytes": 31328,
+      "sha256": "3b076094297a5faaa83e96cf20e0f653cb1ddd74be15acae2439dd8282b14e31"
+    },
+    {
+      "path": "webp/256/logos/mono-white.webp",
+      "bytes": 16754,
+      "sha256": "e917d171458caa317ce9f1ef932889e86724c12a18e1e79eb5e7a9ebc268ff1c"
+    },
+    {
+      "path": "webp/256/logos/solid-dark.webp",
+      "bytes": 30618,
+      "sha256": "c3e34d2cd4652140c88b52bdef0615297e99303db76d664c0a9a94dd9c576840"
+    },
+    {
+      "path": "webp/256/logos/wordmark.webp",
+      "bytes": 47850,
+      "sha256": "ef51e8b5837eae8c3d76f05bd11ff7d532c8e4b22aabdc9c8a81b2601b9a2a1d"
+    },
+    {
+      "path": "webp/256/textures/clouds.webp",
+      "bytes": 59844,
+      "sha256": "e335a8e2e72823f5e7828393b5e069abddd8e8607796e59c13c14ddf1aea5b2f"
+    },
+    {
+      "path": "webp/256/textures/golden-gloss.webp",
+      "bytes": 33126,
+      "sha256": "770c59edbde7acbf95281003c34c6570cfe9547124577d5844f2190354529436"
+    },
+    {
+      "path": "webp/256/textures/magic-gradient.webp",
+      "bytes": 46824,
+      "sha256": "4e03e82181c8eb2f199e9e80cea6cb7ec6ce28134903187313c3e7c7b4d56d51"
+    },
+    {
+      "path": "webp/256/textures/pink-plush.webp",
+      "bytes": 74552,
+      "sha256": "5f1ab0882b6526b6c437aa935188a9f6d28e1815845770fc47aa3ec98781bf3a"
+    },
+    {
+      "path": "webp/256/textures/purple-fur.webp",
+      "bytes": 82540,
+      "sha256": "961497b94bc1ead18d43c2de8620d9321aefaee311c4be5d672ebdb842e5de89"
+    },
+    {
+      "path": "webp/256/ui/character-nameplate.webp",
+      "bytes": 11144,
+      "sha256": "f3f54b5bee14012696e31fe7a36f37fc8aa141a851f2b82ff0a045e12ef5c985"
+    },
+    {
+      "path": "webp/256/ui/progress-fill.webp",
+      "bytes": 8346,
+      "sha256": "4c176b34d179e5deb866ad6bde7ada070212591b2e926ab998bba55e8224fb71"
+    },
+    {
+      "path": "webp/256/ui/progress-track.webp",
+      "bytes": 7698,
+      "sha256": "8d05a08c8ae50421f535365276ee95f4b5907fb16da253d8ea57cc1b8a7081d1"
+    },
+    {
+      "path": "webp/512/app-icons/characters.webp",
+      "bytes": 276416,
+      "sha256": "70de4c9f6668b56c0da74d3c289d5efb2d22de144b90aad949027592210dd338"
+    },
+    {
+      "path": "webp/512/app-icons/rosybun.webp",
+      "bytes": 232094,
+      "sha256": "3a1c84c701eb1e742b956419b295c138f799e04117da288fb1c62fa0ecb0824b"
+    },
+    {
+      "path": "webp/512/app-icons/simple.webp",
+      "bytes": 268086,
+      "sha256": "b69d825b5465afb9aaaf81207300e8e52561ce15b1bcf2180e79ce45051e3879"
+    },
+    {
+      "path": "webp/512/backgrounds/world.webp",
+      "bytes": 250516,
+      "sha256": "e7209bdc60b83acf183ef4b64d1e7060caec65cb69cc2c4237f35b393731b847"
+    },
+    {
+      "path": "webp/512/buttons/levels.webp",
+      "bytes": 53756,
+      "sha256": "eb99f82630ccafa4a71209f51a28a19d9e1772cca738409befa1c13f87801e16"
+    },
+    {
+      "path": "webp/512/buttons/play.webp",
+      "bytes": 49496,
+      "sha256": "3f9527afc1435b3ec74f6f9f4f902625b7ea48480dcde3e56e69d1329d90f014"
+    },
+    {
+      "path": "webp/512/buttons/rewards.webp",
+      "bytes": 54828,
+      "sha256": "66a1cadda076bb622d9ba4fe5a54cd3519bf197d1c1f1d577b69fe40b7ca69b0"
+    },
+    {
+      "path": "webp/512/buttons/worlds.webp",
+      "bytes": 52406,
+      "sha256": "8ecebb4d0e44eca6f85a99d8d5a44c71f02383a5264123f587bd96fa0c2d79ff"
+    },
+    {
+      "path": "webp/512/characters/mossmops.webp",
+      "bytes": 213418,
+      "sha256": "76c58baeec8eb9b69b5e47698eb764995ffa56861a296a33ed5cda2327d2fa04"
+    },
+    {
+      "path": "webp/512/characters/peachpeeps.webp",
+      "bytes": 169740,
+      "sha256": "4cbac8d56cfd9e3575e84ddf00bcf41f3e7c4fb7ae333080633f31496a3266fe"
+    },
+    {
+      "path": "webp/512/characters/plumplets.webp",
+      "bytes": 228350,
+      "sha256": "a96c7e90e09b887f39d09f03fa44495035df24a84a04be52e93831ea70b1ad1e"
+    },
+    {
+      "path": "webp/512/characters/rosybuns.webp",
+      "bytes": 160534,
+      "sha256": "f27123faffc12ea6dccffd7da7b46991457ff85285d0cb0460fd9a717fc92612"
+    },
+    {
+      "path": "webp/512/characters/skydoodles.webp",
+      "bytes": 170784,
+      "sha256": "b09f8a946a6830d0aa62b223285eb7cc56772a84280fdd1ea083f9085f624a87"
+    },
+    {
+      "path": "webp/512/characters/sunpuffs.webp",
+      "bytes": 176486,
+      "sha256": "7c53ea5a1b3de74deef142278fc455f7b1995c001afdb70e0c4466a8c7b3f0b3"
+    },
+    {
+      "path": "webp/512/decor/cloud-base.webp",
+      "bytes": 45464,
+      "sha256": "98a0a8171f574449cfe25071bdb880dc43e1315aeca60c4a380a6268ab8a4a80"
+    },
+    {
+      "path": "webp/512/decor/magic-trail.webp",
+      "bytes": 48486,
+      "sha256": "f34cd5d7b5b82d233b142d3bcb280cb67cb44481ad2d4bd70aaf8d8cdac56163"
+    },
+    {
+      "path": "webp/512/decor/puff-lettering.webp",
+      "bytes": 71228,
+      "sha256": "17904171266d27c5bd902407962347e96957a5cd8f57d6ebba28b460eb3b46eb"
+    },
+    {
+      "path": "webp/512/decor/trails-lettering.webp",
+      "bytes": 69206,
+      "sha256": "89204d1ebbb526794f16eb01392f47d51dc25296801b2396601b8aa39b107269"
+    },
+    {
+      "path": "webp/512/hero/brand-scene.webp",
+      "bytes": 228826,
+      "sha256": "12d109e476445e7e8f820428515e0b8bffbc7ca729e53f829c9bda8416349f50"
+    },
+    {
+      "path": "webp/512/icons/coin.webp",
+      "bytes": 165218,
+      "sha256": "af8a9d6617a815f60e8649a686a58f78875180eebeace9518f13ed6b49e2c019"
+    },
+    {
+      "path": "webp/512/icons/energy.webp",
+      "bytes": 93858,
+      "sha256": "a35b9dc6cf1459b15f890992826d76fa40967a8faae0327bdc11517f9c2083bd"
+    },
+    {
+      "path": "webp/512/icons/favicon-star-cloud.webp",
+      "bytes": 116100,
+      "sha256": "86e4633f9a9bf1ac0abc415bf0710667a5e4a93f9e311f65d1c0a70b1f960ae6"
+    },
+    {
+      "path": "webp/512/icons/gem.webp",
+      "bytes": 96556,
+      "sha256": "48d2866f7791736839b4a523e9d0edfe31e3b44877cde845a5a1ece860a2dcaf"
+    },
+    {
+      "path": "webp/512/icons/gift.webp",
+      "bytes": 175680,
+      "sha256": "a88ebaf80182ca5cc4a310564bc6456f1160b6b64c5089361939a5e56381daf2"
+    },
+    {
+      "path": "webp/512/icons/globe.webp",
+      "bytes": 147944,
+      "sha256": "d0d988d5aafb435d9cb1280661394cdb1511ad8057847111cac4a4e69db80fdb"
+    },
+    {
+      "path": "webp/512/icons/heart.webp",
+      "bytes": 114336,
+      "sha256": "95c0794f3bde53e4bcf7376f4643c35f04085a32ffce6ba6f1d1dfbac9359daf"
+    },
+    {
+      "path": "webp/512/icons/map.webp",
+      "bytes": 124764,
+      "sha256": "44b209613e4d134c941ed46d1cc9b18399c2b20ca03d198de062052ecb120a93"
+    },
+    {
+      "path": "webp/512/icons/play-triangle.webp",
+      "bytes": 99924,
+      "sha256": "ec0cabd81234367d8f320e136c54995d19d8599ca8ad60c78ccb4bb142d21e4c"
+    },
+    {
+      "path": "webp/512/icons/sparkle.webp",
+      "bytes": 49890,
+      "sha256": "d36771ab8be28f5c3c70eb396923595287535080d6fd0b31cee97185411eb212"
+    },
+    {
+      "path": "webp/512/icons/star-empty.webp",
+      "bytes": 114162,
+      "sha256": "b64c8010fa1fed801a4c8ebe50afda89ef76cf6629b3285738e48b928a2fbfab"
+    },
+    {
+      "path": "webp/512/icons/star-gold.webp",
+      "bytes": 107632,
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e"
+    },
+    {
+      "path": "webp/512/logos/main.webp",
+      "bytes": 156218,
+      "sha256": "67348ffb4fe35662023583259e644c27721439d910669a54b4a5e25592264a3e"
+    },
+    {
+      "path": "webp/512/logos/mono-black.webp",
+      "bytes": 67138,
+      "sha256": "d5c6f98d9326c2742a5d6af38cfad38a457f6b51a00078aac4399bd10d3954b3"
+    },
+    {
+      "path": "webp/512/logos/mono-purple.webp",
+      "bytes": 103230,
+      "sha256": "20e0681a05d5eb22f2f38d49e2d7ae7ceb9c6146d174c78f5fa979b2810e0880"
+    },
+    {
+      "path": "webp/512/logos/mono-white.webp",
+      "bytes": 53994,
+      "sha256": "7990e01cd8fc32b1b6b673ca3c9ac76f02c6bacd64b6b559a944e1d26d35ad18"
+    },
+    {
+      "path": "webp/512/logos/solid-dark.webp",
+      "bytes": 103268,
+      "sha256": "732b7fdf90d19516006c0b7355e26573609c41e0e84e3463425178cf787e361b"
+    },
+    {
+      "path": "webp/512/logos/wordmark.webp",
+      "bytes": 154564,
+      "sha256": "8069a8565efac36cb71789244d0dcf82a451c5ddffc741e4876860fd088bc165"
+    },
+    {
+      "path": "webp/512/textures/clouds.webp",
+      "bytes": 212306,
+      "sha256": "ec4c2f0bbd7d6b775dad7ae312ad1574b536d093f2bfe1244d7ee6f5bdbdfe03"
+    },
+    {
+      "path": "webp/512/textures/golden-gloss.webp",
+      "bytes": 159726,
+      "sha256": "623768c4727a124c936e97c8dfe07426f75a2b6341d6e14583b1c0492dba50b2"
+    },
+    {
+      "path": "webp/512/textures/magic-gradient.webp",
+      "bytes": 179752,
+      "sha256": "e743f77645c8bfc24c5b1acdd55b67527faea7bb5a219c76507a14827faddc9c"
+    },
+    {
+      "path": "webp/512/textures/pink-plush.webp",
+      "bytes": 304204,
+      "sha256": "74bc6ba3df7ef64a9ea951e92279252594f745a95d3a08db87a1eef1dcc5b705"
+    },
+    {
+      "path": "webp/512/textures/purple-fur.webp",
+      "bytes": 329320,
+      "sha256": "a2dd8a48ff552eda174454831c75a349dda3bd0a5dfa27359e33c20c07526429"
+    },
+    {
+      "path": "webp/512/ui/character-nameplate.webp",
+      "bytes": 39264,
+      "sha256": "9d385e417840a88873fec7d7107cd8d265cd5e557a7770e21966252f0d143522"
+    },
+    {
+      "path": "webp/512/ui/progress-fill.webp",
+      "bytes": 27190,
+      "sha256": "d66df687bca0bb489165605aa779832dc129091c746d91efb1c527fa93036cf6"
+    },
+    {
+      "path": "webp/512/ui/progress-track.webp",
+      "bytes": 25196,
+      "sha256": "5565cd16d34ed0c10677b36128e937c79fa1846c6cd3751d0d97dd456776f5b1"
+    }
+  ]
+}

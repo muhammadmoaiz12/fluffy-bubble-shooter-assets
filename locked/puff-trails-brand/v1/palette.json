@@ -1,0 +1,26 @@
+{
+  "method": "Median 7x7 center samples from gradient swatches in supplied board; approximate reference colors, not official flat color specifications.",
+  "colors": {
+    "primary": [
+      "#8024BC",
+      "#A242FA",
+      "#FC6BB2",
+      "#FDD114",
+      "#FD8602"
+    ],
+    "secondary": [
+      "#3CA6FD",
+      "#6EEAFD",
+      "#7DEA8E",
+      "#C5A6FC",
+      "#FED0EF"
+    ],
+    "neutral": [
+      "#3D2571",
+      "#75819D",
+      "#B2BFD7",
+      "#DEE4F8",
+      "#FEFEFD"
+    ]
+  }
+}

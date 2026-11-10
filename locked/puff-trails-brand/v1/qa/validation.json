@@ -1,0 +1,187 @@
+{
+  "asset_count": 45,
+  "status": "technical_checks_passed",
+  "visual_approval": "pending",
+  "checks": [
+    {
+      "id": "app-icons/characters",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "app-icons/rosybun",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "app-icons/simple",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "backgrounds/world",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "buttons/levels",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "buttons/play",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "buttons/rewards",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "buttons/worlds",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "characters/mossmops",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "characters/peachpeeps",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "characters/plumplets",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "characters/rosybuns",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "characters/skydoodles",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "characters/sunpuffs",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "decor/cloud-base",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "decor/magic-trail",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "decor/puff-lettering",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "decor/trails-lettering",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "hero/brand-scene",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/coin",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/energy",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/favicon-star-cloud",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/gem",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/gift",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/globe",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/heart",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/map",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/play-triangle",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/sparkle",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/star-empty",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "icons/star-gold",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "logos/main",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "logos/mono-black",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "logos/mono-purple",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "logos/mono-white",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "logos/solid-dark",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "logos/wordmark",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "textures/clouds",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "textures/golden-gloss",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "textures/magic-gradient",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "textures/pink-plush",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "textures/purple-fur",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "ui/character-nameplate",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "ui/progress-fill",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    },
+    {
+      "id": "ui/progress-track",
+      "checks": "files_decode_dimensions_match_alpha_border_clear_if_transparent"
+    }
+  ]
+}
