@@ -2,6 +2,16 @@
 
 Private library preserving the user's locked reference artwork and versioned game-asset deliveries.
 
+## Twirlpuffs delivery
+
+[Twirlpuffs v1 — game integration candidate](locked/twirlpuffs/v1/README.md)
+
+23 full sprite records, 69 lossless WebP exports, 15 animation frames, three atlases and ten optional components, including horns, forehead star and swirl. Includes PNG masters, metadata, static asset map, complete prompts and generator originals, checksums and offline interactive preview. Original reference preserved unchanged under `references/locked/twirlpuffs/`.
+
+![Twirlpuffs preview](locked/twirlpuffs/v1/qa/contact-dark.png)
+
+Open `locked/twirlpuffs/v1/preview.html` after downloading the repository. Final visual approval and actual game-engine/device testing remain pending.
+
 ## Chirpyfluffs delivery
 
 [Chirpyfluffs v1 — game integration candidate](locked/chirpyfluffs/v1/README.md)

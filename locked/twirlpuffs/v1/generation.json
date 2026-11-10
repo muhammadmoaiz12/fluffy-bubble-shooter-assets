@@ -1,0 +1,314 @@
+{
+  "tool": "built-in image_gen",
+  "sources": [
+    {
+      "id": "medium",
+      "prompt": "Use case: stylized-concept. Create ONE isolated medium Twirlpuffs game sprite using the attached board as design authority. Round purple fluffy plush creature, layered long tapered lilac fur, two glossy curled ram-like horns grading from purple outer tips into warm cream spiral centers, central spiky lilac fur crest, enormous glossy black purple eyes, pink oval blush cheeks, happy open dark-red mouth and pink tongue. Front view, eyes open. No arms, legs, feet, wings, tail or nose. Faithfully match board proportions, palette and soft studio upper-left lighting. Whole character centered in square canvas occupying about 80%, generous transparent margin. Actual transparent RGBA background, fully opaque interior and clean feathered fur boundary. No pedestal, ground shadow, text, backdrop, glow, decorative sparkles or board elements. High-resolution production sprite master.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "64f762a2a0101ce079061d9c94889205655952c61bbd1bf606886e4bede2e572",
+      "file": "sources/generated/medium.png"
+    },
+    {
+      "id": "small",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Small baby size variant with slightly shorter fur and rounder compact proportions, retain same identity. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "a4d0eb878748c795481987d141742b740b61327cfb7233d37f1ac75fde2fdb29",
+      "file": "sources/generated/small.png"
+    },
+    {
+      "id": "giant",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Giant size variant with fuller longer layered fur, same identity. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "7205c7c21a273810dfce49469a93f956d03f8ac8704dd297dfceb79563e0d07b",
+      "file": "sources/generated/giant.png"
+    },
+    {
+      "id": "laugh",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to laughing eyes closed in upside-down U arcs and wide joyful open mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "946745053db0bb23834d1587e7b9a53e058bba214a7b941805dbd0100651b897",
+      "file": "sources/generated/laugh.png"
+    },
+    {
+      "id": "excited",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to excited: golden star highlights inside both eyes, happy open mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "50d48083f03cb858daadbf56f354ece18da84b811b7737f800ba5aa142312ea3",
+      "file": "sources/generated/excited.png"
+    },
+    {
+      "id": "surprised",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to surprised: wide eyes and small O mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "255fec8e1107b12ddbb0e7e0c39b9455a28ab0d41301bcc4766ba54c8c186b1c",
+      "file": "sources/generated/surprised.png"
+    },
+    {
+      "id": "pout",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to cute sad pout: worried eyebrows, glossy sad eyes and tiny downturned mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "eec5c654b74ad3d0ab4e3c1a7297131c960204e3acd74c48f9e5e7dbe66e9112",
+      "file": "sources/generated/pout.png"
+    },
+    {
+      "id": "angry",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to cute angry furrowed brows and downturned tiny mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e08ec866e883bfcc9156270d3af5bc643f01b223e2f80ea2795117ad75111fd1",
+      "file": "sources/generated/angry.png"
+    },
+    {
+      "id": "sleepy",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to sleeping: closed relaxed eyes and tiny relaxed mouth. No Z text. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e1b097bc81e6c1fb61bd530a1ddb22c37e48db4debe6d4c5fe698470f71e1ada",
+      "file": "sources/generated/sleepy.png"
+    },
+    {
+      "id": "love",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to pink heart-shaped eyes, happy mouth. No floating hearts. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e55bc025d715b85fc4d77577105b2a918fb5346eaee2b00cfb2bc201f795dba3",
+      "file": "sources/generated/love.png"
+    },
+    {
+      "id": "crying",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to crying: sad squeezed eyes, blue tears on cheeks, downturned mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "5b89cb96777942a69bdafb38bd14b5772bfe93856937cafd4b60ffeca81a8689",
+      "file": "sources/generated/crying.png"
+    },
+    {
+      "id": "wink",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to one eye wink and a playful smile. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "14739dc70f2e5d186c49c3efc80edb2447d8c02fd3100997ec6d2c3c4e6470c5",
+      "file": "sources/generated/wink.png"
+    },
+    {
+      "id": "hit",
+      "prompt": "Use case: precise-object-edit. Input is Twirlpuffs medium sprite edit target. Change only face to hit reaction: both eyes squeezed X shaped and small scrunched wavy mouth. Preserve exact character identity, curled purple-cream horns, lilac layered fur, all body pixels and silhouette, frontal pose, lighting, scale, placement, framing. Same square canvas, same opaque interior, actual transparent RGBA background. No scene, text, shadows, extra props or border. One full isolated game sprite.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "cea45d6dd860c3f611e7f8ebcd845f582681d0b39028f49f86b18577eb5a9fe4",
+      "file": "sources/generated/hit.png"
+    },
+    {
+      "id": "view_045",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: front three-quarter, face turned toward screen LEFT. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "3f5a294c97b27a6b1e330dd5e6acdecc18c16307ab880b61460530854ee54426",
+      "file": "sources/generated/view_045.png"
+    },
+    {
+      "id": "view_090",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: full profile facing screen LEFT, one eye barely visible at left silhouette. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "d5b685a94fde7cdd84dce07db4110174a759d16a7103d21e6bf0da470395ce21",
+      "file": "sources/generated/view_090.png"
+    },
+    {
+      "id": "view_135",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: rear three-quarter with face entirely hidden, back and left flank. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "c98d48e939be3c5a384665096a7825e527244444384f62b57ed3b06ce1eae047",
+      "file": "sources/generated/view_135.png"
+    },
+    {
+      "id": "view_180",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: straight back, no face visible, symmetrical rear horn shapes. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "18b6c9c26be44cf02ec1f23d7ffad8cb5649655df6677b64924b2a0a8c99f40f",
+      "file": "sources/generated/view_180.png"
+    },
+    {
+      "id": "view_225",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: rear three-quarter opposite side, face entirely hidden. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "e521cafaa91aeef1094199de0d01583a762261d6ecc02880ccb765e269438e9d",
+      "file": "sources/generated/view_225.png"
+    },
+    {
+      "id": "view_270",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: full profile facing screen RIGHT, one eye barely visible at right silhouette. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "bfc5960ce97d0c24006c6d4822c953b35f20ee795fe77770e1298c052fbc3c62",
+      "file": "sources/generated/view_270.png"
+    },
+    {
+      "id": "view_315",
+      "prompt": "Use case: stylized-concept. Turntable view of this exact Twirlpuffs plush character: front three-quarter, face turned toward screen RIGHT. Rotate character only, keep fixed soft upper-left studio lighting, same round volume, long layered lilac fur, two curled purple-to-cream horns and central crest. No limbs, tail, nose or extra parts. Happy open eyes and mouth where visible. One complete isolated sprite centered square canvas with generous transparent margin. Actual transparent RGBA, opaque body, no scene, ground, pedestal, shadows, text, borders or glow. Match input identity precisely.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "7045beb4c3b3b30d551a86b66f3ec788301792c90632ee51c78afb04a973c3df",
+      "file": "sources/generated/view_315.png"
+    },
+    {
+      "id": "evolution",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate Full Twirlpuffs evolution form, same round lilac plush body and curled purple-cream horns, happy closed arc eyes, open laughing mouth. Add small bright gold four-point forehead star, several glowing white-lilac spiral markings across fur and elegant thin orbiting white/lilac/gold magical ribbons with a few tiny star sparkles, matching evolution on board. Entire character and effects inside canvas with 12% margin. No pedestal, ground or background haze. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "9d78a1339f99f147b578225ebc7464367e323a24c35f148681ed1df9535b8f66",
+      "file": "sources/generated/evolution.png"
+    },
+    {
+      "id": "body",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONE round lilac layered furry BODY ONLY for this creature, without horns, eyes, cheeks, mouth or star. Rounded ball shape, no extra props. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1254,
+        1254
+      ],
+      "original_sha256": "1573d296e2b08594bb07d8fbdaf6e85ef4dbe26ba46dcfb5e7f3280da7fedbcb",
+      "file": "sources/generated/body.png"
+    },
+    {
+      "id": "horns_pair",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONLY TWO separate left/right mirrored curled horns from this creature, side by side with a wide transparent gap, purple outer coils grading to warm cream spiral centers, polished material. No fur, face or body. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "5cb9d842f3e758882b82aaa5e4bbaae82aa01fbc834fae6c4794bbecb8581417",
+      "file": "sources/generated/horns_pair.png"
+    },
+    {
+      "id": "eyes_pair",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONLY TWO separate glossy black-purple oval eyes from this creature, side by side with a wide transparent gap. Solid opaque black pupils and purple iris, upper left white highlights, no brows, fur, face or body. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "0adfda1a8cbae02200ae2762e252683af84f272c49dc51541a634eddc9fa354b",
+      "file": "sources/generated/eyes_pair.png"
+    },
+    {
+      "id": "cheeks_pair",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONLY TWO separate pink oval blush cheek patches matching character, side by side with a wide transparent gap. Soft pink lightly fuzzy material, white glossy highlight, solid interior. No face or body. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        2172,
+        724
+      ],
+      "original_sha256": "06c10c46c497dd5f81fd2d3cb254beea228d05f9a39454b73a2d465b4e434b85",
+      "file": "sources/generated/cheeks_pair.png"
+    },
+    {
+      "id": "mouth",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONLY ONE isolated happy open mouth matching character, dark red cavity and pink tongue, no fur, teeth, lips, face or body. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "e72fa60fce7bd3339c7043368174e6cfc84455470379db2842113e829435a1b6",
+      "file": "sources/generated/mouth.png"
+    },
+    {
+      "id": "star",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONLY ONE isolated golden four-point diamond forehead star matching evolution board, bright cream center, gold border, very subtle compact glow, no character or other elements. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "4be39f046f214962fe046c04dd38d91377d59ed2bee84b2f513de3d51ae1ce28",
+      "file": "sources/generated/star.png"
+    },
+    {
+      "id": "swirl",
+      "prompt": "Use case: stylized-concept. Reference 1 is Twirlpuffs base sprite identity and material; reference 2 is original design board. Generate ONLY ONE isolated magical white-lilac luminous spiral overlay matching evolution board, a clean narrow curling spiral stroke, violet subtle glow fading to transparent. Transparent open center and surrounding space, no opaque disk, no character, no backdrop. High resolution 3D plush cartoon game asset. Soft upper-left studio lighting. Actual transparent RGBA background, no text, labels, sheet, border, shadows or watermark. Center asset fully visible with generous empty margins.",
+      "tool": "built-in image_gen",
+      "original_dimensions": [
+        1536,
+        1024
+      ],
+      "original_sha256": "f16214232af4e28d8be358d9905b600718ba4eefd25b41c82503d51042406364",
+      "file": "sources/generated/swirl.png"
+    }
+  ],
+  "processing": "User authorized deterministic alpha cleanup, resampling, alignment and exports. No original locked board was edited. Expression face-region composites reuse medium silhouette. Low-opacity neutral haze suppressed around effects; paired components split before cleanup; cheek masks retain highlights. Original generator outputs retained unchanged."
+}
