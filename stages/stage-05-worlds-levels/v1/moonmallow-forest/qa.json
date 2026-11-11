@@ -1,0 +1,16 @@
+{
+  "asset_count": 82,
+  "transparent_modules": 77,
+  "opaque_plates": 5,
+  "gameplay_exports": 328,
+  "checks": [
+    "all inventory IDs present",
+    "all sprite generation sources contain actual alpha transparency",
+    "PNG and WebP exports decode and match pixel-for-pixel",
+    "transparent masters have clear outer borders",
+    "original board SHA256 unchanged"
+  ],
+  "warnings": [],
+  "status": "technical export checks passed; in-engine validation outstanding",
+  "visual_review": "All82 modules reviewed in grouped contact sheets. Checked overhead views, active portal illumination, empty arch transparency and foreground vine silhouettes. Hero environment excludes the reference rabbit; original board unchanged."
+}

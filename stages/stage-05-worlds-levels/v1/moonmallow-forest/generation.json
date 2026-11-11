@@ -1,0 +1,914 @@
+{
+  "tool": "built-in image_gen",
+  "original_reference": "references/moonmallow-forest-original-board.png",
+  "original_sha256": "d3d59609e5f0f6e148d9c40481a04f3a705eca496eb65a18866de191f0920e95",
+  "reference_dimensions": [
+    1536,
+    1024
+  ],
+  "processing": "Source crops used only as generation references. Remove alpha <=8 (<=2 for glow/translucent categories: clouds,collectibles,portals,star-trees,mushrooms,crystals,foregrounds,props,rocks,cliffs) and components below8 pixels. For solid modules remove low-alpha residue farther than12 pixels from alpha>=128. No hole filling or recoloring. Trim alpha bounds, fit860px, center on1024px canvas. Plates preserve aspect ratio at max1536px. Lanczos exports. Lossless WebP.",
+  "items": [
+    {
+      "id": "scenes/hero-forest",
+      "source_box": [
+        0,
+        0,
+        788,
+        445
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Complete moonlit forest environment: floating lavender rock meadows, large purple blossom treehouse with hanging gold stars, glowing cottage doorway, stepping stones, warm lantern rope bridge, crescent-topped magical portal, turquoise waterfalls and moonlit cloud sky. Omit the foreground rabbit and all creatures; clean environment for placing existing locked characters separately.. Reconstruct this complete wide environment plate faithfully, full bleed, no panel edges or labels. Do not add objects absent from the reference. No characters or creatures.",
+      "generated_original_sha256": "4d947a4d56b6eeddabcaa5e22ad3d7f2dafd141ace0b5673a772052e824a0240"
+    },
+    {
+      "id": "islands/large-flower-meadow",
+      "source_box": [
+        797,
+        15,
+        1026,
+        136
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Broad floating lavender rock island with green grass, pale stepping stones, pink and white flowers, dangling green vines. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "446f2d8237d1e355ca3bcfdac2e699840fef55ecfe512d59827d999f0548ea5d"
+    },
+    {
+      "id": "islands/small-vine-meadow",
+      "source_box": [
+        1026,
+        15,
+        1158,
+        136
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small floating purple rock meadow island with pink flowers and trailing vines. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "47dfca625da2cf142601b31dc3725e040c8941a9c5ce0953a7b8546b4c249510"
+    },
+    {
+      "id": "islands/star-pillar",
+      "source_box": [
+        1158,
+        15,
+        1256,
+        136
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Narrow tall floating purple rock pillar with green grassy crown and one small glowing gold star. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "d04fc853f388892d5c79c6c42bdc95e2ffdf64329b887d2fb9f4e5830bacdff9"
+    },
+    {
+      "id": "islands/wide-path-meadow",
+      "source_box": [
+        1256,
+        15,
+        1432,
+        136
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Wide floating lavender rock island with flat grassy path, pale stepping stones, flowers and hanging vines. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "d15aed7dc56f05ff73bd4fe8394d3d44b87a220689d24ebaad577cfa0b444fa1"
+    },
+    {
+      "id": "islands/tiny-stone",
+      "source_box": [
+        1433,
+        32,
+        1525,
+        82
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Tiny oval floating lavender stone platform with flat pale irregular stepping-stone top and thin green moss edge. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "101fc4af09988b4cdb4d8ff1e262e8374f194d5453849ec6c17b1442528f71ef"
+    },
+    {
+      "id": "islands/tiny-grass",
+      "source_box": [
+        1433,
+        83,
+        1525,
+        136
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Tiny floating lavender rock island with thick grassy rim and pale stepping stones. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "bb5499adfcd81dee58f84e1c3edcca6c7d43519f8b277af6d15026485a508713"
+    },
+    {
+      "id": "terrain/flower-grass-tile",
+      "source_box": [
+        797,
+        149,
+        907,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square meadow turf tile covered in tiny pink white flowers on lavender rock sides. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "0720af475e3f1e14f03cb59bbe97c3b7411e0b200fb9213b148dbc60fdd581cc"
+    },
+    {
+      "id": "terrain/stepping-grass-tile",
+      "source_box": [
+        907,
+        149,
+        1011,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square grass tile with four pale lavender stepping stones on top. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b33b279c4c996f510c8970b4402e4865257a38ba36d50485a8df1b79b223d770"
+    },
+    {
+      "id": "terrain/cracked-stone-a",
+      "source_box": [
+        1011,
+        149,
+        1115,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square lavender cobblestone tile with many rounded cracked stone pieces. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "2eb3ca66a6e0c867a4fca894340ce1e9e7f1a751a39a90946d47739b1506a26b"
+    },
+    {
+      "id": "terrain/cracked-stone-b",
+      "source_box": [
+        1115,
+        149,
+        1216,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square lavender stone tile with large irregular flagstone cracks. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "2c7b3fd1aedbc87a6f5a024d3c483c20a14a3d87eb00b6899aaf1c5f97a38e71"
+    },
+    {
+      "id": "terrain/rocky-block",
+      "source_box": [
+        1216,
+        149,
+        1321,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square rounded lavender boulder tile with faceted uneven rock top. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "832f0f959e30913499ed5681c5e3cbe60f7af00d1affa67d7ad99a52b7446d7a"
+    },
+    {
+      "id": "terrain/vine-meadow-platform",
+      "source_box": [
+        1321,
+        149,
+        1428,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Low floating grassy lavender platform with pink stepping stone, flowers and hanging vines. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "39fa2c822caeac4db083c623bf54335fbafcdc186a9def03bc7d0495c2f18e72"
+    },
+    {
+      "id": "terrain/plain-meadow-platform",
+      "source_box": [
+        1428,
+        149,
+        1525,
+        231
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small low floating purple rock meadow platform with plain green turf and tiny flowers. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "3d3ed66b1184afc50e2dc8f165b95a157fd64dc4f1fc73603070d02b55ab9fab"
+    },
+    {
+      "id": "cliffs/plain",
+      "source_box": [
+        797,
+        236,
+        907,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square lavender cliff block with thick green turf cap and plain faceted rock face. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "1a10becc7d6d40614a6b239d70724afd71866534c36014055b391ce317deb888"
+    },
+    {
+      "id": "cliffs/pink-vine",
+      "source_box": [
+        907,
+        236,
+        1011,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square lavender cliff block with pink flower and trailing green vine down right edge. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "3200f4145f792d74e840fd764baf71a31964c1380ab29c0d19398dceb258c675"
+    },
+    {
+      "id": "cliffs/flower-vine",
+      "source_box": [
+        1011,
+        236,
+        1115,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square lavender cliff block with pink white flower cluster and hanging vine down left edge. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "0df3af94fb02b460a2c2aead2769448961b07d7be20a2f321838c1488c11e0e6"
+    },
+    {
+      "id": "cliffs/long-vine",
+      "source_box": [
+        1115,
+        236,
+        1216,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Wide lavender cliff block with green turf, small daisies and long flowering vines. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "721b1e5dcbe324355730e497491270568c41ed20fce1c000e07f722ff4f30062"
+    },
+    {
+      "id": "cliffs/waterfall-open",
+      "source_box": [
+        1216,
+        236,
+        1321,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square meadow cliff block with turquoise water pool on top and waterfall pouring down front, open falling water without bottom pool. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "cdb41788572021dd0fd1ac547f5faff74b62cffdbc68aeea96887f222b5a672c"
+    },
+    {
+      "id": "cliffs/flower-corner",
+      "source_box": [
+        1321,
+        236,
+        1428,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square grassy lavender cliff block with pale pink stone on top and tiny hanging flower vine at left corner. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "bded10f9d3748707b09fee49b78f88e9989dd52d9cd369414b7bf788896960a4"
+    },
+    {
+      "id": "cliffs/waterfall-pool",
+      "source_box": [
+        1428,
+        236,
+        1525,
+        322
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Square meadow cliff block with turquoise waterfall down front, white foam and small pool at bottom. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "4a3d1f7abdcf47c55111c00be4757363a2c8e38bdcb59b2a36fae1da77e86da5"
+    },
+    {
+      "id": "star-trees/front-wide",
+      "source_box": [
+        747,
+        334,
+        936,
+        463
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Large purple fluffy blossom tree with warm branching trunk, glowing rounded window, several gold stars suspended on fine threads from branches. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "e9e4de52ef36be938c827849a42e1774af5d7add5a7a62bb1b1f7b9fffe3b553"
+    },
+    {
+      "id": "star-trees/front-small",
+      "source_box": [
+        936,
+        334,
+        1067,
+        463
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Smaller purple fluffy blossom tree with glowing round trunk window and hanging golden stars. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "e241930ee74c4d3694401fcd3063efef89141fecad5340a10b6a829e2e53d38c"
+    },
+    {
+      "id": "star-trees/side-left",
+      "source_box": [
+        1067,
+        334,
+        1177,
+        463
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Purple fluffy blossom tree viewed from the left, warm trunk and suspended golden star ornaments. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "566d5dcfdd42ea95fbfdf9cdecd41b130a0ebd38d42623501020d27b160caf20"
+    },
+    {
+      "id": "star-trees/back",
+      "source_box": [
+        1177,
+        334,
+        1284,
+        463
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Back view of purple fluffy blossom tree, warm branching trunk, hanging gold stars at edges. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "348ba3c6b27f77a1dc1f0c14d42bcbfb67ded905f4802d40b045447b3b1145a1"
+    },
+    {
+      "id": "star-trees/side-right",
+      "source_box": [
+        1284,
+        334,
+        1407,
+        463
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Purple fluffy blossom tree viewed from the right, warm trunk and a small hanging golden star. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b87335ee6e1c7098fe7d1be9258eec86b3e6cf2bd037f005edf663d4d698930b"
+    },
+    {
+      "id": "star-trees/overhead",
+      "source_box": [
+        1407,
+        334,
+        1526,
+        463
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Strict vertical top-down view of circular lavender fluffy blossom canopy only. NO trunk, roots or ground visible. Match round overhead crown in reference. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "96e1d8b1710a2feb488affbf20cdff5d3e83be33cef97411975572b7c5386d67"
+    },
+    {
+      "id": "mushrooms/purple-pair-front",
+      "source_box": [
+        747,
+        477,
+        869,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Large luminous purple mushroom with pale cap spots, warm yellow glowing gills and stalk, tiny companion mushroom at right. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "361d9f484cf80a184005d6669c40c5659f706dcf3051536939930cd346c6ea8e"
+    },
+    {
+      "id": "mushrooms/purple-pair-angle",
+      "source_box": [
+        869,
+        477,
+        978,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Purple spotted glowing mushroom and tiny companion, second angled view. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "1aeaf1fd6461bc5929c48c10a89530b289e45581f85982e1c154e68cd050ce52"
+    },
+    {
+      "id": "mushrooms/purple-side",
+      "source_box": [
+        978,
+        477,
+        1082,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Side view of purple spotted mushroom with warm glowing stem and tiny companion. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b7d986ded9ee5207ddda6115dd20d172942520553f037d549c4739ba24cbb458"
+    },
+    {
+      "id": "mushrooms/purple-back",
+      "source_box": [
+        1082,
+        477,
+        1182,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Back view of purple spotted mushroom, soft pale cap spots and warm stem. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "d381f13a9dcaa29df31b3e7e602d7da9f1898390b2d07821972c538260dd779d"
+    },
+    {
+      "id": "mushrooms/purple-overhead",
+      "source_box": [
+        1182,
+        477,
+        1288,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Strict top-down circular purple mushroom cap with pale lilac spots and luminous pink center; no stem visible. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "16af5fcbd1a8c9e2263cdfa26f51dff448d5f2057d21a1ed301beec178c92df1"
+    },
+    {
+      "id": "mushrooms/cyan-a",
+      "source_box": [
+        1288,
+        477,
+        1370,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small cyan-blue luminous mushroom with pale blue spots, glowing cream stem and tiny pale pebble. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "efba001a07298d891faafc100a8917f2bef77eb3bacf1887d91383e983391e1f"
+    },
+    {
+      "id": "mushrooms/cyan-b",
+      "source_box": [
+        1370,
+        477,
+        1446,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Second small cyan mushroom variant with glowing cream stem and tiny companion nub. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b71707f0522df3820963c854f648073cc10a637a502cd05c73755bc3b87e38f1"
+    },
+    {
+      "id": "mushrooms/star-cluster",
+      "source_box": [
+        1446,
+        477,
+        1526,
+        578
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Purple mushroom with glowing gold star motifs on cap, golden glowing stem, lavender rocks and tiny flowers at base. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "5fc2a5bdcec3eb13da0601e2f9378938786edfffe7a615cf4e3130e42ba2a8ee"
+    },
+    {
+      "id": "portals/active-front",
+      "source_box": [
+        15,
+        451,
+        211,
+        596
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Front view of stone moon portal: lavender stone arch, gold crescent crown, green vines, purple and pink flowers, glowing purple interior with golden hanging star, small mushrooms and glowing candles at feet. Keep magical doorway glow; exterior transparent. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b16189b8894f8f92419a9413dcbcec1cf22ba670aa71109265acb8b03bbc4b99"
+    },
+    {
+      "id": "portals/active-angle",
+      "source_box": [
+        211,
+        451,
+        351,
+        596
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Three-quarter view of active lavender stone moon portal with gold crescent, violet light opening, hanging golden star, pink flowers and candles at feet. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "06c59ae785598e138e8318d30557bc1693643edce60098c13610cf6a15157af1"
+    },
+    {
+      "id": "portals/empty-arch",
+      "source_box": [
+        351,
+        451,
+        495,
+        596
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Inactive open lavender stone portal arch topped with gold crescent, green vines, purple flowers and candles. Doorway opening fully transparent, no magical fill. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "9a83bd1e52ff6a08e46b876be8e2bf53bddd7c2b4031647ba7bc0947cdfce4de"
+    },
+    {
+      "id": "portals/side",
+      "source_box": [
+        495,
+        451,
+        581,
+        596
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Narrow side view of moon portal, vertical lavender stone pillar, greenery and purple blossoms, crescent seen edge-on and candle base. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "fa13b95ab7c7a85f713683a2fd448ce403e378638ca84103cc3cb9bbe50dd1a5"
+    },
+    {
+      "id": "arch-pieces/flower-crown",
+      "source_box": [
+        584,
+        454,
+        729,
+        531
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Detached curved lavender stone arch crown with green vines and pink white flowers, hollow space below, transparent surroundings. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "75e8c311e075b074ac774f3bd224bd2118811979c39cb300381c0267df989bc9"
+    },
+    {
+      "id": "arch-pieces/plain-curve",
+      "source_box": [
+        584,
+        534,
+        730,
+        593
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Detached curved lavender stone arch segment with a few green vines and tiny pale flowers. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "78b1d5ae8f0c8b373546706470955f46d52c3bde490807d53982b9e7868841b4"
+    },
+    {
+      "id": "bridges/curved-suspension",
+      "source_box": [
+        15,
+        610,
+        228,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Curved wooden suspension bridge with rope rails, warm glowing lanterns on end posts and golden fittings. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "3148c1e91861e0685482525c17cecb070ba060b67a965e30c8eeacd75e32a7c1"
+    },
+    {
+      "id": "bridges/straight-rope",
+      "source_box": [
+        228,
+        610,
+        408,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Straight wooden plank rope bridge with stout posts and glowing gold lanterns at both ends. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "0a4a8e406fbfcc9fb88c5cba2c963e7ddf699baf5ca710c795b9b163540ac27c"
+    },
+    {
+      "id": "bridges/arched",
+      "source_box": [
+        408,
+        610,
+        589,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Arched wooden plank bridge with rope handrails, large wooden posts and warm lanterns. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "4fbe97ececcef2ff1a94809941e29aa8f032409e8dd20c269676811c5c6371be"
+    },
+    {
+      "id": "bridges/front-deck",
+      "source_box": [
+        589,
+        610,
+        730,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Front-facing short wooden deck bridge, rope rail across back and two warm lanterns on tall posts. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "0cd3ec2ea6ea9507ea7a580800418aecd8f3d904a23aefb94054657e71870808"
+    },
+    {
+      "id": "props/arrow-sign",
+      "source_box": [
+        747,
+        596,
+        841,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Rustic wooden right arrow sign with pale yellow arrow inset, pink mushrooms on top and small green tuft below. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "a3635aeed82fdb331bd43c6c443c6ac6353558545230cb77444adc12f2c865ac"
+    },
+    {
+      "id": "props/wood-fence",
+      "source_box": [
+        841,
+        596,
+        955,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Short wooden fence with three pointed vertical posts and two horizontal rails. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "fbce7a3044cefac6ec3431e35824e41a3d00d996fa153ad91b181a6d77cac594"
+    },
+    {
+      "id": "props/lantern-post",
+      "source_box": [
+        955,
+        596,
+        1026,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Freestanding curved dark wooden lamp post with hook suspending round gold lantern glowing warm yellow. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "4096973d08795a8c8447c62d7f6d445b8d9f3f9ce8f547cd1a4b744fb00bdc9b"
+    },
+    {
+      "id": "props/lantern",
+      "source_box": [
+        1026,
+        596,
+        1094,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Standalone round bronze-gold lantern with domed lid, small top ring and glowing golden light. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "1a22429d480b04b1bb15270b0c81243e24dab9101632c5c29fe17a31a5dc6d3a"
+    },
+    {
+      "id": "crystals/purple-cluster",
+      "source_box": [
+        1094,
+        596,
+        1186,
+        692
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Cluster of sharp faceted translucent violet and lavender crystals with pale luminous tips. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "e2da517a53c7df9f1bb012d2c6e3640f83760994852cb888de2555faa139fb15"
+    },
+    {
+      "id": "rocks/crescent-shrine",
+      "source_box": [
+        1186,
+        591,
+        1278,
+        693
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Lavender rock cluster with large luminous golden crescent moon on top and tiny yellow star accent. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "40454b2d3950d4f4c90569838c196408c8842b7001f08170f44533c64391132e"
+    },
+    {
+      "id": "rocks/star-boulder",
+      "source_box": [
+        1278,
+        594,
+        1398,
+        693
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Rounded lavender boulder with several glowing golden five-point star inlays and small side rocks. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "d869a14b69455a5cf30e0cda94b0f0eb959b35efdf2ab2a7ab55133d71ecfe3d"
+    },
+    {
+      "id": "props/moss-cave",
+      "source_box": [
+        1398,
+        592,
+        1526,
+        694
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small round lavender stone cave doorway with grassy roof, pink white flowers and warm golden glow inside. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "d8dd246fbfdc0a6c26127e1ce7e18726d4f16200447f131844d0d27250278dfc"
+    },
+    {
+      "id": "collectibles/gold-star",
+      "source_box": [
+        14,
+        702,
+        84,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Single plump glossy luminous golden five-point star icon. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "fbbbe430d8dc2e4bd26ccc37bbdbbae45d5ac34f8595104ce0270f1961b5f4da"
+    },
+    {
+      "id": "collectibles/crescent-moon",
+      "source_box": [
+        84,
+        702,
+        157,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Single glowing pale golden crescent moon icon. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "c2a4d53c977e8a1e6fa3e69484f6ac7e0236f39f99ad33351dbc192d6d8fa5d8"
+    },
+    {
+      "id": "collectibles/bubble",
+      "source_box": [
+        157,
+        702,
+        228,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Single transparent iridescent soap bubble with blue-pink rim and white highlight. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "a45282a12b9f7c36d872ed92cfd2c5990b6c48b77da36bf3899479cffcceba87"
+    },
+    {
+      "id": "collectibles/star-flower",
+      "source_box": [
+        228,
+        702,
+        308,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small purple flower with gold five-point star at its center and short green stem. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "8a6544b545d9256780bbc54b683df5e7b29e676e67651aeda094c9bdc377c630"
+    },
+    {
+      "id": "collectibles/pink-flower",
+      "source_box": [
+        308,
+        702,
+        388,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Single small pink flower with round yellow center and green leaves. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "63d59373dd17bba8a91bbef0077b755c7a9d65dedbf982ff55a8aaaac645bcb2"
+    },
+    {
+      "id": "collectibles/clover-round",
+      "source_box": [
+        388,
+        702,
+        461,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small four-heart-leaf green clover with tiny stem. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "e1b6517b4f0ad1ff9e10304481564d585dc467a261db58887fcf65344ff809b1"
+    },
+    {
+      "id": "collectibles/clover-pointed",
+      "source_box": [
+        461,
+        702,
+        536,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small bright green five-leaf clover sprig with short stem. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "8faf3cd5be738748f4fbd7b76ed730854642d28281d109926b0d15ef809e7d86"
+    },
+    {
+      "id": "collectibles/purple-sprig",
+      "source_box": [
+        536,
+        702,
+        598,
+        777
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small upright lavender-purple leafy sprig. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "51239c8f88134b15fb5388fbbd8a7af92821f39ee275190afbe51da91bf45ef9"
+    },
+    {
+      "id": "clouds/white-small",
+      "source_box": [
+        598,
+        705,
+        679,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small white cloud cluster with soft lavender underside. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "c7c1b399a5cecb2f4c4b3d25559379656456991f277f6c1b83113253bad858b6"
+    },
+    {
+      "id": "clouds/white-wide",
+      "source_box": [
+        679,
+        705,
+        768,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Wide fluffy white cloud cluster with lavender shading. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b07ab8d0400744b314715e6885ce9f9e0b56660cc0e1bd3156c1dba76ee12301"
+    },
+    {
+      "id": "clouds/pink-small",
+      "source_box": [
+        768,
+        705,
+        849,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small fluffy pink-lavender cloud cluster. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "f7dcaaf34d5e050ad16460991e58ee95091d48d5584f43030892f5256de56ff3"
+    },
+    {
+      "id": "rocks/low-boulder",
+      "source_box": [
+        866,
+        706,
+        957,
+        772
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Low broad lavender boulder with shallow faceted top. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "442240e59368866c7277537c4fe0b61e979575801f4503337838691b5aabf988"
+    },
+    {
+      "id": "plants/leaf-sprig-a",
+      "source_box": [
+        957,
+        707,
+        1000,
+        770
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Small bright green leafy shoot with three leaves. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "61e331e1c7548c70495105e3b47cc71f139105de433f646d3cc896cd54271c28"
+    },
+    {
+      "id": "props/stump",
+      "source_box": [
+        1001,
+        704,
+        1076,
+        773
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Short cut warm brown tree stump with concentric growth rings and tiny lavender stones at root. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "b43904f028e2adb8b31cffb860e0f213dd6acc10c2ffeceaf0b9c6ea32f7f3ad"
+    },
+    {
+      "id": "plants/leaf-sprig-b",
+      "source_box": [
+        1079,
+        707,
+        1118,
+        772
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Second small upright green leaf sprig. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "79d1ea3f0b0fbe9caccc95e80cf101d4deec0fa436c32cf49de72d8b054c8c1a"
+    },
+    {
+      "id": "rocks/tall-cluster",
+      "source_box": [
+        1118,
+        701,
+        1210,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Tall irregular lavender boulder cluster with small rocks at base. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "9ab24efa2bf9ac0b6b220691b3c76cf60353379adbec116831749ad260bd32a5"
+    },
+    {
+      "id": "rocks/grass-cluster",
+      "source_box": [
+        1210,
+        700,
+        1311,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Lavender rock cluster with bright green grass at left edge. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "e27adde72c61b448385c973a5fc01e195f98d4de680e6c93c62466ed009879d1"
+    },
+    {
+      "id": "rocks/flower-cluster",
+      "source_box": [
+        1311,
+        703,
+        1407,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Lavender rock cluster with pink white flowers and green leaves at front. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "c10ea06b7c51362f366814ceb65422dd96a67256080e706f8e6480c9950f0269"
+    },
+    {
+      "id": "plants/star-garden",
+      "source_box": [
+        1407,
+        702,
+        1527,
+        775
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Low grass flower patch with two glowing golden stars, small lavender boulders and leafy plants. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "6aedfd161793d671356a0b1508f51a7192a9f7b49696477866ddcd552b80496d"
+    },
+    {
+      "id": "backgrounds/full-moon-clouds",
+      "source_box": [
+        13,
+        788,
+        279,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Wide moonlit sky with huge warm full moon, dark indigo starry sky and fluffy lavender clouds framing the bottom. No creatures, borders or text. Reconstruct this complete wide environment plate faithfully, full bleed, no panel edges or labels. Do not add objects absent from the reference. No characters or creatures.",
+      "generated_original_sha256": "89088f71cef23669b20d6d7a0e47cfc2569515b82118a94970e5b07c31050793"
+    },
+    {
+      "id": "backgrounds/floating-island-sky",
+      "source_box": [
+        279,
+        788,
+        536,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Wide dreamy purple twilight sky with distant floating lavender islands over fluffy clouds, tiny stars. No creatures, borders or text. Reconstruct this complete wide environment plate faithfully, full bleed, no panel edges or labels. Do not add objects absent from the reference. No characters or creatures.",
+      "generated_original_sha256": "7a2d28bb3ef79f3fd70a0247c0da628a1798017ab03ecc18e12e22dcc7b7e22e"
+    },
+    {
+      "id": "backgrounds/distant-forest",
+      "source_box": [
+        536,
+        788,
+        792,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Layered distant lavender forest and mountain silhouettes with floating island silhouettes in hazy pink-purple sky and clouds. No foreground objects, borders or text. Reconstruct this complete wide environment plate faithfully, full bleed, no panel edges or labels. Do not add objects absent from the reference. No characters or creatures.",
+      "generated_original_sha256": "4bc01831c83a02613ad0502cc3e89b41473a3392f2b2f1cd9367668630e45d12"
+    },
+    {
+      "id": "backgrounds/mountain-clouds",
+      "source_box": [
+        792,
+        788,
+        1029,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Layered lavender mountain and forest silhouettes behind soft pale clouds in pink-lilac mist. No border, text or foreground props. Reconstruct this complete wide environment plate faithfully, full bleed, no panel edges or labels. Do not add objects absent from the reference. No characters or creatures.",
+      "generated_original_sha256": "f8f9b2a8fd81efa90335d5f1d7ba447903fd8b1d1d700730fc2b14736659c468"
+    },
+    {
+      "id": "foregrounds/hanging-vines-a",
+      "source_box": [
+        1035,
+        786,
+        1205,
+        927
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Top-edge hanging cascade of overlapping lavender-purple leaves and wisteria tendrils, several glowing golden and pink hanging stars. Preserve top-edge attachment; transparent below and between strands. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "95be51bce0e2180987258eefb73ed2fc9791c9b71b7e1f8e9ec8369c9f5ebd60"
+    },
+    {
+      "id": "foregrounds/rock-garden-a",
+      "source_box": [
+        1035,
+        916,
+        1205,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Low foreground strip of lavender rocks, tiny pink-white flowers, green grasses and glowing star accent. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "788a62be607754f390e8f5b907ae8d3bcef934a979d240d3803fccad5582b2c4"
+    },
+    {
+      "id": "foregrounds/floral-arch",
+      "source_box": [
+        1213,
+        791,
+        1366,
+        904
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Broad arch made of fluffy purple blossoms and lavender stone, tiny flower beds at feet. Open center completely transparent. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "0359c5e2938272fcc5748305f0c791d16744a2ec0a9e2a0b345e60839891b5d6"
+    },
+    {
+      "id": "foregrounds/rock-garden-b",
+      "source_box": [
+        1214,
+        905,
+        1366,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Low foreground strip with tall lavender boulder, green grasses, white and pink daisies. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "e070381b71d3b94102393763d1e4c6a3ee61adaef60667e7fb09bd6dbf6c1033"
+    },
+    {
+      "id": "foregrounds/hanging-vines-b",
+      "source_box": [
+        1375,
+        786,
+        1526,
+        907
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Second top-edge curtain of lavender hanging leaves, long wisteria tassels and several glowing golden stars. Transparent spaces between hanging strands. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "72cf0855d9b32348db24d07be8a5534fbac5a93c7e719671709b91bd003ee859"
+    },
+    {
+      "id": "foregrounds/mushroom-garden",
+      "source_box": [
+        1375,
+        889,
+        1526,
+        967
+      ],
+      "prompt": "Create exactly ONE Moonmallow Forest game asset from the supplied approved source crop. Match its pictured silhouette, viewpoint, proportions, colors, details and materials. Soft polished 3D casual mobile game artwork. The crop is a reference, not a target for pixel-exact extraction. Requested asset: Low foreground patch with one glowing purple spotted mushroom, pink white flowers, small lavender rocks and green grasses. Isolate ONLY the requested module on real transparent RGBA, complete with 10% clear margins. Preserve intended translucent glow, water or bubble surfaces, with opaque solid interiors. Keep gaps between bridge rails, branches and arch pieces transparent; active portal doorway glow stays as explicitly described. Remove the board panel background, floor shadow and neighboring cropped objects. No text, labels, borders, unrelated buildings, extra scenery, or characters. Do not invent new ornaments. For top-down views, obey the vertical overhead viewpoint; for simple icons, render just the single icon.",
+      "generated_original_sha256": "67df0d151ee690c8ca2a9e105ce8e9be76fa32865724242eac6fee3cf4e7d27a"
+    }
+  ]
+}

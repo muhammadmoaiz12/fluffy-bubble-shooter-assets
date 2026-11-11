@@ -1,0 +1,5379 @@
+{
+  "world": "Moonmallow Forest",
+  "stage": 5,
+  "world_number": 3,
+  "version": 1,
+  "status": "integration review; not engine-tested",
+  "assets": [
+    {
+      "id": "scenes/hero-forest",
+      "description": "Complete moonlit forest environment: floating lavender rock meadows, large purple blossom treehouse with hanging gold stars, glowing cottage doorway, stepping stones, warm lantern rope bridge, crescent-topped magical portal, turquoise waterfalls and moonlit cloud sky. Omit the foreground rabbit and all creatures; clean environment for placing existing locked characters separately.",
+      "type": "flattened background plate",
+      "master": "masters/scenes/hero-forest.png",
+      "size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        864
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        0,
+        0,
+        788,
+        445
+      ],
+      "generated_size": [
+        1672,
+        941
+      ],
+      "exports": [
+        "gameplay/scenes/hero-forest-256.png",
+        "gameplay/scenes/hero-forest-256.webp",
+        "gameplay/scenes/hero-forest-512.png",
+        "gameplay/scenes/hero-forest-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/large-flower-meadow",
+      "description": "Broad floating lavender rock island with green grass, pale stepping stones, pink and white flowers, dangling green vines",
+      "type": "transparent static module",
+      "master": "masters/islands/large-flower-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        271,
+        942,
+        752
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.734375
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        797,
+        15,
+        1026,
+        136
+      ],
+      "generated_size": [
+        1725,
+        912
+      ],
+      "exports": [
+        "gameplay/islands/large-flower-meadow-256.png",
+        "gameplay/islands/large-flower-meadow-256.webp",
+        "gameplay/islands/large-flower-meadow-512.png",
+        "gameplay/islands/large-flower-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/small-vine-meadow",
+      "description": "Small floating purple rock meadow island with pink flowers and trailing vines",
+      "type": "transparent static module",
+      "master": "masters/islands/small-vine-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        178,
+        942,
+        845
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.825195
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1026,
+        15,
+        1158,
+        136
+      ],
+      "generated_size": [
+        1310,
+        1201
+      ],
+      "exports": [
+        "gameplay/islands/small-vine-meadow-256.png",
+        "gameplay/islands/small-vine-meadow-256.webp",
+        "gameplay/islands/small-vine-meadow-512.png",
+        "gameplay/islands/small-vine-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/star-pillar",
+      "description": "Narrow tall floating purple rock pillar with green grassy crown and one small glowing gold star",
+      "type": "transparent static module",
+      "master": "masters/islands/star-pillar.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        235,
+        82,
+        788,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1158,
+        15,
+        1256,
+        136
+      ],
+      "generated_size": [
+        1129,
+        1393
+      ],
+      "exports": [
+        "gameplay/islands/star-pillar-256.png",
+        "gameplay/islands/star-pillar-256.webp",
+        "gameplay/islands/star-pillar-512.png",
+        "gameplay/islands/star-pillar-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/wide-path-meadow",
+      "description": "Wide floating lavender rock island with flat grassy path, pale stepping stones, flowers and hanging vines",
+      "type": "transparent static module",
+      "master": "masters/islands/wide-path-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        247,
+        942,
+        777
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.758789
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1256,
+        15,
+        1432,
+        136
+      ],
+      "generated_size": [
+        1536,
+        1024
+      ],
+      "exports": [
+        "gameplay/islands/wide-path-meadow-256.png",
+        "gameplay/islands/wide-path-meadow-256.webp",
+        "gameplay/islands/wide-path-meadow-512.png",
+        "gameplay/islands/wide-path-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/tiny-stone",
+      "description": "Tiny oval floating lavender stone platform with flat pale irregular stepping-stone top and thin green moss edge",
+      "type": "transparent static module",
+      "master": "masters/islands/tiny-stone.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        281,
+        942,
+        742
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.724609
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1433,
+        32,
+        1525,
+        82
+      ],
+      "generated_size": [
+        1701,
+        925
+      ],
+      "exports": [
+        "gameplay/islands/tiny-stone-256.png",
+        "gameplay/islands/tiny-stone-256.webp",
+        "gameplay/islands/tiny-stone-512.png",
+        "gameplay/islands/tiny-stone-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/tiny-grass",
+      "description": "Tiny floating lavender rock island with thick grassy rim and pale stepping stones",
+      "type": "transparent static module",
+      "master": "masters/islands/tiny-grass.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        215,
+        942,
+        809
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.790039
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1433,
+        83,
+        1525,
+        136
+      ],
+      "generated_size": [
+        1536,
+        1024
+      ],
+      "exports": [
+        "gameplay/islands/tiny-grass-256.png",
+        "gameplay/islands/tiny-grass-256.webp",
+        "gameplay/islands/tiny-grass-512.png",
+        "gameplay/islands/tiny-grass-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/flower-grass-tile",
+      "description": "Square meadow turf tile covered in tiny pink white flowers on lavender rock sides",
+      "type": "transparent static module",
+      "master": "masters/terrain/flower-grass-tile.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        126,
+        942,
+        897
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.875977
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        797,
+        149,
+        907,
+        231
+      ],
+      "generated_size": [
+        1316,
+        1195
+      ],
+      "exports": [
+        "gameplay/terrain/flower-grass-tile-256.png",
+        "gameplay/terrain/flower-grass-tile-256.webp",
+        "gameplay/terrain/flower-grass-tile-512.png",
+        "gameplay/terrain/flower-grass-tile-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/stepping-grass-tile",
+      "description": "Square grass tile with four pale lavender stepping stones on top",
+      "type": "transparent static module",
+      "master": "masters/terrain/stepping-grass-tile.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        120,
+        942,
+        904
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.882812
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        907,
+        149,
+        1011,
+        231
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/terrain/stepping-grass-tile-256.png",
+        "gameplay/terrain/stepping-grass-tile-256.webp",
+        "gameplay/terrain/stepping-grass-tile-512.png",
+        "gameplay/terrain/stepping-grass-tile-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/cracked-stone-a",
+      "description": "Square lavender cobblestone tile with many rounded cracked stone pieces",
+      "type": "transparent static module",
+      "master": "masters/terrain/cracked-stone-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        105,
+        942,
+        918
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.896484
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1011,
+        149,
+        1115,
+        231
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/terrain/cracked-stone-a-256.png",
+        "gameplay/terrain/cracked-stone-a-256.webp",
+        "gameplay/terrain/cracked-stone-a-512.png",
+        "gameplay/terrain/cracked-stone-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/cracked-stone-b",
+      "description": "Square lavender stone tile with large irregular flagstone cracks",
+      "type": "transparent static module",
+      "master": "masters/terrain/cracked-stone-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        105,
+        942,
+        918
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.896484
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1115,
+        149,
+        1216,
+        231
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/terrain/cracked-stone-b-256.png",
+        "gameplay/terrain/cracked-stone-b-256.webp",
+        "gameplay/terrain/cracked-stone-b-512.png",
+        "gameplay/terrain/cracked-stone-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/rocky-block",
+      "description": "Square rounded lavender boulder tile with faceted uneven rock top",
+      "type": "transparent static module",
+      "master": "masters/terrain/rocky-block.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        111,
+        942,
+        913
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.891602
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1216,
+        149,
+        1321,
+        231
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/terrain/rocky-block-256.png",
+        "gameplay/terrain/rocky-block-256.webp",
+        "gameplay/terrain/rocky-block-512.png",
+        "gameplay/terrain/rocky-block-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/vine-meadow-platform",
+      "description": "Low floating grassy lavender platform with pink stepping stone, flowers and hanging vines",
+      "type": "transparent static module",
+      "master": "masters/terrain/vine-meadow-platform.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        176,
+        942,
+        847
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.827148
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1321,
+        149,
+        1428,
+        231
+      ],
+      "generated_size": [
+        1433,
+        1098
+      ],
+      "exports": [
+        "gameplay/terrain/vine-meadow-platform-256.png",
+        "gameplay/terrain/vine-meadow-platform-256.webp",
+        "gameplay/terrain/vine-meadow-platform-512.png",
+        "gameplay/terrain/vine-meadow-platform-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "terrain/plain-meadow-platform",
+      "description": "Small low floating purple rock meadow platform with plain green turf and tiny flowers",
+      "type": "transparent static module",
+      "master": "masters/terrain/plain-meadow-platform.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        160,
+        942,
+        863
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.842773
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1428,
+        149,
+        1525,
+        231
+      ],
+      "generated_size": [
+        1364,
+        1153
+      ],
+      "exports": [
+        "gameplay/terrain/plain-meadow-platform-256.png",
+        "gameplay/terrain/plain-meadow-platform-256.webp",
+        "gameplay/terrain/plain-meadow-platform-512.png",
+        "gameplay/terrain/plain-meadow-platform-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/plain",
+      "description": "Square lavender cliff block with thick green turf cap and plain faceted rock face",
+      "type": "transparent static module",
+      "master": "masters/cliffs/plain.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        168,
+        942,
+        856
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.835938
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        797,
+        236,
+        907,
+        322
+      ],
+      "generated_size": [
+        1419,
+        1109
+      ],
+      "exports": [
+        "gameplay/cliffs/plain-256.png",
+        "gameplay/cliffs/plain-256.webp",
+        "gameplay/cliffs/plain-512.png",
+        "gameplay/cliffs/plain-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/pink-vine",
+      "description": "Square lavender cliff block with pink flower and trailing green vine down right edge",
+      "type": "transparent static module",
+      "master": "masters/cliffs/pink-vine.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        152,
+        942,
+        871
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.850586
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        907,
+        236,
+        1011,
+        322
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/cliffs/pink-vine-256.png",
+        "gameplay/cliffs/pink-vine-256.webp",
+        "gameplay/cliffs/pink-vine-512.png",
+        "gameplay/cliffs/pink-vine-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/flower-vine",
+      "description": "Square lavender cliff block with pink white flower cluster and hanging vine down left edge",
+      "type": "transparent static module",
+      "master": "masters/cliffs/flower-vine.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        115,
+        942,
+        908
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.886719
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1011,
+        236,
+        1115,
+        322
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/cliffs/flower-vine-256.png",
+        "gameplay/cliffs/flower-vine-256.webp",
+        "gameplay/cliffs/flower-vine-512.png",
+        "gameplay/cliffs/flower-vine-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/long-vine",
+      "description": "Wide lavender cliff block with green turf, small daisies and long flowering vines",
+      "type": "transparent static module",
+      "master": "masters/cliffs/long-vine.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        176,
+        942,
+        847
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.827148
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1115,
+        236,
+        1216,
+        322
+      ],
+      "generated_size": [
+        1359,
+        1157
+      ],
+      "exports": [
+        "gameplay/cliffs/long-vine-256.png",
+        "gameplay/cliffs/long-vine-256.webp",
+        "gameplay/cliffs/long-vine-512.png",
+        "gameplay/cliffs/long-vine-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/waterfall-open",
+      "description": "Square meadow cliff block with turquoise water pool on top and waterfall pouring down front, open falling water without bottom pool",
+      "type": "transparent static module",
+      "master": "masters/cliffs/waterfall-open.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        95,
+        82,
+        928,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1216,
+        236,
+        1321,
+        322
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/cliffs/waterfall-open-256.png",
+        "gameplay/cliffs/waterfall-open-256.webp",
+        "gameplay/cliffs/waterfall-open-512.png",
+        "gameplay/cliffs/waterfall-open-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/flower-corner",
+      "description": "Square grassy lavender cliff block with pale pink stone on top and tiny hanging flower vine at left corner",
+      "type": "transparent static module",
+      "master": "masters/cliffs/flower-corner.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        145,
+        942,
+        879
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.858398
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1321,
+        236,
+        1428,
+        322
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/cliffs/flower-corner-256.png",
+        "gameplay/cliffs/flower-corner-256.webp",
+        "gameplay/cliffs/flower-corner-512.png",
+        "gameplay/cliffs/flower-corner-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cliffs/waterfall-pool",
+      "description": "Square meadow cliff block with turquoise waterfall down front, white foam and small pool at bottom",
+      "type": "transparent static module",
+      "master": "masters/cliffs/waterfall-pool.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        89,
+        82,
+        934,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1428,
+        236,
+        1525,
+        322
+      ],
+      "generated_size": [
+        1254,
+        1254
+      ],
+      "exports": [
+        "gameplay/cliffs/waterfall-pool-256.png",
+        "gameplay/cliffs/waterfall-pool-256.webp",
+        "gameplay/cliffs/waterfall-pool-512.png",
+        "gameplay/cliffs/waterfall-pool-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "star-trees/front-wide",
+      "description": "Large purple fluffy blossom tree with warm branching trunk, glowing rounded window, several gold stars suspended on fine threads from branches",
+      "type": "transparent static module",
+      "master": "masters/star-trees/front-wide.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        184,
+        942,
+        839
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.819336
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        747,
+        334,
+        936,
+        463
+      ],
+      "generated_size": [
+        1536,
+        1024
+      ],
+      "exports": [
+        "gameplay/star-trees/front-wide-256.png",
+        "gameplay/star-trees/front-wide-256.webp",
+        "gameplay/star-trees/front-wide-512.png",
+        "gameplay/star-trees/front-wide-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "star-trees/front-small",
+      "description": "Smaller purple fluffy blossom tree with glowing round trunk window and hanging golden stars",
+      "type": "transparent static module",
+      "master": "masters/star-trees/front-small.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        131,
+        149,
+        893,
+        874
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.853516
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        936,
+        334,
+        1067,
+        463
+      ],
+      "generated_size": [
+        1264,
+        1244
+      ],
+      "exports": [
+        "gameplay/star-trees/front-small-256.png",
+        "gameplay/star-trees/front-small-256.webp",
+        "gameplay/star-trees/front-small-512.png",
+        "gameplay/star-trees/front-small-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "star-trees/side-left",
+      "description": "Purple fluffy blossom tree viewed from the left, warm trunk and suspended golden star ornaments",
+      "type": "transparent static module",
+      "master": "masters/star-trees/side-left.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        127,
+        82,
+        897,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1067,
+        334,
+        1177,
+        463
+      ],
+      "generated_size": [
+        1188,
+        1324
+      ],
+      "exports": [
+        "gameplay/star-trees/side-left-256.png",
+        "gameplay/star-trees/side-left-256.webp",
+        "gameplay/star-trees/side-left-512.png",
+        "gameplay/star-trees/side-left-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "star-trees/back",
+      "description": "Back view of purple fluffy blossom tree, warm branching trunk, hanging gold stars at edges",
+      "type": "transparent static module",
+      "master": "masters/star-trees/back.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        144,
+        82,
+        879,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1177,
+        334,
+        1284,
+        463
+      ],
+      "generated_size": [
+        1263,
+        1246
+      ],
+      "exports": [
+        "gameplay/star-trees/back-256.png",
+        "gameplay/star-trees/back-256.webp",
+        "gameplay/star-trees/back-512.png",
+        "gameplay/star-trees/back-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "star-trees/side-right",
+      "description": "Purple fluffy blossom tree viewed from the right, warm trunk and a small hanging golden star",
+      "type": "transparent static module",
+      "master": "masters/star-trees/side-right.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        130,
+        82,
+        894,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1284,
+        334,
+        1407,
+        463
+      ],
+      "generated_size": [
+        1263,
+        1246
+      ],
+      "exports": [
+        "gameplay/star-trees/side-right-256.png",
+        "gameplay/star-trees/side-right-256.webp",
+        "gameplay/star-trees/side-right-512.png",
+        "gameplay/star-trees/side-right-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "star-trees/overhead",
+      "description": "Strict vertical top-down view of circular lavender fluffy blossom canopy only. NO trunk, roots or ground visible. Match round overhead crown in reference",
+      "type": "transparent static module",
+      "master": "masters/star-trees/overhead.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        100,
+        82,
+        923,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1407,
+        334,
+        1526,
+        463
+      ],
+      "generated_size": [
+        1254,
+        1254
+      ],
+      "exports": [
+        "gameplay/star-trees/overhead-256.png",
+        "gameplay/star-trees/overhead-256.webp",
+        "gameplay/star-trees/overhead-512.png",
+        "gameplay/star-trees/overhead-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/purple-pair-front",
+      "description": "Large luminous purple mushroom with pale cap spots, warm yellow glowing gills and stalk, tiny companion mushroom at right",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/purple-pair-front.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        83,
+        942,
+        941
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.918945
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        747,
+        477,
+        869,
+        578
+      ],
+      "generated_size": [
+        1378,
+        1141
+      ],
+      "exports": [
+        "gameplay/mushrooms/purple-pair-front-256.png",
+        "gameplay/mushrooms/purple-pair-front-256.webp",
+        "gameplay/mushrooms/purple-pair-front-512.png",
+        "gameplay/mushrooms/purple-pair-front-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/purple-pair-angle",
+      "description": "Purple spotted glowing mushroom and tiny companion, second angled view",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/purple-pair-angle.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        869,
+        477,
+        978,
+        578
+      ],
+      "generated_size": [
+        1303,
+        1207
+      ],
+      "exports": [
+        "gameplay/mushrooms/purple-pair-angle-256.png",
+        "gameplay/mushrooms/purple-pair-angle-256.webp",
+        "gameplay/mushrooms/purple-pair-angle-512.png",
+        "gameplay/mushrooms/purple-pair-angle-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/purple-side",
+      "description": "Side view of purple spotted mushroom with warm glowing stem and tiny companion",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/purple-side.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        94,
+        942,
+        930
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.908203
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        978,
+        477,
+        1082,
+        578
+      ],
+      "generated_size": [
+        1310,
+        1200
+      ],
+      "exports": [
+        "gameplay/mushrooms/purple-side-256.png",
+        "gameplay/mushrooms/purple-side-256.webp",
+        "gameplay/mushrooms/purple-side-512.png",
+        "gameplay/mushrooms/purple-side-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/purple-back",
+      "description": "Back view of purple spotted mushroom, soft pale cap spots and warm stem",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/purple-back.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        96,
+        942,
+        928
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.90625
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1082,
+        477,
+        1182,
+        578
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/mushrooms/purple-back-256.png",
+        "gameplay/mushrooms/purple-back-256.webp",
+        "gameplay/mushrooms/purple-back-512.png",
+        "gameplay/mushrooms/purple-back-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/purple-overhead",
+      "description": "Strict top-down circular purple mushroom cap with pale lilac spots and luminous pink center; no stem visible",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/purple-overhead.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        86,
+        82,
+        938,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1182,
+        477,
+        1288,
+        578
+      ],
+      "generated_size": [
+        1285,
+        1224
+      ],
+      "exports": [
+        "gameplay/mushrooms/purple-overhead-256.png",
+        "gameplay/mushrooms/purple-overhead-256.webp",
+        "gameplay/mushrooms/purple-overhead-512.png",
+        "gameplay/mushrooms/purple-overhead-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/cyan-a",
+      "description": "Small cyan-blue luminous mushroom with pale blue spots, glowing cream stem and tiny pale pebble",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/cyan-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        91,
+        86,
+        932,
+        937
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.915039
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1288,
+        477,
+        1370,
+        578
+      ],
+      "generated_size": [
+        1261,
+        1247
+      ],
+      "exports": [
+        "gameplay/mushrooms/cyan-a-256.png",
+        "gameplay/mushrooms/cyan-a-256.webp",
+        "gameplay/mushrooms/cyan-a-512.png",
+        "gameplay/mushrooms/cyan-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/cyan-b",
+      "description": "Second small cyan mushroom variant with glowing cream stem and tiny companion nub",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/cyan-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        105,
+        82,
+        918,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1370,
+        477,
+        1446,
+        578
+      ],
+      "generated_size": [
+        1268,
+        1241
+      ],
+      "exports": [
+        "gameplay/mushrooms/cyan-b-256.png",
+        "gameplay/mushrooms/cyan-b-256.webp",
+        "gameplay/mushrooms/cyan-b-512.png",
+        "gameplay/mushrooms/cyan-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "mushrooms/star-cluster",
+      "description": "Purple mushroom with glowing gold star motifs on cap, golden glowing stem, lavender rocks and tiny flowers at base",
+      "type": "transparent static module",
+      "master": "masters/mushrooms/star-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        149,
+        82,
+        875,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1446,
+        477,
+        1526,
+        578
+      ],
+      "generated_size": [
+        1178,
+        1335
+      ],
+      "exports": [
+        "gameplay/mushrooms/star-cluster-256.png",
+        "gameplay/mushrooms/star-cluster-256.webp",
+        "gameplay/mushrooms/star-cluster-512.png",
+        "gameplay/mushrooms/star-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "portals/active-front",
+      "description": "Front view of stone moon portal: lavender stone arch, gold crescent crown, green vines, purple and pink flowers, glowing purple interior with golden hanging star, small mushrooms and glowing candles at feet. Keep magical doorway glow; exterior transparent",
+      "type": "transparent static module",
+      "master": "masters/portals/active-front.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        157,
+        942,
+        866
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.845703
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        15,
+        451,
+        211,
+        596
+      ],
+      "generated_size": [
+        1458,
+        1079
+      ],
+      "exports": [
+        "gameplay/portals/active-front-256.png",
+        "gameplay/portals/active-front-256.webp",
+        "gameplay/portals/active-front-512.png",
+        "gameplay/portals/active-front-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "portals/active-angle",
+      "description": "Three-quarter view of active lavender stone moon portal with gold crescent, violet light opening, hanging golden star, pink flowers and candles at feet",
+      "type": "transparent static module",
+      "master": "masters/portals/active-angle.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        147,
+        82,
+        877,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        211,
+        451,
+        351,
+        596
+      ],
+      "generated_size": [
+        1254,
+        1254
+      ],
+      "exports": [
+        "gameplay/portals/active-angle-256.png",
+        "gameplay/portals/active-angle-256.webp",
+        "gameplay/portals/active-angle-512.png",
+        "gameplay/portals/active-angle-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "portals/empty-arch",
+      "description": "Inactive open lavender stone portal arch topped with gold crescent, green vines, purple flowers and candles. Doorway opening fully transparent, no magical fill",
+      "type": "transparent static module",
+      "master": "masters/portals/empty-arch.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        140,
+        82,
+        884,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        351,
+        451,
+        495,
+        596
+      ],
+      "generated_size": [
+        1254,
+        1254
+      ],
+      "exports": [
+        "gameplay/portals/empty-arch-256.png",
+        "gameplay/portals/empty-arch-256.webp",
+        "gameplay/portals/empty-arch-512.png",
+        "gameplay/portals/empty-arch-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "portals/side",
+      "description": "Narrow side view of moon portal, vertical lavender stone pillar, greenery and purple blossoms, crescent seen edge-on and candle base",
+      "type": "transparent static module",
+      "master": "masters/portals/side.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        388,
+        82,
+        636,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        495,
+        451,
+        581,
+        596
+      ],
+      "generated_size": [
+        972,
+        1619
+      ],
+      "exports": [
+        "gameplay/portals/side-256.png",
+        "gameplay/portals/side-256.webp",
+        "gameplay/portals/side-512.png",
+        "gameplay/portals/side-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "arch-pieces/flower-crown",
+      "description": "Detached curved lavender stone arch crown with green vines and pink white flowers, hollow space below, transparent surroundings",
+      "type": "transparent static module",
+      "master": "masters/arch-pieces/flower-crown.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        318,
+        942,
+        706
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.689453
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        584,
+        454,
+        729,
+        531
+      ],
+      "generated_size": [
+        1774,
+        887
+      ],
+      "exports": [
+        "gameplay/arch-pieces/flower-crown-256.png",
+        "gameplay/arch-pieces/flower-crown-256.webp",
+        "gameplay/arch-pieces/flower-crown-512.png",
+        "gameplay/arch-pieces/flower-crown-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "arch-pieces/plain-curve",
+      "description": "Detached curved lavender stone arch segment with a few green vines and tiny pale flowers",
+      "type": "transparent static module",
+      "master": "masters/arch-pieces/plain-curve.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        333,
+        942,
+        690
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.673828
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        584,
+        534,
+        730,
+        593
+      ],
+      "generated_size": [
+        1973,
+        797
+      ],
+      "exports": [
+        "gameplay/arch-pieces/plain-curve-256.png",
+        "gameplay/arch-pieces/plain-curve-256.webp",
+        "gameplay/arch-pieces/plain-curve-512.png",
+        "gameplay/arch-pieces/plain-curve-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/curved-suspension",
+      "description": "Curved wooden suspension bridge with rope rails, warm glowing lanterns on end posts and golden fittings",
+      "type": "transparent static module",
+      "master": "masters/bridges/curved-suspension.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        360,
+        942,
+        664
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.648438
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        15,
+        610,
+        228,
+        692
+      ],
+      "generated_size": [
+        1959,
+        803
+      ],
+      "exports": [
+        "gameplay/bridges/curved-suspension-256.png",
+        "gameplay/bridges/curved-suspension-256.webp",
+        "gameplay/bridges/curved-suspension-512.png",
+        "gameplay/bridges/curved-suspension-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/straight-rope",
+      "description": "Straight wooden plank rope bridge with stout posts and glowing gold lanterns at both ends",
+      "type": "transparent static module",
+      "master": "masters/bridges/straight-rope.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        324,
+        942,
+        699
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.682617
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        228,
+        610,
+        408,
+        692
+      ],
+      "generated_size": [
+        1774,
+        887
+      ],
+      "exports": [
+        "gameplay/bridges/straight-rope-256.png",
+        "gameplay/bridges/straight-rope-256.webp",
+        "gameplay/bridges/straight-rope-512.png",
+        "gameplay/bridges/straight-rope-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/arched",
+      "description": "Arched wooden plank bridge with rope handrails, large wooden posts and warm lanterns",
+      "type": "transparent static module",
+      "master": "masters/bridges/arched.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        321,
+        942,
+        702
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.685547
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        408,
+        610,
+        589,
+        692
+      ],
+      "generated_size": [
+        1774,
+        887
+      ],
+      "exports": [
+        "gameplay/bridges/arched-256.png",
+        "gameplay/bridges/arched-256.webp",
+        "gameplay/bridges/arched-512.png",
+        "gameplay/bridges/arched-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/front-deck",
+      "description": "Front-facing short wooden deck bridge, rope rail across back and two warm lanterns on tall posts",
+      "type": "transparent static module",
+      "master": "masters/bridges/front-deck.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        206,
+        942,
+        817
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.797852
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        589,
+        610,
+        730,
+        692
+      ],
+      "generated_size": [
+        1536,
+        1024
+      ],
+      "exports": [
+        "gameplay/bridges/front-deck-256.png",
+        "gameplay/bridges/front-deck-256.webp",
+        "gameplay/bridges/front-deck-512.png",
+        "gameplay/bridges/front-deck-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/arrow-sign",
+      "description": "Rustic wooden right arrow sign with pale yellow arrow inset, pink mushrooms on top and small green tuft below",
+      "type": "transparent static module",
+      "master": "masters/props/arrow-sign.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        129,
+        82,
+        894,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        747,
+        596,
+        841,
+        692
+      ],
+      "generated_size": [
+        1263,
+        1246
+      ],
+      "exports": [
+        "gameplay/props/arrow-sign-256.png",
+        "gameplay/props/arrow-sign-256.webp",
+        "gameplay/props/arrow-sign-512.png",
+        "gameplay/props/arrow-sign-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/wood-fence",
+      "description": "Short wooden fence with three pointed vertical posts and two horizontal rails",
+      "type": "transparent static module",
+      "master": "masters/props/wood-fence.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        249,
+        942,
+        774
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.755859
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        841,
+        596,
+        955,
+        692
+      ],
+      "generated_size": [
+        1448,
+        1086
+      ],
+      "exports": [
+        "gameplay/props/wood-fence-256.png",
+        "gameplay/props/wood-fence-256.webp",
+        "gameplay/props/wood-fence-512.png",
+        "gameplay/props/wood-fence-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/lantern-post",
+      "description": "Freestanding curved dark wooden lamp post with hook suspending round gold lantern glowing warm yellow",
+      "type": "transparent static module",
+      "master": "masters/props/lantern-post.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        232,
+        82,
+        791,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        955,
+        596,
+        1026,
+        692
+      ],
+      "generated_size": [
+        1065,
+        1476
+      ],
+      "exports": [
+        "gameplay/props/lantern-post-256.png",
+        "gameplay/props/lantern-post-256.webp",
+        "gameplay/props/lantern-post-512.png",
+        "gameplay/props/lantern-post-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/lantern",
+      "description": "Standalone round bronze-gold lantern with domed lid, small top ring and glowing golden light",
+      "type": "transparent static module",
+      "master": "masters/props/lantern.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        149,
+        82,
+        874,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1026,
+        596,
+        1094,
+        692
+      ],
+      "generated_size": [
+        1055,
+        1490
+      ],
+      "exports": [
+        "gameplay/props/lantern-256.png",
+        "gameplay/props/lantern-256.webp",
+        "gameplay/props/lantern-512.png",
+        "gameplay/props/lantern-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "crystals/purple-cluster",
+      "description": "Cluster of sharp faceted translucent violet and lavender crystals with pale luminous tips",
+      "type": "transparent static module",
+      "master": "masters/crystals/purple-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        109,
+        82,
+        915,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1094,
+        596,
+        1186,
+        692
+      ],
+      "generated_size": [
+        1289,
+        1220
+      ],
+      "exports": [
+        "gameplay/crystals/purple-cluster-256.png",
+        "gameplay/crystals/purple-cluster-256.webp",
+        "gameplay/crystals/purple-cluster-512.png",
+        "gameplay/crystals/purple-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/crescent-shrine",
+      "description": "Lavender rock cluster with large luminous golden crescent moon on top and tiny yellow star accent",
+      "type": "transparent static module",
+      "master": "masters/rocks/crescent-shrine.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        120,
+        82,
+        904,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1186,
+        591,
+        1278,
+        693
+      ],
+      "generated_size": [
+        1303,
+        1207
+      ],
+      "exports": [
+        "gameplay/rocks/crescent-shrine-256.png",
+        "gameplay/rocks/crescent-shrine-256.webp",
+        "gameplay/rocks/crescent-shrine-512.png",
+        "gameplay/rocks/crescent-shrine-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/star-boulder",
+      "description": "Rounded lavender boulder with several glowing golden five-point star inlays and small side rocks",
+      "type": "transparent static module",
+      "master": "masters/rocks/star-boulder.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        236,
+        942,
+        787
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.768555
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1278,
+        594,
+        1398,
+        693
+      ],
+      "generated_size": [
+        1381,
+        1139
+      ],
+      "exports": [
+        "gameplay/rocks/star-boulder-256.png",
+        "gameplay/rocks/star-boulder-256.webp",
+        "gameplay/rocks/star-boulder-512.png",
+        "gameplay/rocks/star-boulder-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/moss-cave",
+      "description": "Small round lavender stone cave doorway with grassy roof, pink white flowers and warm golden glow inside",
+      "type": "transparent static module",
+      "master": "masters/props/moss-cave.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        162,
+        942,
+        862
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.841797
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1398,
+        592,
+        1526,
+        694
+      ],
+      "generated_size": [
+        1405,
+        1120
+      ],
+      "exports": [
+        "gameplay/props/moss-cave-256.png",
+        "gameplay/props/moss-cave-256.webp",
+        "gameplay/props/moss-cave-512.png",
+        "gameplay/props/moss-cave-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/gold-star",
+      "description": "Single plump glossy luminous golden five-point star icon",
+      "type": "transparent static module",
+      "master": "masters/collectibles/gold-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        95,
+        942,
+        929
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        14,
+        702,
+        84,
+        777
+      ],
+      "generated_size": [
+        1287,
+        1222
+      ],
+      "exports": [
+        "gameplay/collectibles/gold-star-256.png",
+        "gameplay/collectibles/gold-star-256.webp",
+        "gameplay/collectibles/gold-star-512.png",
+        "gameplay/collectibles/gold-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/crescent-moon",
+      "description": "Single glowing pale golden crescent moon icon",
+      "type": "transparent static module",
+      "master": "masters/collectibles/crescent-moon.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        90,
+        82,
+        934,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        84,
+        702,
+        157,
+        777
+      ],
+      "generated_size": [
+        1316,
+        1195
+      ],
+      "exports": [
+        "gameplay/collectibles/crescent-moon-256.png",
+        "gameplay/collectibles/crescent-moon-256.webp",
+        "gameplay/collectibles/crescent-moon-512.png",
+        "gameplay/collectibles/crescent-moon-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/bubble",
+      "description": "Single transparent iridescent soap bubble with blue-pink rim and white highlight",
+      "type": "transparent static module",
+      "master": "masters/collectibles/bubble.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        92,
+        94,
+        931,
+        930
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        157,
+        702,
+        228,
+        777
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/collectibles/bubble-256.png",
+        "gameplay/collectibles/bubble-256.webp",
+        "gameplay/collectibles/bubble-512.png",
+        "gameplay/collectibles/bubble-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/star-flower",
+      "description": "Small purple flower with gold five-point star at its center and short green stem",
+      "type": "transparent static module",
+      "master": "masters/collectibles/star-flower.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        111,
+        942,
+        913
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        228,
+        702,
+        308,
+        777
+      ],
+      "generated_size": [
+        1295,
+        1214
+      ],
+      "exports": [
+        "gameplay/collectibles/star-flower-256.png",
+        "gameplay/collectibles/star-flower-256.webp",
+        "gameplay/collectibles/star-flower-512.png",
+        "gameplay/collectibles/star-flower-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/pink-flower",
+      "description": "Single small pink flower with round yellow center and green leaves",
+      "type": "transparent static module",
+      "master": "masters/collectibles/pink-flower.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        94,
+        942,
+        929
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        308,
+        702,
+        388,
+        777
+      ],
+      "generated_size": [
+        1295,
+        1214
+      ],
+      "exports": [
+        "gameplay/collectibles/pink-flower-256.png",
+        "gameplay/collectibles/pink-flower-256.webp",
+        "gameplay/collectibles/pink-flower-512.png",
+        "gameplay/collectibles/pink-flower-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/clover-round",
+      "description": "Small four-heart-leaf green clover with tiny stem",
+      "type": "transparent static module",
+      "master": "masters/collectibles/clover-round.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        113,
+        133,
+        910,
+        890
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        388,
+        702,
+        461,
+        777
+      ],
+      "generated_size": [
+        1291,
+        1218
+      ],
+      "exports": [
+        "gameplay/collectibles/clover-round-256.png",
+        "gameplay/collectibles/clover-round-256.webp",
+        "gameplay/collectibles/clover-round-512.png",
+        "gameplay/collectibles/clover-round-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/clover-pointed",
+      "description": "Small bright green five-leaf clover sprig with short stem",
+      "type": "transparent static module",
+      "master": "masters/collectibles/clover-pointed.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        104,
+        82,
+        919,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        461,
+        702,
+        536,
+        777
+      ],
+      "generated_size": [
+        1254,
+        1254
+      ],
+      "exports": [
+        "gameplay/collectibles/clover-pointed-256.png",
+        "gameplay/collectibles/clover-pointed-256.webp",
+        "gameplay/collectibles/clover-pointed-512.png",
+        "gameplay/collectibles/clover-pointed-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "collectibles/purple-sprig",
+      "description": "Small upright lavender-purple leafy sprig",
+      "type": "transparent static module",
+      "master": "masters/collectibles/purple-sprig.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        178,
+        82,
+        845,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        536,
+        702,
+        598,
+        777
+      ],
+      "generated_size": [
+        1286,
+        1223
+      ],
+      "exports": [
+        "gameplay/collectibles/purple-sprig-256.png",
+        "gameplay/collectibles/purple-sprig-256.webp",
+        "gameplay/collectibles/purple-sprig-512.png",
+        "gameplay/collectibles/purple-sprig-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "clouds/white-small",
+      "description": "Small white cloud cluster with soft lavender underside",
+      "type": "transparent static module",
+      "master": "masters/clouds/white-small.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        232,
+        942,
+        792
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        598,
+        705,
+        679,
+        775
+      ],
+      "generated_size": [
+        1349,
+        1166
+      ],
+      "exports": [
+        "gameplay/clouds/white-small-256.png",
+        "gameplay/clouds/white-small-256.webp",
+        "gameplay/clouds/white-small-512.png",
+        "gameplay/clouds/white-small-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "clouds/white-wide",
+      "description": "Wide fluffy white cloud cluster with lavender shading",
+      "type": "transparent static module",
+      "master": "masters/clouds/white-wide.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        215,
+        942,
+        809
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        679,
+        705,
+        768,
+        775
+      ],
+      "generated_size": [
+        1536,
+        1024
+      ],
+      "exports": [
+        "gameplay/clouds/white-wide-256.png",
+        "gameplay/clouds/white-wide-256.webp",
+        "gameplay/clouds/white-wide-512.png",
+        "gameplay/clouds/white-wide-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "clouds/pink-small",
+      "description": "Small fluffy pink-lavender cloud cluster",
+      "type": "transparent static module",
+      "master": "masters/clouds/pink-small.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        208,
+        942,
+        816
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        768,
+        705,
+        849,
+        775
+      ],
+      "generated_size": [
+        1349,
+        1166
+      ],
+      "exports": [
+        "gameplay/clouds/pink-small-256.png",
+        "gameplay/clouds/pink-small-256.webp",
+        "gameplay/clouds/pink-small-512.png",
+        "gameplay/clouds/pink-small-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/low-boulder",
+      "description": "Low broad lavender boulder with shallow faceted top",
+      "type": "transparent static module",
+      "master": "masters/rocks/low-boulder.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        273,
+        942,
+        751
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.733398
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        866,
+        706,
+        957,
+        772
+      ],
+      "generated_size": [
+        1536,
+        1024
+      ],
+      "exports": [
+        "gameplay/rocks/low-boulder-256.png",
+        "gameplay/rocks/low-boulder-256.webp",
+        "gameplay/rocks/low-boulder-512.png",
+        "gameplay/rocks/low-boulder-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "plants/leaf-sprig-a",
+      "description": "Small bright green leafy shoot with three leaves",
+      "type": "transparent static module",
+      "master": "masters/plants/leaf-sprig-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        137,
+        82,
+        886,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        957,
+        707,
+        1000,
+        770
+      ],
+      "generated_size": [
+        1303,
+        1207
+      ],
+      "exports": [
+        "gameplay/plants/leaf-sprig-a-256.png",
+        "gameplay/plants/leaf-sprig-a-256.webp",
+        "gameplay/plants/leaf-sprig-a-512.png",
+        "gameplay/plants/leaf-sprig-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/stump",
+      "description": "Short cut warm brown tree stump with concentric growth rings and tiny lavender stones at root",
+      "type": "transparent static module",
+      "master": "masters/props/stump.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        195,
+        942,
+        829
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.80957
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1001,
+        704,
+        1076,
+        773
+      ],
+      "generated_size": [
+        1308,
+        1203
+      ],
+      "exports": [
+        "gameplay/props/stump-256.png",
+        "gameplay/props/stump-256.webp",
+        "gameplay/props/stump-512.png",
+        "gameplay/props/stump-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "plants/leaf-sprig-b",
+      "description": "Second small upright green leaf sprig",
+      "type": "transparent static module",
+      "master": "masters/plants/leaf-sprig-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        139,
+        82,
+        884,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1079,
+        707,
+        1118,
+        772
+      ],
+      "generated_size": [
+        1278,
+        1230
+      ],
+      "exports": [
+        "gameplay/plants/leaf-sprig-b-256.png",
+        "gameplay/plants/leaf-sprig-b-256.webp",
+        "gameplay/plants/leaf-sprig-b-512.png",
+        "gameplay/plants/leaf-sprig-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/tall-cluster",
+      "description": "Tall irregular lavender boulder cluster with small rocks at base",
+      "type": "transparent static module",
+      "master": "masters/rocks/tall-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        176,
+        942,
+        847
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.827148
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1118,
+        701,
+        1210,
+        775
+      ],
+      "generated_size": [
+        1396,
+        1127
+      ],
+      "exports": [
+        "gameplay/rocks/tall-cluster-256.png",
+        "gameplay/rocks/tall-cluster-256.webp",
+        "gameplay/rocks/tall-cluster-512.png",
+        "gameplay/rocks/tall-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/grass-cluster",
+      "description": "Lavender rock cluster with bright green grass at left edge",
+      "type": "transparent static module",
+      "master": "masters/rocks/grass-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        234,
+        942,
+        790
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.771484
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1210,
+        700,
+        1311,
+        775
+      ],
+      "generated_size": [
+        1495,
+        1052
+      ],
+      "exports": [
+        "gameplay/rocks/grass-cluster-256.png",
+        "gameplay/rocks/grass-cluster-256.webp",
+        "gameplay/rocks/grass-cluster-512.png",
+        "gameplay/rocks/grass-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/flower-cluster",
+      "description": "Lavender rock cluster with pink white flowers and green leaves at front",
+      "type": "transparent static module",
+      "master": "masters/rocks/flower-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        227,
+        942,
+        796
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.777344
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1311,
+        703,
+        1407,
+        775
+      ],
+      "generated_size": [
+        1448,
+        1086
+      ],
+      "exports": [
+        "gameplay/rocks/flower-cluster-256.png",
+        "gameplay/rocks/flower-cluster-256.webp",
+        "gameplay/rocks/flower-cluster-512.png",
+        "gameplay/rocks/flower-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "plants/star-garden",
+      "description": "Low grass flower patch with two glowing golden stars, small lavender boulders and leafy plants",
+      "type": "transparent static module",
+      "master": "masters/plants/star-garden.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        254,
+        942,
+        769
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.750977
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1407,
+        702,
+        1527,
+        775
+      ],
+      "generated_size": [
+        1608,
+        978
+      ],
+      "exports": [
+        "gameplay/plants/star-garden-256.png",
+        "gameplay/plants/star-garden-256.webp",
+        "gameplay/plants/star-garden-512.png",
+        "gameplay/plants/star-garden-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/full-moon-clouds",
+      "description": "Wide moonlit sky with huge warm full moon, dark indigo starry sky and fluffy lavender clouds framing the bottom. No creatures, borders or text",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/full-moon-clouds.png",
+      "size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        864
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        13,
+        788,
+        279,
+        967
+      ],
+      "generated_size": [
+        1672,
+        941
+      ],
+      "exports": [
+        "gameplay/backgrounds/full-moon-clouds-256.png",
+        "gameplay/backgrounds/full-moon-clouds-256.webp",
+        "gameplay/backgrounds/full-moon-clouds-512.png",
+        "gameplay/backgrounds/full-moon-clouds-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/floating-island-sky",
+      "description": "Wide dreamy purple twilight sky with distant floating lavender islands over fluffy clouds, tiny stars. No creatures, borders or text",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/floating-island-sky.png",
+      "size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        864
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        279,
+        788,
+        536,
+        967
+      ],
+      "generated_size": [
+        1672,
+        941
+      ],
+      "exports": [
+        "gameplay/backgrounds/floating-island-sky-256.png",
+        "gameplay/backgrounds/floating-island-sky-256.webp",
+        "gameplay/backgrounds/floating-island-sky-512.png",
+        "gameplay/backgrounds/floating-island-sky-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/distant-forest",
+      "description": "Layered distant lavender forest and mountain silhouettes with floating island silhouettes in hazy pink-purple sky and clouds. No foreground objects, borders or text",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/distant-forest.png",
+      "size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        864
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        536,
+        788,
+        792,
+        967
+      ],
+      "generated_size": [
+        1672,
+        941
+      ],
+      "exports": [
+        "gameplay/backgrounds/distant-forest-256.png",
+        "gameplay/backgrounds/distant-forest-256.webp",
+        "gameplay/backgrounds/distant-forest-512.png",
+        "gameplay/backgrounds/distant-forest-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/mountain-clouds",
+      "description": "Layered lavender mountain and forest silhouettes behind soft pale clouds in pink-lilac mist. No border, text or foreground props",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/mountain-clouds.png",
+      "size": [
+        1443,
+        1090
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1443,
+        1090
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        792,
+        788,
+        1029,
+        967
+      ],
+      "generated_size": [
+        1443,
+        1090
+      ],
+      "exports": [
+        "gameplay/backgrounds/mountain-clouds-256.png",
+        "gameplay/backgrounds/mountain-clouds-256.webp",
+        "gameplay/backgrounds/mountain-clouds-512.png",
+        "gameplay/backgrounds/mountain-clouds-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "foregrounds/hanging-vines-a",
+      "description": "Top-edge hanging cascade of overlapping lavender-purple leaves and wisteria tendrils, several glowing golden and pink hanging stars. Preserve top-edge attachment; transparent below and between strands",
+      "type": "transparent static module",
+      "master": "masters/foregrounds/hanging-vines-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        177,
+        942,
+        847
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.172852
+      ],
+      "anchor_note": "top center of visible artwork",
+      "source_box": [
+        1035,
+        786,
+        1205,
+        927
+      ],
+      "generated_size": [
+        1377,
+        1142
+      ],
+      "exports": [
+        "gameplay/foregrounds/hanging-vines-a-256.png",
+        "gameplay/foregrounds/hanging-vines-a-256.webp",
+        "gameplay/foregrounds/hanging-vines-a-512.png",
+        "gameplay/foregrounds/hanging-vines-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "foregrounds/rock-garden-a",
+      "description": "Low foreground strip of lavender rocks, tiny pink-white flowers, green grasses and glowing star accent",
+      "type": "transparent static module",
+      "master": "masters/foregrounds/rock-garden-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        371,
+        942,
+        653
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.637695
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1035,
+        916,
+        1205,
+        967
+      ],
+      "generated_size": [
+        2166,
+        726
+      ],
+      "exports": [
+        "gameplay/foregrounds/rock-garden-a-256.png",
+        "gameplay/foregrounds/rock-garden-a-256.webp",
+        "gameplay/foregrounds/rock-garden-a-512.png",
+        "gameplay/foregrounds/rock-garden-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "foregrounds/floral-arch",
+      "description": "Broad arch made of fluffy purple blossoms and lavender stone, tiny flower beds at feet. Open center completely transparent",
+      "type": "transparent static module",
+      "master": "masters/foregrounds/floral-arch.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        208,
+        942,
+        816
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.796875
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1213,
+        791,
+        1366,
+        904
+      ],
+      "generated_size": [
+        1492,
+        1054
+      ],
+      "exports": [
+        "gameplay/foregrounds/floral-arch-256.png",
+        "gameplay/foregrounds/floral-arch-256.webp",
+        "gameplay/foregrounds/floral-arch-512.png",
+        "gameplay/foregrounds/floral-arch-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "foregrounds/rock-garden-b",
+      "description": "Low foreground strip with tall lavender boulder, green grasses, white and pink daisies",
+      "type": "transparent static module",
+      "master": "masters/foregrounds/rock-garden-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        333,
+        942,
+        690
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.673828
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1214,
+        905,
+        1366,
+        967
+      ],
+      "generated_size": [
+        1915,
+        821
+      ],
+      "exports": [
+        "gameplay/foregrounds/rock-garden-b-256.png",
+        "gameplay/foregrounds/rock-garden-b-256.webp",
+        "gameplay/foregrounds/rock-garden-b-512.png",
+        "gameplay/foregrounds/rock-garden-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "foregrounds/hanging-vines-b",
+      "description": "Second top-edge curtain of lavender hanging leaves, long wisteria tassels and several glowing golden stars. Transparent spaces between hanging strands",
+      "type": "transparent static module",
+      "master": "masters/foregrounds/hanging-vines-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        192,
+        942,
+        832
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.1875
+      ],
+      "anchor_note": "top center of visible artwork",
+      "source_box": [
+        1375,
+        786,
+        1526,
+        907
+      ],
+      "generated_size": [
+        1401,
+        1123
+      ],
+      "exports": [
+        "gameplay/foregrounds/hanging-vines-b-256.png",
+        "gameplay/foregrounds/hanging-vines-b-256.webp",
+        "gameplay/foregrounds/hanging-vines-b-512.png",
+        "gameplay/foregrounds/hanging-vines-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "foregrounds/mushroom-garden",
+      "description": "Low foreground patch with one glowing purple spotted mushroom, pink white flowers, small lavender rocks and green grasses",
+      "type": "transparent static module",
+      "master": "masters/foregrounds/mushroom-garden.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        266,
+        942,
+        757
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.739258
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1375,
+        889,
+        1526,
+        967
+      ],
+      "generated_size": [
+        1744,
+        901
+      ],
+      "exports": [
+        "gameplay/foregrounds/mushroom-garden-256.png",
+        "gameplay/foregrounds/mushroom-garden-256.webp",
+        "gameplay/foregrounds/mushroom-garden-512.png",
+        "gameplay/foregrounds/mushroom-garden-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 13806,
+      "sha256": "b26d6ba1f530a9aa815b3306a4cc6355e68ee2079a350101fea98a19f8a4955c"
+    },
+    {
+      "path": "gameplay/arch-pieces/flower-crown-256.png",
+      "bytes": 36757,
+      "sha256": "702fe10bafc5d9bac48e7a3a8bf0e5294eacd88f5cd995ceeb9dea038413c3f0"
+    },
+    {
+      "path": "gameplay/arch-pieces/flower-crown-256.webp",
+      "bytes": 27838,
+      "sha256": "e16a7cedbc93a32de9b9543876c3033eda842d503b4ea458605cab1366af2e65"
+    },
+    {
+      "path": "gameplay/arch-pieces/flower-crown-512.png",
+      "bytes": 117447,
+      "sha256": "a20226fff0c24d71e23da481465f6b5ff677eee1955e3d9d4e1b436978b54d94"
+    },
+    {
+      "path": "gameplay/arch-pieces/flower-crown-512.webp",
+      "bytes": 89366,
+      "sha256": "b913fb8e89a8d8d6db96bc961a82fa55e50d3a8868467dfee8d4799eeb9f2077"
+    },
+    {
+      "path": "gameplay/arch-pieces/plain-curve-256.png",
+      "bytes": 35045,
+      "sha256": "e459c61a59106c864fc23758494282190b733994df0785865b60ca31b116c3f7"
+    },
+    {
+      "path": "gameplay/arch-pieces/plain-curve-256.webp",
+      "bytes": 26176,
+      "sha256": "e170e93795e9120c40ba1bc8688cffa8e8edbf6ca8c1daa6e5401cfe1a751294"
+    },
+    {
+      "path": "gameplay/arch-pieces/plain-curve-512.png",
+      "bytes": 109950,
+      "sha256": "4307b7b0da819a1efe783af46fe8e9eed669fd5bbca330e33c95370c7160fd3a"
+    },
+    {
+      "path": "gameplay/arch-pieces/plain-curve-512.webp",
+      "bytes": 79944,
+      "sha256": "1080bd3bfdad74f62b8095c4f02d3b13a128bccf749489494c9951dda18892ef"
+    },
+    {
+      "path": "gameplay/backgrounds/distant-forest-256.png",
+      "bytes": 37896,
+      "sha256": "2c0b6cd460b8aa0ff27c5f5706fce9f821a10f74b7ddcb6dc26217c1e93cda1f"
+    },
+    {
+      "path": "gameplay/backgrounds/distant-forest-256.webp",
+      "bytes": 27682,
+      "sha256": "000b2957f6d4424775df9075f735734df8766aa60f4a6d69536392102a6b3f70"
+    },
+    {
+      "path": "gameplay/backgrounds/distant-forest-512.png",
+      "bytes": 131979,
+      "sha256": "786c38ce7c4edd68f8d9f2f28f87a6cf78f42acf8cda319a53627bc8ae1276e8"
+    },
+    {
+      "path": "gameplay/backgrounds/distant-forest-512.webp",
+      "bytes": 98894,
+      "sha256": "25019c8c0a9e80882fa5c4cc0683ad072710bf5ea3cfa716b276c10ee3eddc1b"
+    },
+    {
+      "path": "gameplay/backgrounds/floating-island-sky-256.png",
+      "bytes": 46740,
+      "sha256": "7672a73d97303df7716c762d67242b1482d9cd1814b1f2ae0e86aff573a51dba"
+    },
+    {
+      "path": "gameplay/backgrounds/floating-island-sky-256.webp",
+      "bytes": 35742,
+      "sha256": "9aa79b434f99db11244539c750892c6d562eb60bbb44c4e232a9c67b373a79f5"
+    },
+    {
+      "path": "gameplay/backgrounds/floating-island-sky-512.png",
+      "bytes": 155254,
+      "sha256": "ec3885931e790a4a051cdefe680d66562c3870b3c357a0779c8d6cb20452f47f"
+    },
+    {
+      "path": "gameplay/backgrounds/floating-island-sky-512.webp",
+      "bytes": 117188,
+      "sha256": "db4e67d1aa5bba43b40e1a792d47f72a147385a3379c8cfd1c2981b8a6fcba38"
+    },
+    {
+      "path": "gameplay/backgrounds/full-moon-clouds-256.png",
+      "bytes": 53985,
+      "sha256": "242c1d5d55659314436b10046d3602db829090d143b7a963e4287f3153827189"
+    },
+    {
+      "path": "gameplay/backgrounds/full-moon-clouds-256.webp",
+      "bytes": 40382,
+      "sha256": "61bd1951dda377eebf0e1a1c26cea8c63f64fd1f207a7f9a00391cf66c9e734e"
+    },
+    {
+      "path": "gameplay/backgrounds/full-moon-clouds-512.png",
+      "bytes": 175214,
+      "sha256": "831e5631c9f72e4d68602c46e3e53f345c97b53f86b259b91a81ddd7818aa273"
+    },
+    {
+      "path": "gameplay/backgrounds/full-moon-clouds-512.webp",
+      "bytes": 127966,
+      "sha256": "5b2c3d9c436ff430df8d5da8bf7b1374f14b319872ec34397e08277a445741ed"
+    },
+    {
+      "path": "gameplay/backgrounds/mountain-clouds-256.png",
+      "bytes": 46380,
+      "sha256": "f406647e7ed843f5c35ee472694eb1d142af629c6dd95b9c317843086a925207"
+    },
+    {
+      "path": "gameplay/backgrounds/mountain-clouds-256.webp",
+      "bytes": 33140,
+      "sha256": "a8005d1cf249b8ca6962d8b26a0a6d021cd2f7f3b6bc4e4c3572ddfa9f554f9a"
+    },
+    {
+      "path": "gameplay/backgrounds/mountain-clouds-512.png",
+      "bytes": 171026,
+      "sha256": "bd66ced1494ea2371afc70fdf63d4fc0dc53f86a2541485ed33d56fa11e7445e"
+    },
+    {
+      "path": "gameplay/backgrounds/mountain-clouds-512.webp",
+      "bytes": 134130,
+      "sha256": "e7df38b304248866dbec52539b13490568f8c18ddf82064668de5d6d72a7740a"
+    },
+    {
+      "path": "gameplay/bridges/arched-256.png",
+      "bytes": 42248,
+      "sha256": "04f82e3a27e78f885a7411afd4e28b0198d37f6fe496c3e2454928e1d254c94b"
+    },
+    {
+      "path": "gameplay/bridges/arched-256.webp",
+      "bytes": 32884,
+      "sha256": "619750aceae71b790bf6b4a9c0ab4f8a01a6c76c616fd2dcc295d9ee6b049b10"
+    },
+    {
+      "path": "gameplay/bridges/arched-512.png",
+      "bytes": 136259,
+      "sha256": "344d28d32d21d18d4e09d80067b01619d026945a587a50165d274a398d250a51"
+    },
+    {
+      "path": "gameplay/bridges/arched-512.webp",
+      "bytes": 102784,
+      "sha256": "002e8685433d338c23feeb851af5021d19b272d81bdf9d52323f9d90185ccfd4"
+    },
+    {
+      "path": "gameplay/bridges/curved-suspension-256.png",
+      "bytes": 33610,
+      "sha256": "364d1a13b9a975c5feb74281b8efa372c9b4450600d0bd2fe34753363abe078e"
+    },
+    {
+      "path": "gameplay/bridges/curved-suspension-256.webp",
+      "bytes": 26690,
+      "sha256": "022eaf43af38f1bf5084db793621e97f7776923293b0b7bd0ea8f8b162f2d7a1"
+    },
+    {
+      "path": "gameplay/bridges/curved-suspension-512.png",
+      "bytes": 108760,
+      "sha256": "bfbb098049e48bf0b40e4f1142ded6b33582a5a707327b2476f3ce00b01a393d"
+    },
+    {
+      "path": "gameplay/bridges/curved-suspension-512.webp",
+      "bytes": 82974,
+      "sha256": "7105733944697de138c7056deb69af7469983730189e9e6e551e22fa7bdf9cd0"
+    },
+    {
+      "path": "gameplay/bridges/front-deck-256.png",
+      "bytes": 49336,
+      "sha256": "e0f89cda63b2cb24f3eea5772c679a5e77abbad3afccbcd6bf3a5b689c5ee1cf"
+    },
+    {
+      "path": "gameplay/bridges/front-deck-256.webp",
+      "bytes": 37518,
+      "sha256": "233cb21ec178b1a717e243d740d2567268dd049ddcc556fd6066efcdc1090f4c"
+    },
+    {
+      "path": "gameplay/bridges/front-deck-512.png",
+      "bytes": 159554,
+      "sha256": "6e0bc88dc17342e5a59b458fbe87f0662d5dadcacbf28bc582f22683cea84cfb"
+    },
+    {
+      "path": "gameplay/bridges/front-deck-512.webp",
+      "bytes": 118598,
+      "sha256": "efb49053cbc4de69a9df36a77eb8128b075059194226e9a97957fa86451a29c5"
+    },
+    {
+      "path": "gameplay/bridges/straight-rope-256.png",
+      "bytes": 36889,
+      "sha256": "c9b35062ba9638cdc616b81b12b2f82a2d58701413680eaaf7582344413f7d2a"
+    },
+    {
+      "path": "gameplay/bridges/straight-rope-256.webp",
+      "bytes": 29202,
+      "sha256": "d5a95c8ed4bafd0776f99c75d9f32d3a48b7492a8f3c4dd5a9eb3e492af58d0a"
+    },
+    {
+      "path": "gameplay/bridges/straight-rope-512.png",
+      "bytes": 118681,
+      "sha256": "f9fb9b72de28c804ea5691b9f5ed09e706213527c64cb33e49ba91322652f2e3"
+    },
+    {
+      "path": "gameplay/bridges/straight-rope-512.webp",
+      "bytes": 90676,
+      "sha256": "c4cf9eeb94e189ba8478e3d86e5956c6ec34b0a21767731d2076b22ffdc7202a"
+    },
+    {
+      "path": "gameplay/cliffs/flower-corner-256.png",
+      "bytes": 67469,
+      "sha256": "969ba4470c0b0128dec8ddf4ef994823fec51aaeae0720688c0290e6287a26c2"
+    },
+    {
+      "path": "gameplay/cliffs/flower-corner-256.webp",
+      "bytes": 49050,
+      "sha256": "916c7235be84b2fe66e7bff945f8a7893de5a907a86ed97086f1b389b9f1ca3e"
+    },
+    {
+      "path": "gameplay/cliffs/flower-corner-512.png",
+      "bytes": 227301,
+      "sha256": "f53ea780d6aada73243b0f81db740e10e8b23d6c2f9cf36e0c4aa14f99684948"
+    },
+    {
+      "path": "gameplay/cliffs/flower-corner-512.webp",
+      "bytes": 160586,
+      "sha256": "00b6e4d0cd81d122e89fcb552fd492a33fcf7508113e66c2f52659bc45d46ef8"
+    },
+    {
+      "path": "gameplay/cliffs/flower-vine-256.png",
+      "bytes": 73013,
+      "sha256": "2d70216fca3150d5726b0c35b1eb2a80c5ea33a0fb0e0e97bfb53e7f884699e8"
+    },
+    {
+      "path": "gameplay/cliffs/flower-vine-256.webp",
+      "bytes": 53450,
+      "sha256": "070abe41be939961b032a9c3d1a68578765586a44459c8f1beccdc33744fd4ef"
+    },
+    {
+      "path": "gameplay/cliffs/flower-vine-512.png",
+      "bytes": 247439,
+      "sha256": "cb22bfa7769a4265e3d266c21ffc823782ef806322e0efe6fea2afc668f9454f"
+    },
+    {
+      "path": "gameplay/cliffs/flower-vine-512.webp",
+      "bytes": 175378,
+      "sha256": "f1b63295516ac67d83fd1c1eae0043ce3343339e28c5367e3e3a8051aaa15716"
+    },
+    {
+      "path": "gameplay/cliffs/long-vine-256.png",
+      "bytes": 72324,
+      "sha256": "4d64bb8384f15df15c8f3bead08edac240c5ca86191b6bc0931dec5716b8ca3d"
+    },
+    {
+      "path": "gameplay/cliffs/long-vine-256.webp",
+      "bytes": 54030,
+      "sha256": "f20bec1a27574c240973b1ccf0ed8de68e6a8f6e09a54fdc585edc3ac28ef79d"
+    },
+    {
+      "path": "gameplay/cliffs/long-vine-512.png",
+      "bytes": 244523,
+      "sha256": "d1a5e4fb9d8f6cf3150ef5e65facba928c7c53b29d59ad214d4c056edb529c2a"
+    },
+    {
+      "path": "gameplay/cliffs/long-vine-512.webp",
+      "bytes": 175796,
+      "sha256": "8b699994c4b787b11321c7a8be4513377246453d6280d926ee3e8c71a66de59a"
+    },
+    {
+      "path": "gameplay/cliffs/pink-vine-256.png",
+      "bytes": 68265,
+      "sha256": "73ba52ea0bac5245993074c8128946fc6be6bbde52bb075b6d25fdb7e86bab6f"
+    },
+    {
+      "path": "gameplay/cliffs/pink-vine-256.webp",
+      "bytes": 49498,
+      "sha256": "99c8a17745bef5ecdfde044a7ae3030105916492a28ea5f80445b3b014e871f2"
+    },
+    {
+      "path": "gameplay/cliffs/pink-vine-512.png",
+      "bytes": 228229,
+      "sha256": "14865fd5812be4578404440f284b6456d0220dc80ed84aa0b13eecc0e44d7864"
+    },
+    {
+      "path": "gameplay/cliffs/pink-vine-512.webp",
+      "bytes": 161286,
+      "sha256": "f4e6b6d6cba0380a3d90da14222159ecd324a913a66bea8103ec3902feba8a3d"
+    },
+    {
+      "path": "gameplay/cliffs/plain-256.png",
+      "bytes": 58015,
+      "sha256": "0a368413153f9df3a191c28d5b76aab34c8ef751fe8b5fddafe41964273dd059"
+    },
+    {
+      "path": "gameplay/cliffs/plain-256.webp",
+      "bytes": 41312,
+      "sha256": "d6aac8b52a83e4316ad753deae4bee009c3e417295e549b8365666adea5e18ac"
+    },
+    {
+      "path": "gameplay/cliffs/plain-512.png",
+      "bytes": 197982,
+      "sha256": "bbcb83dc2878d2e8c667160094daf85447dc3bb80b3ac3050a1a6f7d7b0329e1"
+    },
+    {
+      "path": "gameplay/cliffs/plain-512.webp",
+      "bytes": 136974,
+      "sha256": "f509a4a66f93c22e2a43a2c08a032974574e9ab8c7a8d3ec3cf33acee961faf7"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-open-256.png",
+      "bytes": 73302,
+      "sha256": "d0e8b7bcdad0163922aa158f3dfdf3d49a319590f4ff3e441514c13f74afd6ad"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-open-256.webp",
+      "bytes": 55316,
+      "sha256": "d26f64a1eed012c97193f38d5605404b2edba5d3de698920a70fa96758843c01"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-open-512.png",
+      "bytes": 243665,
+      "sha256": "faa3c4392979e221087fddb2102ce8a7baa878638db809416934569fbc67e98a"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-open-512.webp",
+      "bytes": 179126,
+      "sha256": "8a40da598b590620328f7afdf554e368918699930383183efc09fa5145453e96"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-pool-256.png",
+      "bytes": 75424,
+      "sha256": "d4d0c2813a8c78ad53000078003a91fb7a232ea0933e43c9fb21ec09181e4650"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-pool-256.webp",
+      "bytes": 57280,
+      "sha256": "b1b566df5db8f310e19c9e41e2dad003b5d8daab792a0a76e30b3e8de7e58927"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-pool-512.png",
+      "bytes": 245995,
+      "sha256": "2db3645223d2feae6308deeb5a83643e3ebdd0decc8a8c9e853266df2f75e478"
+    },
+    {
+      "path": "gameplay/cliffs/waterfall-pool-512.webp",
+      "bytes": 180028,
+      "sha256": "c6723c3b2af49cb7da6e8ecb42236451bc27a8be7fcb1b6449905f5038487161"
+    },
+    {
+      "path": "gameplay/clouds/pink-small-256.png",
+      "bytes": 33178,
+      "sha256": "8f0c86b609a6750529fa7ce2bc03947d2c0c982305ca0d224fafde24cdd18860"
+    },
+    {
+      "path": "gameplay/clouds/pink-small-256.webp",
+      "bytes": 21594,
+      "sha256": "1316d19d7effe33e340340c4afc8967edfe5ec1b6088aa67cc1ce1b00830b3a5"
+    },
+    {
+      "path": "gameplay/clouds/pink-small-512.png",
+      "bytes": 117357,
+      "sha256": "1870386ddd2d34515e57c613d799f3e4690c895edb0bf30b6a86df2e2c3c1deb"
+    },
+    {
+      "path": "gameplay/clouds/pink-small-512.webp",
+      "bytes": 74180,
+      "sha256": "77e8e1f7552f3743e514e9b439606fa33be2fc1824adc89564013f118193dc8f"
+    },
+    {
+      "path": "gameplay/clouds/white-small-256.png",
+      "bytes": 31023,
+      "sha256": "93df44c475d5a6f66dd0e59e7b9760875e6d308583e6de3fcee35ec829877cfe"
+    },
+    {
+      "path": "gameplay/clouds/white-small-256.webp",
+      "bytes": 20300,
+      "sha256": "7b972a80de3e6a85b4056d524b234f9980eb5023b0dd82b769ac7dd1a6daf5a7"
+    },
+    {
+      "path": "gameplay/clouds/white-small-512.png",
+      "bytes": 108903,
+      "sha256": "9491ca18d5a1a82726aeabe734fd0a9ac9e0df7134f0d0831674f61049493fc6"
+    },
+    {
+      "path": "gameplay/clouds/white-small-512.webp",
+      "bytes": 68918,
+      "sha256": "67b0f1bb31df8e40631a238feaf0934740cf62acf127318c164c5c2da9da57cd"
+    },
+    {
+      "path": "gameplay/clouds/white-wide-256.png",
+      "bytes": 31980,
+      "sha256": "3137a6ca2ae3c5e19d8f327142a1551ff4761ba6292cc9bf7ab074472958f6ea"
+    },
+    {
+      "path": "gameplay/clouds/white-wide-256.webp",
+      "bytes": 20284,
+      "sha256": "4188eba4ae36a5280812a7c117946b9207548f74453bdcf8ccd441f0c6878b80"
+    },
+    {
+      "path": "gameplay/clouds/white-wide-512.png",
+      "bytes": 110980,
+      "sha256": "cffebbd2c71ba78183a451e610608d36eafecb4ea310959ecccc390386822d8d"
+    },
+    {
+      "path": "gameplay/clouds/white-wide-512.webp",
+      "bytes": 68466,
+      "sha256": "2ae0b489fd831a7237c2001b559d9767feed55d93b510599d87168ae47e383b8"
+    },
+    {
+      "path": "gameplay/collectibles/bubble-256.png",
+      "bytes": 69691,
+      "sha256": "0bdf2e2dd670bfe18b040fea117df18a96f0ad1778412774c886bd9e562715ab"
+    },
+    {
+      "path": "gameplay/collectibles/bubble-256.webp",
+      "bytes": 49162,
+      "sha256": "0db70a2ac413b3848d0b261a4dc7b4b27dee2d44dc11414af290322067441ccf"
+    },
+    {
+      "path": "gameplay/collectibles/bubble-512.png",
+      "bytes": 229143,
+      "sha256": "d14c993bbcf86b1bd358b5358823012699ee37a9be0c8cc5cea7f39d5a614555"
+    },
+    {
+      "path": "gameplay/collectibles/bubble-512.webp",
+      "bytes": 159560,
+      "sha256": "5d7422b3c0e19aa0585ea638396863a18b3a8768f3fd2307e0d5e1c805f09acd"
+    },
+    {
+      "path": "gameplay/collectibles/clover-pointed-256.png",
+      "bytes": 56486,
+      "sha256": "363eb413c0b5cab7acefbad3b195ee4eb3a4b72a8399a413001eded739945c33"
+    },
+    {
+      "path": "gameplay/collectibles/clover-pointed-256.webp",
+      "bytes": 39266,
+      "sha256": "057b6b2fb2557935d2405c77eb479e245f6bcb4005201d687e78f3f6764120b4"
+    },
+    {
+      "path": "gameplay/collectibles/clover-pointed-512.png",
+      "bytes": 181820,
+      "sha256": "d338fb5d25917f5a22887cd7a1a5aae200091fc047a0832f495612ba2ebfd0cb"
+    },
+    {
+      "path": "gameplay/collectibles/clover-pointed-512.webp",
+      "bytes": 125450,
+      "sha256": "af72cf7adf3249ec6502b853651ff8da877428f7193ca737b9bf3aaf0d0fcce3"
+    },
+    {
+      "path": "gameplay/collectibles/clover-round-256.png",
+      "bytes": 57524,
+      "sha256": "04d41af4c5c17bb20e4d04c4e4606f37612c6c03e0a7ce1f7e8932cde68653ee"
+    },
+    {
+      "path": "gameplay/collectibles/clover-round-256.webp",
+      "bytes": 39284,
+      "sha256": "33db2a5dcfa710fe28a59599c53cb80594ab05a758bd92f2b302c027d006ed7e"
+    },
+    {
+      "path": "gameplay/collectibles/clover-round-512.png",
+      "bytes": 187749,
+      "sha256": "4f45b185df5dc29bd1ed0ab671c2056eb2459a6b5bf5470762e0ff77a6b47642"
+    },
+    {
+      "path": "gameplay/collectibles/clover-round-512.webp",
+      "bytes": 121192,
+      "sha256": "55885769ad4fbd83a3a2d5d0f0696cf2942c8c7c94f49745d76d6fe6c098bf11"
+    },
+    {
+      "path": "gameplay/collectibles/crescent-moon-256.png",
+      "bytes": 56488,
+      "sha256": "5c8b39a133453f8f47480d462a93ebe247ebd2c739122780da59fc7226e33c7c"
+    },
+    {
+      "path": "gameplay/collectibles/crescent-moon-256.webp",
+      "bytes": 40348,
+      "sha256": "0428f635eb8c821b446629c7027e3ce356c7f511a68c3f8a13ebd99f4807f8b8"
+    },
+    {
+      "path": "gameplay/collectibles/crescent-moon-512.png",
+      "bytes": 197213,
+      "sha256": "f857ea93d6e1508fa0c649fafbed0dce1187e17a1b2b136c3742684781f67396"
+    },
+    {
+      "path": "gameplay/collectibles/crescent-moon-512.webp",
+      "bytes": 135980,
+      "sha256": "77ed965450b2d281a7fc7422f8a79a3a55838606ec3fe1549f26911e85f30e38"
+    },
+    {
+      "path": "gameplay/collectibles/gold-star-256.png",
+      "bytes": 59849,
+      "sha256": "98b96f5aed27ce96f2db5ad16b54855becbbe1e38e4455c7c62fdb57be5ea44d"
+    },
+    {
+      "path": "gameplay/collectibles/gold-star-256.webp",
+      "bytes": 42082,
+      "sha256": "b77a3ba9fb2874a25dcbca1df6e612ce3fd7322638abe3d8b46025ac9b0bee01"
+    },
+    {
+      "path": "gameplay/collectibles/gold-star-512.png",
+      "bytes": 209259,
+      "sha256": "e9fd69c964f5f64cc9fbd8756b470e908771e117c0a34298124de69a9aba047b"
+    },
+    {
+      "path": "gameplay/collectibles/gold-star-512.webp",
+      "bytes": 142140,
+      "sha256": "acf415654a825051dcfe93d635cd82d4e4f0a71c270b92d7ddc575ba7ad5cd6f"
+    },
+    {
+      "path": "gameplay/collectibles/pink-flower-256.png",
+      "bytes": 57125,
+      "sha256": "6fdafcc77a21a492dc51d050d77ce19f21ee20b0c79a5dd8779d6fc076c69d0e"
+    },
+    {
+      "path": "gameplay/collectibles/pink-flower-256.webp",
+      "bytes": 40154,
+      "sha256": "736ad73359535b5dea4c4e752903e69692699ad13ff1264a683e7a803fe7f0b1"
+    },
+    {
+      "path": "gameplay/collectibles/pink-flower-512.png",
+      "bytes": 188712,
+      "sha256": "c680d0b81ffa719b01c7e8bd1c3569dc4640bcbfcc82ebd962bc67ad1d8a40d8"
+    },
+    {
+      "path": "gameplay/collectibles/pink-flower-512.webp",
+      "bytes": 125122,
+      "sha256": "2988eb67e0dfeba2fd7563d2f7f185ad4c83081eca0ee68a0589d6ae1b19a449"
+    },
+    {
+      "path": "gameplay/collectibles/purple-sprig-256.png",
+      "bytes": 43856,
+      "sha256": "418c9e416a626205feb3c25b3ce4de2b5e9148b5493349ba7482428490e02ef4"
+    },
+    {
+      "path": "gameplay/collectibles/purple-sprig-256.webp",
+      "bytes": 30876,
+      "sha256": "29a6135981c1929cc9b2420723a3fa0522b61b86d7c556a460877efce17c098b"
+    },
+    {
+      "path": "gameplay/collectibles/purple-sprig-512.png",
+      "bytes": 132962,
+      "sha256": "324f38409d987df23b2d8da0ac316d94271a058ecdd4162dbc78394c336f1e0b"
+    },
+    {
+      "path": "gameplay/collectibles/purple-sprig-512.webp",
+      "bytes": 89140,
+      "sha256": "c3e6fe198ecb2ab6fbbc654f6b1e8fb2a921a7b7be442123f042f8cbc37b0e47"
+    },
+    {
+      "path": "gameplay/collectibles/star-flower-256.png",
+      "bytes": 58210,
+      "sha256": "55d1f5e020efe98e1f2b47991107230194ad2edcabd33f1970be86e7b88cb1af"
+    },
+    {
+      "path": "gameplay/collectibles/star-flower-256.webp",
+      "bytes": 41084,
+      "sha256": "7c46fe843149f612f0d5b29e410e7102330bcdc5855174e18cc50f5d716cde65"
+    },
+    {
+      "path": "gameplay/collectibles/star-flower-512.png",
+      "bytes": 194062,
+      "sha256": "6580b60523a0cf29458014dbacc0f5db0a50b7170d14e7c570d70cfa1e92b6a1"
+    },
+    {
+      "path": "gameplay/collectibles/star-flower-512.webp",
+      "bytes": 129466,
+      "sha256": "9d483a1a3b56225a15e7d747680cb29a96031c67163f5e5234d00c31f65632f0"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-256.png",
+      "bytes": 56401,
+      "sha256": "1b589c6d56bee9d70175076e5c760f856038bddbef2a7fbda7cd96a7e1f8f77c"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-256.webp",
+      "bytes": 40094,
+      "sha256": "f35f35eaf2495a8998dd74ab771095059726fc175c30481ffca0c1573101e1e5"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-512.png",
+      "bytes": 182238,
+      "sha256": "55111bcaa796f6e7d6a538c7fb945e7743867d0d19c6d5dddf26b4f82c05f29f"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-512.webp",
+      "bytes": 129004,
+      "sha256": "c1338d59197536ad54b2f1e68430088c237caca6be52754e9f57f267c3b477aa"
+    },
+    {
+      "path": "gameplay/foregrounds/floral-arch-256.png",
+      "bytes": 43360,
+      "sha256": "e1ccd339d4c2e82059efba6034b820505ba51633f353bd164b68abf07bfad949"
+    },
+    {
+      "path": "gameplay/foregrounds/floral-arch-256.webp",
+      "bytes": 33248,
+      "sha256": "0e4f06c6425c7448080971de631e9115fe11fffa8c3a7640d8ef6c9eba24f4e1"
+    },
+    {
+      "path": "gameplay/foregrounds/floral-arch-512.png",
+      "bytes": 136982,
+      "sha256": "31ddf60d61fdd7fa75c793d1e3ff9e060a42916a79575dc4cb55c530fa84ec1b"
+    },
+    {
+      "path": "gameplay/foregrounds/floral-arch-512.webp",
+      "bytes": 99784,
+      "sha256": "2f8e4ea8c7ea9c8f9e163d40d603eaee62a4fd84c33bad2a6d8bfc25de5e1afb"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-a-256.png",
+      "bytes": 78726,
+      "sha256": "c1bba116bca0c9c68912aee4dbf9d0dbd0fbfc91e87d8811955a4e4624274230"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-a-256.webp",
+      "bytes": 64030,
+      "sha256": "650744cb76bf111f041ce6ab261ecd90aeef2426f019a1343388bba57858b3d5"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-a-512.png",
+      "bytes": 257407,
+      "sha256": "757d65497cdbb7a7ba410eba1e885431d502a0552517deaaa0c8e81a7723775d"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-a-512.webp",
+      "bytes": 203878,
+      "sha256": "97c64cc31addbeff50fb234bcbdd2ede8d7efe640ef12d31aa1645687fe8b83b"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-b-256.png",
+      "bytes": 68067,
+      "sha256": "86214d98b1d0bf35ea8b082e923345f93a0023002bbc0c1c7081a992b1c57af4"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-b-256.webp",
+      "bytes": 56866,
+      "sha256": "1c6ae3924acddbeba92f6386dd84d8d9309c38aad8c0694157b69bdbe5533fd7"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-b-512.png",
+      "bytes": 222040,
+      "sha256": "bf56173c03c7ca3aff16db2657cdc4c3e4279607d60058c03da342fef9519443"
+    },
+    {
+      "path": "gameplay/foregrounds/hanging-vines-b-512.webp",
+      "bytes": 179364,
+      "sha256": "4913f7b39b9f87bc4a5b25d88b755bccab480a3155916515ddfdec41542d979f"
+    },
+    {
+      "path": "gameplay/foregrounds/mushroom-garden-256.png",
+      "bytes": 48841,
+      "sha256": "54782830aafe93e4164b525e487f74443f8a3cf5c541bac0d89b24f48056fdb9"
+    },
+    {
+      "path": "gameplay/foregrounds/mushroom-garden-256.webp",
+      "bytes": 38664,
+      "sha256": "65bfddf202dfbe3d14e4fb2f7b693d3b5d50231ebb1a68e9f543e93b6947afdb"
+    },
+    {
+      "path": "gameplay/foregrounds/mushroom-garden-512.png",
+      "bytes": 158982,
+      "sha256": "6617b4194fdc545a1a0aeea255a85249f78084cd39633d2a9b048c44c1367cbf"
+    },
+    {
+      "path": "gameplay/foregrounds/mushroom-garden-512.webp",
+      "bytes": 120782,
+      "sha256": "9042aec3bbe1e324b02e28bcf9cf449e0df58bbce396385030c79760af7611ba"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-a-256.png",
+      "bytes": 27582,
+      "sha256": "4d26ba59d7b99916e5639e4bc168ab7b77cd3f87a471a83b331e06e08144502c"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-a-256.webp",
+      "bytes": 21792,
+      "sha256": "4c3366b3a6359ea435ee6ae58dd5eea5ac28206a12bff72d8eac2db9daebf10e"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-a-512.png",
+      "bytes": 84836,
+      "sha256": "5ee74570b9f75d2074dcdcc1d63b36f34d367d80566b34f695e3aa74c718e03b"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-a-512.webp",
+      "bytes": 65612,
+      "sha256": "af0cd29ec496af123cc0dad890c61a71f9d0510b421795754e44bf9d9a2f4a72"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-b-256.png",
+      "bytes": 32489,
+      "sha256": "1f1e65db2284aa76a02966224f0b90b4191a8adcbd4565d457846e6c6095420c"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-b-256.webp",
+      "bytes": 25146,
+      "sha256": "801b14a73354de0f41976a949631dc6a6d27609a3d1e35ff83a81c56aa9dd51e"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-b-512.png",
+      "bytes": 107212,
+      "sha256": "9ce5eee65140eb63e00893d1b2e1639cb90afda0e1a13d5640a9efccee478a09"
+    },
+    {
+      "path": "gameplay/foregrounds/rock-garden-b-512.webp",
+      "bytes": 81572,
+      "sha256": "7ddef7edb7159c80d57a4237965fbecb05de6263fd437d429040a1a59e866953"
+    },
+    {
+      "path": "gameplay/islands/large-flower-meadow-256.png",
+      "bytes": 50368,
+      "sha256": "0fad6c5c7eea97f7ffc8a8975f838d10f4c5dc7de0c917f0b45130bf3b84b33b"
+    },
+    {
+      "path": "gameplay/islands/large-flower-meadow-256.webp",
+      "bytes": 39872,
+      "sha256": "03cdb0133509161ec8ec282bccab777b4fe8dcef2679ebe189300bd69e8657da"
+    },
+    {
+      "path": "gameplay/islands/large-flower-meadow-512.png",
+      "bytes": 164250,
+      "sha256": "412ccc1a24d633eead5fa8fb79566c573cdcc9654c7843e149c2d02015567bc3"
+    },
+    {
+      "path": "gameplay/islands/large-flower-meadow-512.webp",
+      "bytes": 125654,
+      "sha256": "bc7f9e555c4bb56cf6d57272eb5f5bd5c781987fa2fa6019b0364af408c19f99"
+    },
+    {
+      "path": "gameplay/islands/small-vine-meadow-256.png",
+      "bytes": 62957,
+      "sha256": "0d8501b628d01edc614f8e4e7bd0c9b72a2db5aeaac9ca8e297a08f577006810"
+    },
+    {
+      "path": "gameplay/islands/small-vine-meadow-256.webp",
+      "bytes": 48430,
+      "sha256": "24914e00c337d44792c7f462416bad3f2b0d9af7b896dd95c64847a2ffa6d517"
+    },
+    {
+      "path": "gameplay/islands/small-vine-meadow-512.png",
+      "bytes": 210684,
+      "sha256": "4934ee5753e739a786c1e24a60c7fb99741faa697faa5999ab9a2f7d079ffe25"
+    },
+    {
+      "path": "gameplay/islands/small-vine-meadow-512.webp",
+      "bytes": 156864,
+      "sha256": "447bc57e50fb07ecc56a09272b508420732f7079a8a0288b4c46fdb40df5b941"
+    },
+    {
+      "path": "gameplay/islands/star-pillar-256.png",
+      "bytes": 46158,
+      "sha256": "2ba1a638730df12fc64331574c572e6793412ffd6bbaade3d02aa236f22a5c2f"
+    },
+    {
+      "path": "gameplay/islands/star-pillar-256.webp",
+      "bytes": 34010,
+      "sha256": "34310a97efe3f91d968eb063095159789103ffcea65ea89f4f64f2e07d8d61bd"
+    },
+    {
+      "path": "gameplay/islands/star-pillar-512.png",
+      "bytes": 150320,
+      "sha256": "61444dcefd40b6ffa97a569e54b5cbda9c845bd82437f747c2bb8bd4d58b3e71"
+    },
+    {
+      "path": "gameplay/islands/star-pillar-512.webp",
+      "bytes": 105360,
+      "sha256": "2b6438c39d07cb1db3344cdba19597832f5e5e4c40b515a55c84725a76f60218"
+    },
+    {
+      "path": "gameplay/islands/tiny-grass-256.png",
+      "bytes": 49492,
+      "sha256": "136a24daf07f97cc55701996af43d96e80e085e8b88f5c01834198c2f56dfde5"
+    },
+    {
+      "path": "gameplay/islands/tiny-grass-256.webp",
+      "bytes": 36844,
+      "sha256": "4f465a3e5c114eb573233619eef61a92d498dce6db4280341c1bc7a73447702e"
+    },
+    {
+      "path": "gameplay/islands/tiny-grass-512.png",
+      "bytes": 163349,
+      "sha256": "ea4c9fbb52c91072ddaba33c624c280a569cd37dcb19aa2b6d450acfdc044912"
+    },
+    {
+      "path": "gameplay/islands/tiny-grass-512.webp",
+      "bytes": 114622,
+      "sha256": "6defc722add15f6fa195bf9aed61b13a0e39fe92c9780de9dc4ebcb87dc55179"
+    },
+    {
+      "path": "gameplay/islands/tiny-stone-256.png",
+      "bytes": 44568,
+      "sha256": "f008785bb3643455b55b383ec3ebe7db528c04af6a31554411210a34130cf0e8"
+    },
+    {
+      "path": "gameplay/islands/tiny-stone-256.webp",
+      "bytes": 33592,
+      "sha256": "1d9516c9c28ed98fcadf9677f1c79f404dd57b8271c1eff8d622f70c4c9ea14b"
+    },
+    {
+      "path": "gameplay/islands/tiny-stone-512.png",
+      "bytes": 152751,
+      "sha256": "5370aa1fc72df89a902582a16675ebc1698e565b44bdc9b2d8148818b109a166"
+    },
+    {
+      "path": "gameplay/islands/tiny-stone-512.webp",
+      "bytes": 110704,
+      "sha256": "dd85612098f96dcd5fc90335e1dd04d5f8d022c52bca14d7d24fc2e6fe854917"
+    },
+    {
+      "path": "gameplay/islands/wide-path-meadow-256.png",
+      "bytes": 51368,
+      "sha256": "938c5fde68aa082723838ffed7d91b3b6646b978c80932300964d0dede8589f2"
+    },
+    {
+      "path": "gameplay/islands/wide-path-meadow-256.webp",
+      "bytes": 39320,
+      "sha256": "47c6074407b4ba20c9b115452b61da5b1140df391154cd952717b1c5cd203c65"
+    },
+    {
+      "path": "gameplay/islands/wide-path-meadow-512.png",
+      "bytes": 162949,
+      "sha256": "32afbe457e09b2b88b18c6241596d8aa76c019a55144ec72fa9bacc8f2e3f0df"
+    },
+    {
+      "path": "gameplay/islands/wide-path-meadow-512.webp",
+      "bytes": 120004,
+      "sha256": "63e42d162a8fa86e2c1973a3c4128494735f2d8295452a8e76eb08f7d4328dfe"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-a-256.png",
+      "bytes": 48583,
+      "sha256": "2d45a7fdc48756b18bece250426ea9b17d6c68ceda1e2328cb6ea4490bbabb04"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-a-256.webp",
+      "bytes": 33782,
+      "sha256": "77360ef9a04970772497db947e60f17a6d6f5ac8f72991be26eab3d275e972da"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-a-512.png",
+      "bytes": 159794,
+      "sha256": "ecc9c6beb3cc260c54dbf4965fdf6759ab7c79fe347e882a5cb2ab7d9f268cf4"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-a-512.webp",
+      "bytes": 104570,
+      "sha256": "2c5502d59e6ef819bfa67d09a3fd7b7b28712ba04f7adf7587b0a22fb4bc3dfb"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-b-256.png",
+      "bytes": 50952,
+      "sha256": "6db7928cfbdc0f69e3cacc749052d4e0d211d8b99f76b0b1b0d2ea1deb39121b"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-b-256.webp",
+      "bytes": 34990,
+      "sha256": "efc01dc496fa3b15a449352f38b9c3f5f02d6e440054fedd25850c3943d4626b"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-b-512.png",
+      "bytes": 168201,
+      "sha256": "4251d03b21bf88cb4baf915767747aa3f5e02fb16e4af11487270358f7ce7786"
+    },
+    {
+      "path": "gameplay/mushrooms/cyan-b-512.webp",
+      "bytes": 111496,
+      "sha256": "3d263cee52bc85ee89bc533cf8293e1014ea182e4e3693049f198d797447b4f6"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-back-256.png",
+      "bytes": 42963,
+      "sha256": "01e82fec4a56f120de4b21096f56e0fbf7cbff19a697a4a849d79945e9cb2600"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-back-256.webp",
+      "bytes": 28470,
+      "sha256": "c70d476ba534b3a3e9be1f2c1abfa772375020c5cc872f9d5869550c89f37d28"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-back-512.png",
+      "bytes": 144902,
+      "sha256": "37121d7d222e498ecea55397ba70966aacd856f6f8d09de40d4545e5d23892db"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-back-512.webp",
+      "bytes": 92858,
+      "sha256": "baf89f81aa73a7665c7eaa835f0d64e15b8ca95b067235377c0f8073175adaa2"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-overhead-256.png",
+      "bytes": 56821,
+      "sha256": "e106557be94cefd8f9a7a847fedcfa093d63916fd9a096d325a287b0256cb318"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-overhead-256.webp",
+      "bytes": 37926,
+      "sha256": "cc7300935ad08e6cd0f5fe24d821e1b6e9b27ca5ca5c3fbc8b97aa439065d6d7"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-overhead-512.png",
+      "bytes": 193160,
+      "sha256": "521e9fed3fdf1aee3cf3d7399cad3e45f89f770364977a8e48945a0c7fb6b421"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-overhead-512.webp",
+      "bytes": 126868,
+      "sha256": "bdf0fc7b5ae3f91760ef6d181531aa5b6f7a0eb7fc6b85686c225e6ff8569a23"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-angle-256.png",
+      "bytes": 61272,
+      "sha256": "bff1978d89ca670dd90596f97481e824bf5818f28943a492578371cfbb22ba89"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-angle-256.webp",
+      "bytes": 45106,
+      "sha256": "41a982718af36f99dd7acde06b61a31822dac1085536da8a2aa41d9d764f5014"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-angle-512.png",
+      "bytes": 201427,
+      "sha256": "10e254568caa1dc9922d31cf07a246eb12f3610c6b2e06531749675937aed1d9"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-angle-512.webp",
+      "bytes": 139400,
+      "sha256": "7d1efa8e1407dc5ef05e320d12aad6a078ba0abdb365b963923c68184f721078"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-front-256.png",
+      "bytes": 65701,
+      "sha256": "1c8d91e1f56c91576a16a90fd13c2574d6d6a2be48f88e874c538a4b6ac5be49"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-front-256.webp",
+      "bytes": 47532,
+      "sha256": "352466f20c451fabd7e0caf462a7e65c778ab5edf3c773644675dc925d82b056"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-front-512.png",
+      "bytes": 214152,
+      "sha256": "5d74b1581956ac078bd2455c8ec7f05ecaa4e63731b57a693521b96c6f103fa9"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-pair-front-512.webp",
+      "bytes": 147392,
+      "sha256": "72a9e552414d5ce78bdc921330bc053452cae1af4186c3c1c4ee3d8845a15e27"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-side-256.png",
+      "bytes": 50516,
+      "sha256": "811c9e5d63d4fccbc92018807985782600e3a990dd72bd64798a5bb53f761bf5"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-side-256.webp",
+      "bytes": 35948,
+      "sha256": "677e648ae11c5f27d64152d44867b554ae1b1e0c9c6a9626ed4fc997076b0c8b"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-side-512.png",
+      "bytes": 165345,
+      "sha256": "a4f25be0de130255c42832933d557039e87afb296c7f579b030f048a66778148"
+    },
+    {
+      "path": "gameplay/mushrooms/purple-side-512.webp",
+      "bytes": 109560,
+      "sha256": "8965a511f59461417607cf0861ede6e016dc4ee68f2c86efab3f2d64a39ccfd5"
+    },
+    {
+      "path": "gameplay/mushrooms/star-cluster-256.png",
+      "bytes": 64383,
+      "sha256": "85843cf4b1b369373588a94a95d7cf97a1323a1fb159ef2f7c55f027232e4168"
+    },
+    {
+      "path": "gameplay/mushrooms/star-cluster-256.webp",
+      "bytes": 47136,
+      "sha256": "2cc399e75dfb8508da38c700b5e4d705ebf0e75886198e2a63a3fee8a4413e4e"
+    },
+    {
+      "path": "gameplay/mushrooms/star-cluster-512.png",
+      "bytes": 207880,
+      "sha256": "12ead4a9d1665d90fd77d7e44c7cceff382ad03a0682e4925f69ff302b60d143"
+    },
+    {
+      "path": "gameplay/mushrooms/star-cluster-512.webp",
+      "bytes": 145480,
+      "sha256": "2fba9cff38e850afaf3e56afded79a500d6be81b4005e969904e5cb7d5564c6b"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-a-256.png",
+      "bytes": 49600,
+      "sha256": "103ac3deda5fa9fb883cc4d86ab843f8c9eaecd359b99d9f4c19d7bf45848f1e"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-a-256.webp",
+      "bytes": 34430,
+      "sha256": "73f4a0cffdafcd29f205cbe90e2fa777ecf2abc457a56758e99265d4e4efb32f"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-a-512.png",
+      "bytes": 155369,
+      "sha256": "f4b31ae58a19aaf3bc1d499808ab0c426b331b236bfe35c491b9f835c508cfc0"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-a-512.webp",
+      "bytes": 101778,
+      "sha256": "92d465e591f0f284d261a34fbc649633069c17e0c7a983876565af69815c546d"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-b-256.png",
+      "bytes": 45981,
+      "sha256": "013df6e48d2220d535d16621274d2db8d7801eeaffaae99f1929c0eab5f948a5"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-b-256.webp",
+      "bytes": 31068,
+      "sha256": "e5a74a853d7b75f6e3810daca2258554941a1cbd5de0a26c5e8a3f0f375363a5"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-b-512.png",
+      "bytes": 145719,
+      "sha256": "02e247eae24370e87e189828955421980c7fb6e25f9cee311b7448110f87a6af"
+    },
+    {
+      "path": "gameplay/plants/leaf-sprig-b-512.webp",
+      "bytes": 97854,
+      "sha256": "176f97862256aabfa22ca031363e5c9ef43bb2e0840553c3827d85f7a3aecd31"
+    },
+    {
+      "path": "gameplay/plants/star-garden-256.png",
+      "bytes": 49060,
+      "sha256": "240f1b6396e2d423ff928a60d498bb92f4fafb2e1cc5303bc0d330f727c2a194"
+    },
+    {
+      "path": "gameplay/plants/star-garden-256.webp",
+      "bytes": 37544,
+      "sha256": "3e01fa081a206e79891e2ddfbb2e9a60b9373bf43659e236c44028fbaf50e43e"
+    },
+    {
+      "path": "gameplay/plants/star-garden-512.png",
+      "bytes": 152555,
+      "sha256": "fd70c96dd2b53978fef0fb6f6071fee46608fc6baa509bc43c3e878609cb63bc"
+    },
+    {
+      "path": "gameplay/plants/star-garden-512.webp",
+      "bytes": 110280,
+      "sha256": "99a74caa84ecb699548cedc20e1892d188240428b635c871bdb04753fd3d8e0e"
+    },
+    {
+      "path": "gameplay/portals/active-angle-256.png",
+      "bytes": 72391,
+      "sha256": "f09718d6379878e9e2c708ae64c39468c421b8b3b8f311cd620d128b537c265c"
+    },
+    {
+      "path": "gameplay/portals/active-angle-256.webp",
+      "bytes": 55890,
+      "sha256": "b78555c43b71e3768463a821d99134b5a76732bf82d8e9944d5b8a43fd7353bc"
+    },
+    {
+      "path": "gameplay/portals/active-angle-512.png",
+      "bytes": 237090,
+      "sha256": "369e6e168c85169c590768c597a46ccd5e7bdd044da99eb21cda1cf7681e1234"
+    },
+    {
+      "path": "gameplay/portals/active-angle-512.webp",
+      "bytes": 177228,
+      "sha256": "bb6806d10689535364d123f7e2884e28f922ab14890ca258f0ca12cccbc5b18d"
+    },
+    {
+      "path": "gameplay/portals/active-front-256.png",
+      "bytes": 72573,
+      "sha256": "e847d30c536c6380a3484784158d206b01129dee26fccdd4b0afab04efcf5914"
+    },
+    {
+      "path": "gameplay/portals/active-front-256.webp",
+      "bytes": 56938,
+      "sha256": "c92f43cb682a33e79486dd4ba3ec3a07cadc321c40bffa63b9dbe7104ef568fe"
+    },
+    {
+      "path": "gameplay/portals/active-front-512.png",
+      "bytes": 238974,
+      "sha256": "470c76452182b5f5e596e4b5c10cf7dfef3d84585b2054368b6d44a200391691"
+    },
+    {
+      "path": "gameplay/portals/active-front-512.webp",
+      "bytes": 180482,
+      "sha256": "b59b237a03d0a0e751d6c6a5b465791617a9c308c4eade39a5bf2f5e562028b1"
+    },
+    {
+      "path": "gameplay/portals/empty-arch-256.png",
+      "bytes": 67520,
+      "sha256": "7c7b5576345faec8e0620c405c753ebe87e561a23ab5571ab542978de16f3624"
+    },
+    {
+      "path": "gameplay/portals/empty-arch-256.webp",
+      "bytes": 53932,
+      "sha256": "2b4e522287b09482eefcf3baa5472641bb8e0a70a5153b3f3bbb3782d80403d1"
+    },
+    {
+      "path": "gameplay/portals/empty-arch-512.png",
+      "bytes": 220015,
+      "sha256": "27ec6aa7a5d906dd7948f2b4b42628a14699085fdc585048a4b6028862692a0d"
+    },
+    {
+      "path": "gameplay/portals/empty-arch-512.webp",
+      "bytes": 168924,
+      "sha256": "4e509ce20dea2676a5a2996736e6949b5c6c4088c8ec7faab9b7e6520244b725"
+    },
+    {
+      "path": "gameplay/portals/side-256.png",
+      "bytes": 27599,
+      "sha256": "cc02cece79750284cd5f06e7d1f88db26d7d6f1a9a5c0c5965b39c282f95609b"
+    },
+    {
+      "path": "gameplay/portals/side-256.webp",
+      "bytes": 20534,
+      "sha256": "da6c426cf0e947f522ba4298c06a60ee5379a5ee84ef41018bdf14b57179d649"
+    },
+    {
+      "path": "gameplay/portals/side-512.png",
+      "bytes": 91998,
+      "sha256": "c44aa88073efa6cb1606d72a20ee940e2ec9f47ed24867e6b65bd04adbcee79a"
+    },
+    {
+      "path": "gameplay/portals/side-512.webp",
+      "bytes": 65192,
+      "sha256": "ccc075e6909e0018afe115adb44a3c36eb5f0582dcd0597ee13db74235503e33"
+    },
+    {
+      "path": "gameplay/props/arrow-sign-256.png",
+      "bytes": 45748,
+      "sha256": "69f557cae1deeb3901ce76abb020ed7df24098c238755402de861e4a9f7cee31"
+    },
+    {
+      "path": "gameplay/props/arrow-sign-256.webp",
+      "bytes": 33094,
+      "sha256": "69d9b890351cf3f8dca3576a713ffbd8a9252508a6d0d48c822073dcd8fa4636"
+    },
+    {
+      "path": "gameplay/props/arrow-sign-512.png",
+      "bytes": 151649,
+      "sha256": "dd50fcd1482bf3c73bc86e3fd0de294a3a86d3d4e693ded827d090a1fb7e131d"
+    },
+    {
+      "path": "gameplay/props/arrow-sign-512.webp",
+      "bytes": 103774,
+      "sha256": "dd2e859733a89beab8f3aebcc011b24140b25fc9c2d85125f473be1d33f1d58d"
+    },
+    {
+      "path": "gameplay/props/lantern-256.png",
+      "bytes": 55543,
+      "sha256": "67b2095edfef8cca2829486476c0048f0361ab8a435ea9ea9ea29e73a6928cd3"
+    },
+    {
+      "path": "gameplay/props/lantern-256.webp",
+      "bytes": 40800,
+      "sha256": "99988c2ba6ee43d0a3151af3680ba995b18257ede3f9029e58d970b1723bd058"
+    },
+    {
+      "path": "gameplay/props/lantern-512.png",
+      "bytes": 188102,
+      "sha256": "57488a4647cb3e7971ea3887eb3f7b51dd94e7f075d878ae0dd1bf3708843a16"
+    },
+    {
+      "path": "gameplay/props/lantern-512.webp",
+      "bytes": 132714,
+      "sha256": "bf32f80f7da8c4e871c9f0277e6a694480eec223364da7692140aeb42f91750c"
+    },
+    {
+      "path": "gameplay/props/lantern-post-256.png",
+      "bytes": 49207,
+      "sha256": "962c6f4ad08875b6c7315fdf54f6e12b2c1fde8ad69f4889236505328200dfbb"
+    },
+    {
+      "path": "gameplay/props/lantern-post-256.webp",
+      "bytes": 36858,
+      "sha256": "7486ac6b9869f797996663c4667484bec7c129b1354b19497767283e1424f1e8"
+    },
+    {
+      "path": "gameplay/props/lantern-post-512.png",
+      "bytes": 161440,
+      "sha256": "02727b19574ad56d49f96eba7b321f00dd9deac032aba7863e450db9d973f685"
+    },
+    {
+      "path": "gameplay/props/lantern-post-512.webp",
+      "bytes": 115746,
+      "sha256": "9e85d295622965280280e0744248510f70775c23d6a962b1746c0250d3cc9247"
+    },
+    {
+      "path": "gameplay/props/moss-cave-256.png",
+      "bytes": 72036,
+      "sha256": "eaba1d197ca421e6bae541659546b2dddfd735540e969372261f4f2f7b0f0761"
+    },
+    {
+      "path": "gameplay/props/moss-cave-256.webp",
+      "bytes": 54746,
+      "sha256": "5f0ec89019be81e35321b2b0cac2c3fba6a509fe3176ef12ab4a1327918c7e22"
+    },
+    {
+      "path": "gameplay/props/moss-cave-512.png",
+      "bytes": 235485,
+      "sha256": "d8af7aacd21c4546212bd517db8e891e0bc19a76d417a6f9c48f8b6d0808bc0a"
+    },
+    {
+      "path": "gameplay/props/moss-cave-512.webp",
+      "bytes": 172566,
+      "sha256": "382da0995ceda94faa8f4d40b5c645d8b840927a7e85a3c1c10dee088ceeef82"
+    },
+    {
+      "path": "gameplay/props/stump-256.png",
+      "bytes": 53143,
+      "sha256": "99bd1beccea6c861af2ed90a6a5929d3228d16ea2ce5ef9f27f932ff32a39546"
+    },
+    {
+      "path": "gameplay/props/stump-256.webp",
+      "bytes": 38516,
+      "sha256": "23ba436d777b640df08c0d7ec44c22c3ec4cb32c9a7a53026410e9070ec10324"
+    },
+    {
+      "path": "gameplay/props/stump-512.png",
+      "bytes": 185045,
+      "sha256": "33da141d4e30d456184ba49eec0db827c665a3fa81153f8db3cfa536a2bc1210"
+    },
+    {
+      "path": "gameplay/props/stump-512.webp",
+      "bytes": 132470,
+      "sha256": "e8e233cf33423f23f3c304a8485f23b035195f92554b755abb6154792565ddb1"
+    },
+    {
+      "path": "gameplay/props/wood-fence-256.png",
+      "bytes": 43181,
+      "sha256": "dfd9fdcf1dee4939b9338f9dc69883b5e5d7eee4c2172394a242231d206d234a"
+    },
+    {
+      "path": "gameplay/props/wood-fence-256.webp",
+      "bytes": 33506,
+      "sha256": "cef7d79767dda14f5ba964a4619a9176b5e6c3b1577718c8685a4b9447c49da8"
+    },
+    {
+      "path": "gameplay/props/wood-fence-512.png",
+      "bytes": 141736,
+      "sha256": "959e2c8c0a21c81b31a94a94651a520eae59e3d977025ca84ced02d49e383318"
+    },
+    {
+      "path": "gameplay/props/wood-fence-512.webp",
+      "bytes": 107818,
+      "sha256": "b8374a0d2c8d5e5804bfea7586ef4baa74d9caeea4d36c8de401859a0bb77b69"
+    },
+    {
+      "path": "gameplay/rocks/crescent-shrine-256.png",
+      "bytes": 60894,
+      "sha256": "95b762738e698b10f3fd0afbae504aae2bab0a65824c6ed7d4091c75d9d27d19"
+    },
+    {
+      "path": "gameplay/rocks/crescent-shrine-256.webp",
+      "bytes": 44456,
+      "sha256": "94b7aaef5deec982f9a722a04124a918b4ed451e4ea06e63d98c2122a5c925bc"
+    },
+    {
+      "path": "gameplay/rocks/crescent-shrine-512.png",
+      "bytes": 202541,
+      "sha256": "5d8e60b7cf0f467e488156bedc6a11c503ea47cb66f4e13e989a5e581997f863"
+    },
+    {
+      "path": "gameplay/rocks/crescent-shrine-512.webp",
+      "bytes": 138616,
+      "sha256": "78d5b4a7b6ae94fdb6995bed9746d7244a91eb4ccce24ed0f3e687831fee0f8c"
+    },
+    {
+      "path": "gameplay/rocks/flower-cluster-256.png",
+      "bytes": 48202,
+      "sha256": "368fb222c8449c3b2c11f82e536776c9f655602548e8e060333d2d08bc2e73b1"
+    },
+    {
+      "path": "gameplay/rocks/flower-cluster-256.webp",
+      "bytes": 35386,
+      "sha256": "8276ebf1c907f90a3527196d415634fac65afd7b4bf59195093e152ce8cceb00"
+    },
+    {
+      "path": "gameplay/rocks/flower-cluster-512.png",
+      "bytes": 154850,
+      "sha256": "6048650c297c13c4519d875b7167d3949ad8c1f4b499875d80d6576dd4349461"
+    },
+    {
+      "path": "gameplay/rocks/flower-cluster-512.webp",
+      "bytes": 107652,
+      "sha256": "fd93a89090caa1ed28a12e56b57db1bbaa309b00bfd10fbee9ef2e6c4cac991a"
+    },
+    {
+      "path": "gameplay/rocks/grass-cluster-256.png",
+      "bytes": 37352,
+      "sha256": "34ab96e9cb74a721a5a9ab6a7efa6c24d1ac59a2933d6785e0289363dbe014f8"
+    },
+    {
+      "path": "gameplay/rocks/grass-cluster-256.webp",
+      "bytes": 26166,
+      "sha256": "a92c1daf1add47d96977b66fc51265ad5885c7bfca632c5b2b5925ab3efdc43a"
+    },
+    {
+      "path": "gameplay/rocks/grass-cluster-512.png",
+      "bytes": 117715,
+      "sha256": "18430c5ab03884edf8345b46a96dae32d23bba64bb59ab6619b9a9029a2f6e82"
+    },
+    {
+      "path": "gameplay/rocks/grass-cluster-512.webp",
+      "bytes": 78754,
+      "sha256": "cccb795852bec75e910506810e5ed89fd02ec2c80fc876374e2bd4735a2fd601"
+    },
+    {
+      "path": "gameplay/rocks/low-boulder-256.png",
+      "bytes": 32173,
+      "sha256": "41bc5a69593cc41e00f6e4b56515f44e4c642b2fa46b76028c16c16c3faa2a1f"
+    },
+    {
+      "path": "gameplay/rocks/low-boulder-256.webp",
+      "bytes": 21798,
+      "sha256": "a5d48765ae857579949c7b2a85cd48e9890ae6f942bc183ab18a3022eb04da1b"
+    },
+    {
+      "path": "gameplay/rocks/low-boulder-512.png",
+      "bytes": 106216,
+      "sha256": "4ba54e2a9b984f77a66368788c803add4f8a3ad21b337a23e0b46cea8bd49912"
+    },
+    {
+      "path": "gameplay/rocks/low-boulder-512.webp",
+      "bytes": 69380,
+      "sha256": "f55c510cc8d5a9f1ec72b8e76758a1464416f154e0b052db31acdf323cd59ac7"
+    },
+    {
+      "path": "gameplay/rocks/star-boulder-256.png",
+      "bytes": 42672,
+      "sha256": "a28eea563f521e409a0106f489cdae9fce0d84006a5680bfc5b8a955adc1f4b3"
+    },
+    {
+      "path": "gameplay/rocks/star-boulder-256.webp",
+      "bytes": 31510,
+      "sha256": "86814b8e3ef5a737262b6d166d8ea74f11e80f0cde779455646ae004cc05e408"
+    },
+    {
+      "path": "gameplay/rocks/star-boulder-512.png",
+      "bytes": 137141,
+      "sha256": "85b7938f4d293324471e588f3a70d1bf01f3a27401ba71aab3d57c8f15f14f76"
+    },
+    {
+      "path": "gameplay/rocks/star-boulder-512.webp",
+      "bytes": 94820,
+      "sha256": "d0b4726da49fe777b0877d72b339bb814c45eb93308d2527f8ca03cec438ec58"
+    },
+    {
+      "path": "gameplay/rocks/tall-cluster-256.png",
+      "bytes": 43530,
+      "sha256": "9b57bc803c8331548f14eef383d384c169e5cd03d712938710748abfeeffa87c"
+    },
+    {
+      "path": "gameplay/rocks/tall-cluster-256.webp",
+      "bytes": 28954,
+      "sha256": "51eae3f5c5be719ea80658b24b1fb2402af5381dc76cf00180ec0cde493d2c41"
+    },
+    {
+      "path": "gameplay/rocks/tall-cluster-512.png",
+      "bytes": 145318,
+      "sha256": "3f698e482938452b019d8ec3553d43fe4997b4cf2b27533f09df6ce6fc84dd6b"
+    },
+    {
+      "path": "gameplay/rocks/tall-cluster-512.webp",
+      "bytes": 93458,
+      "sha256": "886af54c9d11d267bf862b651e706e34b4acf300bdf311dd218ff111f4875d9c"
+    },
+    {
+      "path": "gameplay/scenes/hero-forest-256.png",
+      "bytes": 84052,
+      "sha256": "583067a8644365b73245c3a34292230368474a82b4692f2fe6fdc283ebed3244"
+    },
+    {
+      "path": "gameplay/scenes/hero-forest-256.webp",
+      "bytes": 74674,
+      "sha256": "6677ee3d8cf90f9fb7299d12ac4be1f9bf62721af5e1df88845c495db93eb6cb"
+    },
+    {
+      "path": "gameplay/scenes/hero-forest-512.png",
+      "bytes": 298094,
+      "sha256": "cd45c0f861dddecf2257daa1ac7dd97e3487f1c35be401eb54dbd9bc24034f8a"
+    },
+    {
+      "path": "gameplay/scenes/hero-forest-512.webp",
+      "bytes": 249934,
+      "sha256": "1fa29e554418257cf91f34b00bb3353e56f3f3ac3f7531725bd79ee9c87ce429"
+    },
+    {
+      "path": "gameplay/star-trees/back-256.png",
+      "bytes": 60770,
+      "sha256": "73ed8623347c068cac9ebf8510576ab7ce00b13c6da628d5bf12ddd558ece340"
+    },
+    {
+      "path": "gameplay/star-trees/back-256.webp",
+      "bytes": 44148,
+      "sha256": "90ff077494d1bacd82bda7a8c93335df04f86d22b8e579faa8f2a068a9cd71e2"
+    },
+    {
+      "path": "gameplay/star-trees/back-512.png",
+      "bytes": 203098,
+      "sha256": "d04db99443e54c850ac909fbe281cbdfcc3ccdc1f6a867fa55df5cfb1d7a7cc0"
+    },
+    {
+      "path": "gameplay/star-trees/back-512.webp",
+      "bytes": 144580,
+      "sha256": "77b72ff3a606a96ec7d49358e693dd94903ac364662c79ed0f151b2c57389598"
+    },
+    {
+      "path": "gameplay/star-trees/front-small-256.png",
+      "bytes": 57657,
+      "sha256": "2ea5f754f77f021f7dadad19c679a55b73078b837b88dea8f9ee9ff77a90f6fe"
+    },
+    {
+      "path": "gameplay/star-trees/front-small-256.webp",
+      "bytes": 43676,
+      "sha256": "4f204aaf0053c1a90b5a2292948bbdbe655aaaefb4eaf0783d90620941a7e648"
+    },
+    {
+      "path": "gameplay/star-trees/front-small-512.png",
+      "bytes": 187039,
+      "sha256": "fd3ce447f95e8f7ff45f73e9effdb51501882e209c31f5bd682f7fb156f52c75"
+    },
+    {
+      "path": "gameplay/star-trees/front-small-512.webp",
+      "bytes": 135010,
+      "sha256": "04f1c6e9283ee302aeef066804abf548f438ffc8978167c924fa1ff1e81d2bdd"
+    },
+    {
+      "path": "gameplay/star-trees/front-wide-256.png",
+      "bytes": 61618,
+      "sha256": "4695fc80dcf72be5bfbcf77caae5e691dbebf8a73809982d16a4f5ec1c9fdd9a"
+    },
+    {
+      "path": "gameplay/star-trees/front-wide-256.webp",
+      "bytes": 47276,
+      "sha256": "1ac763aa94ad4f2b15089e3669910b21664502a8c2125d82929529d68083c0d5"
+    },
+    {
+      "path": "gameplay/star-trees/front-wide-512.png",
+      "bytes": 200924,
+      "sha256": "df7f64f39ea65ddce6b52ebd483e730b4524817e6fa6788fc6516c2379e6037d"
+    },
+    {
+      "path": "gameplay/star-trees/front-wide-512.webp",
+      "bytes": 150396,
+      "sha256": "4b73629c27f4b76ed4ea9c6ad8c5c9475aad75e9a0b83d594c601f34c0950999"
+    },
+    {
+      "path": "gameplay/star-trees/overhead-256.png",
+      "bytes": 59045,
+      "sha256": "f16b405c272819494b25e2c9b5e62f6cf321034b2e63f506ca052a18dbb69f2d"
+    },
+    {
+      "path": "gameplay/star-trees/overhead-256.webp",
+      "bytes": 43014,
+      "sha256": "922c87ab66b87309726196c5c62ec5729c8a2d3983dfb9974b463d30e0077abe"
+    },
+    {
+      "path": "gameplay/star-trees/overhead-512.png",
+      "bytes": 197913,
+      "sha256": "a27c3f5ea8a7914525b9ba57c3276ba9ccaaac51e4b8ab7a07d42c78898b5c25"
+    },
+    {
+      "path": "gameplay/star-trees/overhead-512.webp",
+      "bytes": 135374,
+      "sha256": "4d390c3d101d932639e51a6c05f152121e7debbaec8ca71c93b5458e90035a3f"
+    },
+    {
+      "path": "gameplay/star-trees/side-left-256.png",
+      "bytes": 61464,
+      "sha256": "60cc5b58b1d12d9cdff073084db6ab83880f7bab68d7a5a952ee8c1d0f79bade"
+    },
+    {
+      "path": "gameplay/star-trees/side-left-256.webp",
+      "bytes": 44574,
+      "sha256": "701b1db594a92c8cf74f15c591263b6915ea6b3be95212cc6b072cb9ffbd7ed3"
+    },
+    {
+      "path": "gameplay/star-trees/side-left-512.png",
+      "bytes": 201952,
+      "sha256": "58c81b0c28eb309529196f314c150247d934cfc83d84353443cbd5292c24808c"
+    },
+    {
+      "path": "gameplay/star-trees/side-left-512.webp",
+      "bytes": 144450,
+      "sha256": "a5ed248f9c2199c67f5918e27508f6071a4e710291b30a5b7b71086547f6cbf9"
+    },
+    {
+      "path": "gameplay/star-trees/side-right-256.png",
+      "bytes": 55498,
+      "sha256": "b8f070c45d312545c8936ef1fc725b127c0352c38e98469844f6488f0e785873"
+    },
+    {
+      "path": "gameplay/star-trees/side-right-256.webp",
+      "bytes": 40222,
+      "sha256": "4ab39bd9ac5fe48cd698a2b8f41d625cb8708c731dfa9d9f1c56961fd8d41530"
+    },
+    {
+      "path": "gameplay/star-trees/side-right-512.png",
+      "bytes": 183144,
+      "sha256": "5cce122e52a20274532f56377a4ba48d1d4b5a52e7587e841b4d740aaba7813c"
+    },
+    {
+      "path": "gameplay/star-trees/side-right-512.webp",
+      "bytes": 129714,
+      "sha256": "38cf7357ff70fb56816f08472412c4a1c4298a4503575019951b1a3e86a29be0"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-a-256.png",
+      "bytes": 69473,
+      "sha256": "230155c036a26aabf5934c4ae2a07652381aa830f8fbfc20a446c34be18b5ae3"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-a-256.webp",
+      "bytes": 47416,
+      "sha256": "c03cae8ca1a27dc922d323efa3386bb2acc0db1999dd9f59d9797affbb761f5f"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-a-512.png",
+      "bytes": 239419,
+      "sha256": "78b6747619c8ecff2ee518aaca9820372b9aed6b46c890ef588fba01e021149c"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-a-512.webp",
+      "bytes": 161060,
+      "sha256": "d83604cf88606a8b8cd26d4b49fb729471c7c16610a8384568220db1a15fe2be"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-b-256.png",
+      "bytes": 69039,
+      "sha256": "64d0b0f7584b0b277c819fe39e766e3a01e00454f66cd29fd1dea9c372b2348c"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-b-256.webp",
+      "bytes": 46788,
+      "sha256": "21f7d1e350f196bb0c6a0e62a2795dd933655ab3f26e54ac25e1e3d5a70599b9"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-b-512.png",
+      "bytes": 237974,
+      "sha256": "19477f659f57bc11e2cdfdd15850ce397d184d121d38062663d5836fef8e8c09"
+    },
+    {
+      "path": "gameplay/terrain/cracked-stone-b-512.webp",
+      "bytes": 159298,
+      "sha256": "d269ad980a7e9c6b776dc8b226b453f25a0b56520e8091ee573ae9114dc511f7"
+    },
+    {
+      "path": "gameplay/terrain/flower-grass-tile-256.png",
+      "bytes": 84534,
+      "sha256": "de987fc337979682a6221cb16dc909a980fa7ce9352eb491a6f3acd0c7c93a4b"
+    },
+    {
+      "path": "gameplay/terrain/flower-grass-tile-256.webp",
+      "bytes": 64292,
+      "sha256": "661f25b851d94254ede72885f982bef659573239321e947a2c14d144ffd3ba6d"
+    },
+    {
+      "path": "gameplay/terrain/flower-grass-tile-512.png",
+      "bytes": 269582,
+      "sha256": "b5b6ab19a8ff5c4625010ec60e474f3aad62bea0b5ef46034d329d73de5bbb3f"
+    },
+    {
+      "path": "gameplay/terrain/flower-grass-tile-512.webp",
+      "bytes": 198986,
+      "sha256": "550d4b20b88e27e3185973e3e550adcfffd47f57f666f32e927d1884c84dced9"
+    },
+    {
+      "path": "gameplay/terrain/plain-meadow-platform-256.png",
+      "bytes": 58101,
+      "sha256": "b259bea1861307f66644c9bcced8ca2f63f0dbf629a451774d78f91f6c70eb30"
+    },
+    {
+      "path": "gameplay/terrain/plain-meadow-platform-256.webp",
+      "bytes": 43644,
+      "sha256": "f7ba8bfc2ca823b171081060820369f464305ff3d96e7d97fcc98f9b7ee578a9"
+    },
+    {
+      "path": "gameplay/terrain/plain-meadow-platform-512.png",
+      "bytes": 193215,
+      "sha256": "c941c07369872a0e04e72d024d0479e31504fd46fd0f622713091c04ed982c1c"
+    },
+    {
+      "path": "gameplay/terrain/plain-meadow-platform-512.webp",
+      "bytes": 135810,
+      "sha256": "d90b32259ea6f2389d083a3bf523367f3fea6cb7e67d07835ab1fec047550a81"
+    },
+    {
+      "path": "gameplay/terrain/rocky-block-256.png",
+      "bytes": 63352,
+      "sha256": "2a8a4b9d7e942a6a2d16cde09ef5a13f03fe673cd927220b79f7f574c2eabac5"
+    },
+    {
+      "path": "gameplay/terrain/rocky-block-256.webp",
+      "bytes": 43092,
+      "sha256": "b72b7c2a5040f56bda9ebc20dee83d21c7ff07d4c6136d7decd78400bd1bd939"
+    },
+    {
+      "path": "gameplay/terrain/rocky-block-512.png",
+      "bytes": 217558,
+      "sha256": "816ebeecf850f5d213fe3d687d3079b78ff73bcc2009986b9673ae99e01413e3"
+    },
+    {
+      "path": "gameplay/terrain/rocky-block-512.webp",
+      "bytes": 147074,
+      "sha256": "302494ad680842f20e51d2eb68f3a5db117cca0c2c611ffb1a9fedbf3095dc56"
+    },
+    {
+      "path": "gameplay/terrain/stepping-grass-tile-256.png",
+      "bytes": 85704,
+      "sha256": "f948d943e35d654fb6b99f4fca6923044d0dc03a6c771c9eb467831b38a515ac"
+    },
+    {
+      "path": "gameplay/terrain/stepping-grass-tile-256.webp",
+      "bytes": 63590,
+      "sha256": "30a05c10624c0b4422cfbc74de96d1cf1333a2399c7d162c2b2953131a17102b"
+    },
+    {
+      "path": "gameplay/terrain/stepping-grass-tile-512.png",
+      "bytes": 284276,
+      "sha256": "fc68415d9e0b588b92df22f4c65d18fdfb49f8a6686a7e9ebf667c797b308fa9"
+    },
+    {
+      "path": "gameplay/terrain/stepping-grass-tile-512.webp",
+      "bytes": 208310,
+      "sha256": "6acf4eb833ffc16fe21b393f915ea86ca7e6c53816860738e2e2dc392ac551e1"
+    },
+    {
+      "path": "gameplay/terrain/vine-meadow-platform-256.png",
+      "bytes": 64083,
+      "sha256": "18f5f331ae9b0dd3aac2ffc5e526778d88341d100cfea8a3a4db9550f2187700"
+    },
+    {
+      "path": "gameplay/terrain/vine-meadow-platform-256.webp",
+      "bytes": 50132,
+      "sha256": "8b3457fc4c37b586b1c725bce3a1e20b7771fd2c4e6b32c533b5e2699575ec4f"
+    },
+    {
+      "path": "gameplay/terrain/vine-meadow-platform-512.png",
+      "bytes": 212643,
+      "sha256": "fe07d2af7d2dca3f282cbe4aced431b9b985ea8563142baa7bdebbe901869e90"
+    },
+    {
+      "path": "gameplay/terrain/vine-meadow-platform-512.webp",
+      "bytes": 162180,
+      "sha256": "e119eae79dd41dcf594482de9b94819f6071d66399adebd3aac36d3df55379a4"
+    },
+    {
+      "path": "generation.json",
+      "bytes": 101972,
+      "sha256": "2ac3a9f1aded31b3bdc81491830142824d78e12cb60ea3fc8296d8361b667cf0"
+    },
+    {
+      "path": "masters/arch-pieces/flower-crown.png",
+      "bytes": 390058,
+      "sha256": "844a028121bc05ff8e3795e0c3281a5723fb36e3dd07727fad89d1e323fbc073"
+    },
+    {
+      "path": "masters/arch-pieces/plain-curve.png",
+      "bytes": 364722,
+      "sha256": "3f2e01df0ad46ed127a19ee1f4674e9e90567c1b9365df32c9d54b2b676d1ba4"
+    },
+    {
+      "path": "masters/backgrounds/distant-forest.png",
+      "bytes": 1028525,
+      "sha256": "38bb4a2b04d4feaae2cc19ac31abe5959994106ea407b493a68b4081a09495ae"
+    },
+    {
+      "path": "masters/backgrounds/floating-island-sky.png",
+      "bytes": 1198753,
+      "sha256": "6b3bd1f7fd1513c80160523b0eb07b9b0e0dfa8384427a91de966e781419d731"
+    },
+    {
+      "path": "masters/backgrounds/full-moon-clouds.png",
+      "bytes": 1305165,
+      "sha256": "21185eb2bad76c56d0272ab80ebcc62fa677f82bad8b7513b0ede60a8c07b895"
+    },
+    {
+      "path": "masters/backgrounds/mountain-clouds.png",
+      "bytes": 1186675,
+      "sha256": "fd6955472e77403387dba6326dac5331808e504117d397aa83b6f5443dbca041"
+    },
+    {
+      "path": "masters/bridges/arched.png",
+      "bytes": 452283,
+      "sha256": "0c5351e5e467badfe46bc5bd9e234b66723b4cfa8b30884133015cc3c937e4cb"
+    },
+    {
+      "path": "masters/bridges/curved-suspension.png",
+      "bytes": 351511,
+      "sha256": "88d25ea06f3ae3cb0e903d04780e61a6169f9de8f91baa431ec563ebe33d9cb5"
+    },
+    {
+      "path": "masters/bridges/front-deck.png",
+      "bytes": 556637,
+      "sha256": "2d1c7580fb9cead53bd786b5aed937ca4475085e60e94aa20c8b3101c2d59582"
+    },
+    {
+      "path": "masters/bridges/straight-rope.png",
+      "bytes": 391373,
+      "sha256": "7160b366951f87b5014efcab6d6d6c27094bacb7e77db80b81ddd393579c2e47"
+    },
+    {
+      "path": "masters/cliffs/flower-corner.png",
+      "bytes": 811976,
+      "sha256": "a2c6c2f3bc511077800b2ab6c907c3dac9b96689272db3bc2befa4f891e7c4c8"
+    },
+    {
+      "path": "masters/cliffs/flower-vine.png",
+      "bytes": 878417,
+      "sha256": "e63aeae31f8abee5e791fe1980689c10b0b57ef9f8bc99da9a0feb177f13fa5d"
+    },
+    {
+      "path": "masters/cliffs/long-vine.png",
+      "bytes": 879533,
+      "sha256": "321096a865422a6beacf097678084dd8d8597f33919df9857c56307c00266aea"
+    },
+    {
+      "path": "masters/cliffs/pink-vine.png",
+      "bytes": 817789,
+      "sha256": "958ec80970fae242ce5e8867bcae9c314df29787f825d4f683eb9e6a1a864110"
+    },
+    {
+      "path": "masters/cliffs/plain.png",
+      "bytes": 756600,
+      "sha256": "dbb28c35b4ce51f0474a64d34ccf03f0597d49776446093a0647b1f407a706b9"
+    },
+    {
+      "path": "masters/cliffs/waterfall-open.png",
+      "bytes": 852056,
+      "sha256": "ee883a69fe604199c81aa486a67f7a5abb33ea067e9ce7f040db4304f0bf62b2"
+    },
+    {
+      "path": "masters/cliffs/waterfall-pool.png",
+      "bytes": 850257,
+      "sha256": "fbb43e7a38fe4c3e490f53aee99723b2537df7498a4d4c4f5212006f1e39b1ec"
+    },
+    {
+      "path": "masters/clouds/pink-small.png",
+      "bytes": 437819,
+      "sha256": "2d5856b63635847ce6620f2f4f4d2d5e3e5ceb4425da98af30830720ecd39b2e"
+    },
+    {
+      "path": "masters/clouds/white-small.png",
+      "bytes": 393670,
+      "sha256": "18db6ec604efb38eaa21512e40cba8cf0384c28a997ff5f6ecc2ddbca6ce781f"
+    },
+    {
+      "path": "masters/clouds/white-wide.png",
+      "bytes": 400932,
+      "sha256": "fc98d9ce77c0718ce3f09419dd2ff40245ea3b67af7d7bc1361e0dcb16d82619"
+    },
+    {
+      "path": "masters/collectibles/bubble.png",
+      "bytes": 729830,
+      "sha256": "15118fa0191913d1cd0dd4b9ee703123e8f710e5c37345a39dd69b3427357182"
+    },
+    {
+      "path": "masters/collectibles/clover-pointed.png",
+      "bytes": 667456,
+      "sha256": "58c1320d8ddf7a57c4266ebe101b65a2f98971fa1decbc6ead17c4411222a8c0"
+    },
+    {
+      "path": "masters/collectibles/clover-round.png",
+      "bytes": 675796,
+      "sha256": "5b2087835dca195ee98530e4452a71da6fbe57ae381b616a5325b532f2144a44"
+    },
+    {
+      "path": "masters/collectibles/crescent-moon.png",
+      "bytes": 687083,
+      "sha256": "27ce57ecf350e5cf42e9f11358f6238902244f409e1079cbe7e22f2527b56460"
+    },
+    {
+      "path": "masters/collectibles/gold-star.png",
+      "bytes": 758130,
+      "sha256": "fe3bc3294e9a8ef70d064f37cb6e768fbc8378fa794321cf8baae2ec69ddb435"
+    },
+    {
+      "path": "masters/collectibles/pink-flower.png",
+      "bytes": 647603,
+      "sha256": "5aeb2177007d66db96641794458441cd68d19e4fd7c6ade1ded945f5b504a3b5"
+    },
+    {
+      "path": "masters/collectibles/purple-sprig.png",
+      "bytes": 444104,
+      "sha256": "4dc91f9ddf00a374368c260853dd0bd967e5b2561a1dc0ce999a78935c33c01d"
+    },
+    {
+      "path": "masters/collectibles/star-flower.png",
+      "bytes": 697830,
+      "sha256": "a6cb1783b51e36524f8427a8cdfcba1548c4f3f633e39aee7c36428fa1158b72"
+    },
+    {
+      "path": "masters/crystals/purple-cluster.png",
+      "bytes": 628730,
+      "sha256": "2ce3ef8c93a0a0e8f8c564a81da3cee05423e21e6877b127a399a2a4db4a3d4c"
+    },
+    {
+      "path": "masters/foregrounds/floral-arch.png",
+      "bytes": 457028,
+      "sha256": "8a26ebec71df2bf17b2de7a9f3c1e9bbf294ee2c042d7cbb8f3c117b5aee4129"
+    },
+    {
+      "path": "masters/foregrounds/hanging-vines-a.png",
+      "bytes": 859153,
+      "sha256": "106613a79e95f41724f391dc4808d229be97aa6eb98436d3712b29b21e45f5e8"
+    },
+    {
+      "path": "masters/foregrounds/hanging-vines-b.png",
+      "bytes": 742036,
+      "sha256": "c093afa2c123a53d9fd9140f9ee1bf535f9acce9cc11b0da65ad8b4469a6384e"
+    },
+    {
+      "path": "masters/foregrounds/mushroom-garden.png",
+      "bytes": 522408,
+      "sha256": "371d6df42838cca5f684400d77b82724450800983707ffe28ebd28dba51effb2"
+    },
+    {
+      "path": "masters/foregrounds/rock-garden-a.png",
+      "bytes": 263267,
+      "sha256": "fee8bb4774941030a9cf685abf9c968180bf3cb756d1a61683b99c3dce488d3e"
+    },
+    {
+      "path": "masters/foregrounds/rock-garden-b.png",
+      "bytes": 339735,
+      "sha256": "39b40e2a16d25c7d3ffce52daabf1a256ca06845639569efaa9ab9432f9ce340"
+    },
+    {
+      "path": "masters/islands/large-flower-meadow.png",
+      "bytes": 552757,
+      "sha256": "0437d792a33adcbaeb152cc0d8b0a2e8a0188ace3f83d18d20ff01ff19a0a124"
+    },
+    {
+      "path": "masters/islands/small-vine-meadow.png",
+      "bytes": 721051,
+      "sha256": "010ec79bbb3de7fa756430649c5f95e69a9ddab2caffee6083865fd054d34269"
+    },
+    {
+      "path": "masters/islands/star-pillar.png",
+      "bytes": 520757,
+      "sha256": "11acaeb7d79710ef8fdf46108b840766c5e1159c30c7f1116d46b5cd3c2f0dce"
+    },
+    {
+      "path": "masters/islands/tiny-grass.png",
+      "bytes": 575256,
+      "sha256": "aa3d6e1145925fc106249fd3017c2424758b823938b8d1a08460778826d6dac5"
+    },
+    {
+      "path": "masters/islands/tiny-stone.png",
+      "bytes": 551274,
+      "sha256": "a52307fe8fe458c37a97aa32174270363e518fac16ee135326c1ae02562b6c86"
+    },
+    {
+      "path": "masters/islands/wide-path-meadow.png",
+      "bytes": 530921,
+      "sha256": "c805ae97e85fa153b3cc2e762e1459f3973eb9d73c201d120c265a3627e74eb5"
+    },
+    {
+      "path": "masters/mushrooms/cyan-a.png",
+      "bytes": 536395,
+      "sha256": "d3da5ae70416a2a13468af1e1d8a89fb399ff207d667d527753b85c8462bcffd"
+    },
+    {
+      "path": "masters/mushrooms/cyan-b.png",
+      "bytes": 591895,
+      "sha256": "84b1f24e8d628f84ecef829f9ae60b577790fd196eb2945c49c0277119631a2b"
+    },
+    {
+      "path": "masters/mushrooms/purple-back.png",
+      "bytes": 517131,
+      "sha256": "556b85d7b6d0d2d188129d3045d2f665d67fd3f64399b36c669e0ca8b4a536da"
+    },
+    {
+      "path": "masters/mushrooms/purple-overhead.png",
+      "bytes": 701269,
+      "sha256": "ccfe103c4c89ac3c09b17dad8add82a0d72e0dec97d9e324d7a1abd53dfe047d"
+    },
+    {
+      "path": "masters/mushrooms/purple-pair-angle.png",
+      "bytes": 699341,
+      "sha256": "c21f1a1645002a2cf98af610b5be1e2189b2d370f89dbdf24eb8a85c226c0a30"
+    },
+    {
+      "path": "masters/mushrooms/purple-pair-front.png",
+      "bytes": 741745,
+      "sha256": "77fd12be3e257b868efd578515f80f2fc1f7f11c3d89dc79a13fb1bfe28455e0"
+    },
+    {
+      "path": "masters/mushrooms/purple-side.png",
+      "bytes": 572563,
+      "sha256": "24b87ea9eae3e2e4048d5a82fc89001557a48c9f393a90a5de1c806c7d8c68fd"
+    },
+    {
+      "path": "masters/mushrooms/star-cluster.png",
+      "bytes": 714957,
+      "sha256": "f6a59c7d438c9be93f665eb12ebe23fb8791326d969642f475d0d3716117939d"
+    },
+    {
+      "path": "masters/plants/leaf-sprig-a.png",
+      "bytes": 529838,
+      "sha256": "88f7c6a7b12d0e0a9928345c7dcd5bbfc59847b45f6a142c4893102e04ab12e1"
+    },
+    {
+      "path": "masters/plants/leaf-sprig-b.png",
+      "bytes": 519534,
+      "sha256": "0098cf78e7b4a875c1dce5d1a26db263cdfa7a1936d6fe4ce6587a21fa93a8ce"
+    },
+    {
+      "path": "masters/plants/star-garden.png",
+      "bytes": 527993,
+      "sha256": "109c524227cb1c8f531bb921ababa120aa29918518b76b26170542283decfa3e"
+    },
+    {
+      "path": "masters/portals/active-angle.png",
+      "bytes": 796819,
+      "sha256": "b9a7eb725de2a76c28203c341c12659e030873e28d1e28ef85a7bbfc45021224"
+    },
+    {
+      "path": "masters/portals/active-front.png",
+      "bytes": 804094,
+      "sha256": "2f6debd043a39305c12d5a099802ba04acb05d91bfb79653e17b0acafa9b7a81"
+    },
+    {
+      "path": "masters/portals/empty-arch.png",
+      "bytes": 743576,
+      "sha256": "6024347927fa32f85da1031b6c307a717748c4d66b7984b53fb2adb8328bd163"
+    },
+    {
+      "path": "masters/portals/side.png",
+      "bytes": 313502,
+      "sha256": "e6437710d1e80fcb1cdeae4811f0874c01e63b99fbb4e41365e349ebb0a05da2"
+    },
+    {
+      "path": "masters/props/arrow-sign.png",
+      "bytes": 545187,
+      "sha256": "a7a3ef7badfbc3473b297825cd0e314bb963d1b56fd78cf66d2fe9acbaee9faf"
+    },
+    {
+      "path": "masters/props/lantern-post.png",
+      "bytes": 556918,
+      "sha256": "3f64710acd483c4a70b1f7d9d4d0e0c777bd5177b317b5bbe86f493e50534d35"
+    },
+    {
+      "path": "masters/props/lantern.png",
+      "bytes": 662960,
+      "sha256": "59b0ff9613ab004046ece425b2c51532a0b860f1835bab5b9d90122251ce16ef"
+    },
+    {
+      "path": "masters/props/moss-cave.png",
+      "bytes": 796643,
+      "sha256": "645c972e1ca20cefbfad23a313515ed16e3cd7f7d28d388a09a6a9c57ba20e1e"
+    },
+    {
+      "path": "masters/props/stump.png",
+      "bytes": 682129,
+      "sha256": "ba90c5fc00d2f820f19d1b18816f50274693430dbca51df4da974738086d408d"
+    },
+    {
+      "path": "masters/props/wood-fence.png",
+      "bytes": 502293,
+      "sha256": "e6bccea75872c858e8f620e5d5c182fe28ffd47f61e50cabead9d877b2c0e5ee"
+    },
+    {
+      "path": "masters/rocks/crescent-shrine.png",
+      "bytes": 715406,
+      "sha256": "578eb6312b6a5ac67d6c87a7a1e1bd40d18101e8f27155f4c8ddc222b5684234"
+    },
+    {
+      "path": "masters/rocks/flower-cluster.png",
+      "bytes": 539473,
+      "sha256": "c6807c0d887cdde5a35af8d3edf8af6fe87206f5ec32ad64cf89246c3ab688d7"
+    },
+    {
+      "path": "masters/rocks/grass-cluster.png",
+      "bytes": 414364,
+      "sha256": "3990869ae861d1a217b52b97c99ec0f7db48cde406c1c5533b56cbdb47e10151"
+    },
+    {
+      "path": "masters/rocks/low-boulder.png",
+      "bytes": 382221,
+      "sha256": "fa746f7b4c018a5ee0f6d981e464a8e7546963ae1f430addc239ddf153e7b61e"
+    },
+    {
+      "path": "masters/rocks/star-boulder.png",
+      "bytes": 472756,
+      "sha256": "1768a05365004860a8fbe9e146d1199a61b90bf43f840374806b661bbcf1762f"
+    },
+    {
+      "path": "masters/rocks/tall-cluster.png",
+      "bytes": 555679,
+      "sha256": "04e3404b5592ac62af3efcd590dfbc476c3d64f48d3aca07eef0956da221a842"
+    },
+    {
+      "path": "masters/scenes/hero-forest.png",
+      "bytes": 2146645,
+      "sha256": "c0ebe66d54c3c7fa23e030ddbcb2dd0a0ed7bd946504e1e5a49673568d5a265d"
+    },
+    {
+      "path": "masters/star-trees/back.png",
+      "bytes": 709715,
+      "sha256": "847d07475c3f025cd6baee90dfc0c6a47b2e86b216bb19275acb805d486b2763"
+    },
+    {
+      "path": "masters/star-trees/front-small.png",
+      "bytes": 606711,
+      "sha256": "a1fd4b8b85ca2891b06070eba5a17c5a9e65aa63bc52a101c85db9c1f7fc8173"
+    },
+    {
+      "path": "masters/star-trees/front-wide.png",
+      "bytes": 689577,
+      "sha256": "6e9e42a47c3082882fa96a67317a156fa9d7d4e1058ecb7fe0f84e3441f5c949"
+    },
+    {
+      "path": "masters/star-trees/overhead.png",
+      "bytes": 713180,
+      "sha256": "f4732a2a680c9f2a1cf9307e031edbe31b5e381edc271a94e08d0fcff29bf6f9"
+    },
+    {
+      "path": "masters/star-trees/side-left.png",
+      "bytes": 689301,
+      "sha256": "9981f191fda4e94dfd52f0dea543eb7dc2f2dbc3a407050fa32d28d9dd8e79a9"
+    },
+    {
+      "path": "masters/star-trees/side-right.png",
+      "bytes": 640473,
+      "sha256": "d1f1409f23bdc8e49653e5ade6945bf5e906d1d3984a3d2ec8f1ee0d82119a4b"
+    },
+    {
+      "path": "masters/terrain/cracked-stone-a.png",
+      "bytes": 861063,
+      "sha256": "14f06f9f7951ba8da59d65d8b7fb7fafabbc850849bcde2eadec39db877d5e9e"
+    },
+    {
+      "path": "masters/terrain/cracked-stone-b.png",
+      "bytes": 868416,
+      "sha256": "6267c3c51ed8de1de1b62d7fab0f40bebf8b4ce91662978e64dace3ee64a891a"
+    },
+    {
+      "path": "masters/terrain/flower-grass-tile.png",
+      "bytes": 910256,
+      "sha256": "b618c28eb779601401bac2b560022ed65d849d23f90875c55aefe7aaba461f5b"
+    },
+    {
+      "path": "masters/terrain/plain-meadow-platform.png",
+      "bytes": 678370,
+      "sha256": "22368ab31d5bd5b65cdc00fb08b6256015b64a6f5c4db189b847c83d3ed6b863"
+    },
+    {
+      "path": "masters/terrain/rocky-block.png",
+      "bytes": 779633,
+      "sha256": "545b71ea9146ab5fe710afe83bdf9ab75874e2e2380df774f7d3a0067e140a2d"
+    },
+    {
+      "path": "masters/terrain/stepping-grass-tile.png",
+      "bytes": 980711,
+      "sha256": "61daad5bcdddf21d05547f6bf02e708a4f98f056ed5374939223eb8955cffe12"
+    },
+    {
+      "path": "masters/terrain/vine-meadow-platform.png",
+      "bytes": 728627,
+      "sha256": "e876dfb9267d4106e7d4a1a8c415e511aabe5143afd002a2d3738666ed6f0f16"
+    },
+    {
+      "path": "preview.html",
+      "bytes": 34181,
+      "sha256": "3f22f8619b36887687f9807b0e0c91e93eafecda667352370da6614c62045ee9"
+    },
+    {
+      "path": "preview.jpg",
+      "bytes": 487487,
+      "sha256": "8cea387bdd57cafdf479e9a55e9bfa8f957420fc8bac374f00d75fd96f7c4c7f"
+    },
+    {
+      "path": "previews/arch-pieces.jpg",
+      "bytes": 21042,
+      "sha256": "cc4348b37578dfaa2c929f0a6282e6d7b07fe170cac2479256b84752ce5fece1"
+    },
+    {
+      "path": "previews/backgrounds.jpg",
+      "bytes": 48204,
+      "sha256": "e98dec8351e304c501ab086193afa9307df4d123d6f9dc4797534673cee45ff4"
+    },
+    {
+      "path": "previews/bridges.jpg",
+      "bytes": 41146,
+      "sha256": "076b96088446cb1fc9b047594bbc7441687d2a8dfa0d120765f21956d23d481f"
+    },
+    {
+      "path": "previews/cliffs.jpg",
+      "bytes": 95850,
+      "sha256": "b2b3270849af02fd394d37239241a6bc2d658ab4bdca7bc620f1a6dbc9dfabe6"
+    },
+    {
+      "path": "previews/clouds.jpg",
+      "bytes": 21965,
+      "sha256": "27ac943e8ee0ddb83bf53c81f6d51fdbaa380782b14a519ec62248a16fbd3b25"
+    },
+    {
+      "path": "previews/collectibles.jpg",
+      "bytes": 81338,
+      "sha256": "f7aa0b961054e77df508145a1bb0be8c5a0b8915eff2fa40dc7cc4fadbb57a8b"
+    },
+    {
+      "path": "previews/crystals.jpg",
+      "bytes": 16884,
+      "sha256": "4645a1d8739092a7c07c601b45b3ddfdc5c23abad8aa657dc0ad29ee7798058a"
+    },
+    {
+      "path": "previews/foregrounds.jpg",
+      "bytes": 71745,
+      "sha256": "1f631505e62098feaaa00ef685c4cb9365a57a7376b1afbb77e59c4bd72851a2"
+    },
+    {
+      "path": "previews/islands.jpg",
+      "bytes": 69305,
+      "sha256": "748eff8a4ec9cf132a83e576cffb9618538f58d81f292fc81ba17a8add022d58"
+    },
+    {
+      "path": "previews/mushrooms.jpg",
+      "bytes": 88016,
+      "sha256": "75ec5c30e09d511bcfa312b479e68ea4c36e88ba282112eada8662ef586e70b3"
+    },
+    {
+      "path": "previews/plants.jpg",
+      "bytes": 32003,
+      "sha256": "ca96b1454c750d1bfbd88eb5d8afb54f59baae7b1d33b02558485b134ecbba93"
+    },
+    {
+      "path": "previews/portals.jpg",
+      "bytes": 53441,
+      "sha256": "cf61ebe401f51749ac490c5b650fee5c4696381b16e6f8a9ceac00905455a980"
+    },
+    {
+      "path": "previews/props.jpg",
+      "bytes": 65242,
+      "sha256": "be145c24cc3bb721cd8b193f117f6b11764f46368a563dd30d460b11cb1fbb8a"
+    },
+    {
+      "path": "previews/rocks.jpg",
+      "bytes": 57070,
+      "sha256": "c38176dcdcb043650b57e1cdebc4a71f3f002e27433558ae3ae284c3184b40eb"
+    },
+    {
+      "path": "previews/scenes.jpg",
+      "bytes": 27674,
+      "sha256": "004e92370aa6bc20a677188ea8817d59670cbab9764e326bc11a001343b716da"
+    },
+    {
+      "path": "previews/star-trees.jpg",
+      "bytes": 72848,
+      "sha256": "7b8399c9641b046ac6d90c4fcbcad42b462cbdcd5c9a6c2363bde7b74507c041"
+    },
+    {
+      "path": "previews/terrain.jpg",
+      "bytes": 95332,
+      "sha256": "389cf775276659d0ee0ff62f1968521ee2e6bbe290296140aa09555a62871f14"
+    },
+    {
+      "path": "previews/world-overview.jpg",
+      "bytes": 225482,
+      "sha256": "91b3e2cd4713a8d73d43ac0f301e6bd3d930fbf49c6d2b51a2a613878e489957"
+    },
+    {
+      "path": "qa.json",
+      "bytes": 729,
+      "sha256": "ca453c23b31b9fa211ee8896ef670dfe61d3f0d7fcf704084c4319372d5f6e24"
+    },
+    {
+      "path": "references/moonmallow-forest-original-board.png",
+      "bytes": 2294151,
+      "sha256": "d3d59609e5f0f6e148d9c40481a04f3a705eca496eb65a18866de191f0920e95"
+    }
+  ]
+}

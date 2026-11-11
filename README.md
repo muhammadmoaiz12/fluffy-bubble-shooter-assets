@@ -165,3 +165,13 @@ Each pack links to a gallery of every unique master. Click any image to open it.
 
 ![All Honeydrop Gardens modules](stages/stage-05-worlds-levels/v1/honeydrop-gardens/preview.jpg)
 <!-- stage5-world2:end -->
+
+<!-- stage5-world3:start -->
+### World 3 · Moonmallow Forest
+
+[Browse all 82 individual modules and variants](stages/stage-05-worlds-levels/v1/moonmallow-forest/README.md)
+
+![Moonmallow Forest](stages/stage-05-worlds-levels/v1/moonmallow-forest/previews/world-overview.jpg)
+
+![All Moonmallow Forest modules](stages/stage-05-worlds-levels/v1/moonmallow-forest/preview.jpg)
+<!-- stage5-world3:end -->

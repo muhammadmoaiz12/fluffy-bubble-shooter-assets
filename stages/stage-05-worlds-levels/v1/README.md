@@ -17,3 +17,13 @@
 
 125 transparent modules and three flattened environment plates, PNG masters, 256/512 PNG and lossless WebP exports, original board, provenance, manifest and offline preview. Static art for integration review; no playable levels or engine-tested tile joins are included.
 <!-- stage5-world2:end -->
+
+<!-- stage5-world3:start -->
+## World 3 · Moonmallow Forest
+
+[All 82 individual modules and previews](moonmallow-forest/README.md)
+
+![Moonmallow Forest](moonmallow-forest/previews/world-overview.jpg)
+
+77 transparent modules and five flattened environment plates, PNG masters, 256/512 PNG and lossless WebP exports, original board, provenance, manifest and offline preview. Static art for integration review; no playable levels or engine-tested tile joins are included.
+<!-- stage5-world3:end -->
