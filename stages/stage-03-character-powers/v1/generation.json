@@ -1,0 +1,31 @@
+{
+  "tool": "Built-in image_gen",
+  "reference": "references/Puff_Trails_Stage_03_Family_Powers_Concept_Board.png",
+  "prompts": [
+    {
+      "id": "heart-link",
+      "prompt": "Use case: stylized-concept. Asset: ONE standalone transparent PNG game VFX sprite for Puff Trails Stage 3, heart-link. Reference image is the original family power concept board: use the appropriate family color and power meaning only. Subject: Pink luminous arched ribbon connecting two endpoints, a small glossy pink heart at the top of the arch and delicate heart sparkles. Wide arch with empty center. Matching group connection effect. Style: polished soft 3D casual mobile game magic, rounded friendly forms, controlled bloom with clean alpha edges. Square canvas, centered, ample transparent padding, entire effect contained. Absolutely no characters, faces, text, UI cards, labels, scenery, checkerboard pattern or opaque background. True RGBA transparency including the empty interior. This is an overlay for existing locked characters, not a character redesign. Produce one effect only."
+    },
+    {
+      "id": "sky-dash",
+      "prompt": "Use case: stylized-concept. Asset: ONE standalone transparent PNG game VFX sprite for Puff Trails Stage 3, sky-dash. Reference image is the original family power concept board: use the appropriate family color and power meaning only. Subject: Three flowing cyan blue wind ribbons sweeping horizontally left to right, tapered directional leading tip, small airy curl wisps below. Clear left-to-right movement. Style: polished soft 3D casual mobile game magic, rounded friendly forms, controlled bloom with clean alpha edges. Square canvas, centered, ample transparent padding, entire effect contained. Absolutely no characters, faces, text, UI cards, labels, scenery, checkerboard pattern or opaque background. True RGBA transparency including the empty interior. This is an overlay for existing locked characters, not a character redesign. Produce one effect only."
+    },
+    {
+      "id": "seed-bloom",
+      "prompt": "Use case: stylized-concept. Asset: ONE standalone transparent PNG game VFX sprite for Puff Trails Stage 3, seed-bloom. Reference image is the original family power concept board: use the appropriate family color and power meaning only. Subject: A pair of fresh green leaves on a tiny luminous sprout rising from a green circular magical growth ring, gentle green leaf motes. Empty ring interior suitable for existing small character overlay. Style: polished soft 3D casual mobile game magic, rounded friendly forms, controlled bloom with clean alpha edges. Square canvas, centered, ample transparent padding, entire effect contained. Absolutely no characters, faces, text, UI cards, labels, scenery, checkerboard pattern or opaque background. True RGBA transparency including the empty interior. This is an overlay for existing locked characters, not a character redesign. Produce one effect only."
+    },
+    {
+      "id": "sun-burst",
+      "prompt": "Use case: stylized-concept. Asset: ONE standalone transparent PNG game VFX sprite for Puff Trails Stage 3, sun-burst. Reference image is the original family power concept board: use the appropriate family color and power meaning only. Subject: Golden yellow radial burst, eight soft luminous sun rays and small gold sparkles around a clear transparent circular central opening. Local adjacent clear effect. Style: polished soft 3D casual mobile game magic, rounded friendly forms, controlled bloom with clean alpha edges. Square canvas, centered, ample transparent padding, entire effect contained. Absolutely no characters, faces, text, UI cards, labels, scenery, checkerboard pattern or opaque background. True RGBA transparency including the empty interior. This is an overlay for existing locked characters, not a character redesign. Produce one effect only."
+    },
+    {
+      "id": "magic-shift",
+      "prompt": "Use case: stylized-concept. Asset: ONE standalone transparent PNG game VFX sprite for Puff Trails Stage 3, magic-shift. Reference image is the original family power concept board: use the appropriate family color and power meaning only. Subject: Lavender purple magical spiral swoosh around an empty circular central opening, lilac shimmer and tiny four-point stars, a directional curl suggesting transformation. Style: polished soft 3D casual mobile game magic, rounded friendly forms, controlled bloom with clean alpha edges. Square canvas, centered, ample transparent padding, entire effect contained. Absolutely no characters, faces, text, UI cards, labels, scenery, checkerboard pattern or opaque background. True RGBA transparency including the empty interior. This is an overlay for existing locked characters, not a character redesign. Produce one effect only."
+    },
+    {
+      "id": "sweet-rescue",
+      "prompt": "Use case: stylized-concept. Asset: ONE standalone transparent PNG game VFX sprite for Puff Trails Stage 3, sweet-rescue. Reference image is the original family power concept board: use the appropriate family color and power meaning only. Subject: Peach coral luminous protective recovery ring with a subtle glossy peach heart near its lower edge and gentle recovery sparkles, empty transparent central opening. Friendly healing aura. Style: polished soft 3D casual mobile game magic, rounded friendly forms, controlled bloom with clean alpha edges. Square canvas, centered, ample transparent padding, entire effect contained. Absolutely no characters, faces, text, UI cards, labels, scenery, checkerboard pattern or opaque background. True RGBA transparency including the empty interior. This is an overlay for existing locked characters, not a character redesign. Produce one effect only."
+    }
+  ],
+  "processing": "Original generated masters preserved byte-for-byte. Lanczos downsample to 256/384/512; lossless WebP. Alpha preserved, no opacity forcing."
+}

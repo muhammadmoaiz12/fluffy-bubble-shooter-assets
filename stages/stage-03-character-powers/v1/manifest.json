@@ -1,0 +1,487 @@
+{
+  "version": 1,
+  "status": "effect artwork ready for integration review; runtime validation pending",
+  "assets": [
+    {
+      "id": "heart-link",
+      "family": "Rosybuns",
+      "locked_storage_family": "rosybuns",
+      "master": "masters/heart-link.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha": "straight RGBA; soft glow intentionally translucent",
+      "exports": [
+        "gameplay/heart-link-256.png",
+        "gameplay/heart-link-256.webp",
+        "gameplay/heart-link-384.png",
+        "gameplay/heart-link-384.webp",
+        "gameplay/heart-link-512.png",
+        "gameplay/heart-link-512.webp"
+      ],
+      "usage": "Connect matching groups only; never creates support.",
+      "character_reference": "references/characters/rosybuns.png",
+      "character_source": "locked/rosybuns/v1/masters/core/medium.png",
+      "transparent_pixels": 1030285,
+      "bounds_alpha_nonzero": [
+        0,
+        15,
+        1254,
+        1254
+      ],
+      "animation": "Static reusable effect; animate opacity/scale/translation in engine. No frame sequence supplied."
+    },
+    {
+      "id": "sky-dash",
+      "family": "Skydoodles",
+      "locked_storage_family": "skybubs",
+      "master": "masters/sky-dash.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha": "straight RGBA; soft glow intentionally translucent",
+      "exports": [
+        "gameplay/sky-dash-256.png",
+        "gameplay/sky-dash-256.webp",
+        "gameplay/sky-dash-384.png",
+        "gameplay/sky-dash-384.webp",
+        "gameplay/sky-dash-512.png",
+        "gameplay/sky-dash-512.webp"
+      ],
+      "usage": "Reposition eligible movable neighbors only.",
+      "character_reference": "references/characters/skybubs.png",
+      "character_source": "locked/skybubs/v1/masters/core/medium.png",
+      "transparent_pixels": 1323780,
+      "bounds_alpha_nonzero": [
+        0,
+        68,
+        1251,
+        1230
+      ],
+      "animation": "Static reusable effect; animate opacity/scale/translation in engine. No frame sequence supplied."
+    },
+    {
+      "id": "seed-bloom",
+      "family": "Mossmops",
+      "locked_storage_family": "leaflings",
+      "master": "masters/seed-bloom.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha": "straight RGBA; soft glow intentionally translucent",
+      "exports": [
+        "gameplay/seed-bloom-256.png",
+        "gameplay/seed-bloom-256.webp",
+        "gameplay/seed-bloom-384.png",
+        "gameplay/seed-bloom-384.webp",
+        "gameplay/seed-bloom-512.png",
+        "gameplay/seed-bloom-512.webp"
+      ],
+      "usage": "Create one legal small bud; use existing locked small sprite.",
+      "character_reference": "references/characters/leaflings.png",
+      "character_source": "locked/leaflings/v1/masters/core/medium.png",
+      "transparent_pixels": 801987,
+      "bounds_alpha_nonzero": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "animation": "Static reusable effect; animate opacity/scale/translation in engine. No frame sequence supplied."
+    },
+    {
+      "id": "sun-burst",
+      "family": "Sunpuffs",
+      "locked_storage_family": "chirpyfluffs",
+      "master": "masters/sun-burst.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha": "straight RGBA; soft glow intentionally translucent",
+      "exports": [
+        "gameplay/sun-burst-256.png",
+        "gameplay/sun-burst-256.webp",
+        "gameplay/sun-burst-384.png",
+        "gameplay/sun-burst-384.webp",
+        "gameplay/sun-burst-512.png",
+        "gameplay/sun-burst-512.webp"
+      ],
+      "usage": "Clear eligible touching neighbors only.",
+      "character_reference": "references/characters/chirpyfluffs.png",
+      "character_source": "locked/chirpyfluffs/v1/masters/core/medium.png",
+      "transparent_pixels": 866450,
+      "bounds_alpha_nonzero": [
+        0,
+        2,
+        1254,
+        1254
+      ],
+      "animation": "Static reusable effect; animate opacity/scale/translation in engine. No frame sequence supplied."
+    },
+    {
+      "id": "magic-shift",
+      "family": "Plumplets",
+      "locked_storage_family": "twirlpuffs",
+      "master": "masters/magic-shift.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha": "straight RGBA; soft glow intentionally translucent",
+      "exports": [
+        "gameplay/magic-shift-256.png",
+        "gameplay/magic-shift-256.webp",
+        "gameplay/magic-shift-384.png",
+        "gameplay/magic-shift-384.webp",
+        "gameplay/magic-shift-512.png",
+        "gameplay/magic-shift-512.webp"
+      ],
+      "usage": "Change one eligible neighbor family; do not move hitboxes.",
+      "character_reference": "references/characters/twirlpuffs.png",
+      "character_source": "locked/twirlpuffs/v1/masters/core/medium.png",
+      "transparent_pixels": 827907,
+      "bounds_alpha_nonzero": [
+        0,
+        18,
+        1244,
+        1254
+      ],
+      "animation": "Static reusable effect; animate opacity/scale/translation in engine. No frame sequence supplied."
+    },
+    {
+      "id": "sweet-rescue",
+      "family": "Peachpeeps",
+      "locked_storage_family": "peachtells",
+      "master": "masters/sweet-rescue.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha": "straight RGBA; soft glow intentionally translucent",
+      "exports": [
+        "gameplay/sweet-rescue-256.png",
+        "gameplay/sweet-rescue-256.webp",
+        "gameplay/sweet-rescue-384.png",
+        "gameplay/sweet-rescue-384.webp",
+        "gameplay/sweet-rescue-512.png",
+        "gameplay/sweet-rescue-512.webp"
+      ],
+      "usage": "Recover eligible tagged status; never bypass the danger line.",
+      "character_reference": "references/characters/peachtells.png",
+      "character_source": "locked/peachtells/v1/masters/core/medium.png",
+      "transparent_pixels": 905037,
+      "bounds_alpha_nonzero": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "animation": "Static reusable effect; animate opacity/scale/translation in engine. No frame sequence supplied."
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2189,
+      "sha256": "49d3be4037f65e0b074ebf8508f9282d0976a1b6b7f85a37a6df8cc7d1590c95"
+    },
+    {
+      "path": "gameplay/heart-link-256.png",
+      "bytes": 37501,
+      "sha256": "fd129062de8e2fb3a6aff1b6eefef953ff38ac9194d3ff636b6e67d37677b150"
+    },
+    {
+      "path": "gameplay/heart-link-256.webp",
+      "bytes": 29316,
+      "sha256": "50f4a317b3f5bcd708a90a1b2972e4ee30d09f9d0128736022d3ec4798b7594d"
+    },
+    {
+      "path": "gameplay/heart-link-384.png",
+      "bytes": 76835,
+      "sha256": "b979bebfd9eff521dd06e2ab9721ffdbfccfd60860a345590ce76eb84916761d"
+    },
+    {
+      "path": "gameplay/heart-link-384.webp",
+      "bytes": 57074,
+      "sha256": "bd143bdd5690f5b580e5e55cb81a98dd48dd9274a343b0d6d6a70e2bef45ef27"
+    },
+    {
+      "path": "gameplay/heart-link-512.png",
+      "bytes": 128935,
+      "sha256": "27cacd6c3bc0338a4f8c5ed86d2c1a9c76fdb405d673baa103b106de1ae59db1"
+    },
+    {
+      "path": "gameplay/heart-link-512.webp",
+      "bytes": 96084,
+      "sha256": "2019133b28a7d7b3783c56690931af3e75beb9433fd06cc2cd7aa7ee9f26b284"
+    },
+    {
+      "path": "gameplay/magic-shift-256.png",
+      "bytes": 68170,
+      "sha256": "1a20944a6a5c44f1265ef199fe291195814c8a3befa3e01694ff9f87da72c0d8"
+    },
+    {
+      "path": "gameplay/magic-shift-256.webp",
+      "bytes": 53542,
+      "sha256": "6589d28c158f3e8b13f207cd47ddafc3300d68fd6e89b3ba47d9edc67e54e290"
+    },
+    {
+      "path": "gameplay/magic-shift-384.png",
+      "bytes": 139071,
+      "sha256": "ea304d00de17d8f2e44039fe34c11669cffa04681a09e848b19f3188e06c83f1"
+    },
+    {
+      "path": "gameplay/magic-shift-384.webp",
+      "bytes": 104902,
+      "sha256": "bab9482ec71b7d5b8c547c2196fa1d3bc0b44b3427e8e251bcba46576c725893"
+    },
+    {
+      "path": "gameplay/magic-shift-512.png",
+      "bytes": 232438,
+      "sha256": "d4b4d4fe0a0b718db403091c7035ba745ddfacfa6f3e414d7885b5d2cd1887d4"
+    },
+    {
+      "path": "gameplay/magic-shift-512.webp",
+      "bytes": 176430,
+      "sha256": "92cc660cde880b9ef9a4defb4157d4c7d2986a887e291f1b373560ca1e8194a9"
+    },
+    {
+      "path": "gameplay/seed-bloom-256.png",
+      "bytes": 59136,
+      "sha256": "9ccc5ac2c463d2b9edf8de33423f0fd758d9741da2674dd8ff34bdc71116d440"
+    },
+    {
+      "path": "gameplay/seed-bloom-256.webp",
+      "bytes": 47796,
+      "sha256": "248b645520c9e72f0033b2cc1d8a021628cb9e046ed36b13d185f5af86cbd694"
+    },
+    {
+      "path": "gameplay/seed-bloom-384.png",
+      "bytes": 119802,
+      "sha256": "85438e5f5c172e0e7651894bc6194cd8f58856e723de198db459f57ad1bfaaf9"
+    },
+    {
+      "path": "gameplay/seed-bloom-384.webp",
+      "bytes": 93092,
+      "sha256": "19b361c2b27e0a22af26912ec48a915966e2e0422903a5459798a31d05acb373"
+    },
+    {
+      "path": "gameplay/seed-bloom-512.png",
+      "bytes": 200999,
+      "sha256": "ca2aba9c3226319817fc64215836fc3bcc8771c64fa4a576c10e42231619b1b6"
+    },
+    {
+      "path": "gameplay/seed-bloom-512.webp",
+      "bytes": 158082,
+      "sha256": "05fe34f143a5f59b86773bbd5e6c44bd44f9986678deda9140baa99de6fb5e3d"
+    },
+    {
+      "path": "gameplay/sky-dash-256.png",
+      "bytes": 25353,
+      "sha256": "50068d8496d39b00a3c647f257545a5b8a613171d3235a73b3dd45e99e965735"
+    },
+    {
+      "path": "gameplay/sky-dash-256.webp",
+      "bytes": 21136,
+      "sha256": "6adde6e9ccf2a445f164472cea1bb4b3569bce4974e5b42de06ecbe83501340c"
+    },
+    {
+      "path": "gameplay/sky-dash-384.png",
+      "bytes": 51160,
+      "sha256": "099181b823674800c54538947bfd5544c25f41e747358b818b205061640a04b1"
+    },
+    {
+      "path": "gameplay/sky-dash-384.webp",
+      "bytes": 41644,
+      "sha256": "09d5eb682f013bfd7f472f81f109750211fc182baf140764de57a164961b24c7"
+    },
+    {
+      "path": "gameplay/sky-dash-512.png",
+      "bytes": 84887,
+      "sha256": "870d9ec8d391b0c50f016e9592112b0f1857bf607ca36286ef0a460ef8e986b1"
+    },
+    {
+      "path": "gameplay/sky-dash-512.webp",
+      "bytes": 68942,
+      "sha256": "ca36bbb11ea46c50fd2d6d4b19e71ab1ae5b646eaa6584ec94758957d889d162"
+    },
+    {
+      "path": "gameplay/sun-burst-256.png",
+      "bytes": 61567,
+      "sha256": "cd9e563d678221a6f318611e5c9c8c8cb0f07701d7ef28b5bea75fa01e0064f6"
+    },
+    {
+      "path": "gameplay/sun-burst-256.webp",
+      "bytes": 47182,
+      "sha256": "8411e4f73fc9d24ddcbb77be203044f97f739bdac50bced7a15be1b5cff05656"
+    },
+    {
+      "path": "gameplay/sun-burst-384.png",
+      "bytes": 125745,
+      "sha256": "90ff84b334eef3deb8d7dc45bb0de34019119ce53aeb44be07ace0e0feb78e4d"
+    },
+    {
+      "path": "gameplay/sun-burst-384.webp",
+      "bytes": 92832,
+      "sha256": "c1e443739ed2690fc1927005541a9b9f4b0ca4234ae0a2711ab0320281a90e81"
+    },
+    {
+      "path": "gameplay/sun-burst-512.png",
+      "bytes": 209508,
+      "sha256": "a7550b05cc4c44c08803c169cf3df58be9eb6bcd66e48b7993e747c9885c3b4f"
+    },
+    {
+      "path": "gameplay/sun-burst-512.webp",
+      "bytes": 156444,
+      "sha256": "9c932c39610238f2e45ade6ef38687bd706ae7e869666f4b3266c4339acd0c08"
+    },
+    {
+      "path": "gameplay/sweet-rescue-256.png",
+      "bytes": 63780,
+      "sha256": "270b7bcd12dcb07c2606fea3c56931afbe9ca438b3cf7a206e282aa9b0a8e04d"
+    },
+    {
+      "path": "gameplay/sweet-rescue-256.webp",
+      "bytes": 48280,
+      "sha256": "150ec1b64727a1982936b37174f56f0f1b83f9a34c2cb3dcfcb4a9e891aaa54b"
+    },
+    {
+      "path": "gameplay/sweet-rescue-384.png",
+      "bytes": 129918,
+      "sha256": "788b17c02090941280dbe124b73d3f4305bf95edffd97b8a5a1c4827382f2cbe"
+    },
+    {
+      "path": "gameplay/sweet-rescue-384.webp",
+      "bytes": 94764,
+      "sha256": "e8424fb46fb631df98569d35ce8dd89d5774ec3e3629bd7cbaa38f28426f7477"
+    },
+    {
+      "path": "gameplay/sweet-rescue-512.png",
+      "bytes": 217162,
+      "sha256": "1f1007497dcac991dc7527998b8ed780b3847d88360fe95ce983d334b85553f3"
+    },
+    {
+      "path": "gameplay/sweet-rescue-512.webp",
+      "bytes": 160184,
+      "sha256": "f2d3e7b8ff94910556f33c5d61db08aff8a269a65f985ae0d33f79d475d06079"
+    },
+    {
+      "path": "generation.json",
+      "bytes": 5917,
+      "sha256": "c11e7c13a67fc17eb4778aed6ce58466b2e6d1b53b356ee92bf3396abb501aef"
+    },
+    {
+      "path": "masters/heart-link.png",
+      "bytes": 747959,
+      "sha256": "e989acf85071ab40511eaab7dd26652d3073873dbff4d4aeb7623e7e24a877b7"
+    },
+    {
+      "path": "masters/magic-shift.png",
+      "bytes": 1250604,
+      "sha256": "3fa3fd9229c70b115d555e8aadc8beb11ffcba418468654ad7b4fccf8f4b0c8f"
+    },
+    {
+      "path": "masters/seed-bloom.png",
+      "bytes": 1126274,
+      "sha256": "60cae9e44444b8fa5ec10dbd31f43f76f180b45d55925f192c252690402c41ec"
+    },
+    {
+      "path": "masters/sky-dash.png",
+      "bytes": 469489,
+      "sha256": "01a8511d7f1432fdecfe81510be9dcf389e8d2e208b52f4b9b4588e1a5b7c1f6"
+    },
+    {
+      "path": "masters/sun-burst.png",
+      "bytes": 1094146,
+      "sha256": "f754bcbc083c329e35426a020362e6e7f371977ff1b573715a600a456d2289c3"
+    },
+    {
+      "path": "masters/sweet-rescue.png",
+      "bytes": 1121339,
+      "sha256": "e4462a182ef2a32acc5a7af0e88bd9fd24e058afecce171d3a60f17489fccdcc"
+    },
+    {
+      "path": "preview.html",
+      "bytes": 2611,
+      "sha256": "6dd053fa9aec586a855df465a045a3c41c3304b8ce00e8a3f96c1fc24a58a23f"
+    },
+    {
+      "path": "preview.png",
+      "bytes": 716054,
+      "sha256": "d83320b43bb3e18cf770eaaced368c1d7f7ad71cc36730a27f4d012085609f99"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 440,
+      "sha256": "a54b763352eb9fe79abfc65200b284d80ecdcc050e842cab8c1f0d56209c4e82"
+    },
+    {
+      "path": "references/Puff_Trails_Stage_03_Family_Powers_Concept_Board.png",
+      "bytes": 1168630,
+      "sha256": "df0c9cd78fc4ad5dbc57b429395031901b5bb93b916a2b7ecb6cd7008ebe9b94"
+    },
+    {
+      "path": "references/characters/chirpyfluffs.png",
+      "bytes": 478976,
+      "sha256": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+    },
+    {
+      "path": "references/characters/leaflings-small.png",
+      "bytes": 267444,
+      "sha256": "c74d7f8c4070408dd6653f4ff962d15f06f634fcf56bbe16d6d9bdbd67ba93f1"
+    },
+    {
+      "path": "references/characters/leaflings.png",
+      "bytes": 579396,
+      "sha256": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+    },
+    {
+      "path": "references/characters/peachtells.png",
+      "bytes": 557580,
+      "sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+    },
+    {
+      "path": "references/characters/rosybuns.png",
+      "bytes": 575251,
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+    },
+    {
+      "path": "references/characters/skybubs.png",
+      "bytes": 499260,
+      "sha256": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+    },
+    {
+      "path": "references/characters/twirlpuffs.png",
+      "bytes": 571564,
+      "sha256": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+    }
+  ]
+}
