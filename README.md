@@ -185,3 +185,13 @@ Each pack links to a gallery of every unique master. Click any image to open it.
 
 ![All Sugarstar Skies modules](stages/stage-05-worlds-levels/v1/sugarstar-skies/preview.jpg)
 <!-- stage5-world4:end -->
+
+<!-- stage6-obstacles:start -->
+### Obstacles & mission objects
+
+[Browse all 108 individual assets, states and layers](stages/stage-06-obstacles-mission-objects/v1/README.md)
+
+![Obstacle asset previews](stages/stage-06-obstacles-mission-objects/v1/preview.jpg)
+
+Locked character sprites are reused without repainting. Original board, manifest, provenance and every individual preview are included.
+<!-- stage6-obstacles:end -->

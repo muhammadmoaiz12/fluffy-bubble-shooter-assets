@@ -1,0 +1,68 @@
+{
+  "art_only": true,
+  "timing_and_gameplay_rules": "authored by game; not set by artwork",
+  "states": {
+    "magic-portal": {
+      "a-idle": "masters/magic-portal/a-idle.png",
+      "a-activate": "masters/magic-portal/a-activate.png",
+      "b-charge": "masters/magic-portal/b-charge.png",
+      "b-activate": "masters/magic-portal/b-activate.png",
+      "b-idle": "masters/magic-portal/b-idle.png",
+      "a-charge": "masters/magic-portal/a-charge.png"
+    },
+    "crystal-shell": {
+      "fragile": "masters/crystal-shell/fragile.png",
+      "intact": "masters/crystal-shell/intact.png",
+      "cracked": "masters/crystal-shell/cracked.png",
+      "broken": "masters/crystal-shell/broken.png"
+    },
+    "honey-block": {
+      "softened": "masters/honey-block/softened.png",
+      "intact": "masters/honey-block/intact.png",
+      "cleared": "masters/honey-block/cleared.png",
+      "cracked": "masters/honey-block/cracked.png"
+    },
+    "stone-crate": {
+      "debris": "masters/stone-crate/debris.png",
+      "cracked": "masters/stone-crate/cracked.png",
+      "solid": "masters/stone-crate/solid.png",
+      "broken": "masters/stone-crate/broken.png"
+    },
+    "moving-anchor": {
+      "hardware": "masters/moving-anchor/hardware.png",
+      "left": "masters/moving-anchor/left.png",
+      "center": "masters/moving-anchor/center.png",
+      "right": "masters/moving-anchor/right.png"
+    },
+    "bubble-cage": {
+      "bursting": "masters/bubble-cage/bursting.png",
+      "cracked": "masters/bubble-cage/cracked.png",
+      "trapped": "masters/bubble-cage/trapped.png"
+    },
+    "moon-fog": {
+      "dense": "masters/moon-fog/dense.png",
+      "light": "masters/moon-fog/light.png",
+      "fading": "masters/moon-fog/fading.png",
+      "cleared": "masters/moon-fog/cleared.png"
+    },
+    "vine-lock": {
+      "weakened": "masters/vine-lock/weakened.png",
+      "locked": "masters/vine-lock/locked.png",
+      "loose": "masters/vine-lock/loose.png",
+      "cleared": "masters/vine-lock/cleared.png"
+    },
+    "animation": {
+      "crystal-idle": "masters/animation/crystal-idle.png",
+      "crystal-hit": "masters/animation/crystal-hit.png",
+      "crystal-crack": "masters/animation/crystal-crack.png",
+      "crystal-break": "masters/animation/crystal-break.png",
+      "honey-intact": "masters/animation/honey-intact.png",
+      "honey-crack": "masters/animation/honey-crack.png",
+      "honey-clear": "masters/animation/honey-clear.png",
+      "honey-shake": "masters/animation/honey-shake.png",
+      "portal-idle": "masters/animation/portal-idle.png",
+      "portal-charge": "masters/animation/portal-charge.png",
+      "portal-activate": "masters/animation/portal-activate.png"
+    }
+  }
+}
