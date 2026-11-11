@@ -1,0 +1,111 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "../references/Puff Trails Bloom Launcher Asset Board-1.png",
+  "prompts": [
+    {
+      "id": "views/three-quarter-front",
+      "prompt": "Use case: identity-preserve. ONE transparent standalone game sprite of Bloom Launcher faithfully matching the large hero and 3/4 Front on the reference board. Round lavender pink plush cannon creature, cream face and tummy, dark purple glossy eyes, pink cheeks, happy mouth, tiny fluffy cream paws. Pink flower crown with yellow centers and green leaves; large pink petal flower-shaped cannon muzzle on polished gold barrel angled upper right, dark magenta interior. Gold side discs with pink spiral and small floral details, vine leaves, low oval purple/gold base with a large five-petal pink flower medallion yellow center and green leaves. Same proportions and ornament layout as board. Three-quarter FRONT facing viewer right. Polished 3D plush casual game. Entire cannon centered, 10% transparent margin, true RGBA transparency. No ground, no scenery, no loose particles, no glow, no text or board panels. Preserve design exactly; not Cloud Sling or any other cannon."
+    },
+    {
+      "id": "views/three-quarter-back",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/three-quarter-back. Three-quarter back view matching board, no visible face, gold spiral side disc and pink flower emblem on rear. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "views/left-side",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/left-side. Left side profile matching board Left Side, face sliver on right, gold spiral disc prominent, barrel facing upper right. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "views/right-side",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/right-side. Right side profile matching board Right Side, face sliver on left, pink plush body and prominent gold spiral disc, flower barrel facing upper left. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "views/back",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/back. Straight back view matching board: no face, round purple pink furry back, central pink flower medallion, floral crown, vines, low gold purple base. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "expressions/excited",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: expressions/excited. Same exact three-quarter front pose as image2; change only face to closed cheerful smiling eyes and laughing mouth. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "views/front",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/front. Exact straight front view, symmetric face, flower muzzle above center. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "expressions/focused",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: expressions/focused. Same exact three-quarter front pose as image2; change only face to intent slightly angled brows, focused eyes and small confident mouth. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "views/top",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/top. Directly overhead TOP view matching board, foreshortened floral crown, leaves, muzzle and round body. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "expressions/surprised",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: expressions/surprised. Same exact three-quarter front pose as image2; change only face to wide eyes and small open O mouth. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "poses/firing",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: poses/firing. Same exact three-quarter front pose as image2 with closed happy eyes, tucked paws and slight recoil; barrel same orientation. No projectiles, particles or glow; effects exported separately. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "expressions/confident",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: expressions/confident. Same exact three-quarter front pose as image2; change only face to one eye winking and small assured smile. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "views/bottom",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: views/bottom. Direct underside BOTTOM view matching board, round purple base with concentric gold rim, small central pink flower and two green leaves; no face. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "components/body",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: components/body. ONLY the bare rounded lavender pink plush body with cream face, dark purple eyes, cheeks, smile and little cream paws from image2. Remove all barrel, crown, foliage, side discs, base and accessories. Standalone body component as board component row. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "expressions/sleeping",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: expressions/sleeping. Same exact three-quarter front pose as image2; change only face to peacefully closed eyes and tiny relaxed smile. No Z text. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "components/flower-barrel",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: components/flower-barrel. ONLY isolated flower-shaped cannon barrel assembly from image2: deep magenta hollow muzzle with soft pink petals around its mouth and gold cylindrical collar behind. Same upper-right facing 3/4 orientation. No body or base. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "effects/petal",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: effects/petal. ONLY one gently curved glossy pink flower petal, isolated reusable particle matching board petal VFX. No others. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "components/gold-ring",
+      "prompt": "Single standalone casual mobile game transparent PNG asset. ONE plain polished gold circular hoop, slightly elliptical three-quarter perspective. Thick rounded rim with small warm highlights, completely hollow transparent center. NO flowers, leaves, cannons, creatures, faces, ornaments or other objects. Center on square canvas, ample transparent margin, true RGBA transparency, no scenery, text or shadows."
+    },
+    {
+      "id": "effects/bloom-shot",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: effects/bloom-shot. ONLY one glowing five-petal pink bloom projectile with bright cream-yellow center, controlled pink halo and tiny restrained sparkle; no cannon or trail. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "components/flower-crown",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: components/flower-crown. ONLY isolated curved crown cluster of small pink five-petal flowers with yellow centers, tiny cream flowers and green leaves, matching crown on image2. No face, body or barrel. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "effects/sparkle",
+      "prompt": "Single standalone casual mobile game transparent PNG asset. ONE isolated golden four-point magical star glint, bright cream center and soft controlled gold halo. NO cannon, face, flowers, leaves or other objects. Center on square canvas, ample transparent margin, true RGBA transparency, no scenery, text or shadows."
+    },
+    {
+      "id": "components/leaves",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: components/leaves. ONLY a matching pair of fresh glossy green leaves joined at tiny stems, as board component row. No body or flowers. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "effects/charge-ring",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: effects/charge-ring. ONLY a thin luminous pink circular muzzle aura with tiny glints. Hollow transparent interior. Pure magical light; no gold physical frame, flowers, leaves, cannon or body. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "components/base",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: components/base. ONLY low oval purple pedestal with polished gold rim, central pink five-petal flower medallion and yellow center flanked by green leaves; same view as image2. No cannon body or barrel. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "effects/aim-dot",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: effects/aim-dot. ONLY one simple cream-white round trajectory dot with subtle pink glow, transparent surroundings. No cannon, line or scenery. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    },
+    {
+      "id": "effects/target-reticle",
+      "prompt": "Use case: identity-preserve. ONE standalone transparent game sprite for Bloom Launcher. Image1 original user board; image2 shared master. Asset: effects/target-reticle. ONLY luminous pink circular targeting reticle with four small cardinal ticks and a tiny center dot, matching board aiming guide. Transparent interior, no cannon, scenery or target character. Faithfully preserve Bloom Launcher's pink flower petals, lavender pink plush fur, cream face, gold trim and green leaf design. Match board and shared master materials and proportions. Entire subject fully visible centered with 10% margin on square canvas. Opaque solid objects, finely antialiased edges, transparent background. No text, labels, backdrop, floor, ground shadow or unrelated objects. For isolated components/effects include ONLY requested component, never the full cannon."
+    }
+  ],
+  "processing": "Remove alpha <=8 and disconnected components under24 pixels; fill enclosed solid body alpha; normalize within 860px envelope on 1024px canvas; bottom baseline922 for cannon. Preserve translucent VFX. Lanczos resize, lossless WebP."
+}
