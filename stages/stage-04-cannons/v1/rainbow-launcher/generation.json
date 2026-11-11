@@ -1,0 +1,87 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "../references/Puff Trails Rainbow Launcher Asset Board-1.png",
+  "prompts": [
+    {
+      "id": "views/three-quarter-front",
+      "prompt": "Identity-preserving game sprite of Rainbow Launcher, exactly matching supplied board hero and 3/4 Front. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Happy open smile. Same proportions, ornament positions, colors and materials. Three-quarter front toward viewer right. Polished cute 3D plush mobile game. Entire object centered with 10% clear margin on square canvas. True transparent background, opaque solid interior, fine fur edges. NO external aura, haze, ground shadow, floor, scenery, text, loose particles or other characters. Keep any glow contained within barrel. One complete cannon only."
+    },
+    {
+      "id": "views/top",
+      "prompt": "Create ONE transparent Rainbow Launcher top view strictly following the top thumbnail on the original board. True straight DOWN overhead orthographic TOP view. Camera vertically above cannon looking at cloud-covered crown and top of base. Round compact top silhouette; face hidden underneath or only tiny lower-edge sliver. Match the exact Top View thumbnail on supplied board. NOT a front or three-quarter portrait. Preserve design: round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. This task is a CAMERA VIEW correction. Do not use the board hero angle. Clean plush 3D game style. Entire subject visible centered on square with ample margin. No exterior glow, background, text, labels, scenery or shadow."
+    },
+    {
+      "id": "views/front",
+      "prompt": "Create ONE transparent Rainbow Launcher front view strictly following the front thumbnail on the original board. True symmetric straight-on FRONT elevation, both side mounts equally visible, face perfectly centered, barrel centered directly above the face. NO three-quarter turn. Preserve design: round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. This task is a CAMERA VIEW correction. Do not use the board hero angle. Clean plush 3D game style. Entire subject visible centered on square with ample margin. No exterior glow, background, text, labels, scenery or shadow."
+    },
+    {
+      "id": "views/bottom",
+      "prompt": "Create ONE transparent Rainbow Launcher bottom view strictly following the bottom thumbnail on the original board. True straight UP underside orthographic BOTTOM view. Round purple underside disk enclosed by gold rim and small cloud reliefs exactly as board Bottom View. Face entirely hidden behind base, no visible eyes or mouth. NOT tilted front. Preserve design: round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. This task is a CAMERA VIEW correction. Do not use the board hero angle. Clean plush 3D game style. Entire subject visible centered on square with ample margin. No exterior glow, background, text, labels, scenery or shadow."
+    },
+    {
+      "id": "views/back",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. views/back: Straight BACK view with no face. Preserve board's distinct rear decorations. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "views/three-quarter-back",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. views/three-quarter-back: Three-quarter BACK view matching board; rear decorations dominant, face hidden. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "views/left",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. views/left: Left side profile, face sliver at right, barrel points upper right; match corresponding board profile. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "expressions/excited",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. expressions/excited: Same three-quarter front cannon; change only face to closed joyful eyes and laughing smile. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "expressions/surprised",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. expressions/surprised: Same three-quarter front cannon; change only face to wide eyes and O mouth. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "expressions/focused",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. expressions/focused: Same three-quarter front cannon; change only face to focused eyes, slightly lowered brows and determined small smile. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "views/right",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. views/right: Right side profile, face sliver at left, barrel points upper left. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "poses/firing",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. poses/firing: Same three-quarter front cannon; closed joyful eyes and slight recoil squash. No projectile, trail, particles or exterior glow. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "expressions/wink",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. expressions/wink: Same three-quarter cannon; one eye winking and friendly smile. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "effects/aim-dot",
+      "prompt": "One isolated casual mobile game effect/icon. effects/aim-dot: ONE white pearl dot with subtle lilac glow for engine trajectory, no line or scene. Only requested effect, no cannon, character, faces, scene or text. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "expressions/cheerful",
+      "prompt": "Identity-preserving Rainbow Launcher sprite. Image1 is original board; image2 is common master. expressions/cheerful: Same three-quarter cannon; pink heart-shaped eyes and joyful smile, matching board. No floating hearts. round lavender plush body and cream face, dark glossy eyes and pink cheeks; cylindrical rainbow-banded cannon barrel with thick gold circular muzzle and rainbow interior angled upper right; rainbow arches across rear and sides ending in soft white cloud puffs; gold circular side discs; iridescent faceted crystals around low purple gold-trim base; front white cloud medallion with gold five-point star. Keep exact design, proportions and materials. No exterior glow, floor, shadow or extra objects. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "effects/target-brackets",
+      "prompt": "One isolated casual mobile game effect/icon. effects/target-brackets: ONLY four golden rounded corner brackets outlining empty square, transparent center. No cannon or character. Only requested effect, no cannon, character, faces, scene or text. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "effects/projectile",
+      "prompt": "One isolated casual mobile game effect/icon. effects/projectile: ONE iridescent pastel rainbow orb with a small four-point prism glint at its center. No cannon or creature. Only requested effect, no cannon, character, faces, scene or text. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "effects/trail",
+      "prompt": "One isolated casual mobile game effect/icon. effects/trail: ONE narrow ribbon beam with parallel pastel rainbow bands, diagonal lower left to upper right, subtle sparkles. No cannon. Only requested effect, no cannon, character, faces, scene or text. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "icons/ability",
+      "prompt": "One isolated casual mobile game effect/icon. icons/ability: ONE iridescent round orb with a small gold four-point star at center, pastel rainbow glow. No cannon. Only requested effect, no cannon, character, faces, scene or text. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    },
+    {
+      "id": "effects/muzzle-flash",
+      "prompt": "One isolated casual mobile game effect/icon. effects/muzzle-flash: ONE compact pink-violet circular muzzle halo, hollow center with pastel rainbow edge. Pure light only; no frame or cannon. Only requested effect, no cannon, character, faces, scene or text. Polished soft 3D game rendering. Entire subject centered inside square with 10% clear transparent margins. True RGBA transparency, no backdrop or checkerboard."
+    }
+  ],
+  "processing": "Remove alpha <=8 and disconnected components under24 pixels; fill enclosed solid body alpha; normalize within 860px envelope on 1024px canvas; bottom baseline922 for cannon. Preserve translucent VFX. Lanczos resize, lossless WebP."
+}

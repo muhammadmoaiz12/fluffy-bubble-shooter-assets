@@ -1,0 +1,2766 @@
+{
+  "status": "integration review; not engine-tested",
+  "assets": [
+    {
+      "id": "views/three-quarter-front",
+      "master": "masters/views/three-quarter-front.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/three-quarter-front"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        933,
+        922
+      ],
+      "transparent_pixels": 505010,
+      "exports": [
+        "gameplay/views/three-quarter-front-64.png",
+        "gameplay/views/three-quarter-front-64.webp",
+        "gameplay/views/three-quarter-front-128.png",
+        "gameplay/views/three-quarter-front-128.webp",
+        "gameplay/views/three-quarter-front-256.png",
+        "gameplay/views/three-quarter-front-256.webp",
+        "gameplay/views/three-quarter-front-512.png",
+        "gameplay/views/three-quarter-front-512.webp"
+      ]
+    },
+    {
+      "id": "views/top",
+      "master": "masters/views/top.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/top"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        82,
+        72,
+        942,
+        922
+      ],
+      "transparent_pixels": 474352,
+      "exports": [
+        "gameplay/views/top-64.png",
+        "gameplay/views/top-64.webp",
+        "gameplay/views/top-128.png",
+        "gameplay/views/top-128.webp",
+        "gameplay/views/top-256.png",
+        "gameplay/views/top-256.webp",
+        "gameplay/views/top-512.png",
+        "gameplay/views/top-512.webp"
+      ]
+    },
+    {
+      "id": "views/front",
+      "master": "masters/views/front.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/front"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        127,
+        62,
+        897,
+        922
+      ],
+      "transparent_pixels": 603439,
+      "exports": [
+        "gameplay/views/front-64.png",
+        "gameplay/views/front-64.webp",
+        "gameplay/views/front-128.png",
+        "gameplay/views/front-128.webp",
+        "gameplay/views/front-256.png",
+        "gameplay/views/front-256.webp",
+        "gameplay/views/front-512.png",
+        "gameplay/views/front-512.webp"
+      ]
+    },
+    {
+      "id": "views/bottom",
+      "master": "masters/views/bottom.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/bottom"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        124,
+        62,
+        899,
+        922
+      ],
+      "transparent_pixels": 605599,
+      "exports": [
+        "gameplay/views/bottom-64.png",
+        "gameplay/views/bottom-64.webp",
+        "gameplay/views/bottom-128.png",
+        "gameplay/views/bottom-128.webp",
+        "gameplay/views/bottom-256.png",
+        "gameplay/views/bottom-256.webp",
+        "gameplay/views/bottom-512.png",
+        "gameplay/views/bottom-512.webp"
+      ]
+    },
+    {
+      "id": "views/back",
+      "master": "masters/views/back.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/back"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        124,
+        62,
+        899,
+        922
+      ],
+      "transparent_pixels": 556535,
+      "exports": [
+        "gameplay/views/back-64.png",
+        "gameplay/views/back-64.webp",
+        "gameplay/views/back-128.png",
+        "gameplay/views/back-128.webp",
+        "gameplay/views/back-256.png",
+        "gameplay/views/back-256.webp",
+        "gameplay/views/back-512.png",
+        "gameplay/views/back-512.webp"
+      ]
+    },
+    {
+      "id": "views/three-quarter-back",
+      "master": "masters/views/three-quarter-back.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/three-quarter-back"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        105,
+        62,
+        919,
+        922
+      ],
+      "transparent_pixels": 543129,
+      "exports": [
+        "gameplay/views/three-quarter-back-64.png",
+        "gameplay/views/three-quarter-back-64.webp",
+        "gameplay/views/three-quarter-back-128.png",
+        "gameplay/views/three-quarter-back-128.webp",
+        "gameplay/views/three-quarter-back-256.png",
+        "gameplay/views/three-quarter-back-256.webp",
+        "gameplay/views/three-quarter-back-512.png",
+        "gameplay/views/three-quarter-back-512.webp"
+      ]
+    },
+    {
+      "id": "views/left",
+      "master": "masters/views/left.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/left"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        102,
+        62,
+        922,
+        922
+      ],
+      "transparent_pixels": 528740,
+      "exports": [
+        "gameplay/views/left-64.png",
+        "gameplay/views/left-64.webp",
+        "gameplay/views/left-128.png",
+        "gameplay/views/left-128.webp",
+        "gameplay/views/left-256.png",
+        "gameplay/views/left-256.webp",
+        "gameplay/views/left-512.png",
+        "gameplay/views/left-512.webp"
+      ]
+    },
+    {
+      "id": "expressions/excited",
+      "master": "masters/expressions/excited.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "expressions/excited"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        89,
+        62,
+        934,
+        922
+      ],
+      "transparent_pixels": 501156,
+      "exports": [
+        "gameplay/expressions/excited-64.png",
+        "gameplay/expressions/excited-64.webp",
+        "gameplay/expressions/excited-128.png",
+        "gameplay/expressions/excited-128.webp",
+        "gameplay/expressions/excited-256.png",
+        "gameplay/expressions/excited-256.webp",
+        "gameplay/expressions/excited-512.png",
+        "gameplay/expressions/excited-512.webp"
+      ]
+    },
+    {
+      "id": "expressions/surprised",
+      "master": "masters/expressions/surprised.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "expressions/surprised"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        89,
+        62,
+        934,
+        922
+      ],
+      "transparent_pixels": 501931,
+      "exports": [
+        "gameplay/expressions/surprised-64.png",
+        "gameplay/expressions/surprised-64.webp",
+        "gameplay/expressions/surprised-128.png",
+        "gameplay/expressions/surprised-128.webp",
+        "gameplay/expressions/surprised-256.png",
+        "gameplay/expressions/surprised-256.webp",
+        "gameplay/expressions/surprised-512.png",
+        "gameplay/expressions/surprised-512.webp"
+      ]
+    },
+    {
+      "id": "expressions/focused",
+      "master": "masters/expressions/focused.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "expressions/focused"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        932,
+        922
+      ],
+      "transparent_pixels": 503581,
+      "exports": [
+        "gameplay/expressions/focused-64.png",
+        "gameplay/expressions/focused-64.webp",
+        "gameplay/expressions/focused-128.png",
+        "gameplay/expressions/focused-128.webp",
+        "gameplay/expressions/focused-256.png",
+        "gameplay/expressions/focused-256.webp",
+        "gameplay/expressions/focused-512.png",
+        "gameplay/expressions/focused-512.webp"
+      ]
+    },
+    {
+      "id": "views/right",
+      "master": "masters/views/right.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "views/right"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        149,
+        62,
+        874,
+        922
+      ],
+      "transparent_pixels": 576891,
+      "exports": [
+        "gameplay/views/right-64.png",
+        "gameplay/views/right-64.webp",
+        "gameplay/views/right-128.png",
+        "gameplay/views/right-128.webp",
+        "gameplay/views/right-256.png",
+        "gameplay/views/right-256.webp",
+        "gameplay/views/right-512.png",
+        "gameplay/views/right-512.webp"
+      ]
+    },
+    {
+      "id": "poses/firing",
+      "master": "masters/poses/firing.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "poses/firing"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        82,
+        77,
+        942,
+        922
+      ],
+      "transparent_pixels": 507806,
+      "exports": [
+        "gameplay/poses/firing-64.png",
+        "gameplay/poses/firing-64.webp",
+        "gameplay/poses/firing-128.png",
+        "gameplay/poses/firing-128.webp",
+        "gameplay/poses/firing-256.png",
+        "gameplay/poses/firing-256.webp",
+        "gameplay/poses/firing-512.png",
+        "gameplay/poses/firing-512.webp"
+      ]
+    },
+    {
+      "id": "expressions/wink",
+      "master": "masters/expressions/wink.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "expressions/wink"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        932,
+        922
+      ],
+      "transparent_pixels": 503330,
+      "exports": [
+        "gameplay/expressions/wink-64.png",
+        "gameplay/expressions/wink-64.webp",
+        "gameplay/expressions/wink-128.png",
+        "gameplay/expressions/wink-128.webp",
+        "gameplay/expressions/wink-256.png",
+        "gameplay/expressions/wink-256.webp",
+        "gameplay/expressions/wink-512.png",
+        "gameplay/expressions/wink-512.webp"
+      ]
+    },
+    {
+      "id": "effects/aim-dot",
+      "master": "masters/effects/aim-dot.png",
+      "kind": "effect",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "effects/aim-dot"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        251,
+        249,
+        773,
+        774
+      ],
+      "transparent_pixels": 838514,
+      "exports": [
+        "gameplay/effects/aim-dot-64.png",
+        "gameplay/effects/aim-dot-64.webp",
+        "gameplay/effects/aim-dot-128.png",
+        "gameplay/effects/aim-dot-128.webp",
+        "gameplay/effects/aim-dot-256.png",
+        "gameplay/effects/aim-dot-256.webp",
+        "gameplay/effects/aim-dot-512.png",
+        "gameplay/effects/aim-dot-512.webp"
+      ]
+    },
+    {
+      "id": "expressions/cheerful",
+      "master": "masters/expressions/cheerful.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "expressions/cheerful"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        90,
+        62,
+        934,
+        922
+      ],
+      "transparent_pixels": 500699,
+      "exports": [
+        "gameplay/expressions/cheerful-64.png",
+        "gameplay/expressions/cheerful-64.webp",
+        "gameplay/expressions/cheerful-128.png",
+        "gameplay/expressions/cheerful-128.webp",
+        "gameplay/expressions/cheerful-256.png",
+        "gameplay/expressions/cheerful-256.webp",
+        "gameplay/expressions/cheerful-512.png",
+        "gameplay/expressions/cheerful-512.webp"
+      ]
+    },
+    {
+      "id": "effects/target-brackets",
+      "master": "masters/effects/target-brackets.png",
+      "kind": "effect",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "effects/target-brackets"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        82,
+        98,
+        942,
+        926
+      ],
+      "transparent_pixels": 837229,
+      "exports": [
+        "gameplay/effects/target-brackets-64.png",
+        "gameplay/effects/target-brackets-64.webp",
+        "gameplay/effects/target-brackets-128.png",
+        "gameplay/effects/target-brackets-128.webp",
+        "gameplay/effects/target-brackets-256.png",
+        "gameplay/effects/target-brackets-256.webp",
+        "gameplay/effects/target-brackets-512.png",
+        "gameplay/effects/target-brackets-512.webp"
+      ]
+    },
+    {
+      "id": "effects/projectile",
+      "master": "masters/effects/projectile.png",
+      "kind": "effect",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "effects/projectile"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        82,
+        84,
+        942,
+        940
+      ],
+      "transparent_pixels": 472599,
+      "exports": [
+        "gameplay/effects/projectile-64.png",
+        "gameplay/effects/projectile-64.webp",
+        "gameplay/effects/projectile-128.png",
+        "gameplay/effects/projectile-128.webp",
+        "gameplay/effects/projectile-256.png",
+        "gameplay/effects/projectile-256.webp",
+        "gameplay/effects/projectile-512.png",
+        "gameplay/effects/projectile-512.webp"
+      ]
+    },
+    {
+      "id": "effects/trail",
+      "master": "masters/effects/trail.png",
+      "kind": "effect",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "effects/trail"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        82,
+        136,
+        942,
+        888
+      ],
+      "transparent_pixels": 948809,
+      "exports": [
+        "gameplay/effects/trail-64.png",
+        "gameplay/effects/trail-64.webp",
+        "gameplay/effects/trail-128.png",
+        "gameplay/effects/trail-128.webp",
+        "gameplay/effects/trail-256.png",
+        "gameplay/effects/trail-256.webp",
+        "gameplay/effects/trail-512.png",
+        "gameplay/effects/trail-512.webp"
+      ]
+    },
+    {
+      "id": "icons/ability",
+      "master": "masters/icons/ability.png",
+      "kind": "effect",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "icons/ability"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        83,
+        82,
+        941,
+        942
+      ],
+      "transparent_pixels": 473574,
+      "exports": [
+        "gameplay/icons/ability-64.png",
+        "gameplay/icons/ability-64.webp",
+        "gameplay/icons/ability-128.png",
+        "gameplay/icons/ability-128.webp",
+        "gameplay/icons/ability-256.png",
+        "gameplay/icons/ability-256.webp",
+        "gameplay/icons/ability-512.png",
+        "gameplay/icons/ability-512.webp"
+      ]
+    },
+    {
+      "id": "effects/muzzle-flash",
+      "master": "masters/effects/muzzle-flash.png",
+      "kind": "effect",
+      "origin": {
+        "type": "AI generated from detailed board and common master",
+        "source_id": "effects/muzzle-flash"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        82,
+        90,
+        942,
+        934
+      ],
+      "transparent_pixels": 775883,
+      "exports": [
+        "gameplay/effects/muzzle-flash-64.png",
+        "gameplay/effects/muzzle-flash-64.webp",
+        "gameplay/effects/muzzle-flash-128.png",
+        "gameplay/effects/muzzle-flash-128.webp",
+        "gameplay/effects/muzzle-flash-256.png",
+        "gameplay/effects/muzzle-flash-256.webp",
+        "gameplay/effects/muzzle-flash-512.png",
+        "gameplay/effects/muzzle-flash-512.webp"
+      ]
+    },
+    {
+      "id": "poses/idle",
+      "master": "masters/poses/idle.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "exact alias",
+        "source_id": "views/three-quarter-front"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        933,
+        922
+      ],
+      "transparent_pixels": 505010,
+      "exports": [
+        "gameplay/poses/idle-64.png",
+        "gameplay/poses/idle-64.webp",
+        "gameplay/poses/idle-128.png",
+        "gameplay/poses/idle-128.webp",
+        "gameplay/poses/idle-256.png",
+        "gameplay/poses/idle-256.webp",
+        "gameplay/poses/idle-512.png",
+        "gameplay/poses/idle-512.webp"
+      ]
+    },
+    {
+      "id": "expressions/happy",
+      "master": "masters/expressions/happy.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "exact alias",
+        "source_id": "views/three-quarter-front"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        933,
+        922
+      ],
+      "transparent_pixels": 505010,
+      "exports": [
+        "gameplay/expressions/happy-64.png",
+        "gameplay/expressions/happy-64.webp",
+        "gameplay/expressions/happy-128.png",
+        "gameplay/expressions/happy-128.webp",
+        "gameplay/expressions/happy-256.png",
+        "gameplay/expressions/happy-256.webp",
+        "gameplay/expressions/happy-512.png",
+        "gameplay/expressions/happy-512.webp"
+      ]
+    },
+    {
+      "id": "poses/aiming-charged",
+      "master": "masters/poses/aiming-charged.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "composite",
+        "sources": [
+          "expressions/focused",
+          "effects/muzzle-flash"
+        ]
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        932,
+        922
+      ],
+      "transparent_pixels": 503581,
+      "exports": [
+        "gameplay/poses/aiming-charged-64.png",
+        "gameplay/poses/aiming-charged-64.webp",
+        "gameplay/poses/aiming-charged-128.png",
+        "gameplay/poses/aiming-charged-128.webp",
+        "gameplay/poses/aiming-charged-256.png",
+        "gameplay/poses/aiming-charged-256.webp",
+        "gameplay/poses/aiming-charged-512.png",
+        "gameplay/poses/aiming-charged-512.webp"
+      ]
+    },
+    {
+      "id": "silhouettes/front",
+      "master": "masters/silhouettes/front.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "alpha silhouette",
+        "source_id": "views/front"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        127,
+        62,
+        897,
+        922
+      ],
+      "transparent_pixels": 603439,
+      "exports": [
+        "gameplay/silhouettes/front-64.png",
+        "gameplay/silhouettes/front-64.webp",
+        "gameplay/silhouettes/front-128.png",
+        "gameplay/silhouettes/front-128.webp",
+        "gameplay/silhouettes/front-256.png",
+        "gameplay/silhouettes/front-256.webp",
+        "gameplay/silhouettes/front-512.png",
+        "gameplay/silhouettes/front-512.webp"
+      ]
+    },
+    {
+      "id": "silhouettes/left",
+      "master": "masters/silhouettes/left.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "alpha silhouette",
+        "source_id": "views/left"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        102,
+        62,
+        922,
+        922
+      ],
+      "transparent_pixels": 528740,
+      "exports": [
+        "gameplay/silhouettes/left-64.png",
+        "gameplay/silhouettes/left-64.webp",
+        "gameplay/silhouettes/left-128.png",
+        "gameplay/silhouettes/left-128.webp",
+        "gameplay/silhouettes/left-256.png",
+        "gameplay/silhouettes/left-256.webp",
+        "gameplay/silhouettes/left-512.png",
+        "gameplay/silhouettes/left-512.webp"
+      ]
+    },
+    {
+      "id": "silhouettes/back",
+      "master": "masters/silhouettes/back.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "alpha silhouette",
+        "source_id": "views/back"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        124,
+        62,
+        899,
+        922
+      ],
+      "transparent_pixels": 556535,
+      "exports": [
+        "gameplay/silhouettes/back-64.png",
+        "gameplay/silhouettes/back-64.webp",
+        "gameplay/silhouettes/back-128.png",
+        "gameplay/silhouettes/back-128.webp",
+        "gameplay/silhouettes/back-256.png",
+        "gameplay/silhouettes/back-256.webp",
+        "gameplay/silhouettes/back-512.png",
+        "gameplay/silhouettes/back-512.webp"
+      ]
+    },
+    {
+      "id": "silhouettes/top",
+      "master": "masters/silhouettes/top.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "alpha silhouette",
+        "source_id": "views/top"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        82,
+        72,
+        942,
+        922
+      ],
+      "transparent_pixels": 474352,
+      "exports": [
+        "gameplay/silhouettes/top-64.png",
+        "gameplay/silhouettes/top-64.webp",
+        "gameplay/silhouettes/top-128.png",
+        "gameplay/silhouettes/top-128.webp",
+        "gameplay/silhouettes/top-256.png",
+        "gameplay/silhouettes/top-256.webp",
+        "gameplay/silhouettes/top-512.png",
+        "gameplay/silhouettes/top-512.webp"
+      ]
+    },
+    {
+      "id": "silhouettes/bottom",
+      "master": "masters/silhouettes/bottom.png",
+      "kind": "cannon",
+      "origin": {
+        "type": "alpha silhouette",
+        "source_id": "views/bottom"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.9
+      ],
+      "alpha_bbox": [
+        124,
+        62,
+        899,
+        922
+      ],
+      "transparent_pixels": 605599,
+      "exports": [
+        "gameplay/silhouettes/bottom-64.png",
+        "gameplay/silhouettes/bottom-64.webp",
+        "gameplay/silhouettes/bottom-128.png",
+        "gameplay/silhouettes/bottom-128.webp",
+        "gameplay/silhouettes/bottom-256.png",
+        "gameplay/silhouettes/bottom-256.webp",
+        "gameplay/silhouettes/bottom-512.png",
+        "gameplay/silhouettes/bottom-512.webp"
+      ]
+    },
+    {
+      "id": "icons/app-tile",
+      "master": "masters/icons/app-tile.png",
+      "kind": "icon",
+      "origin": {
+        "type": "composition",
+        "source_id": "views/three-quarter-front"
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        24,
+        24,
+        1001,
+        1001
+      ],
+      "transparent_pixels": 132127,
+      "exports": [
+        "gameplay/icons/app-tile-64.png",
+        "gameplay/icons/app-tile-64.webp",
+        "gameplay/icons/app-tile-128.png",
+        "gameplay/icons/app-tile-128.webp",
+        "gameplay/icons/app-tile-256.png",
+        "gameplay/icons/app-tile-256.webp",
+        "gameplay/icons/app-tile-512.png",
+        "gameplay/icons/app-tile-512.webp"
+      ]
+    },
+    {
+      "id": "animation/00-idle",
+      "master": "masters/animation/00-idle.png",
+      "kind": "animation",
+      "origin": {
+        "type": "deterministic composite",
+        "sources": [
+          "poses/idle",
+          "expressions/focused",
+          "poses/firing",
+          "effects/muzzle-flash",
+          "effects/projectile",
+          "effects/trail"
+        ]
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        91,
+        62,
+        933,
+        922
+      ],
+      "transparent_pixels": 505010,
+      "exports": [
+        "gameplay/animation/00-idle-64.png",
+        "gameplay/animation/00-idle-64.webp",
+        "gameplay/animation/00-idle-128.png",
+        "gameplay/animation/00-idle-128.webp",
+        "gameplay/animation/00-idle-256.png",
+        "gameplay/animation/00-idle-256.webp",
+        "gameplay/animation/00-idle-512.png",
+        "gameplay/animation/00-idle-512.webp"
+      ]
+    },
+    {
+      "id": "animation/01-charge-1",
+      "master": "masters/animation/01-charge-1.png",
+      "kind": "animation",
+      "origin": {
+        "type": "deterministic composite",
+        "sources": [
+          "poses/idle",
+          "expressions/focused",
+          "poses/firing",
+          "effects/muzzle-flash",
+          "effects/projectile",
+          "effects/trail"
+        ]
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        81,
+        77,
+        943,
+        922
+      ],
+      "transparent_pixels": 502760,
+      "exports": [
+        "gameplay/animation/01-charge-1-64.png",
+        "gameplay/animation/01-charge-1-64.webp",
+        "gameplay/animation/01-charge-1-128.png",
+        "gameplay/animation/01-charge-1-128.webp",
+        "gameplay/animation/01-charge-1-256.png",
+        "gameplay/animation/01-charge-1-256.webp",
+        "gameplay/animation/01-charge-1-512.png",
+        "gameplay/animation/01-charge-1-512.webp"
+      ]
+    },
+    {
+      "id": "animation/02-charge-2",
+      "master": "masters/animation/02-charge-2.png",
+      "kind": "animation",
+      "origin": {
+        "type": "deterministic composite",
+        "sources": [
+          "poses/idle",
+          "expressions/focused",
+          "poses/firing",
+          "effects/muzzle-flash",
+          "effects/projectile",
+          "effects/trail"
+        ]
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        71,
+        94,
+        951,
+        923
+      ],
+      "transparent_pixels": 503245,
+      "exports": [
+        "gameplay/animation/02-charge-2-64.png",
+        "gameplay/animation/02-charge-2-64.webp",
+        "gameplay/animation/02-charge-2-128.png",
+        "gameplay/animation/02-charge-2-128.webp",
+        "gameplay/animation/02-charge-2-256.png",
+        "gameplay/animation/02-charge-2-256.webp",
+        "gameplay/animation/02-charge-2-512.png",
+        "gameplay/animation/02-charge-2-512.webp"
+      ]
+    },
+    {
+      "id": "animation/03-release",
+      "master": "masters/animation/03-release.png",
+      "kind": "animation",
+      "origin": {
+        "type": "deterministic composite",
+        "sources": [
+          "poses/idle",
+          "expressions/focused",
+          "poses/firing",
+          "effects/muzzle-flash",
+          "effects/projectile",
+          "effects/trail"
+        ]
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        74,
+        77,
+        999,
+        922
+      ],
+      "transparent_pixels": 495623,
+      "exports": [
+        "gameplay/animation/03-release-64.png",
+        "gameplay/animation/03-release-64.webp",
+        "gameplay/animation/03-release-128.png",
+        "gameplay/animation/03-release-128.webp",
+        "gameplay/animation/03-release-256.png",
+        "gameplay/animation/03-release-256.webp",
+        "gameplay/animation/03-release-512.png",
+        "gameplay/animation/03-release-512.webp"
+      ]
+    },
+    {
+      "id": "animation/04-recoil",
+      "master": "masters/animation/04-recoil.png",
+      "kind": "animation",
+      "origin": {
+        "type": "deterministic composite",
+        "sources": [
+          "poses/idle",
+          "expressions/focused",
+          "poses/firing",
+          "effects/muzzle-flash",
+          "effects/projectile",
+          "effects/trail"
+        ]
+      },
+      "size": [
+        1024,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "alpha_bbox": [
+        96,
+        100,
+        944,
+        923
+      ],
+      "transparent_pixels": 533158,
+      "exports": [
+        "gameplay/animation/04-recoil-64.png",
+        "gameplay/animation/04-recoil-64.webp",
+        "gameplay/animation/04-recoil-128.png",
+        "gameplay/animation/04-recoil-128.webp",
+        "gameplay/animation/04-recoil-256.png",
+        "gameplay/animation/04-recoil-256.webp",
+        "gameplay/animation/04-recoil-512.png",
+        "gameplay/animation/04-recoil-512.webp"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2393,
+      "sha256": "02f39ae8eea876777672e1ce098868bdf57d77cc7146c11c3e6967c47ac3d93a"
+    },
+    {
+      "path": "animation.json",
+      "bytes": 706,
+      "sha256": "10480a3bba0843d2d279578749cd5f895f4c5f3ee5055b3fbf8c3a769468d7d1"
+    },
+    {
+      "path": "gameplay/animation/00-idle-128.png",
+      "bytes": 26163,
+      "sha256": "c1bad6981fdad18e3a885f51f73d22c7f97473c1f52198546fdae8cadb31b9a7"
+    },
+    {
+      "path": "gameplay/animation/00-idle-128.webp",
+      "bytes": 21220,
+      "sha256": "2e5521844a8fec83a369854c82f50458768f8e828ca3e8fba6bb0c9ec6463e9d"
+    },
+    {
+      "path": "gameplay/animation/00-idle-256.png",
+      "bytes": 88445,
+      "sha256": "0487236d56fcc434b36bbb1e3a748555537a79ec3e62ea79e933d9775d57b1ad"
+    },
+    {
+      "path": "gameplay/animation/00-idle-256.webp",
+      "bytes": 64218,
+      "sha256": "a4d97faf2842d3dcc9c9e0f5f173ee419fcf3c0091eccc0b072c7e726cf7159c"
+    },
+    {
+      "path": "gameplay/animation/00-idle-512.png",
+      "bytes": 312341,
+      "sha256": "e23d7c6669d11a689d4da2d68b5beceb65f17e9d30407c74d13198aaab731066"
+    },
+    {
+      "path": "gameplay/animation/00-idle-512.webp",
+      "bytes": 214894,
+      "sha256": "d16c30b34a4a24541d33f4a48ff7d1481d14d4a2ca68604b88a8351dc6f57fd4"
+    },
+    {
+      "path": "gameplay/animation/00-idle-64.png",
+      "bytes": 8054,
+      "sha256": "031ba20c2124e9e7534a2208827b67d560a7b3298234d469c82177794bcb50f0"
+    },
+    {
+      "path": "gameplay/animation/00-idle-64.webp",
+      "bytes": 7200,
+      "sha256": "ce17f98edf72f4a040c3ce1708d9f4b63f27f05eaaaa0edd96086a20f562be56"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-128.png",
+      "bytes": 26328,
+      "sha256": "689ec6e1639bc80511c3afebec8cff2c741b297abbd13157f0e3326dddf8a630"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-128.webp",
+      "bytes": 21402,
+      "sha256": "80c7774339fe9ce18d20877f903569ccd38a0ad1c9038dc0e3e24bed9949b1a1"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-256.png",
+      "bytes": 88343,
+      "sha256": "c9f092637331a3c7158cd1de8ebef5d3a9d9747c0af6df50759eba50d7cdaf08"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-256.webp",
+      "bytes": 64850,
+      "sha256": "2b354c8c20a1fbd8c4cecc376b6f71f3e5de9037367508c54dbe9c691db49672"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-512.png",
+      "bytes": 308486,
+      "sha256": "83581b79dc870736c07c44938eea23e9dc1ae6e1790c5dc5e3e355dfe2fc2874"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-512.webp",
+      "bytes": 212014,
+      "sha256": "09123ad997234953ccdc9b31f99d21a98e59b735e198c8652bdb43e6a3dda694"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-64.png",
+      "bytes": 8066,
+      "sha256": "31c3aaf4d1978c6fa36bd9cab3f0a48b63e22e2eca1bf04bc89993c520afcd65"
+    },
+    {
+      "path": "gameplay/animation/01-charge-1-64.webp",
+      "bytes": 7200,
+      "sha256": "355beb628823a3b2a6e5c9082f807cee35386269f22ee42dfdbf32034d42000c"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-128.png",
+      "bytes": 26193,
+      "sha256": "9a0cc12a457d74fdc60f10c1937992d8431cba6b8eefc8a17b6dd6c610a5c16f"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-128.webp",
+      "bytes": 21432,
+      "sha256": "48b0db2fd0c1850620701e2b1510250a1927f8223033e8be5c7f8302990d3b58"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-256.png",
+      "bytes": 88316,
+      "sha256": "891fc65d9925e758e204035afddf1c8323561b80b0a4e3a113db45280a807732"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-256.webp",
+      "bytes": 64924,
+      "sha256": "c6dad493f2c938ff409d02168f25a73fc49d2adb6838223c53cfc42b5aeeb3f9"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-512.png",
+      "bytes": 308565,
+      "sha256": "bab832c33aa80581a16da361a0f8301130accb07e6860f0ec46602960da58b77"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-512.webp",
+      "bytes": 212496,
+      "sha256": "3b97e9ea977e9c331465aa86aaaa10f0ac7615a19585ee867687318656e5cc3b"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-64.png",
+      "bytes": 8086,
+      "sha256": "e1937ffb275c12b153e943cc19a8de85e6767de5bf1f8167a3764ac8e490dcab"
+    },
+    {
+      "path": "gameplay/animation/02-charge-2-64.webp",
+      "bytes": 7150,
+      "sha256": "ef52b67d3008f0d02a6a5e7cc7ad34e3f3db905f52c6c7e53ca5ee587e578f61"
+    },
+    {
+      "path": "gameplay/animation/03-release-128.png",
+      "bytes": 27132,
+      "sha256": "9cd7835da0d00fc6e3a88b45a0e47447bdfbeaad01126ad46715fa782e3a7095"
+    },
+    {
+      "path": "gameplay/animation/03-release-128.webp",
+      "bytes": 22510,
+      "sha256": "a2d7d7ed0eb8049c1ea930b742dd204ab30082a5134bf43fdb71fc00bc64660c"
+    },
+    {
+      "path": "gameplay/animation/03-release-256.png",
+      "bytes": 91156,
+      "sha256": "68a52c9299cb2d8681ba2b8f6913319bd092db2e633300e3fc629af16e7a72be"
+    },
+    {
+      "path": "gameplay/animation/03-release-256.webp",
+      "bytes": 66180,
+      "sha256": "aa2ee466322ceca1f8c95e449a22d4b30bd2c1db1e1aafe4840f8b6042cfcfaf"
+    },
+    {
+      "path": "gameplay/animation/03-release-512.png",
+      "bytes": 315714,
+      "sha256": "52cdfadf7eac96c3f16816b9defabc2c2c8730f5b7fd526cc6920fb9d94e6c42"
+    },
+    {
+      "path": "gameplay/animation/03-release-512.webp",
+      "bytes": 218114,
+      "sha256": "124b61e7a302a5a095bf2f872ad5906746ed047dd1b9725b909b88e15903c391"
+    },
+    {
+      "path": "gameplay/animation/03-release-64.png",
+      "bytes": 8372,
+      "sha256": "243adf6b8be3435543c59b29d58795a13b6b892613e9d4dcbc83c4812604fe4e"
+    },
+    {
+      "path": "gameplay/animation/03-release-64.webp",
+      "bytes": 7518,
+      "sha256": "c53c44ea25873860053db41f505140614f68a767ef636285ca48ff36d65d9dee"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-128.png",
+      "bytes": 24951,
+      "sha256": "4f1ab8ca843550978b43574225ac8fc9e070c10511c4ba7b87dd7b53e2702e39"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-128.webp",
+      "bytes": 20498,
+      "sha256": "4115fbaf6ecc8133bc9f1d88438834c84cb08e3de1a1eebf2f0d7ddab6e918a3"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-256.png",
+      "bytes": 83922,
+      "sha256": "e3711eab52519d6ed725917727eabad7990acf757969b7e28698dc0b37f7a691"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-256.webp",
+      "bytes": 61710,
+      "sha256": "478911147407788665ca4738f39c8b61b50fff1c7878d129d240a57059ffae5e"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-512.png",
+      "bytes": 292300,
+      "sha256": "4e1308204981968c7be701475cbaed02800e36538da065fc30aef278b9632b3a"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-512.webp",
+      "bytes": 199484,
+      "sha256": "30d98ab0d6a308756fdd500294769b3a34c2b3f86ef681e9506cca19c512dde8"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-64.png",
+      "bytes": 7715,
+      "sha256": "18cf9d6c322fc056962d487f6bca5bfb583db6d5dab14a2bc9341d231fd1b9e2"
+    },
+    {
+      "path": "gameplay/animation/04-recoil-64.webp",
+      "bytes": 6864,
+      "sha256": "1669e235e59645568d2c324b7697402e80bffa16a8b40c8928287fcf41785d5b"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-128.png",
+      "bytes": 8537,
+      "sha256": "fde20de6c563a1664ebabe267ece1f7bf7858ac0842f09e98b61acd7b8c405a3"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-128.webp",
+      "bytes": 6034,
+      "sha256": "58a265c0ad744054e5e481c3c5f9111799e530eafd6e839d76e0fde2167469c9"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-256.png",
+      "bytes": 28735,
+      "sha256": "48552a9457673463fccb0113afa4a28804c9c9befbbf9245715c33950839bc31"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-256.webp",
+      "bytes": 18944,
+      "sha256": "412dabd1820e8610c2e05138530c03722dfb8da2dea636fe34e28516f5e4e908"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-512.png",
+      "bytes": 100242,
+      "sha256": "7c07887ae6b0ed744a8d4cc94d526064f49dc170313b5a5099727f503da71eae"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-512.webp",
+      "bytes": 66704,
+      "sha256": "7536a148582b361f662b2230b3b831c2a7add6330d5d4f7a5068547c2a020a18"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-64.png",
+      "bytes": 2697,
+      "sha256": "3f45adeea1aec40f69aa800e6d5ea6552d3d6db5879da256f52cca5e2e597767"
+    },
+    {
+      "path": "gameplay/effects/aim-dot-64.webp",
+      "bytes": 2198,
+      "sha256": "dc09acde910d68145bbd18167952d378aa9ded400add491d391714eabace2e1f"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-128.png",
+      "bytes": 14543,
+      "sha256": "11c96a3073c5bcc1cf92dc6d1f1a5bd11072d58d17605fede479638770765c97"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-128.webp",
+      "bytes": 12692,
+      "sha256": "414088507315af8a33015ce67894a9fcc4f15c59dd9d560a30ef6f2cd533312e"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-256.png",
+      "bytes": 48297,
+      "sha256": "7e117fda4a9181e960409eb80e7c6a2b42ca366a0b7e680b8ce790d60f88c663"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-256.webp",
+      "bytes": 38082,
+      "sha256": "84a6fdf3e371857d3d98eacd61cd28ce0795aeea3593f1b14a8eda26f13c6b46"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-512.png",
+      "bytes": 169245,
+      "sha256": "dfa51c6edc5585944595e92b471e77a4cf21ba03bb1bbff03758f784e8e144a6"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-512.webp",
+      "bytes": 127158,
+      "sha256": "cc586dbda113eb585ec8c88ed739df144878b2c50c9a385549a8a54c6f592e31"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-64.png",
+      "bytes": 4867,
+      "sha256": "b247165714b3009c287fcad5247e9a71eca188fffa4f8ea6ab0f78fd90808f8f"
+    },
+    {
+      "path": "gameplay/effects/muzzle-flash-64.webp",
+      "bytes": 4198,
+      "sha256": "9c0ad5aa8fa28d97b2def23738df2dcda7ed5cf40b148b4aa8011083f1983b03"
+    },
+    {
+      "path": "gameplay/effects/projectile-128.png",
+      "bytes": 23124,
+      "sha256": "40396479a44012d27c228c0052cd1e895ebb7bb00703db71ad91e18c2f5867f8"
+    },
+    {
+      "path": "gameplay/effects/projectile-128.webp",
+      "bytes": 17430,
+      "sha256": "e9eac70fc60e33015244c41e85f02df37cdecb06e4f34ccd68eafcf73ad1ea86"
+    },
+    {
+      "path": "gameplay/effects/projectile-256.png",
+      "bytes": 71836,
+      "sha256": "12e48a7c9d2539a3769e3ee6d11f6100eb3ad5f00f03526ec63b10c6abdfd2dc"
+    },
+    {
+      "path": "gameplay/effects/projectile-256.webp",
+      "bytes": 50672,
+      "sha256": "85c7c13f66dee41c331830e2d2c75ccbf50036a3eb28c017f39a791543da78d8"
+    },
+    {
+      "path": "gameplay/effects/projectile-512.png",
+      "bytes": 236410,
+      "sha256": "ea381235b6ef22b80ca4641fff47d78643ab188ce9a95e3f1af406607d987198"
+    },
+    {
+      "path": "gameplay/effects/projectile-512.webp",
+      "bytes": 164902,
+      "sha256": "c057d77de205d1ce5f1a05f6f37d2a49895a792b753bf69451e9637116dff347"
+    },
+    {
+      "path": "gameplay/effects/projectile-64.png",
+      "bytes": 7274,
+      "sha256": "c3046557e83c9fa5f1aeec82057de57ab22e35a6a4e23ffd69c7bdee6d8f1e66"
+    },
+    {
+      "path": "gameplay/effects/projectile-64.webp",
+      "bytes": 6216,
+      "sha256": "dd1e28d4ea236a20e5129cb0df38b2c5798e10a087d12958f320f37323872659"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-128.png",
+      "bytes": 10466,
+      "sha256": "33e3f6fa111402b90123751a5be8b635fbad2cf64298356ccbbfeb831624861f"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-128.webp",
+      "bytes": 8638,
+      "sha256": "6f2ba70cc9a3b54e2a16a1f53021ab123f3035260523b3afe572ee23b9a920e2"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-256.png",
+      "bytes": 30980,
+      "sha256": "e29e56a08e9032ebab055941928ec7ba0e5af02ae520e1974386967125e9b276"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-256.webp",
+      "bytes": 23448,
+      "sha256": "143292771da03de7d8877ca1ce7b4b4e753c752a79aeedfd6ef20cc155f41df9"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-512.png",
+      "bytes": 99272,
+      "sha256": "5c4c4371b7ba9d42693b31ac04350b2af8b533b8b6c32fc97bd9990104207ead"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-512.webp",
+      "bytes": 71798,
+      "sha256": "8e51c723f39273840382ae46bd39bea2663f3c045c620dbff5587402a88d8127"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-64.png",
+      "bytes": 3829,
+      "sha256": "26b017a8505f22cf5d54b82cc767f80541f099a4f6bf3dc1a97a9a19faa74c44"
+    },
+    {
+      "path": "gameplay/effects/target-brackets-64.webp",
+      "bytes": 3472,
+      "sha256": "26394481acd17643937d58f07f0382b2780a632686654db30d25b00d37cb9f16"
+    },
+    {
+      "path": "gameplay/effects/trail-128.png",
+      "bytes": 7086,
+      "sha256": "120d721d472d952b01e378a4f3175fabc961941bc6b52a4428f5423c95a759c6"
+    },
+    {
+      "path": "gameplay/effects/trail-128.webp",
+      "bytes": 5796,
+      "sha256": "5e7ab6f198d59650e4be085e0721ed26e123ad01707e6f002e43adcc365b705f"
+    },
+    {
+      "path": "gameplay/effects/trail-256.png",
+      "bytes": 21936,
+      "sha256": "0c0a824b6083015ef51e7d60b3f99877a6ca45974b679c21e68471b49c42a51b"
+    },
+    {
+      "path": "gameplay/effects/trail-256.webp",
+      "bytes": 17678,
+      "sha256": "56304bbc38002225a1326685845815e0f0d219577f6f0cca0d86faddc1f44f94"
+    },
+    {
+      "path": "gameplay/effects/trail-512.png",
+      "bytes": 73386,
+      "sha256": "ee47daef621f6e7395c8dc27afac7fe1d2ae32f77c91b2f4bcf3167998e19962"
+    },
+    {
+      "path": "gameplay/effects/trail-512.webp",
+      "bytes": 56046,
+      "sha256": "776258b7e982167fc989e863bfd2b3ddbda6e0b3fadaafa25f1d92e3ae19bac0"
+    },
+    {
+      "path": "gameplay/effects/trail-64.png",
+      "bytes": 2494,
+      "sha256": "19be0ad1c0729a72eae4c22df9023010cf0ad568cfff754febb856977ba47f8a"
+    },
+    {
+      "path": "gameplay/effects/trail-64.webp",
+      "bytes": 1870,
+      "sha256": "53679722b7ab7031ad147c62414da4d221d6eb36aac0eb47db82e44199def989"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-128.png",
+      "bytes": 26719,
+      "sha256": "f74305418f6301fa374a2676a75d036e0fe9a29a15dc89d108e97e0fcd137a20"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-128.webp",
+      "bytes": 21880,
+      "sha256": "bc6274ac4604f2d5dbb7db5fe2b74ce340784d892f3772d0c15b64c8166e4cd5"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-256.png",
+      "bytes": 90215,
+      "sha256": "88d104e1cbec39df6727e86eeb0f47159e0c4a73a0b37f1ec93d3c69c29abe5b"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-256.webp",
+      "bytes": 65984,
+      "sha256": "5bc36084b798740852f2325d7f1020ae179172c4fdfe8468efc40e82e180882e"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-512.png",
+      "bytes": 313227,
+      "sha256": "da375cdc50bc8e3c523383243a73071a4e50e25da421fad9fd99181d1d56e3e0"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-512.webp",
+      "bytes": 215020,
+      "sha256": "4828d5bd139b96e4d606d3ad4d79cf5b8c777e2ed5640661cf670699381152ad"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-64.png",
+      "bytes": 8216,
+      "sha256": "be8eca4e17e9faa38bd232c524629546276748c5d82e2fe7cdd31dfa04041b4f"
+    },
+    {
+      "path": "gameplay/expressions/cheerful-64.webp",
+      "bytes": 7338,
+      "sha256": "00acefa3684a49e15e4a66ef30dc71be3a3757771688809fd78bff5159550be6"
+    },
+    {
+      "path": "gameplay/expressions/excited-128.png",
+      "bytes": 26297,
+      "sha256": "8aea60cbcf919dcba1fda986cbe1111e6643b3f85973efcd9048fef5e7f120a6"
+    },
+    {
+      "path": "gameplay/expressions/excited-128.webp",
+      "bytes": 21416,
+      "sha256": "78bdb05d1822da687eed510614aeb7c546a9513cc9f55711011f4946ccebf617"
+    },
+    {
+      "path": "gameplay/expressions/excited-256.png",
+      "bytes": 88436,
+      "sha256": "a7257b6bf07a1f070b2657e699073e46b44f275ac0c1408442742448164713dd"
+    },
+    {
+      "path": "gameplay/expressions/excited-256.webp",
+      "bytes": 64310,
+      "sha256": "d8ef89e0ad026119494e2b482d741c22af23c09887ef714852ff1cb05216efcf"
+    },
+    {
+      "path": "gameplay/expressions/excited-512.png",
+      "bytes": 307291,
+      "sha256": "fb93f276f227ff96187b38bf4fe0904c7f7d386b0cb6a0aa0ff2de79c17677b5"
+    },
+    {
+      "path": "gameplay/expressions/excited-512.webp",
+      "bytes": 207614,
+      "sha256": "cc09e5617ce1ea6e590d6115ebf1552f00d6fd85f014a69a7e4e91dc59fd57ee"
+    },
+    {
+      "path": "gameplay/expressions/excited-64.png",
+      "bytes": 8121,
+      "sha256": "2b5f83a620988310ff11bcd7202660a219ef1c9b417e4feb4b4b05327ac3c523"
+    },
+    {
+      "path": "gameplay/expressions/excited-64.webp",
+      "bytes": 7190,
+      "sha256": "bff1906cac4fff2897da678c265f7d1df9223cc5d5c842183747880822eb2b11"
+    },
+    {
+      "path": "gameplay/expressions/focused-128.png",
+      "bytes": 26295,
+      "sha256": "8066090c2204d0a2cc026a5bd9d934696786308e6c941aba4f67ac2f799c580c"
+    },
+    {
+      "path": "gameplay/expressions/focused-128.webp",
+      "bytes": 21384,
+      "sha256": "2cf503bcb1789e59db5aac014ef6a47cb4877e660c37834f006e9158ef0b235b"
+    },
+    {
+      "path": "gameplay/expressions/focused-256.png",
+      "bytes": 88378,
+      "sha256": "288dba3e95852b97618fbe7aa4b2876751449a31081c20b8ef154a9d0efa4303"
+    },
+    {
+      "path": "gameplay/expressions/focused-256.webp",
+      "bytes": 64176,
+      "sha256": "a5862fea3403a7f9d94d0cdc776fd97277d376dc24dd0413ea8c8e0eb79a37ee"
+    },
+    {
+      "path": "gameplay/expressions/focused-512.png",
+      "bytes": 307319,
+      "sha256": "23b69b1c2e46616e85403d115c8b25cd537a2ed6f5e01ff3a9c5e0582183141a"
+    },
+    {
+      "path": "gameplay/expressions/focused-512.webp",
+      "bytes": 209316,
+      "sha256": "b4d6f59ca832d2b48c3743e176fdcbbbdc8c3442736b4a7b39029f10f22f36b8"
+    },
+    {
+      "path": "gameplay/expressions/focused-64.png",
+      "bytes": 8168,
+      "sha256": "74d1d4a743461d20f86f2128d5e0018d1e6ea39daa8a0267b5cd41edcf521808"
+    },
+    {
+      "path": "gameplay/expressions/focused-64.webp",
+      "bytes": 7256,
+      "sha256": "caee8b75cca21267ddc890b7d529c225d5682014a80d8d37ab2e58cac1cef0b7"
+    },
+    {
+      "path": "gameplay/expressions/happy-128.png",
+      "bytes": 26163,
+      "sha256": "c1bad6981fdad18e3a885f51f73d22c7f97473c1f52198546fdae8cadb31b9a7"
+    },
+    {
+      "path": "gameplay/expressions/happy-128.webp",
+      "bytes": 21220,
+      "sha256": "2e5521844a8fec83a369854c82f50458768f8e828ca3e8fba6bb0c9ec6463e9d"
+    },
+    {
+      "path": "gameplay/expressions/happy-256.png",
+      "bytes": 88445,
+      "sha256": "0487236d56fcc434b36bbb1e3a748555537a79ec3e62ea79e933d9775d57b1ad"
+    },
+    {
+      "path": "gameplay/expressions/happy-256.webp",
+      "bytes": 64218,
+      "sha256": "a4d97faf2842d3dcc9c9e0f5f173ee419fcf3c0091eccc0b072c7e726cf7159c"
+    },
+    {
+      "path": "gameplay/expressions/happy-512.png",
+      "bytes": 312341,
+      "sha256": "e23d7c6669d11a689d4da2d68b5beceb65f17e9d30407c74d13198aaab731066"
+    },
+    {
+      "path": "gameplay/expressions/happy-512.webp",
+      "bytes": 214894,
+      "sha256": "d16c30b34a4a24541d33f4a48ff7d1481d14d4a2ca68604b88a8351dc6f57fd4"
+    },
+    {
+      "path": "gameplay/expressions/happy-64.png",
+      "bytes": 8054,
+      "sha256": "031ba20c2124e9e7534a2208827b67d560a7b3298234d469c82177794bcb50f0"
+    },
+    {
+      "path": "gameplay/expressions/happy-64.webp",
+      "bytes": 7200,
+      "sha256": "ce17f98edf72f4a040c3ce1708d9f4b63f27f05eaaaa0edd96086a20f562be56"
+    },
+    {
+      "path": "gameplay/expressions/surprised-128.png",
+      "bytes": 26449,
+      "sha256": "96e95a021350252a030f662b7dd08735990cf2d6a4be4804c90e7fbbc1918808"
+    },
+    {
+      "path": "gameplay/expressions/surprised-128.webp",
+      "bytes": 21528,
+      "sha256": "6460ea8151c61ca4f68b02a61752c76d913ce7a62de11677125e9119372bd05f"
+    },
+    {
+      "path": "gameplay/expressions/surprised-256.png",
+      "bytes": 89356,
+      "sha256": "466a819174bb2a537ed3a78d36c9b3fc280ae9b6c16baee092876c83b8846bc0"
+    },
+    {
+      "path": "gameplay/expressions/surprised-256.webp",
+      "bytes": 65224,
+      "sha256": "0d61ed7e1f16ca96c37404de0a91cd756201105e9182e376f5eab0ffbe96dd1c"
+    },
+    {
+      "path": "gameplay/expressions/surprised-512.png",
+      "bytes": 311133,
+      "sha256": "86223c5d28f06378b4de2d7831b9e614e741f717b966de7069aa37d70a815efc"
+    },
+    {
+      "path": "gameplay/expressions/surprised-512.webp",
+      "bytes": 211162,
+      "sha256": "edb16fdc6632a98c1b854a8651aa01608bff99271cd9b5a35ed619c8b6a90e6f"
+    },
+    {
+      "path": "gameplay/expressions/surprised-64.png",
+      "bytes": 8143,
+      "sha256": "0fc29392a1786e5877fc72ee4d9686ed9b837f61da27d1471591dbb140af7c1f"
+    },
+    {
+      "path": "gameplay/expressions/surprised-64.webp",
+      "bytes": 7258,
+      "sha256": "c171478baee385ba8eb1932607a4827d61e15e026f409dacb64d043031b0049b"
+    },
+    {
+      "path": "gameplay/expressions/wink-128.png",
+      "bytes": 26310,
+      "sha256": "19e6c4971cf9b7456740ce249d61d2a3f4e75510a5b07a7d8882063f36cefb84"
+    },
+    {
+      "path": "gameplay/expressions/wink-128.webp",
+      "bytes": 21290,
+      "sha256": "8c504e12edecdf5b9815d8ae21ba9bc65af7d0d54b648ea8d769efe49d6bcbc7"
+    },
+    {
+      "path": "gameplay/expressions/wink-256.png",
+      "bytes": 88295,
+      "sha256": "48e5a13c5b55abf5e4b79520957d6f87807a2c4e5c533c3271d06818734e906c"
+    },
+    {
+      "path": "gameplay/expressions/wink-256.webp",
+      "bytes": 64258,
+      "sha256": "b2843b1c90a690b95341ef763c8edc4a2f570232d27e8f05f746a9e18e17e35f"
+    },
+    {
+      "path": "gameplay/expressions/wink-512.png",
+      "bytes": 307274,
+      "sha256": "6bcc31535cf345232103547da3ab40a5bdc26481dcf35893047b41f6100a4586"
+    },
+    {
+      "path": "gameplay/expressions/wink-512.webp",
+      "bytes": 208942,
+      "sha256": "cd5b4f3bce1281a16a49af70000f121ed4e5a6b3ba8d292723974dfb67cfd9fa"
+    },
+    {
+      "path": "gameplay/expressions/wink-64.png",
+      "bytes": 8129,
+      "sha256": "69644dfa53f618bd8fe173c66ef3dd79c6f8a5ce587fa2ddbe9e1a5c5e184124"
+    },
+    {
+      "path": "gameplay/expressions/wink-64.webp",
+      "bytes": 7254,
+      "sha256": "1c079639719b5a41a2b953b2fd9cdeeb3438a776a61f4aeb49b29e7679e13d98"
+    },
+    {
+      "path": "gameplay/icons/ability-128.png",
+      "bytes": 24516,
+      "sha256": "7f1158696d01f1f9cb5ad99bf642c8b5037d527ef6516dece5b1169f59569cac"
+    },
+    {
+      "path": "gameplay/icons/ability-128.webp",
+      "bytes": 18802,
+      "sha256": "77ea174a73edcefc1d90ffaf7008084e48f636371830a1702c5ea972a2e1fd17"
+    },
+    {
+      "path": "gameplay/icons/ability-256.png",
+      "bytes": 77359,
+      "sha256": "ed576522d77d98c973fbc151e1ef17bed9c46f0ce895ccd2e204f2443bdbff0e"
+    },
+    {
+      "path": "gameplay/icons/ability-256.webp",
+      "bytes": 55166,
+      "sha256": "e634b1fcbd5392cffa57c8019ec604cce6f7a7f868c50751f375a2e7ef5a2576"
+    },
+    {
+      "path": "gameplay/icons/ability-512.png",
+      "bytes": 254281,
+      "sha256": "f6a55e833d134dc557bd42d45ea7d8a4935cb3097e7ae7a0b8cfc359522111c2"
+    },
+    {
+      "path": "gameplay/icons/ability-512.webp",
+      "bytes": 178312,
+      "sha256": "2bd355b47273411f614af82f2515f6936b7d5ea3e1df335271aff0fa86648a8a"
+    },
+    {
+      "path": "gameplay/icons/ability-64.png",
+      "bytes": 7612,
+      "sha256": "578028603ebb86172b5778e9834a4b6bb8f648b9913380a4d11126e5fcfccbbf"
+    },
+    {
+      "path": "gameplay/icons/ability-64.webp",
+      "bytes": 6620,
+      "sha256": "2d95517a86c6de88f8fa4960034f73457dd079b035fbe2ea9cc12bab9060b50b"
+    },
+    {
+      "path": "gameplay/icons/app-tile-128.png",
+      "bytes": 25261,
+      "sha256": "9a5a3238aa4b09b9dc160c1d139a4c13adb3360f0418fe034ad04d2023b5f82a"
+    },
+    {
+      "path": "gameplay/icons/app-tile-128.webp",
+      "bytes": 19526,
+      "sha256": "0936c346aa31ad6ddd59202b37e9739c2a5e6fda9f59336d715c2296837d7781"
+    },
+    {
+      "path": "gameplay/icons/app-tile-256.png",
+      "bytes": 82068,
+      "sha256": "bb4c0bab64c20df05de7b066b297911105944018b3c3ea1289cd850e25ffa5fc"
+    },
+    {
+      "path": "gameplay/icons/app-tile-256.webp",
+      "bytes": 56906,
+      "sha256": "542d26e13ea6a396394e1b44ad5e21339dec584c2e7cac13bce042c75ec37392"
+    },
+    {
+      "path": "gameplay/icons/app-tile-512.png",
+      "bytes": 277880,
+      "sha256": "f31b17bc2062ba783a0d10cfb7ced87469ffba8bd5235c62d14d19136cbf045f"
+    },
+    {
+      "path": "gameplay/icons/app-tile-512.webp",
+      "bytes": 183592,
+      "sha256": "813fd1b15f91e254a4b268937658692f4c8c506d6487e79c9c0c25a2aeb9a243"
+    },
+    {
+      "path": "gameplay/icons/app-tile-64.png",
+      "bytes": 8114,
+      "sha256": "daf11aeba0d6e5ceace157d6377a20bd3bb57fdd8feeb7c5459f6d19b271a4d5"
+    },
+    {
+      "path": "gameplay/icons/app-tile-64.webp",
+      "bytes": 6836,
+      "sha256": "074de5f2b70ea589a259f7c966b2d737a1112e486fbc0757d3edb652c0655a53"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-128.png",
+      "bytes": 26307,
+      "sha256": "71f15d5a13f8e492dbb77fa81a81c08c18637a95983ce1a4d4fe6f1dce1a1f67"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-128.webp",
+      "bytes": 21540,
+      "sha256": "973366ceaf1d63b1442b3ff1f7f5421a08099e1606bc6e001ebdeb595b5c2309"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-256.png",
+      "bytes": 88553,
+      "sha256": "cfe385f2c483179b907b2f8980683f5a1881d0920a922032c2f21875659f7001"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-256.webp",
+      "bytes": 64708,
+      "sha256": "5a3456aaf83b79d0e9d8e40766f504866888075a7aa157218448507f9ad94591"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-512.png",
+      "bytes": 308463,
+      "sha256": "dc86b22f5aaaa91497f122a781d1bba33d4cb970cef973d007ba704818b14db0"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-512.webp",
+      "bytes": 211724,
+      "sha256": "818f46811fed011ce6a940d1e19673db9ea5aad3ee7b5f78a2df6e51c89804b8"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-64.png",
+      "bytes": 8151,
+      "sha256": "8fb2f5b5db00ff42ea19b53c42841618e7a52178c3b777249e90d9451f161e8f"
+    },
+    {
+      "path": "gameplay/poses/aiming-charged-64.webp",
+      "bytes": 7270,
+      "sha256": "d52a61ff67c4d2ca04dd9cae1bcc6cea384c3a08a2a9fe12c0b63422cd52f1a9"
+    },
+    {
+      "path": "gameplay/poses/firing-128.png",
+      "bytes": 26025,
+      "sha256": "c1a1ed8c7d3914445b6bba7779320490fd9ad3ea74d6d83dd22726dbaec17f93"
+    },
+    {
+      "path": "gameplay/poses/firing-128.webp",
+      "bytes": 21284,
+      "sha256": "723b158ce063d10bce1a79fa0579ed3ff85412d34034a42b5cd6786611bd9fb5"
+    },
+    {
+      "path": "gameplay/poses/firing-256.png",
+      "bytes": 87644,
+      "sha256": "2e9cb5f02e17f57deb105de5fa7b213381532d81c92f9e9131372ae005aea769"
+    },
+    {
+      "path": "gameplay/poses/firing-256.webp",
+      "bytes": 63068,
+      "sha256": "1ddecd2666387eedb190b069cb8ad6ff3c3bc346e2e868d17e57542b6b2c4bef"
+    },
+    {
+      "path": "gameplay/poses/firing-512.png",
+      "bytes": 304481,
+      "sha256": "f98f5404f2ba8e4a136f82cfb13d25e84d9860f639525b02838af81ed433181a"
+    },
+    {
+      "path": "gameplay/poses/firing-512.webp",
+      "bytes": 206648,
+      "sha256": "afb23bdc916390182de14aeb6fb6fd6198ba6f638eabd8d266786ec96e90d8b2"
+    },
+    {
+      "path": "gameplay/poses/firing-64.png",
+      "bytes": 8056,
+      "sha256": "6a87d3d33b5e6e9afced4ebe61e8b7be75c78a8926f601ef8152dc132ec296ff"
+    },
+    {
+      "path": "gameplay/poses/firing-64.webp",
+      "bytes": 7184,
+      "sha256": "4142b40fe771568350fb112bc494a6c66defbf7dbb692e6292e155d1620784ad"
+    },
+    {
+      "path": "gameplay/poses/idle-128.png",
+      "bytes": 26163,
+      "sha256": "c1bad6981fdad18e3a885f51f73d22c7f97473c1f52198546fdae8cadb31b9a7"
+    },
+    {
+      "path": "gameplay/poses/idle-128.webp",
+      "bytes": 21220,
+      "sha256": "2e5521844a8fec83a369854c82f50458768f8e828ca3e8fba6bb0c9ec6463e9d"
+    },
+    {
+      "path": "gameplay/poses/idle-256.png",
+      "bytes": 88445,
+      "sha256": "0487236d56fcc434b36bbb1e3a748555537a79ec3e62ea79e933d9775d57b1ad"
+    },
+    {
+      "path": "gameplay/poses/idle-256.webp",
+      "bytes": 64218,
+      "sha256": "a4d97faf2842d3dcc9c9e0f5f173ee419fcf3c0091eccc0b072c7e726cf7159c"
+    },
+    {
+      "path": "gameplay/poses/idle-512.png",
+      "bytes": 312341,
+      "sha256": "e23d7c6669d11a689d4da2d68b5beceb65f17e9d30407c74d13198aaab731066"
+    },
+    {
+      "path": "gameplay/poses/idle-512.webp",
+      "bytes": 214894,
+      "sha256": "d16c30b34a4a24541d33f4a48ff7d1481d14d4a2ca68604b88a8351dc6f57fd4"
+    },
+    {
+      "path": "gameplay/poses/idle-64.png",
+      "bytes": 8054,
+      "sha256": "031ba20c2124e9e7534a2208827b67d560a7b3298234d469c82177794bcb50f0"
+    },
+    {
+      "path": "gameplay/poses/idle-64.webp",
+      "bytes": 7200,
+      "sha256": "ce17f98edf72f4a040c3ce1708d9f4b63f27f05eaaaa0edd96086a20f562be56"
+    },
+    {
+      "path": "gameplay/silhouettes/back-128.png",
+      "bytes": 5311,
+      "sha256": "8970040156f695d279757b4f09c41babe9ac86023fb41d7c03095cf5d3dfb5f7"
+    },
+    {
+      "path": "gameplay/silhouettes/back-128.webp",
+      "bytes": 2648,
+      "sha256": "5565391fe43010b0c5d4ab242f7e5f8ab07f7317c8bdc4f66ca308c870f9a940"
+    },
+    {
+      "path": "gameplay/silhouettes/back-256.png",
+      "bytes": 10965,
+      "sha256": "2d751496f4a9846fc2b01a4e8e54ab0d2a0cbea864983b00f4559269e00c7cad"
+    },
+    {
+      "path": "gameplay/silhouettes/back-256.webp",
+      "bytes": 5024,
+      "sha256": "5ccb8c4c7d324d6a35522fea25a45a3e18bdbcd61100fa0050d83afbc9c5cbfd"
+    },
+    {
+      "path": "gameplay/silhouettes/back-512.png",
+      "bytes": 23391,
+      "sha256": "1aec6199d4a64c7e89888f11c96182a9fb9ed53afa52d9ca3f6daa7151473784"
+    },
+    {
+      "path": "gameplay/silhouettes/back-512.webp",
+      "bytes": 10156,
+      "sha256": "cbbd42f211d9a0b5506752a542fdd7fff468d3a51a6bdf4a89f7ae3cfa6c5352"
+    },
+    {
+      "path": "gameplay/silhouettes/back-64.png",
+      "bytes": 2558,
+      "sha256": "3aa1601ee4b34c8058d8c65d9b3024de7657e9e8bef08ada8773fd7e29fbcb55"
+    },
+    {
+      "path": "gameplay/silhouettes/back-64.webp",
+      "bytes": 1364,
+      "sha256": "86a3dfb64baf9e8e5f57e3c41c9eee22dd68bf260b2e6f0638be9f837049a9ae"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-128.png",
+      "bytes": 4951,
+      "sha256": "8da65131101121016096bc8874c8e32e8e461eb34b3b6db52196be783e8e06f8"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-128.webp",
+      "bytes": 2422,
+      "sha256": "bd650032e085ec5798319893fdad8630031527cd6fbb0e2f2d3fa25e2f73c5a6"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-256.png",
+      "bytes": 10390,
+      "sha256": "909c8927ac6c15eab45d55ab1067153bef6fb3791b5b82173fb5bcebb3804c70"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-256.webp",
+      "bytes": 4638,
+      "sha256": "b5a4bfde693c9cbaed9d6ab92866b3af5c976e9baabc5a4c7aea6589fe02e43b"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-512.png",
+      "bytes": 22451,
+      "sha256": "dc76fda6373fa676184b1aad6d6256d4ea0935a9559630dd22e4274e3e60cb08"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-512.webp",
+      "bytes": 9242,
+      "sha256": "49d6db2fb49bc0c50708387ce3c167c683c7af27aefff016e6698fd292da8bbb"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-64.png",
+      "bytes": 2563,
+      "sha256": "380f202f7d2d77e3b300d52c975b99868420f8b8a7b882c360e3773c771517da"
+    },
+    {
+      "path": "gameplay/silhouettes/bottom-64.webp",
+      "bytes": 1348,
+      "sha256": "a69ad99ce703748d96deea3d3b5aa2839327ea8bedbbb30aed5d77800028d774"
+    },
+    {
+      "path": "gameplay/silhouettes/front-128.png",
+      "bytes": 5087,
+      "sha256": "290fede95ff856a1f64b0f37844d6e9d59911f56a2a2feb0ec4ce7d0b6b0c6bd"
+    },
+    {
+      "path": "gameplay/silhouettes/front-128.webp",
+      "bytes": 2608,
+      "sha256": "50e5467282c28eff780e9bf6504b41be719714324feaebc0740d41ae4a2d986d"
+    },
+    {
+      "path": "gameplay/silhouettes/front-256.png",
+      "bytes": 10877,
+      "sha256": "b89cf67e65509b76a51101b8d788b4c9c1d2976d2cceec80300e90db6276eefb"
+    },
+    {
+      "path": "gameplay/silhouettes/front-256.webp",
+      "bytes": 4986,
+      "sha256": "09659b38e2b538ce7c521f421e8ec33a35ff8dfd6a66588af75f716713a092a2"
+    },
+    {
+      "path": "gameplay/silhouettes/front-512.png",
+      "bytes": 22919,
+      "sha256": "8e3130f62ea5ba514a955aa57fd26e62c905c4452d12577661a5c9b7735db882"
+    },
+    {
+      "path": "gameplay/silhouettes/front-512.webp",
+      "bytes": 10138,
+      "sha256": "496a6bf3e5a5dafb5928204901c046382aa62bed143b47c702c35892eb8c42da"
+    },
+    {
+      "path": "gameplay/silhouettes/front-64.png",
+      "bytes": 2495,
+      "sha256": "9d589b75f741ed4fca288dc631f8e5c4ce8f82f963e46cc48ddb586e5ea72260"
+    },
+    {
+      "path": "gameplay/silhouettes/front-64.webp",
+      "bytes": 1304,
+      "sha256": "2334de518118377795e3b5bd174096b83de24348e43fcec1c1260c08282e48c5"
+    },
+    {
+      "path": "gameplay/silhouettes/left-128.png",
+      "bytes": 5414,
+      "sha256": "63924a7b19f417dd19b1896b06d60149991a0c4d03437e072f5a5b9df3c3985d"
+    },
+    {
+      "path": "gameplay/silhouettes/left-128.webp",
+      "bytes": 2756,
+      "sha256": "649115880ef750ccc93e014181ae596d43b32a1fcf14924cdecca7ed04c3eba8"
+    },
+    {
+      "path": "gameplay/silhouettes/left-256.png",
+      "bytes": 11205,
+      "sha256": "9a73fdc36ee41dcd9f982f604be1efb532c444e569b76e082189edccdaf9b401"
+    },
+    {
+      "path": "gameplay/silhouettes/left-256.webp",
+      "bytes": 5220,
+      "sha256": "fa8165a042ce457e44624439a68098859ee10f7d219338255679be6dc3accd5d"
+    },
+    {
+      "path": "gameplay/silhouettes/left-512.png",
+      "bytes": 23728,
+      "sha256": "af7a834cda12ec5273a8517312753cfa9c04fca3935d4eaaf9fada628b140abe"
+    },
+    {
+      "path": "gameplay/silhouettes/left-512.webp",
+      "bytes": 10422,
+      "sha256": "494f5aefbe39ecab2590d7927eeba67f730da7f53a2670b00fdfeef494177522"
+    },
+    {
+      "path": "gameplay/silhouettes/left-64.png",
+      "bytes": 2643,
+      "sha256": "738a9a93dc6a312e6c50dfc9fe6e51d84d9d97f7ae6d8a4c2ea4fac1938dcf48"
+    },
+    {
+      "path": "gameplay/silhouettes/left-64.webp",
+      "bytes": 1414,
+      "sha256": "9ddc63265ffcd0e0311c4d51ee654fda57c9b3e7c906ba54358de638293802b5"
+    },
+    {
+      "path": "gameplay/silhouettes/top-128.png",
+      "bytes": 5084,
+      "sha256": "14a195c72636872171839eecb6a2befed8bb83fa1b88584d39ec66fdf9ac4989"
+    },
+    {
+      "path": "gameplay/silhouettes/top-128.webp",
+      "bytes": 2480,
+      "sha256": "e5dde8272031cae1557e638c9ba79be52e7477e83c285b905de26533bd34cb99"
+    },
+    {
+      "path": "gameplay/silhouettes/top-256.png",
+      "bytes": 10472,
+      "sha256": "3550d506c058072815e440fa1e08460386083b9b9031cfd39c7278b8bfa35ac6"
+    },
+    {
+      "path": "gameplay/silhouettes/top-256.webp",
+      "bytes": 4826,
+      "sha256": "c2a29406373ad84f8a3f1c77420119f5d3c1a607f84d98b37b84bb9414025011"
+    },
+    {
+      "path": "gameplay/silhouettes/top-512.png",
+      "bytes": 22202,
+      "sha256": "3204e26a8532265c910638940808ed5a3073dc0d5f3dc16f70e19cfd5ce84b00"
+    },
+    {
+      "path": "gameplay/silhouettes/top-512.webp",
+      "bytes": 9608,
+      "sha256": "72ed977a537df3fdd56424621ba47df6f87264084a2aaec91ddd76ab8d2181ce"
+    },
+    {
+      "path": "gameplay/silhouettes/top-64.png",
+      "bytes": 2539,
+      "sha256": "60e18766180673d0d7954285e96bbc091a2f7b44e3e2e3eed7edc60d4a053620"
+    },
+    {
+      "path": "gameplay/silhouettes/top-64.webp",
+      "bytes": 1314,
+      "sha256": "e4bc9834ad8912345ea3f07ee26a599436bf5f6c2a654f89ed728e1743bce9c7"
+    },
+    {
+      "path": "gameplay/views/back-128.png",
+      "bytes": 24275,
+      "sha256": "b9be34ddc739dbca70181f4eb751dbbd461e292e51b40fe3dfe14bfca6538db8"
+    },
+    {
+      "path": "gameplay/views/back-128.webp",
+      "bytes": 19930,
+      "sha256": "bab3d543fb3e009357d49547be10a8ca9e0e1170c19670b161ae1956e0bfaccd"
+    },
+    {
+      "path": "gameplay/views/back-256.png",
+      "bytes": 81748,
+      "sha256": "d97db86cea389f0be81b9684c45fe45440f733f397a2d87efcae11076683b8c0"
+    },
+    {
+      "path": "gameplay/views/back-256.webp",
+      "bytes": 59388,
+      "sha256": "4429b1d666067cb3060c013dfe048820e2d9fbdb85badc92d9183ffeefff9871"
+    },
+    {
+      "path": "gameplay/views/back-512.png",
+      "bytes": 286089,
+      "sha256": "9f02eea4ee939400a86703d6b166f240356b030c027fb24f9d27d5d0976021aa"
+    },
+    {
+      "path": "gameplay/views/back-512.webp",
+      "bytes": 197348,
+      "sha256": "4b6769ce412442d9286656540c7a4c47c7c9b7a35c2436cfff17b2b29a9e798f"
+    },
+    {
+      "path": "gameplay/views/back-64.png",
+      "bytes": 7499,
+      "sha256": "f7512d24a047d6c565d564c728387155a8b1129404f318776780f4a9d66e6c9a"
+    },
+    {
+      "path": "gameplay/views/back-64.webp",
+      "bytes": 6682,
+      "sha256": "f6b87542b06ff00c2797246da2086c36eb1b86590628a4b90eed62f73b27309c"
+    },
+    {
+      "path": "gameplay/views/bottom-128.png",
+      "bytes": 21902,
+      "sha256": "c32fa016559bb093514ee5e3d9491448961720e1dc45995f970aaefa00b0fdce"
+    },
+    {
+      "path": "gameplay/views/bottom-128.webp",
+      "bytes": 17678,
+      "sha256": "5a73389af69613bc5b8b376d5da31ca583f0ea55041b914d51d8e336a03e00af"
+    },
+    {
+      "path": "gameplay/views/bottom-256.png",
+      "bytes": 72680,
+      "sha256": "44e4ba76722f1e57c2acc04e9252745824a05cbf78b44a47b461eaf4361ddc1d"
+    },
+    {
+      "path": "gameplay/views/bottom-256.webp",
+      "bytes": 53940,
+      "sha256": "369e40e4eaf7dee841cb44197e01377d3362a635e1c7067cf5a7fbf70ee4f6cf"
+    },
+    {
+      "path": "gameplay/views/bottom-512.png",
+      "bytes": 257439,
+      "sha256": "eb132b47c0acf39e5c240f6bbd6f6b183ccd38c3005d82a927222415836c656e"
+    },
+    {
+      "path": "gameplay/views/bottom-512.webp",
+      "bytes": 173448,
+      "sha256": "1a122795aa17a43da00309bc8ac5ac89f568374c0627ee61e4a000975464ba36"
+    },
+    {
+      "path": "gameplay/views/bottom-64.png",
+      "bytes": 6836,
+      "sha256": "913b7404ef32f046fbbbf1be27b9ac266d201e57ac9d23627eafec0732f29434"
+    },
+    {
+      "path": "gameplay/views/bottom-64.webp",
+      "bytes": 6012,
+      "sha256": "993b4030cb871a1123d72e9dd969678c04e4a9d5bf727b9719a565da028aa6ae"
+    },
+    {
+      "path": "gameplay/views/front-128.png",
+      "bytes": 22397,
+      "sha256": "518f21c2da995dd88ab1130ce7e4e56556e1886a166f64f995b00fde48fac363"
+    },
+    {
+      "path": "gameplay/views/front-128.webp",
+      "bytes": 18370,
+      "sha256": "f4fe0a6ce1bcc92c19dfa2ee88343bda911be9fcd34d9efdbf00442c27c755e1"
+    },
+    {
+      "path": "gameplay/views/front-256.png",
+      "bytes": 74065,
+      "sha256": "91e3b9ebc62cf65f0a700cbc0dbe4f5f627ec67e4c4202588042d601c69a7c1e"
+    },
+    {
+      "path": "gameplay/views/front-256.webp",
+      "bytes": 53542,
+      "sha256": "b20719ae52e44b123eda7b23698ab5709978546d83292a48ce17789d724e99d1"
+    },
+    {
+      "path": "gameplay/views/front-512.png",
+      "bytes": 254681,
+      "sha256": "4587c489086ac0074fef709b670aafe3a61020c879f51c6a7f3e9f52bb2f2853"
+    },
+    {
+      "path": "gameplay/views/front-512.webp",
+      "bytes": 174000,
+      "sha256": "7eec14894c5adcc52d821c92b4e18f947c0e2a2ee1475ae9fb3cf81e523270e9"
+    },
+    {
+      "path": "gameplay/views/front-64.png",
+      "bytes": 6924,
+      "sha256": "78e48490f73e236f169b6c3d11d93f2e30af99e8d97befc8181e0c6319f9d8ed"
+    },
+    {
+      "path": "gameplay/views/front-64.webp",
+      "bytes": 6160,
+      "sha256": "7461cb9399e2127fc41e56f2cfef3b81e090503882a35985cc000cf71914af10"
+    },
+    {
+      "path": "gameplay/views/left-128.png",
+      "bytes": 24688,
+      "sha256": "2e48daf7b345d26b55bfe271c5e4b06ad403c9b77472b9c85d627e4fa0891b47"
+    },
+    {
+      "path": "gameplay/views/left-128.webp",
+      "bytes": 20098,
+      "sha256": "d49aedc479c477d85eff6a76284f474d3c0ca63df7ab6dbf6d3c1a183b24395d"
+    },
+    {
+      "path": "gameplay/views/left-256.png",
+      "bytes": 83083,
+      "sha256": "b2fa51144e9c633ed51a5dc5624d97635eb0bf89a48738a86f696b2319218239"
+    },
+    {
+      "path": "gameplay/views/left-256.webp",
+      "bytes": 58722,
+      "sha256": "b3287d9917ed2c6013dd1d37add36f3517d46f56dcd39aafd8713fa5512e8f56"
+    },
+    {
+      "path": "gameplay/views/left-512.png",
+      "bytes": 290017,
+      "sha256": "e4e42a054aa37a58994752829c1b3dfda7cdf1de4ff1cbb79ab5102d4926b49e"
+    },
+    {
+      "path": "gameplay/views/left-512.webp",
+      "bytes": 196176,
+      "sha256": "7137d0c0aa5bffc09aaabce818d6647da5d556247d022e9502ad90b5cd24561d"
+    },
+    {
+      "path": "gameplay/views/left-64.png",
+      "bytes": 7643,
+      "sha256": "8a756a40e5ea81f50ba80e6d8a93a53b5a573ec68234a129fe0b9b9096d1b546"
+    },
+    {
+      "path": "gameplay/views/left-64.webp",
+      "bytes": 6832,
+      "sha256": "18d656ad2cef06aa058f57f1a9d86e069d8b272cb50fb1a88240a0eec4bb654c"
+    },
+    {
+      "path": "gameplay/views/right-128.png",
+      "bytes": 22672,
+      "sha256": "bb6fa084447cf88c8527beef73473ea2d01614c45010f593be545f012326e56b"
+    },
+    {
+      "path": "gameplay/views/right-128.webp",
+      "bytes": 18362,
+      "sha256": "6ca92ce8a6c5ce000ee90d6b21192811972906cec0edc46e0a58b8170f07894f"
+    },
+    {
+      "path": "gameplay/views/right-256.png",
+      "bytes": 75968,
+      "sha256": "87c4292e7821eef471149f622b07ca086792635d7710655e0f00fd0e88226c70"
+    },
+    {
+      "path": "gameplay/views/right-256.webp",
+      "bytes": 55220,
+      "sha256": "589a7cedb6e2fb6412632bebedb654a40ea6642f141e5c68820e2633b98c3996"
+    },
+    {
+      "path": "gameplay/views/right-512.png",
+      "bytes": 267438,
+      "sha256": "808d9d4425333c9ee427a39420bb50b00755f5ad184279907db2daebbf791b38"
+    },
+    {
+      "path": "gameplay/views/right-512.webp",
+      "bytes": 180526,
+      "sha256": "80e3fa4c8fb1c8d2b27dbc0210464462963d7beb498dd80e64222b350aa823cc"
+    },
+    {
+      "path": "gameplay/views/right-64.png",
+      "bytes": 7062,
+      "sha256": "199181bd3e58542095c2fe06d045f394c459ae68bf8a009dfda54d8595aae3c3"
+    },
+    {
+      "path": "gameplay/views/right-64.webp",
+      "bytes": 6290,
+      "sha256": "621926341e396e93fad74bdc1b51082c36ce651060e2a6ec00dcc145cf84adf7"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-128.png",
+      "bytes": 24764,
+      "sha256": "17975a0329722dd183adaa72b76bba8f5bd8ca1b06b304449d053f9db263fb12"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-128.webp",
+      "bytes": 20248,
+      "sha256": "9365a785d5e7f4990ae207c6931996f8cf750ea88e094efc6018ec45067e8c1b"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-256.png",
+      "bytes": 83125,
+      "sha256": "0acfeff36541b8ebc4fb5adae2cd0050b70cd1965a11b1e7df462eaf84e283cd"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-256.webp",
+      "bytes": 60564,
+      "sha256": "a51e9ccdfd4d8429a77d0d18049f4baa0d879785e666022cbec4748590ec2771"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-512.png",
+      "bytes": 290428,
+      "sha256": "d7530978063a974990d8a7c043c484d5120f46910064d17378fa8ac0b9430e4c"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-512.webp",
+      "bytes": 198478,
+      "sha256": "12588af86118b847c9f64bd41407ad4bac5e107914eb307250681c602116d0c7"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-64.png",
+      "bytes": 7672,
+      "sha256": "f8c037e6f7e8686298de324547fec9d6de42c1476e119ad0cde69e7b743eccd2"
+    },
+    {
+      "path": "gameplay/views/three-quarter-back-64.webp",
+      "bytes": 6846,
+      "sha256": "f80a1cab918f7376b11ff5bbe0cf21f99b856aca22f8a1f6caf9704f6a778efc"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-128.png",
+      "bytes": 26163,
+      "sha256": "c1bad6981fdad18e3a885f51f73d22c7f97473c1f52198546fdae8cadb31b9a7"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-128.webp",
+      "bytes": 21220,
+      "sha256": "2e5521844a8fec83a369854c82f50458768f8e828ca3e8fba6bb0c9ec6463e9d"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-256.png",
+      "bytes": 88445,
+      "sha256": "0487236d56fcc434b36bbb1e3a748555537a79ec3e62ea79e933d9775d57b1ad"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-256.webp",
+      "bytes": 64218,
+      "sha256": "a4d97faf2842d3dcc9c9e0f5f173ee419fcf3c0091eccc0b072c7e726cf7159c"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-512.png",
+      "bytes": 312341,
+      "sha256": "e23d7c6669d11a689d4da2d68b5beceb65f17e9d30407c74d13198aaab731066"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-512.webp",
+      "bytes": 214894,
+      "sha256": "d16c30b34a4a24541d33f4a48ff7d1481d14d4a2ca68604b88a8351dc6f57fd4"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-64.png",
+      "bytes": 8054,
+      "sha256": "031ba20c2124e9e7534a2208827b67d560a7b3298234d469c82177794bcb50f0"
+    },
+    {
+      "path": "gameplay/views/three-quarter-front-64.webp",
+      "bytes": 7200,
+      "sha256": "ce17f98edf72f4a040c3ce1708d9f4b63f27f05eaaaa0edd96086a20f562be56"
+    },
+    {
+      "path": "gameplay/views/top-128.png",
+      "bytes": 26514,
+      "sha256": "0832ff86af6ab249c4d7435ad0fa3c4654e4b5be036b234da104ef3f5eaa4261"
+    },
+    {
+      "path": "gameplay/views/top-128.webp",
+      "bytes": 20944,
+      "sha256": "85b3d62e16fe950ef7cbb0d95d5ddac397d5e88e517e585d41795e29fc4c39e1"
+    },
+    {
+      "path": "gameplay/views/top-256.png",
+      "bytes": 88661,
+      "sha256": "ad530c19b89fc43ca70b5b36d6983b53bc01fc5a7646713819e00d36a5fca4d3"
+    },
+    {
+      "path": "gameplay/views/top-256.webp",
+      "bytes": 63194,
+      "sha256": "698ee8f4cd91946ec86ee431f723b54d724af27552ff0cf65f609c7a22f5d179"
+    },
+    {
+      "path": "gameplay/views/top-512.png",
+      "bytes": 314613,
+      "sha256": "cd1e651febce84c096de5a3df398fab58d1889d465ff6fb69e1a5033cf168c2d"
+    },
+    {
+      "path": "gameplay/views/top-512.webp",
+      "bytes": 208722,
+      "sha256": "7924737fa152296d320126ae361df042d333a919b8f3114130bdb4e059e0f62c"
+    },
+    {
+      "path": "gameplay/views/top-64.png",
+      "bytes": 8139,
+      "sha256": "ee84bdb9db9e95efb3d6bfc9ce0a01711d3c6551c298226fdd658c642d324d14"
+    },
+    {
+      "path": "gameplay/views/top-64.webp",
+      "bytes": 6986,
+      "sha256": "f5b796643b1121bd8d952e7cd93756a40e857a9c260203c9263de27af0cf64fb"
+    },
+    {
+      "path": "generation.json",
+      "bytes": 16625,
+      "sha256": "a7c4dfaaac49f27148521219acf39c7af9ca73988a4cbe07c7248f3c213aacf5"
+    },
+    {
+      "path": "masters/animation/00-idle.png",
+      "bytes": 1141807,
+      "sha256": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+    },
+    {
+      "path": "masters/animation/01-charge-1.png",
+      "bytes": 1108948,
+      "sha256": "bb74833fc3d3ff249ba86cd711bc45cfd6bdd20d842e6f9bb2f216f935cd07f5"
+    },
+    {
+      "path": "masters/animation/02-charge-2.png",
+      "bytes": 1107553,
+      "sha256": "8001b42f4ca92df9c17337f006ca48e36bc36144a7f15f37b3c9f1b45a965603"
+    },
+    {
+      "path": "masters/animation/03-release.png",
+      "bytes": 1118552,
+      "sha256": "ddb18672222f97ec3b9421554561a526050c2a10db02a5bbb5409ae478b76e89"
+    },
+    {
+      "path": "masters/animation/04-recoil.png",
+      "bytes": 1045834,
+      "sha256": "39b4b256de1266d2174a65d259fd23348366a63f98bb64295c1558f7ea329db0"
+    },
+    {
+      "path": "masters/effects/aim-dot.png",
+      "bytes": 334039,
+      "sha256": "15c7ed204461c6da0d52c10697ce9350ca08d2e9f8df4ea3fc3a700b30bdb089"
+    },
+    {
+      "path": "masters/effects/muzzle-flash.png",
+      "bytes": 603381,
+      "sha256": "e4fd3d1d7222b87f5d4171a284c2231535191083856c39a04d0fb25fe27bd6fa"
+    },
+    {
+      "path": "masters/effects/projectile.png",
+      "bytes": 819732,
+      "sha256": "b0050536a315f9d556e6a55daebb5cb955ce46abf99c1e1198e7036621357a77"
+    },
+    {
+      "path": "masters/effects/target-brackets.png",
+      "bytes": 338606,
+      "sha256": "03cff87d3a1218dce1038edba5a0f0bf814a9e323c6ed1cd3a513c55b29bdda4"
+    },
+    {
+      "path": "masters/effects/trail.png",
+      "bytes": 250094,
+      "sha256": "908742869dc0ef780ae83db66f965602b93540465e623495ca153539c3164b86"
+    },
+    {
+      "path": "masters/expressions/cheerful.png",
+      "bytes": 1119287,
+      "sha256": "5184f58098c3abff3f8bcd76a554ce2c1d2567f29bbc1fda30e4af5db31463fe"
+    },
+    {
+      "path": "masters/expressions/excited.png",
+      "bytes": 1087674,
+      "sha256": "19775a479d303fdb2d5a7512d099d639a1e35cc8e2ad823e8eb8e6101aba5310"
+    },
+    {
+      "path": "masters/expressions/focused.png",
+      "bytes": 1103850,
+      "sha256": "07ea6a9e787f7893982aa25d1cce504169c84e8611496ffbf6f4a27355ae5d98"
+    },
+    {
+      "path": "masters/expressions/happy.png",
+      "bytes": 1141807,
+      "sha256": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+    },
+    {
+      "path": "masters/expressions/surprised.png",
+      "bytes": 1102496,
+      "sha256": "bc653e6f1e55168128424f99f8fd2fe3a527330c5b100d4172a2a96565d54c5d"
+    },
+    {
+      "path": "masters/expressions/wink.png",
+      "bytes": 1089165,
+      "sha256": "c2104ffe593e8dc05cc4dea05219b9e3e579b9a8c7664e623b08e0c85fab6422"
+    },
+    {
+      "path": "masters/icons/ability.png",
+      "bytes": 860911,
+      "sha256": "6882577af2f5deb4cc388b8ddd3d76bcd80b149835d3b3db0b33dec2cf7c0510"
+    },
+    {
+      "path": "masters/icons/app-tile.png",
+      "bytes": 950142,
+      "sha256": "0503a03c43689abf0eb9afa640de5c0b5fdbc103b39aaf853471b06c228c09f2"
+    },
+    {
+      "path": "masters/poses/aiming-charged.png",
+      "bytes": 1105782,
+      "sha256": "e532d76840c188e0f248660788ca1a34f79c5f7561889187061cada962ccb119"
+    },
+    {
+      "path": "masters/poses/firing.png",
+      "bytes": 1084048,
+      "sha256": "9b1c127eccc2ae23b0124121ffe12ac7c9438731fa7a45a9811a9d11119f4d4f"
+    },
+    {
+      "path": "masters/poses/idle.png",
+      "bytes": 1141807,
+      "sha256": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+    },
+    {
+      "path": "masters/silhouettes/back.png",
+      "bytes": 32752,
+      "sha256": "a5e87d3e742cf4e61279d70c9f0b309b56a3b2829fbd63c56968229675f8d2ef"
+    },
+    {
+      "path": "masters/silhouettes/bottom.png",
+      "bytes": 31232,
+      "sha256": "46e38fdb1ae734f89b414553110a4b45e07c6bfb97b84348eec4ae513a14d0ba"
+    },
+    {
+      "path": "masters/silhouettes/front.png",
+      "bytes": 32086,
+      "sha256": "eb0fc9e0cddd86f2a0af21f860e4a90900d9a2103cec7f14404bbd6e4277f6cf"
+    },
+    {
+      "path": "masters/silhouettes/left.png",
+      "bytes": 33778,
+      "sha256": "6aa91d728645c09a4c04b7b13714116c6608ab4b7ebaeb83af4ba9cd04d97568"
+    },
+    {
+      "path": "masters/silhouettes/top.png",
+      "bytes": 32538,
+      "sha256": "869770ea6a471826787f737c6b933766898630b50656286e20232469ea8177d0"
+    },
+    {
+      "path": "masters/views/back.png",
+      "bytes": 1030989,
+      "sha256": "bb4c47109f238ceb32e1871340ace850508a41dcc0b6038498dd3a2d99d675df"
+    },
+    {
+      "path": "masters/views/bottom.png",
+      "bytes": 955358,
+      "sha256": "91a1ac6f523f0890b10532209a53d62bd9a4324fbd5221c9f3107201b859840e"
+    },
+    {
+      "path": "masters/views/front.png",
+      "bytes": 903935,
+      "sha256": "bb2ccdeba399a98bd5ea62e4be47197cfaeec74bafe3ba54fa967014ec67035e"
+    },
+    {
+      "path": "masters/views/left.png",
+      "bytes": 1039680,
+      "sha256": "8d2bba14b4af4a0151769c9eda5bed868a52be84ec1357f360c3aa06edda42f6"
+    },
+    {
+      "path": "masters/views/right.png",
+      "bytes": 961173,
+      "sha256": "7fe4d5ed786c300c77a623c5c5519dfeb9c92876be367b4683c11dc0b5b8f515"
+    },
+    {
+      "path": "masters/views/three-quarter-back.png",
+      "bytes": 1036569,
+      "sha256": "0f94ddf28e2e1e18621614cb797dc50d7003b12cb5b0a17c077ed2ee6f3580a1"
+    },
+    {
+      "path": "masters/views/three-quarter-front.png",
+      "bytes": 1141807,
+      "sha256": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+    },
+    {
+      "path": "masters/views/top.png",
+      "bytes": 1154539,
+      "sha256": "c25f1a760a659f4082c8ad9467e9989c83bafc096a0260e63c60935c08fddfea"
+    },
+    {
+      "path": "preview.html",
+      "bytes": 5829,
+      "sha256": "e6d5d0f61f145323585d2c354eee7b12e0c9e581031561218c33519b35a131e6"
+    },
+    {
+      "path": "preview.jpg",
+      "bytes": 626688,
+      "sha256": "99ce2da9b864e1245e5ba616c5d8f9512360f3c572e935f70f414feec9b4194a"
+    },
+    {
+      "path": "references/Puff Trails Rainbow Launcher Asset Board-5.png",
+      "bytes": 2202324,
+      "sha256": "b02de0197bbbd782867519863a3798a1f6db9d04b7db7a5b6d74d4514e119683"
+    },
+    {
+      "path": "references/provenance.json",
+      "bytes": 253,
+      "sha256": "3a702c9cdea72dace387032cc54bd8c9b7fcf9671b1b30af9d88f647325e0791"
+    }
+  ]
+}
