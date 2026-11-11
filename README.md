@@ -175,3 +175,13 @@ Each pack links to a gallery of every unique master. Click any image to open it.
 
 ![All Moonmallow Forest modules](stages/stage-05-worlds-levels/v1/moonmallow-forest/preview.jpg)
 <!-- stage5-world3:end -->
+
+<!-- stage5-world4:start -->
+### World 4 · Sugarstar Skies
+
+[Browse all 95 individual modules and variants](stages/stage-05-worlds-levels/v1/sugarstar-skies/README.md)
+
+![Sugarstar Skies](stages/stage-05-worlds-levels/v1/sugarstar-skies/previews/world-overview.jpg)
+
+![All Sugarstar Skies modules](stages/stage-05-worlds-levels/v1/sugarstar-skies/preview.jpg)
+<!-- stage5-world4:end -->

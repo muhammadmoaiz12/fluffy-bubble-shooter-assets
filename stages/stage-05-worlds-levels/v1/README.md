@@ -27,3 +27,13 @@
 
 77 transparent modules and five flattened environment plates, PNG masters, 256/512 PNG and lossless WebP exports, original board, provenance, manifest and offline preview. Static art for integration review; no playable levels or engine-tested tile joins are included.
 <!-- stage5-world3:end -->
+
+<!-- stage5-world4:start -->
+## World 4 · Sugarstar Skies
+
+[All 95 individual modules and previews](sugarstar-skies/README.md)
+
+![Sugarstar Skies](sugarstar-skies/previews/world-overview.jpg)
+
+90 transparent modules and five flattened environment plates, PNG masters, 256/512 PNG and lossless WebP exports, original board, provenance, manifest and offline preview. Static art for integration review; no playable levels or engine-tested tile joins are included.
+<!-- stage5-world4:end -->

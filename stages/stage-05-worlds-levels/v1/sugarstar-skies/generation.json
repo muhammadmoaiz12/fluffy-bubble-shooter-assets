@@ -1,0 +1,1057 @@
+{
+  "tool": "built-in image_gen",
+  "original_reference": "references/sugarstar-skies-original-board.png",
+  "original_sha256": "986887c09f136ac56ccd1b1a36c71c35d3f69f8065771c9744e42a469461836c",
+  "reference_dimensions": [
+    1536,
+    1024
+  ],
+  "processing": "Source crops used only as generation references. Remove alpha <=8 (<=2 for glow/translucent categories: effects,crystals,sky-mascots,balloons,cloud-tiles,cloud-strips,lamps,pedestals,castle-pieces,islands) and components below8 pixels. For solid modules remove low-alpha residue farther than12 pixels from alpha>=128. Star-stream uses alpha<=8 cleanup for faint edge residue. No hole filling or recoloring. Trim alpha bounds, fit860px, center on1024px canvas. Plates preserve aspect ratio at max1536px. Lanczos exports. Lossless WebP.",
+  "items": [
+    {
+      "id": "scenes/hero-skies",
+      "source_box": [
+        0,
+        0,
+        809,
+        348
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Complete Sugarstar Skies environment: cream and pink star-crowned castle on floating lavender meadow island, golden windows, cloud and rainbow bridges, distant floating islands, turquoise waterfalls, pink-violet star crystals, pastel rainbow, hot-air balloon and layered clouds. Preserve composition, no added creatures or family characters.. Reconstruct this complete full-bleed environment background faithfully. No board frame, text, labels or added characters. Match the scene composition.",
+      "generated_original_sha256": "8374e6fb741ecd2dc944149750d9c329acbc716d65482ec1721b7f5bb8b7ad45"
+    },
+    {
+      "id": "castle-views/front",
+      "source_box": [
+        818,
+        8,
+        1031,
+        174
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Front of cream fairy castle with pink domes, gold star crowns, glowing gold windows, pink flags and flowered floating lavender meadow island base with small cloud puffs. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "05de2e2c04b35d8626f368edbb26d841e41a75d2696dce4ea99963818f0c0e2c"
+    },
+    {
+      "id": "castle-views/three-quarter",
+      "source_box": [
+        1031,
+        8,
+        1221,
+        174
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Three-quarter view of cream pink-domed star castle on floating flower meadow island, warm golden door and windows. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "c8da722d79bd60d6b9e9820523dbe1bfd8204837fb2bf82a8eeea90e63a09d7a"
+    },
+    {
+      "id": "castle-views/side",
+      "source_box": [
+        1221,
+        8,
+        1386,
+        174
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Side view of cream fairy castle with pink domes and flags, gold star crown, flowered floating meadow base. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "e0acbcbed7f8d2863090f27f15587748fe49ba0863e27afe0b20ce24ee29e4de"
+    },
+    {
+      "id": "castle-views/back",
+      "source_box": [
+        1386,
+        8,
+        1525,
+        174
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Back view of round cream star castle tower with pink dome and gold star, grassy floating island, white cloud trim. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "2687566638e973556f8b8f4edb9bb336724a112c683434cfcffd533fbe5b4317"
+    },
+    {
+      "id": "castle-views/overhead",
+      "source_box": [
+        820,
+        184,
+        1023,
+        340
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Strict vertical top-down view of the pink-domed star castle and circular flower meadow island: roofs, central gold star and surrounding grass and stepping stones. Match overhead reference, no new frontal facade. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "4b9b526e7ace7a22c284d3335b7e72a8046c58107ca11ef9387493b6089119a3"
+    },
+    {
+      "id": "castle-pieces/star-portal",
+      "source_box": [
+        1032,
+        185,
+        1171,
+        282
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Pink and gold arched star portal, golden star crown, white wings at sides, purple luminous doorway, small pink cloud feet; isolated complete portal. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "e01a190f184d0c0d0275b544da353a45676673ff509ea2b8164d4f2be4ea6be8"
+    },
+    {
+      "id": "castle-pieces/star-plaque",
+      "source_box": [
+        1182,
+        187,
+        1250,
+        263
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small cream square architectural plaque with raised gold star inset and lavender-pink border. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "51ac576d6c43af4bb945af5960823d9e7b5bfbebf9a7df5bb07feb372a35ca71"
+    },
+    {
+      "id": "castle-pieces/small-turret",
+      "source_box": [
+        1261,
+        190,
+        1336,
+        263
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small cream cylindrical turret with pink domed cap and golden star finial. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "6a5f18e8bb869121fcda5adb8723c4897ea357a7182a0f48d0865753851af94e"
+    },
+    {
+      "id": "castle-pieces/pink-dome",
+      "source_box": [
+        1346,
+        190,
+        1434,
+        263
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Detached pink dome roof with pale cream scalloped trim and golden star finial. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "21dcde051072e9f1793824438cb6e1b45ef1f1a2f7c73e0f2af073093c159efd"
+    },
+    {
+      "id": "castle-pieces/flag",
+      "source_box": [
+        1451,
+        192,
+        1525,
+        263
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small bright pink waving flag on straight golden pole with gold ball tip. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "9b16db0cf0705913b11f215be336a41be33f581dac7b91c658a29718029aa175"
+    },
+    {
+      "id": "castle-pieces/star-low-wall",
+      "source_box": [
+        1040,
+        291,
+        1098,
+        341
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Low cream and pink stone wall segment with small gold star ornament at top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0c4afdb7779e01826892d5fe8e75b6cb913f397ae7d449d99dedb6dcf1570d45"
+    },
+    {
+      "id": "castle-pieces/small-arch",
+      "source_box": [
+        1098,
+        284,
+        1166,
+        341
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small cream and gold low curved architectural arch opening, pink stone base edges. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "b7c6516704f3b6eae27592092d2dbbfd228a8d39d5f2d6c7339f5b55ff7fcef7"
+    },
+    {
+      "id": "castle-pieces/star-pillar",
+      "source_box": [
+        1183,
+        270,
+        1246,
+        340
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Short cream and pink cylindrical pillar with golden cap and small gold star on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "413aa1460bb93bbb8d014141da35e945e681d93307ea80e4992fe2383cedd721"
+    },
+    {
+      "id": "castle-pieces/star-railing",
+      "source_box": [
+        1254,
+        272,
+        1364,
+        341
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Short cream and pink decorative railing with three upright square posts and gold star caps. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "4d0afba569fefee6fdfffb0a549d26d87d5b49187750b0004e43c039fcc71ae3"
+    },
+    {
+      "id": "castle-pieces/window-pink",
+      "source_box": [
+        1365,
+        272,
+        1440,
+        341
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Arched pink glowing window with golden cross mullion and cream stone frame. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "7c6b29811e065b02ed253498e11069fcf2245745069fcdeeca28190c726b17c4"
+    },
+    {
+      "id": "castle-pieces/window-purple",
+      "source_box": [
+        1441,
+        272,
+        1523,
+        341
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Arched lavender-blue window with golden cross mullion and cream-pink stone frame. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "24e1fb06fa72305a13df8bf63d53f6613f62344b3d5bfb0eecb0d174148e76b2"
+    },
+    {
+      "id": "islands/large-meadow",
+      "source_box": [
+        11,
+        358,
+        240,
+        499
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Broad floating lavender rock meadow island with green turf, pink white flowers, white cloud puff and hanging gold star ornaments. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "64fa9079a875aafc3dea08250fa73f8dcf7a2dce13f02db08f6e3a6c87feb15c"
+    },
+    {
+      "id": "islands/waterfall-meadow",
+      "source_box": [
+        240,
+        358,
+        414,
+        499
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Floating flower meadow island with turquoise waterfall and white cloud foam pool below. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "84198a6a15ada6481985df342e3eeabffd76d533c54103a2284d3743583a91b6"
+    },
+    {
+      "id": "islands/small-meadow",
+      "source_box": [
+        414,
+        358,
+        557,
+        499
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small floating grassy lavender rock island with pink flowers and hanging gold stars. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "c47ed49896cb2ea32a35d989f9614d3cdf8bf6c47228109e10f7c680fd6ef044"
+    },
+    {
+      "id": "islands/star-meadow",
+      "source_box": [
+        557,
+        358,
+        721,
+        499
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Tall tapered floating lavender rock island with grassy flower meadow top and three hanging golden stars. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "08376a366203f023f7111a744258a16447d22b95c300c188d26a32c038b62ade"
+    },
+    {
+      "id": "cloud-tiles/pink-star",
+      "source_box": [
+        737,
+        365,
+        848,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Square puffy pink and white cloud tile with raised golden star on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "3ec1ca9ac65679ca0124520bf08e3620085accce1cb51f745cb1ce3ac5c36065"
+    },
+    {
+      "id": "cloud-tiles/rainbow",
+      "source_box": [
+        848,
+        365,
+        959,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Square cloud terrain tile with layered pastel rainbow bands, white cloud puffs and tiny green corner accent. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "500911f27a9456581e699170bdd3e90fbd36946d273702fd3396d8ad7adec897"
+    },
+    {
+      "id": "cloud-tiles/spiral",
+      "source_box": [
+        959,
+        365,
+        1070,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Square lavender cloud tile with raised soft spiral swirl on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "f4e1eb3ea2d77a02ac98a660a692977f25b9a7abe57a48617ab5274c78fbb46a"
+    },
+    {
+      "id": "cloud-tiles/white-star",
+      "source_box": [
+        1070,
+        365,
+        1181,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Square white cloud tile with large raised golden five-point star on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "29d43c46fff05c05a1f490aef951f22b97bf1c8456aa8d2f8051b99670b73e75"
+    },
+    {
+      "id": "cloud-tiles/sprinkle",
+      "source_box": [
+        1181,
+        365,
+        1295,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Square pink cloud tile with tiny colorful candy sprinkles scattered on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "7fcfc062753391c7d4ff3294135c2e8cb5510e5142864b8bf625e0655ce85e7e"
+    },
+    {
+      "id": "cloud-tiles/waterfall",
+      "source_box": [
+        1295,
+        365,
+        1400,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Square lavender cloud tile with turquoise waterfall flowing over front edge, no bottom pool. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "21f40c873b4a1aac55f5ec4f23fddcb97458670ba85585a33a42a1e5ec189ba7"
+    },
+    {
+      "id": "cloud-tiles/plain-white",
+      "source_box": [
+        1400,
+        365,
+        1525,
+        451
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Simple elongated white cloud floating platform with soft pink-lavender underside. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "f9499bdeb5730f94e0fafa8f0567776b24124c22e1a58970750cd356c75e0148"
+    },
+    {
+      "id": "cloud-strips/blue-short",
+      "source_box": [
+        778,
+        451,
+        903,
+        495
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Low elongated pale blue cloud platform with rounded scallops and lavender underside. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "5cc7c59090c4fff0c22ae03828d1711a5d64bd377a39b6aea2749338493bf5fb"
+    },
+    {
+      "id": "cloud-strips/lilac-short",
+      "source_box": [
+        923,
+        452,
+        1019,
+        495
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Short low lilac-white cloud platform with rounded scalloped edge. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "b4697663047a19ba328bbc8b69a28ea5e57309e7bc8f9f357f3ecdf8cd785916"
+    },
+    {
+      "id": "cloud-strips/pink-long",
+      "source_box": [
+        1051,
+        449,
+        1198,
+        498
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Long low soft pink cloud strip with layered puffs. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0c54bb91300061c4f4700b96d3be90d1d0c6b8b169e3d9be76ffa8a88010cca4"
+    },
+    {
+      "id": "cloud-strips/white-long",
+      "source_box": [
+        1218,
+        451,
+        1375,
+        498
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Long low white cloud strip with cool lavender shading. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "880c1fd7e235b472b96c6914febc09d344b7debba751ad9af4c12e3b5c5d9c55"
+    },
+    {
+      "id": "cloud-strips/pink-short",
+      "source_box": [
+        1388,
+        449,
+        1525,
+        497
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Short soft pink-lilac cloud platform with rounded puffs. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "658fe2a70a322e332a9341724596d3f6c3abd75337454f9e0be357f9b70c2374"
+    },
+    {
+      "id": "bridges/gold-wood",
+      "source_box": [
+        12,
+        514,
+        225,
+        600
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Warm wooden arched bridge with pink and cream posts, golden star finials and gold rails. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "f66239373df72af124353f79e4de68a63bf803fb37f6fd633d8760cb8a4f6984"
+    },
+    {
+      "id": "bridges/rainbow",
+      "source_box": [
+        225,
+        514,
+        456,
+        600
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Pastel rainbow arched bridge with two pink pillars, golden stars and white cloud footings. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "5ebd564a2c8553d194323a978b5ea04996e0a2e66e433e6478846fb49b8cbb5c"
+    },
+    {
+      "id": "bridges/pink-rope",
+      "source_box": [
+        456,
+        514,
+        638,
+        600
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Delicate arched wooden bridge with pink rails, gold star finials and white cloud feet. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "91788570e899b2579d5a85f5dbc0603a3a7c0f2f67531e07fe2d1c652242f689"
+    },
+    {
+      "id": "bridges/pink-arched",
+      "source_box": [
+        638,
+        514,
+        852,
+        600
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Chunky glossy pink arched bridge with gold star posts and white cloud puffs at both ends. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "5b7d6b3e528abf97a573dbf9d75c9be07c936279360f4cb3a9833f21155e0ec5"
+    },
+    {
+      "id": "paths/star-steps-a",
+      "source_box": [
+        871,
+        517,
+        1045,
+        602
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Ascending chain of small white cloud stepping platforms each with a golden star on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "91f6b5d4a4882f821ecae58faf6c82ca138eb73e21949fe6ed0a0cfcf7a264a2"
+    },
+    {
+      "id": "paths/star-steps-b",
+      "source_box": [
+        1045,
+        517,
+        1199,
+        602
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Second cluster of staggered pink-white cloud stepping platforms with gold star tops. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "cbcde0a4aefabb46c228c5fdbc9f290efffdc93002008e462129aab0a10e23be"
+    },
+    {
+      "id": "paths/gold-star-cluster",
+      "source_box": [
+        1199,
+        517,
+        1356,
+        602
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cluster of three large glossy golden stars resting on small pink cloud platforms. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0cef421758587b787e42efafaca0c79cb46d2baaa90780b3d9c2ebed0625f581"
+    },
+    {
+      "id": "paths/rainbow-stairs",
+      "source_box": [
+        1356,
+        517,
+        1524,
+        602
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Short ascending pastel rainbow staircase bordered by thick white and pink clouds, gold star at top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0b11dee93b8dd58fc95b019b0b4883f590f29f8edd57387dbeb9481a3ac58b4e"
+    },
+    {
+      "id": "trees/pink-large",
+      "source_box": [
+        12,
+        614,
+        177,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Large warm brown branching tree with dense fluffy pink blossoms and tiny yellow-centered flowers, small roots and green grass. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "86727e273f452a70a2964c7a009774a79118d55710c6295391e8195c77c8b900"
+    },
+    {
+      "id": "trees/pink-medium",
+      "source_box": [
+        177,
+        614,
+        286,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Medium fluffy pink blossom tree with warm brown trunk and small flowers. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "131e9c948ed83777022ba04ad592f54db37dcd8188ad8e95f885557a71c9d02d"
+    },
+    {
+      "id": "trees/pink-small",
+      "source_box": [
+        286,
+        614,
+        357,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small pink blossom sapling with warm brown trunk and little green root patch. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "59d77482b91ada4898a7cdf5bc8d1b922eebbb8c517edda5160aece84858f53d"
+    },
+    {
+      "id": "trees/golden-star",
+      "source_box": [
+        357,
+        614,
+        480,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Golden yellow blossom tree with warm brown branching trunk and star-shaped pale flowers. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "bd1109553e7e6c05dda85608eec25bd8e0fb5d9b23ece0702b242137dd6c1d39"
+    },
+    {
+      "id": "trees/blue-star",
+      "source_box": [
+        480,
+        614,
+        611,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cyan-blue fluffy blossom tree with yellow star flowers, warm brown trunk and small grass patch. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "6cca49e43202f72d274f442c2636e6c7c840f7664d3292a4bf82cbb324a14a29"
+    },
+    {
+      "id": "trees/purple-wisteria",
+      "source_box": [
+        611,
+        614,
+        694,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Purple wisteria tree with green top leaves, long hanging lavender blossom bunches and narrow brown trunk. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0c6f5331bcad2eac62fcd72a31b2beb999a4fe0ed9cec964de87fbd8f4c2da58"
+    },
+    {
+      "id": "canopies/pink",
+      "source_box": [
+        695,
+        626,
+        766,
+        710
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Round compact pink blossom canopy cluster only, tiny yellow centers, no trunk or roots. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "a84a56ce8588785fef3a61077e2e212a7af9fde24b6e8594a70697f62c710a42"
+    },
+    {
+      "id": "canopies/golden",
+      "source_box": [
+        766,
+        626,
+        833,
+        710
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Round compact golden yellow flower canopy cluster only, no trunk or roots. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "b26d75e397d6a941b64cf629ea50c23e33354d070f1fd199651c331803e55e4b"
+    },
+    {
+      "id": "canopies/blue",
+      "source_box": [
+        833,
+        626,
+        902,
+        710
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Round compact blue blossom canopy cluster with tiny yellow flowers, no trunk or roots. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "c523b6f6ae93e80195f6c7e4acb25821038c79ccd8b50085a4819ad56b1765d6"
+    },
+    {
+      "id": "canopies/purple",
+      "source_box": [
+        902,
+        626,
+        979,
+        710
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small round purple wisteria flower canopy with dangling lavender blossom clusters, no trunk or roots. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "7838b6088918a72b3d0cbda419daac9c74520ae8c962bcb48fe6dcb5a9d126dc"
+    },
+    {
+      "id": "crystals/rainbow-star",
+      "source_box": [
+        989,
+        613,
+        1146,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Large faceted five-point star crystal, pink gold rainbow facets with warm glow, lavender rock and pink cloud base. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "f531086b24392101b8ac61783cfc9af442aa66a180f56a3a4ce044aa30f16f85"
+    },
+    {
+      "id": "crystals/purple-cluster",
+      "source_box": [
+        1146,
+        613,
+        1243,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cluster of tall purple faceted crystals with lavender rocks and small golden star at base. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "11bd7f2c83b318f3e486e3ffdd7961dd9ba0d5399ef39706ad2444508cab7ad8"
+    },
+    {
+      "id": "crystals/blue-cluster",
+      "source_box": [
+        1243,
+        613,
+        1341,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cluster of icy cyan-blue faceted crystals with lavender stone base. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "73f157f741475bc77ba3a29c9e533ca7bd8325adc523a3e86af164298971668a"
+    },
+    {
+      "id": "crystals/gold-star",
+      "source_box": [
+        1341,
+        613,
+        1441,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small faceted golden star crystal glowing above pink cloud and lavender rock base. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "68ac60261eff25d3c1643e6c4ca0f4037f6a22bc7333efe0395ecdaa4199b360"
+    },
+    {
+      "id": "crystals/pink-purple",
+      "source_box": [
+        1441,
+        613,
+        1525,
+        715
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small sharp pink and violet crystal cluster with tiny pink-yellow pebble base. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0a5cae4daf27c709bacc4779c5d852ceadfe04ec55df0d0c888d09f553f0269e"
+    },
+    {
+      "id": "balloons/pink",
+      "source_box": [
+        11,
+        734,
+        116,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Pink and cream hot-air balloon with smiling golden star emblem, gold ropes and small woven basket. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "3444d67702493125b19b2eb3992da0323848de9cbce42de0dc49f6255cc804b3"
+    },
+    {
+      "id": "balloons/purple",
+      "source_box": [
+        116,
+        734,
+        213,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Lavender and cream hot-air balloon with golden star emblem, golden ropes and small woven basket. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "c7a05a8ef1c55aeae85d957ac3090e035c1d41893c564860ee70f2eb7c2caeff"
+    },
+    {
+      "id": "balloons/cloud-pink",
+      "source_box": [
+        213,
+        734,
+        337,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Pink and cream balloon with broad white cloud belt, smiling gold star emblem, hanging star ornaments and star-decorated basket. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "4b2640fd493d55cddb98d7303d957cc6c6ed30619f71668b40d7420ef67abd6a"
+    },
+    {
+      "id": "sky-mascots/pink-wing-star",
+      "source_box": [
+        340,
+        745,
+        446,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cute smiling golden five-point star with small pink-purple wings, sitting in white fluffy cloud puffs. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "a9b387713bde6c3312c05c9ceea09b1e3c3365c566270f32e6ee0ddcc25d3868"
+    },
+    {
+      "id": "sky-mascots/blue-wing-star",
+      "source_box": [
+        446,
+        745,
+        547,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cute smiling golden five-point star with small lavender-blue wings, sitting in white cloud puffs. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "a57346110de7ae8e905193a0b087a65b694b6739e0101aecb8125cf6b7e1743c"
+    },
+    {
+      "id": "sky-mascots/sleepy-moon",
+      "source_box": [
+        547,
+        745,
+        650,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Sleepy warm golden crescent moon nestled in fluffy pale lavender clouds, closed eye. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "9d0bfc59652b7027a14eadeaec0a0e1571e09ebe8484a6f032b7e2714a19081e"
+    },
+    {
+      "id": "sky-mascots/cloud-star",
+      "source_box": [
+        650,
+        745,
+        768,
+        845
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small smiling golden star peeking out from white-lilac fluffy clouds. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "e78e6f096a5391e4ed42513718f40eb70c97fa2921cd0ff16e46a9de3e5db6b4"
+    },
+    {
+      "id": "lamps/curved-star",
+      "source_box": [
+        787,
+        738,
+        874,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Slim pink and gold curved lamp post with hanging glowing golden star-shaped lantern. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "b688cf277427d627a58b263924eca025779b77e6bc2dda712a9e432661a2206e"
+    },
+    {
+      "id": "lamps/crescent-star",
+      "source_box": [
+        874,
+        738,
+        974,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Golden crescent moon lamp on slim gold pedestal, small glowing star lantern suspended from tip. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "5508c1112d072750d105030f0674b7b65ba995e18203b5c5684333d40e37b94d"
+    },
+    {
+      "id": "lamps/pink-star",
+      "source_box": [
+        974,
+        738,
+        1053,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Pink curved lamp post on round base, hanging gold star-outline lantern with warm light. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "7b47aa5498d3ca936ca66d501c027f1bf2ef5ba722897bde59ed9c328ab50872"
+    },
+    {
+      "id": "pedestals/glowing-star",
+      "source_box": [
+        1053,
+        744,
+        1130,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Short pink and gold decorative pedestal holding luminous golden star. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "94082f6406ceb226cb65aaff27b4708caa82ec7a9d03cffdc551352b78c3fdec"
+    },
+    {
+      "id": "pedestals/orb-star",
+      "source_box": [
+        1130,
+        744,
+        1207,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Pink decorative pedestal with gold star on front and transparent pink glowing crystal orb on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "baeffd727cfb62abbe193e3ed909cc84fed7958c958e511b3b18f9ec180cc2b5"
+    },
+    {
+      "id": "pedestals/gold-orb",
+      "source_box": [
+        1207,
+        744,
+        1273,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Slender warm gold pedestal with pink cap and small golden crystal sphere on top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "f47f55406c21354aecbb9287c6519929af0dc5b3eb928fc54728a0b0e3883ed8"
+    },
+    {
+      "id": "props/telescope",
+      "source_box": [
+        1275,
+        741,
+        1369,
+        843
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small angled lavender and gold telescope on short pink tripod stand with gold star ornament at foot. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "8e9a33d337647365177a06af1d0ff0e3f04b7e879dfc0f70cfcc44dcbd983e05"
+    },
+    {
+      "id": "plants/pinwheel-flower",
+      "source_box": [
+        1371,
+        741,
+        1456,
+        844
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Tall pink and yellow pinwheel-shaped flower on green stem with narrow green grass leaves. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "53b2659adb0303232ae2f11a73aac2e8e79acd43fabbf09eac437679e1004f37"
+    },
+    {
+      "id": "plants/cream-flower",
+      "source_box": [
+        1459,
+        740,
+        1526,
+        844
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Tall cream and pale golden five-petal flower on green stem with leaves. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "deb27aecf2ae4bc10409c54fabd9f250901efbf78bb760223ddd41623e9db04c"
+    },
+    {
+      "id": "backgrounds/pink-clouds",
+      "source_box": [
+        18,
+        870,
+        166,
+        998
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Layered fluffy pink and lavender clouds against pastel blue-pink sky, clean full-bleed background. Reconstruct this complete full-bleed environment background faithfully. No board frame, text, labels or added characters. Match the scene composition.",
+      "generated_original_sha256": "3eb2de63a598b069954e2d84bb583b2d618d3244d8c0be1724e2c6f88f0f39a2"
+    },
+    {
+      "id": "backgrounds/lilac-clouds",
+      "source_box": [
+        166,
+        870,
+        301,
+        998
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Dense fluffy pale lavender and white cloud sea under soft blue-lilac sky, clean full-bleed background. Reconstruct this complete full-bleed environment background faithfully. No board frame, text, labels or added characters. Match the scene composition.",
+      "generated_original_sha256": "125334ed12bbe4cb6f62af9b976c48ba3aea57bede2239da977354de2f54c999"
+    },
+    {
+      "id": "backgrounds/starry-sky",
+      "source_box": [
+        301,
+        870,
+        524,
+        998
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Deep purple-blue starry sky with sparkling stars, distant pastel aurora and soft pink-lavender cloud banks, clean full-bleed background. Reconstruct this complete full-bleed environment background faithfully. No board frame, text, labels or added characters. Match the scene composition.",
+      "generated_original_sha256": "e7240f608356d1384401ed17a972a79cbe780d67801184855b4c9be4ae3661cf"
+    },
+    {
+      "id": "backgrounds/sunset-clouds",
+      "source_box": [
+        524,
+        870,
+        651,
+        998
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Warm pink peach sunset above glowing soft cloud sea, tiny stars and subtle distant sky, clean full-bleed background. Reconstruct this complete full-bleed environment background faithfully. No board frame, text, labels or added characters. Match the scene composition.",
+      "generated_original_sha256": "7a029383e3dfb37592fdaa10522cf5245fa548270a6894a46f4dd27cbab57009"
+    },
+    {
+      "id": "rocks/grass-large",
+      "source_box": [
+        676,
+        867,
+        802,
+        934
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Large faceted lavender boulder cluster with thick bright green grassy turf cap. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "9fa8c75286fdf43a76e088a70bcbf7a2db7856a4c7ad525c01638d9c39752dcb"
+    },
+    {
+      "id": "rocks/grass-medium",
+      "source_box": [
+        802,
+        867,
+        875,
+        934
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Medium low lavender boulder cluster with green moss cap. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "c4c725e091415da69ac3670f753e4760f0750ac38289ae1f1ba74bcb02485e58"
+    },
+    {
+      "id": "rocks/grass-small",
+      "source_box": [
+        875,
+        867,
+        947,
+        934
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small low lavender rock cluster with small green moss top. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "b09acc52188dcb0a8230a2cec82ed1b5e909ab29a76e0a7cefce02a1e0cc72b6"
+    },
+    {
+      "id": "grasses/wide-a",
+      "source_box": [
+        954,
+        860,
+        1031,
+        892
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small wide bright green grass tuft with many pointed blades. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "9c29fc5071c1cd38a0661e16e054dcfb505e6c446eb704c8580e0bdc9ea77a87"
+    },
+    {
+      "id": "grasses/narrow-a",
+      "source_box": [
+        1032,
+        861,
+        1104,
+        893
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small narrow bright green grass tuft. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "708d47af817137b1f0f1cc488971ca0467889e0adf93a2f94751d73d3cdfce7e"
+    },
+    {
+      "id": "grasses/wide-b",
+      "source_box": [
+        958,
+        900,
+        1040,
+        933
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Low wide bright green grass tuft with pointed leaves. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "393be70ab9c3f640e115fde4cf15b677a3a535f84f0dd0455411ed0c2edb1d52"
+    },
+    {
+      "id": "grasses/narrow-b",
+      "source_box": [
+        1041,
+        901,
+        1105,
+        933
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Tiny narrow pointed green grass tuft. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "bb85d315c8ddeda242beb71a664379806f1e7a5a6d39ddbeeb6be98941870baf"
+    },
+    {
+      "id": "shrubs/white-pink",
+      "source_box": [
+        1108,
+        863,
+        1211,
+        935
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Rounded green leafy flowering bush with many tiny white pink and orange flowers. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "fdf342dcc8555b79ae11c326008fa8cbc270ef89f219197a152596623e39d45b"
+    },
+    {
+      "id": "shrubs/pink",
+      "source_box": [
+        1211,
+        863,
+        1308,
+        935
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Round green leafy bush with larger pink and white flowers and yellow centers. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "1424bb8a5485487581e87eab3f4d971cbc86153ddcb8c7a81f7e56a11a90db13"
+    },
+    {
+      "id": "shrubs/teal-succulent",
+      "source_box": [
+        1308,
+        863,
+        1393,
+        935
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Cluster of pointed turquoise teal succulent leaves, glossy smooth surfaces. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "870759d6c5c7bb2f29ebd116467181247ea338a413580ab0cf6c99418b32a919"
+    },
+    {
+      "id": "shrubs/pink-sprig",
+      "source_box": [
+        1393,
+        863,
+        1456,
+        935
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small leafy plant with one big pink flower and tiny companion bud. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "503a05a9b18346ca09c177a51089ab331730fa5cb2b879ab6f68cbbbbffa31c6"
+    },
+    {
+      "id": "shrubs/flower-pair",
+      "source_box": [
+        1456,
+        863,
+        1525,
+        935
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small leafy plant with two pink yellow-centered flowers. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "9f0587cccf84bb00e73ba123eb44604b1164fb8d6cdb89aa7aec626e50573fb6"
+    },
+    {
+      "id": "effects/star-comet",
+      "source_box": [
+        676,
+        944,
+        807,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Single golden five-point shooting star followed by curved golden sparkling trail sweeping to the right, isolated transparent VFX. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "0e8a99035b71b669cd18d95086096b4033bcb3fb21df007a2d8a1ad9c723fc91"
+    },
+    {
+      "id": "effects/rainbow-arc",
+      "source_box": [
+        807,
+        944,
+        913,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Small pastel rainbow arc with soft luminous ends and tiny golden sparkles, isolated transparent VFX. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "1db2ca9163ff299903873026f07f510fc776bfa0c2e9c0eb98048b3b5e09e279"
+    },
+    {
+      "id": "effects/star-trail",
+      "source_box": [
+        913,
+        944,
+        1047,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Golden star followed by several thin curved golden streaks and tiny sparkles, transparent VFX. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "2fbc390d6b77e297076a87042a78b4987e495e00063639e6401c02db0ab76365"
+    },
+    {
+      "id": "effects/pink-star-chain",
+      "source_box": [
+        1047,
+        944,
+        1142,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Curving chain of small pink and gold outlined stars with fine golden sparkles, transparent VFX. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "e288bf867857d93078557a37e0f43874844a8dc51ad9e499ff8909ad39b6e6d6"
+    },
+    {
+      "id": "effects/pink-vortex",
+      "source_box": [
+        1142,
+        944,
+        1257,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Flat elliptical pink-violet swirling magical vortex with bright white center and sparkles, isolated transparent VFX. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "9e51d395b76470f2f92e196275859f1bda0c16c91a7962ba4e357f0bb38f97c6"
+    },
+    {
+      "id": "effects/star-stream",
+      "source_box": [
+        1257,
+        944,
+        1439,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: Golden five-point star at left emitting long thin horizontal sparkling rays toward the right with small gold and pink glints, transparent VFX. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "7eaf52f05475e5f2ec9162cf0fd716919333fbdce0fb73d29da82e5abf1cade9"
+    },
+    {
+      "id": "effects/gold-glint",
+      "source_box": [
+        1439,
+        944,
+        1525,
+        1007
+      ],
+      "prompt": "Generate exactly ONE Sugarstar Skies game asset using the supplied approved source crop as visual reference. Preserve the pictured design, silhouette, camera angle, palette, proportions and ornament placement. Soft polished 3D casual mobile game art, glossy pastel pink and lavender, warm gold star accents, soft cream clouds and fresh grass where shown. Requested asset: ONE simple golden eight-ray light glint, bright white-gold center and soft halo, isolated transparent VFX. No scenery or other objects. Isolate ONLY this requested module on true transparent RGBA with complete object and 10% clear margins. Opaque solid interiors, natural translucency for glows, water and glass. Preserve openings in bridges and architectural arches; portal light remains where described. Remove the panel background, floor shadows and neighboring cropped objects. No extra buildings, scenery, ornaments, lettering, labels, borders or family characters. For canopy-only and top-down views, do not add a trunk or change to front view. For tiny VFX, render only the requested light effect, never a scene.",
+      "generated_original_sha256": "b00e97a536e2bbe85dfcd942afb0c148d432c2d30901fe3d1ddfcdfd30addb29"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "asset_count": 95,
+  "transparent_modules": 90,
+  "opaque_plates": 5,
+  "gameplay_exports": 380,
+  "checks": [
+    "all inventory IDs present",
+    "all sprite generation sources contain actual alpha transparency",
+    "PNG and WebP exports decode and match pixel-for-pixel",
+    "transparent masters have clear outer borders",
+    "original board SHA256 unchanged"
+  ],
+  "warnings": [],
+  "status": "technical export checks passed; in-engine validation outstanding",
+  "visual_review": "All95 modules reviewed in grouped contact sheets. Checked castle overhead view, architectural openings, canopy-only variants, balloon and mascot silhouettes, transparent VFX. Faint star-stream edge residue removed; original board unchanged."
+}

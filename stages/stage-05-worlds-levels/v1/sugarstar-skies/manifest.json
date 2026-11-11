@@ -1,0 +1,6236 @@
+{
+  "world": "Sugarstar Skies",
+  "stage": 5,
+  "world_number": 4,
+  "version": 1,
+  "status": "integration review; not engine-tested",
+  "assets": [
+    {
+      "id": "scenes/hero-skies",
+      "description": "Complete Sugarstar Skies environment: cream and pink star-crowned castle on floating lavender meadow island, golden windows, cloud and rainbow bridges, distant floating islands, turquoise waterfalls, pink-violet star crystals, pastel rainbow, hot-air balloon and layered clouds. Preserve composition, no added creatures or family characters.",
+      "type": "flattened background plate",
+      "master": "masters/scenes/hero-skies.png",
+      "size": [
+        1536,
+        661
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        661
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        0,
+        0,
+        809,
+        348
+      ],
+      "generated_size": [
+        1912,
+        823
+      ],
+      "exports": [
+        "gameplay/scenes/hero-skies-256.png",
+        "gameplay/scenes/hero-skies-256.webp",
+        "gameplay/scenes/hero-skies-512.png",
+        "gameplay/scenes/hero-skies-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-views/front",
+      "description": "Front of cream fairy castle with pink domes, gold star crowns, glowing gold windows, pink flags and flowered floating lavender meadow island base with small cloud puffs",
+      "type": "transparent static module",
+      "master": "masters/castle-views/front.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        161,
+        942,
+        863
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.842773
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        818,
+        8,
+        1031,
+        174
+      ],
+      "generated_size": [
+        1421,
+        1107
+      ],
+      "exports": [
+        "gameplay/castle-views/front-256.png",
+        "gameplay/castle-views/front-256.webp",
+        "gameplay/castle-views/front-512.png",
+        "gameplay/castle-views/front-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-views/three-quarter",
+      "description": "Three-quarter view of cream pink-domed star castle on floating flower meadow island, warm golden door and windows",
+      "type": "transparent static module",
+      "master": "masters/castle-views/three-quarter.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        100,
+        942,
+        924
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.902344
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1031,
+        8,
+        1221,
+        174
+      ],
+      "generated_size": [
+        1342,
+        1172
+      ],
+      "exports": [
+        "gameplay/castle-views/three-quarter-256.png",
+        "gameplay/castle-views/three-quarter-256.webp",
+        "gameplay/castle-views/three-quarter-512.png",
+        "gameplay/castle-views/three-quarter-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-views/side",
+      "description": "Side view of cream fairy castle with pink domes and flags, gold star crown, flowered floating meadow base",
+      "type": "transparent static module",
+      "master": "masters/castle-views/side.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        144,
+        82,
+        879,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1221,
+        8,
+        1386,
+        174
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/castle-views/side-256.png",
+        "gameplay/castle-views/side-256.webp",
+        "gameplay/castle-views/side-512.png",
+        "gameplay/castle-views/side-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-views/back",
+      "description": "Back view of round cream star castle tower with pink dome and gold star, grassy floating island, white cloud trim",
+      "type": "transparent static module",
+      "master": "masters/castle-views/back.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        131,
+        82,
+        892,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1386,
+        8,
+        1525,
+        174
+      ],
+      "generated_size": [
+        1310,
+        1200
+      ],
+      "exports": [
+        "gameplay/castle-views/back-256.png",
+        "gameplay/castle-views/back-256.webp",
+        "gameplay/castle-views/back-512.png",
+        "gameplay/castle-views/back-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-views/overhead",
+      "description": "Strict vertical top-down view of the pink-domed star castle and circular flower meadow island: roofs, central gold star and surrounding grass and stepping stones. Match overhead reference, no new frontal facade",
+      "type": "transparent static module",
+      "master": "masters/castle-views/overhead.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        109,
+        942,
+        914
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        820,
+        184,
+        1023,
+        340
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/castle-views/overhead-256.png",
+        "gameplay/castle-views/overhead-256.webp",
+        "gameplay/castle-views/overhead-512.png",
+        "gameplay/castle-views/overhead-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/star-portal",
+      "description": "Pink and gold arched star portal, golden star crown, white wings at sides, purple luminous doorway, small pink cloud feet; isolated complete portal",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/star-portal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        189,
+        942,
+        834
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.814453
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1032,
+        185,
+        1171,
+        282
+      ],
+      "generated_size": [
+        1501,
+        1048
+      ],
+      "exports": [
+        "gameplay/castle-pieces/star-portal-256.png",
+        "gameplay/castle-pieces/star-portal-256.webp",
+        "gameplay/castle-pieces/star-portal-512.png",
+        "gameplay/castle-pieces/star-portal-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/star-plaque",
+      "description": "Small cream square architectural plaque with raised gold star inset and lavender-pink border",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/star-plaque.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        153,
+        126,
+        871,
+        898
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.876953
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1182,
+        187,
+        1250,
+        263
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/castle-pieces/star-plaque-256.png",
+        "gameplay/castle-pieces/star-plaque-256.webp",
+        "gameplay/castle-pieces/star-plaque-512.png",
+        "gameplay/castle-pieces/star-plaque-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/small-turret",
+      "description": "Small cream cylindrical turret with pink domed cap and golden star finial",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/small-turret.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        179,
+        82,
+        844,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1261,
+        190,
+        1336,
+        263
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/castle-pieces/small-turret-256.png",
+        "gameplay/castle-pieces/small-turret-256.webp",
+        "gameplay/castle-pieces/small-turret-512.png",
+        "gameplay/castle-pieces/small-turret-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/pink-dome",
+      "description": "Detached pink dome roof with pale cream scalloped trim and golden star finial",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/pink-dome.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        131,
+        942,
+        892
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.871094
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1346,
+        190,
+        1434,
+        263
+      ],
+      "generated_size": [
+        1377,
+        1142
+      ],
+      "exports": [
+        "gameplay/castle-pieces/pink-dome-256.png",
+        "gameplay/castle-pieces/pink-dome-256.webp",
+        "gameplay/castle-pieces/pink-dome-512.png",
+        "gameplay/castle-pieces/pink-dome-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/flag",
+      "description": "Small bright pink waving flag on straight golden pole with gold ball tip",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/flag.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        182,
+        82,
+        841,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1451,
+        192,
+        1525,
+        263
+      ],
+      "generated_size": [
+        1280,
+        1229
+      ],
+      "exports": [
+        "gameplay/castle-pieces/flag-256.png",
+        "gameplay/castle-pieces/flag-256.webp",
+        "gameplay/castle-pieces/flag-512.png",
+        "gameplay/castle-pieces/flag-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/star-low-wall",
+      "description": "Low cream and pink stone wall segment with small gold star ornament at top",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/star-low-wall.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        259,
+        942,
+        765
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.74707
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1040,
+        291,
+        1098,
+        341
+      ],
+      "generated_size": [
+        1316,
+        1195
+      ],
+      "exports": [
+        "gameplay/castle-pieces/star-low-wall-256.png",
+        "gameplay/castle-pieces/star-low-wall-256.webp",
+        "gameplay/castle-pieces/star-low-wall-512.png",
+        "gameplay/castle-pieces/star-low-wall-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/small-arch",
+      "description": "Small cream and gold low curved architectural arch opening, pink stone base edges",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/small-arch.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        248,
+        942,
+        776
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.757812
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1098,
+        284,
+        1166,
+        341
+      ],
+      "generated_size": [
+        1370,
+        1148
+      ],
+      "exports": [
+        "gameplay/castle-pieces/small-arch-256.png",
+        "gameplay/castle-pieces/small-arch-256.webp",
+        "gameplay/castle-pieces/small-arch-512.png",
+        "gameplay/castle-pieces/small-arch-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/star-pillar",
+      "description": "Short cream and pink cylindrical pillar with golden cap and small gold star on top",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/star-pillar.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        236,
+        82,
+        788,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1183,
+        270,
+        1246,
+        340
+      ],
+      "generated_size": [
+        1263,
+        1246
+      ],
+      "exports": [
+        "gameplay/castle-pieces/star-pillar-256.png",
+        "gameplay/castle-pieces/star-pillar-256.webp",
+        "gameplay/castle-pieces/star-pillar-512.png",
+        "gameplay/castle-pieces/star-pillar-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/star-railing",
+      "description": "Short cream and pink decorative railing with three upright square posts and gold star caps",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/star-railing.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        263,
+        942,
+        761
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.743164
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1254,
+        272,
+        1364,
+        341
+      ],
+      "generated_size": [
+        1583,
+        993
+      ],
+      "exports": [
+        "gameplay/castle-pieces/star-railing-256.png",
+        "gameplay/castle-pieces/star-railing-256.webp",
+        "gameplay/castle-pieces/star-railing-512.png",
+        "gameplay/castle-pieces/star-railing-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/window-pink",
+      "description": "Arched pink glowing window with golden cross mullion and cream stone frame",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/window-pink.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        112,
+        82,
+        912,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1365,
+        272,
+        1440,
+        341
+      ],
+      "generated_size": [
+        1308,
+        1203
+      ],
+      "exports": [
+        "gameplay/castle-pieces/window-pink-256.png",
+        "gameplay/castle-pieces/window-pink-256.webp",
+        "gameplay/castle-pieces/window-pink-512.png",
+        "gameplay/castle-pieces/window-pink-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "castle-pieces/window-purple",
+      "description": "Arched lavender-blue window with golden cross mullion and cream-pink stone frame",
+      "type": "transparent static module",
+      "master": "masters/castle-pieces/window-purple.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        142,
+        82,
+        881,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1441,
+        272,
+        1523,
+        341
+      ],
+      "generated_size": [
+        1367,
+        1150
+      ],
+      "exports": [
+        "gameplay/castle-pieces/window-purple-256.png",
+        "gameplay/castle-pieces/window-purple-256.webp",
+        "gameplay/castle-pieces/window-purple-512.png",
+        "gameplay/castle-pieces/window-purple-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/large-meadow",
+      "description": "Broad floating lavender rock meadow island with green turf, pink white flowers, white cloud puff and hanging gold star ornaments",
+      "type": "transparent static module",
+      "master": "masters/islands/large-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        229,
+        942,
+        794
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.775391
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        11,
+        358,
+        240,
+        499
+      ],
+      "generated_size": [
+        1598,
+        984
+      ],
+      "exports": [
+        "gameplay/islands/large-meadow-256.png",
+        "gameplay/islands/large-meadow-256.webp",
+        "gameplay/islands/large-meadow-512.png",
+        "gameplay/islands/large-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/waterfall-meadow",
+      "description": "Floating flower meadow island with turquoise waterfall and white cloud foam pool below",
+      "type": "transparent static module",
+      "master": "masters/islands/waterfall-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        126,
+        942,
+        897
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.875977
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        240,
+        358,
+        414,
+        499
+      ],
+      "generated_size": [
+        1393,
+        1129
+      ],
+      "exports": [
+        "gameplay/islands/waterfall-meadow-256.png",
+        "gameplay/islands/waterfall-meadow-256.webp",
+        "gameplay/islands/waterfall-meadow-512.png",
+        "gameplay/islands/waterfall-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/small-meadow",
+      "description": "Small floating grassy lavender rock island with pink flowers and hanging gold stars",
+      "type": "transparent static module",
+      "master": "masters/islands/small-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        163,
+        942,
+        861
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.84082
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        414,
+        358,
+        557,
+        499
+      ],
+      "generated_size": [
+        1318,
+        1193
+      ],
+      "exports": [
+        "gameplay/islands/small-meadow-256.png",
+        "gameplay/islands/small-meadow-256.webp",
+        "gameplay/islands/small-meadow-512.png",
+        "gameplay/islands/small-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "islands/star-meadow",
+      "description": "Tall tapered floating lavender rock island with grassy flower meadow top and three hanging golden stars",
+      "type": "transparent static module",
+      "master": "masters/islands/star-meadow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        85,
+        82,
+        939,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        557,
+        358,
+        721,
+        499
+      ],
+      "generated_size": [
+        1360,
+        1156
+      ],
+      "exports": [
+        "gameplay/islands/star-meadow-256.png",
+        "gameplay/islands/star-meadow-256.webp",
+        "gameplay/islands/star-meadow-512.png",
+        "gameplay/islands/star-meadow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/pink-star",
+      "description": "Square puffy pink and white cloud tile with raised golden star on top",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/pink-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        151,
+        942,
+        872
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.851562
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        737,
+        365,
+        848,
+        451
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/pink-star-256.png",
+        "gameplay/cloud-tiles/pink-star-256.webp",
+        "gameplay/cloud-tiles/pink-star-512.png",
+        "gameplay/cloud-tiles/pink-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/rainbow",
+      "description": "Square cloud terrain tile with layered pastel rainbow bands, white cloud puffs and tiny green corner accent",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/rainbow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        163,
+        942,
+        861
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.84082
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        848,
+        365,
+        959,
+        451
+      ],
+      "generated_size": [
+        1425,
+        1104
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/rainbow-256.png",
+        "gameplay/cloud-tiles/rainbow-256.webp",
+        "gameplay/cloud-tiles/rainbow-512.png",
+        "gameplay/cloud-tiles/rainbow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/spiral",
+      "description": "Square lavender cloud tile with raised soft spiral swirl on top",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/spiral.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        158,
+        942,
+        866
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.845703
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        959,
+        365,
+        1070,
+        451
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/spiral-256.png",
+        "gameplay/cloud-tiles/spiral-256.webp",
+        "gameplay/cloud-tiles/spiral-512.png",
+        "gameplay/cloud-tiles/spiral-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/white-star",
+      "description": "Square white cloud tile with large raised golden five-point star on top",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/white-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        142,
+        942,
+        882
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.861328
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1070,
+        365,
+        1181,
+        451
+      ],
+      "generated_size": [
+        1425,
+        1104
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/white-star-256.png",
+        "gameplay/cloud-tiles/white-star-256.webp",
+        "gameplay/cloud-tiles/white-star-512.png",
+        "gameplay/cloud-tiles/white-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/sprinkle",
+      "description": "Square pink cloud tile with tiny colorful candy sprinkles scattered on top",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/sprinkle.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        157,
+        942,
+        866
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.845703
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1181,
+        365,
+        1295,
+        451
+      ],
+      "generated_size": [
+        1444,
+        1089
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/sprinkle-256.png",
+        "gameplay/cloud-tiles/sprinkle-256.webp",
+        "gameplay/cloud-tiles/sprinkle-512.png",
+        "gameplay/cloud-tiles/sprinkle-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/waterfall",
+      "description": "Square lavender cloud tile with turquoise waterfall flowing over front edge, no bottom pool",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/waterfall.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        105,
+        942,
+        919
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.897461
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1295,
+        365,
+        1400,
+        451
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/waterfall-256.png",
+        "gameplay/cloud-tiles/waterfall-256.webp",
+        "gameplay/cloud-tiles/waterfall-512.png",
+        "gameplay/cloud-tiles/waterfall-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-tiles/plain-white",
+      "description": "Simple elongated white cloud floating platform with soft pink-lavender underside",
+      "type": "transparent static module",
+      "master": "masters/cloud-tiles/plain-white.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        337,
+        942,
+        686
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.669922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1400,
+        365,
+        1525,
+        451
+      ],
+      "generated_size": [
+        1512,
+        1040
+      ],
+      "exports": [
+        "gameplay/cloud-tiles/plain-white-256.png",
+        "gameplay/cloud-tiles/plain-white-256.webp",
+        "gameplay/cloud-tiles/plain-white-512.png",
+        "gameplay/cloud-tiles/plain-white-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-strips/blue-short",
+      "description": "Low elongated pale blue cloud platform with rounded scallops and lavender underside",
+      "type": "transparent static module",
+      "master": "masters/cloud-strips/blue-short.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        362,
+        942,
+        661
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        778,
+        451,
+        903,
+        495
+      ],
+      "generated_size": [
+        2111,
+        745
+      ],
+      "exports": [
+        "gameplay/cloud-strips/blue-short-256.png",
+        "gameplay/cloud-strips/blue-short-256.webp",
+        "gameplay/cloud-strips/blue-short-512.png",
+        "gameplay/cloud-strips/blue-short-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-strips/lilac-short",
+      "description": "Short low lilac-white cloud platform with rounded scalloped edge",
+      "type": "transparent static module",
+      "master": "masters/cloud-strips/lilac-short.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        322,
+        942,
+        702
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        923,
+        452,
+        1019,
+        495
+      ],
+      "generated_size": [
+        1874,
+        839
+      ],
+      "exports": [
+        "gameplay/cloud-strips/lilac-short-256.png",
+        "gameplay/cloud-strips/lilac-short-256.webp",
+        "gameplay/cloud-strips/lilac-short-512.png",
+        "gameplay/cloud-strips/lilac-short-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-strips/pink-long",
+      "description": "Long low soft pink cloud strip with layered puffs",
+      "type": "transparent static module",
+      "master": "masters/cloud-strips/pink-long.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        385,
+        942,
+        639
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1051,
+        449,
+        1198,
+        498
+      ],
+      "generated_size": [
+        2172,
+        724
+      ],
+      "exports": [
+        "gameplay/cloud-strips/pink-long-256.png",
+        "gameplay/cloud-strips/pink-long-256.webp",
+        "gameplay/cloud-strips/pink-long-512.png",
+        "gameplay/cloud-strips/pink-long-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-strips/white-long",
+      "description": "Long low white cloud strip with cool lavender shading",
+      "type": "transparent static module",
+      "master": "masters/cloud-strips/white-long.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        385,
+        942,
+        638
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1218,
+        451,
+        1375,
+        498
+      ],
+      "generated_size": [
+        2172,
+        724
+      ],
+      "exports": [
+        "gameplay/cloud-strips/white-long-256.png",
+        "gameplay/cloud-strips/white-long-256.webp",
+        "gameplay/cloud-strips/white-long-512.png",
+        "gameplay/cloud-strips/white-long-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "cloud-strips/pink-short",
+      "description": "Short soft pink-lilac cloud platform with rounded puffs",
+      "type": "transparent static module",
+      "master": "masters/cloud-strips/pink-short.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        370,
+        942,
+        653
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1388,
+        449,
+        1525,
+        497
+      ],
+      "generated_size": [
+        2121,
+        741
+      ],
+      "exports": [
+        "gameplay/cloud-strips/pink-short-256.png",
+        "gameplay/cloud-strips/pink-short-256.webp",
+        "gameplay/cloud-strips/pink-short-512.png",
+        "gameplay/cloud-strips/pink-short-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/gold-wood",
+      "description": "Warm wooden arched bridge with pink and cream posts, golden star finials and gold rails",
+      "type": "transparent static module",
+      "master": "masters/bridges/gold-wood.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        290,
+        942,
+        734
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.716797
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        12,
+        514,
+        225,
+        600
+      ],
+      "generated_size": [
+        1974,
+        797
+      ],
+      "exports": [
+        "gameplay/bridges/gold-wood-256.png",
+        "gameplay/bridges/gold-wood-256.webp",
+        "gameplay/bridges/gold-wood-512.png",
+        "gameplay/bridges/gold-wood-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/rainbow",
+      "description": "Pastel rainbow arched bridge with two pink pillars, golden stars and white cloud footings",
+      "type": "transparent static module",
+      "master": "masters/bridges/rainbow.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        360,
+        942,
+        663
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.647461
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        225,
+        514,
+        456,
+        600
+      ],
+      "generated_size": [
+        2055,
+        765
+      ],
+      "exports": [
+        "gameplay/bridges/rainbow-256.png",
+        "gameplay/bridges/rainbow-256.webp",
+        "gameplay/bridges/rainbow-512.png",
+        "gameplay/bridges/rainbow-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/pink-rope",
+      "description": "Delicate arched wooden bridge with pink rails, gold star finials and white cloud feet",
+      "type": "transparent static module",
+      "master": "masters/bridges/pink-rope.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        314,
+        942,
+        710
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.693359
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        456,
+        514,
+        638,
+        600
+      ],
+      "generated_size": [
+        1823,
+        863
+      ],
+      "exports": [
+        "gameplay/bridges/pink-rope-256.png",
+        "gameplay/bridges/pink-rope-256.webp",
+        "gameplay/bridges/pink-rope-512.png",
+        "gameplay/bridges/pink-rope-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "bridges/pink-arched",
+      "description": "Chunky glossy pink arched bridge with gold star posts and white cloud puffs at both ends",
+      "type": "transparent static module",
+      "master": "masters/bridges/pink-arched.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        333,
+        942,
+        691
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.674805
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        638,
+        514,
+        852,
+        600
+      ],
+      "generated_size": [
+        1978,
+        795
+      ],
+      "exports": [
+        "gameplay/bridges/pink-arched-256.png",
+        "gameplay/bridges/pink-arched-256.webp",
+        "gameplay/bridges/pink-arched-512.png",
+        "gameplay/bridges/pink-arched-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "paths/star-steps-a",
+      "description": "Ascending chain of small white cloud stepping platforms each with a golden star on top",
+      "type": "transparent static module",
+      "master": "masters/paths/star-steps-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        314,
+        942,
+        710
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.693359
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        871,
+        517,
+        1045,
+        602
+      ],
+      "generated_size": [
+        1808,
+        870
+      ],
+      "exports": [
+        "gameplay/paths/star-steps-a-256.png",
+        "gameplay/paths/star-steps-a-256.webp",
+        "gameplay/paths/star-steps-a-512.png",
+        "gameplay/paths/star-steps-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "paths/star-steps-b",
+      "description": "Second cluster of staggered pink-white cloud stepping platforms with gold star tops",
+      "type": "transparent static module",
+      "master": "masters/paths/star-steps-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        283,
+        942,
+        740
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.722656
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1045,
+        517,
+        1199,
+        602
+      ],
+      "generated_size": [
+        1688,
+        932
+      ],
+      "exports": [
+        "gameplay/paths/star-steps-b-256.png",
+        "gameplay/paths/star-steps-b-256.webp",
+        "gameplay/paths/star-steps-b-512.png",
+        "gameplay/paths/star-steps-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "paths/gold-star-cluster",
+      "description": "Cluster of three large glossy golden stars resting on small pink cloud platforms",
+      "type": "transparent static module",
+      "master": "masters/paths/gold-star-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        267,
+        942,
+        756
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.738281
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1199,
+        517,
+        1356,
+        602
+      ],
+      "generated_size": [
+        1704,
+        923
+      ],
+      "exports": [
+        "gameplay/paths/gold-star-cluster-256.png",
+        "gameplay/paths/gold-star-cluster-256.webp",
+        "gameplay/paths/gold-star-cluster-512.png",
+        "gameplay/paths/gold-star-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "paths/rainbow-stairs",
+      "description": "Short ascending pastel rainbow staircase bordered by thick white and pink clouds, gold star at top",
+      "type": "transparent static module",
+      "master": "masters/paths/rainbow-stairs.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        293,
+        942,
+        731
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.713867
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1356,
+        517,
+        1524,
+        602
+      ],
+      "generated_size": [
+        1774,
+        887
+      ],
+      "exports": [
+        "gameplay/paths/rainbow-stairs-256.png",
+        "gameplay/paths/rainbow-stairs-256.webp",
+        "gameplay/paths/rainbow-stairs-512.png",
+        "gameplay/paths/rainbow-stairs-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "trees/pink-large",
+      "description": "Large warm brown branching tree with dense fluffy pink blossoms and tiny yellow-centered flowers, small roots and green grass",
+      "type": "transparent static module",
+      "master": "masters/trees/pink-large.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        174,
+        942,
+        849
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.829102
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        12,
+        614,
+        177,
+        715
+      ],
+      "generated_size": [
+        1603,
+        981
+      ],
+      "exports": [
+        "gameplay/trees/pink-large-256.png",
+        "gameplay/trees/pink-large-256.webp",
+        "gameplay/trees/pink-large-512.png",
+        "gameplay/trees/pink-large-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "trees/pink-medium",
+      "description": "Medium fluffy pink blossom tree with warm brown trunk and small flowers",
+      "type": "transparent static module",
+      "master": "masters/trees/pink-medium.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        130,
+        942,
+        894
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.873047
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        177,
+        614,
+        286,
+        715
+      ],
+      "generated_size": [
+        1303,
+        1207
+      ],
+      "exports": [
+        "gameplay/trees/pink-medium-256.png",
+        "gameplay/trees/pink-medium-256.webp",
+        "gameplay/trees/pink-medium-512.png",
+        "gameplay/trees/pink-medium-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "trees/pink-small",
+      "description": "Small pink blossom sapling with warm brown trunk and little green root patch",
+      "type": "transparent static module",
+      "master": "masters/trees/pink-small.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        88,
+        942,
+        935
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.913086
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        286,
+        614,
+        357,
+        715
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/trees/pink-small-256.png",
+        "gameplay/trees/pink-small-256.webp",
+        "gameplay/trees/pink-small-512.png",
+        "gameplay/trees/pink-small-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "trees/golden-star",
+      "description": "Golden yellow blossom tree with warm brown branching trunk and star-shaped pale flowers",
+      "type": "transparent static module",
+      "master": "masters/trees/golden-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        121,
+        942,
+        903
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.881836
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        357,
+        614,
+        480,
+        715
+      ],
+      "generated_size": [
+        1324,
+        1188
+      ],
+      "exports": [
+        "gameplay/trees/golden-star-256.png",
+        "gameplay/trees/golden-star-256.webp",
+        "gameplay/trees/golden-star-512.png",
+        "gameplay/trees/golden-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "trees/blue-star",
+      "description": "Cyan-blue fluffy blossom tree with yellow star flowers, warm brown trunk and small grass patch",
+      "type": "transparent static module",
+      "master": "masters/trees/blue-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        134,
+        942,
+        889
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.868164
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        480,
+        614,
+        611,
+        715
+      ],
+      "generated_size": [
+        1428,
+        1101
+      ],
+      "exports": [
+        "gameplay/trees/blue-star-256.png",
+        "gameplay/trees/blue-star-256.webp",
+        "gameplay/trees/blue-star-512.png",
+        "gameplay/trees/blue-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "trees/purple-wisteria",
+      "description": "Purple wisteria tree with green top leaves, long hanging lavender blossom bunches and narrow brown trunk",
+      "type": "transparent static module",
+      "master": "masters/trees/purple-wisteria.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        165,
+        82,
+        859,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        611,
+        614,
+        694,
+        715
+      ],
+      "generated_size": [
+        1266,
+        1242
+      ],
+      "exports": [
+        "gameplay/trees/purple-wisteria-256.png",
+        "gameplay/trees/purple-wisteria-256.webp",
+        "gameplay/trees/purple-wisteria-512.png",
+        "gameplay/trees/purple-wisteria-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "canopies/pink",
+      "description": "Round compact pink blossom canopy cluster only, tiny yellow centers, no trunk or roots",
+      "type": "transparent static module",
+      "master": "masters/canopies/pink.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        101,
+        942,
+        923
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        695,
+        626,
+        766,
+        710
+      ],
+      "generated_size": [
+        1278,
+        1230
+      ],
+      "exports": [
+        "gameplay/canopies/pink-256.png",
+        "gameplay/canopies/pink-256.webp",
+        "gameplay/canopies/pink-512.png",
+        "gameplay/canopies/pink-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "canopies/golden",
+      "description": "Round compact golden yellow flower canopy cluster only, no trunk or roots",
+      "type": "transparent static module",
+      "master": "masters/canopies/golden.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        105,
+        942,
+        919
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        766,
+        626,
+        833,
+        710
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/canopies/golden-256.png",
+        "gameplay/canopies/golden-256.webp",
+        "gameplay/canopies/golden-512.png",
+        "gameplay/canopies/golden-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "canopies/blue",
+      "description": "Round compact blue blossom canopy cluster with tiny yellow flowers, no trunk or roots",
+      "type": "transparent static module",
+      "master": "masters/canopies/blue.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        102,
+        942,
+        922
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        833,
+        626,
+        902,
+        710
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/canopies/blue-256.png",
+        "gameplay/canopies/blue-256.webp",
+        "gameplay/canopies/blue-512.png",
+        "gameplay/canopies/blue-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "canopies/purple",
+      "description": "Small round purple wisteria flower canopy with dangling lavender blossom clusters, no trunk or roots",
+      "type": "transparent static module",
+      "master": "masters/canopies/purple.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        88,
+        82,
+        936,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        902,
+        626,
+        979,
+        710
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/canopies/purple-256.png",
+        "gameplay/canopies/purple-256.webp",
+        "gameplay/canopies/purple-512.png",
+        "gameplay/canopies/purple-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "crystals/rainbow-star",
+      "description": "Large faceted five-point star crystal, pink gold rainbow facets with warm glow, lavender rock and pink cloud base",
+      "type": "transparent static module",
+      "master": "masters/crystals/rainbow-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        137,
+        942,
+        887
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        989,
+        613,
+        1146,
+        715
+      ],
+      "generated_size": [
+        1556,
+        1011
+      ],
+      "exports": [
+        "gameplay/crystals/rainbow-star-256.png",
+        "gameplay/crystals/rainbow-star-256.webp",
+        "gameplay/crystals/rainbow-star-512.png",
+        "gameplay/crystals/rainbow-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "crystals/purple-cluster",
+      "description": "Cluster of tall purple faceted crystals with lavender rocks and small golden star at base",
+      "type": "transparent static module",
+      "master": "masters/crystals/purple-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        97,
+        82,
+        926,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1146,
+        613,
+        1243,
+        715
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/crystals/purple-cluster-256.png",
+        "gameplay/crystals/purple-cluster-256.webp",
+        "gameplay/crystals/purple-cluster-512.png",
+        "gameplay/crystals/purple-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "crystals/blue-cluster",
+      "description": "Cluster of icy cyan-blue faceted crystals with lavender stone base",
+      "type": "transparent static module",
+      "master": "masters/crystals/blue-cluster.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        89,
+        82,
+        934,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1243,
+        613,
+        1341,
+        715
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/crystals/blue-cluster-256.png",
+        "gameplay/crystals/blue-cluster-256.webp",
+        "gameplay/crystals/blue-cluster-512.png",
+        "gameplay/crystals/blue-cluster-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "crystals/gold-star",
+      "description": "Small faceted golden star crystal glowing above pink cloud and lavender rock base",
+      "type": "transparent static module",
+      "master": "masters/crystals/gold-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        96,
+        82,
+        928,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1341,
+        613,
+        1441,
+        715
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/crystals/gold-star-256.png",
+        "gameplay/crystals/gold-star-256.webp",
+        "gameplay/crystals/gold-star-512.png",
+        "gameplay/crystals/gold-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "crystals/pink-purple",
+      "description": "Small sharp pink and violet crystal cluster with tiny pink-yellow pebble base",
+      "type": "transparent static module",
+      "master": "masters/crystals/pink-purple.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        109,
+        86,
+        915,
+        938
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1441,
+        613,
+        1525,
+        715
+      ],
+      "generated_size": [
+        1310,
+        1200
+      ],
+      "exports": [
+        "gameplay/crystals/pink-purple-256.png",
+        "gameplay/crystals/pink-purple-256.webp",
+        "gameplay/crystals/pink-purple-512.png",
+        "gameplay/crystals/pink-purple-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "balloons/pink",
+      "description": "Pink and cream hot-air balloon with smiling golden star emblem, gold ropes and small woven basket",
+      "type": "transparent static module",
+      "master": "masters/balloons/pink.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        201,
+        82,
+        822,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        11,
+        734,
+        116,
+        845
+      ],
+      "generated_size": [
+        1195,
+        1316
+      ],
+      "exports": [
+        "gameplay/balloons/pink-256.png",
+        "gameplay/balloons/pink-256.webp",
+        "gameplay/balloons/pink-512.png",
+        "gameplay/balloons/pink-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "balloons/purple",
+      "description": "Lavender and cream hot-air balloon with golden star emblem, golden ropes and small woven basket",
+      "type": "transparent static module",
+      "master": "masters/balloons/purple.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        196,
+        82,
+        828,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        116,
+        734,
+        213,
+        845
+      ],
+      "generated_size": [
+        1172,
+        1342
+      ],
+      "exports": [
+        "gameplay/balloons/purple-256.png",
+        "gameplay/balloons/purple-256.webp",
+        "gameplay/balloons/purple-512.png",
+        "gameplay/balloons/purple-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "balloons/cloud-pink",
+      "description": "Pink and cream balloon with broad white cloud belt, smiling gold star emblem, hanging star ornaments and star-decorated basket",
+      "type": "transparent static module",
+      "master": "masters/balloons/cloud-pink.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        95,
+        82,
+        928,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        213,
+        734,
+        337,
+        845
+      ],
+      "generated_size": [
+        1326,
+        1187
+      ],
+      "exports": [
+        "gameplay/balloons/cloud-pink-256.png",
+        "gameplay/balloons/cloud-pink-256.webp",
+        "gameplay/balloons/cloud-pink-512.png",
+        "gameplay/balloons/cloud-pink-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "sky-mascots/pink-wing-star",
+      "description": "Cute smiling golden five-point star with small pink-purple wings, sitting in white fluffy cloud puffs",
+      "type": "transparent static module",
+      "master": "masters/sky-mascots/pink-wing-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        196,
+        942,
+        827
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        340,
+        745,
+        446,
+        845
+      ],
+      "generated_size": [
+        1290,
+        1219
+      ],
+      "exports": [
+        "gameplay/sky-mascots/pink-wing-star-256.png",
+        "gameplay/sky-mascots/pink-wing-star-256.webp",
+        "gameplay/sky-mascots/pink-wing-star-512.png",
+        "gameplay/sky-mascots/pink-wing-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "sky-mascots/blue-wing-star",
+      "description": "Cute smiling golden five-point star with small lavender-blue wings, sitting in white cloud puffs",
+      "type": "transparent static module",
+      "master": "masters/sky-mascots/blue-wing-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        174,
+        942,
+        850
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        446,
+        745,
+        547,
+        845
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/sky-mascots/blue-wing-star-256.png",
+        "gameplay/sky-mascots/blue-wing-star-256.webp",
+        "gameplay/sky-mascots/blue-wing-star-512.png",
+        "gameplay/sky-mascots/blue-wing-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "sky-mascots/sleepy-moon",
+      "description": "Sleepy warm golden crescent moon nestled in fluffy pale lavender clouds, closed eye",
+      "type": "transparent static module",
+      "master": "masters/sky-mascots/sleepy-moon.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        176,
+        942,
+        848
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        547,
+        745,
+        650,
+        845
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/sky-mascots/sleepy-moon-256.png",
+        "gameplay/sky-mascots/sleepy-moon-256.webp",
+        "gameplay/sky-mascots/sleepy-moon-512.png",
+        "gameplay/sky-mascots/sleepy-moon-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "sky-mascots/cloud-star",
+      "description": "Small smiling golden star peeking out from white-lilac fluffy clouds",
+      "type": "transparent static module",
+      "master": "masters/sky-mascots/cloud-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        165,
+        942,
+        859
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        650,
+        745,
+        768,
+        845
+      ],
+      "generated_size": [
+        1316,
+        1195
+      ],
+      "exports": [
+        "gameplay/sky-mascots/cloud-star-256.png",
+        "gameplay/sky-mascots/cloud-star-256.webp",
+        "gameplay/sky-mascots/cloud-star-512.png",
+        "gameplay/sky-mascots/cloud-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "lamps/curved-star",
+      "description": "Slim pink and gold curved lamp post with hanging glowing golden star-shaped lantern",
+      "type": "transparent static module",
+      "master": "masters/lamps/curved-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        235,
+        82,
+        788,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        787,
+        738,
+        874,
+        843
+      ],
+      "generated_size": [
+        1142,
+        1378
+      ],
+      "exports": [
+        "gameplay/lamps/curved-star-256.png",
+        "gameplay/lamps/curved-star-256.webp",
+        "gameplay/lamps/curved-star-512.png",
+        "gameplay/lamps/curved-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "lamps/crescent-star",
+      "description": "Golden crescent moon lamp on slim gold pedestal, small glowing star lantern suspended from tip",
+      "type": "transparent static module",
+      "master": "masters/lamps/crescent-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        217,
+        82,
+        807,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        874,
+        738,
+        974,
+        843
+      ],
+      "generated_size": [
+        1261,
+        1247
+      ],
+      "exports": [
+        "gameplay/lamps/crescent-star-256.png",
+        "gameplay/lamps/crescent-star-256.webp",
+        "gameplay/lamps/crescent-star-512.png",
+        "gameplay/lamps/crescent-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "lamps/pink-star",
+      "description": "Pink curved lamp post on round base, hanging gold star-outline lantern with warm light",
+      "type": "transparent static module",
+      "master": "masters/lamps/pink-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        167,
+        82,
+        856,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        974,
+        738,
+        1053,
+        843
+      ],
+      "generated_size": [
+        1088,
+        1446
+      ],
+      "exports": [
+        "gameplay/lamps/pink-star-256.png",
+        "gameplay/lamps/pink-star-256.webp",
+        "gameplay/lamps/pink-star-512.png",
+        "gameplay/lamps/pink-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "pedestals/glowing-star",
+      "description": "Short pink and gold decorative pedestal holding luminous golden star",
+      "type": "transparent static module",
+      "master": "masters/pedestals/glowing-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        283,
+        82,
+        741,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1053,
+        744,
+        1130,
+        843
+      ],
+      "generated_size": [
+        1099,
+        1431
+      ],
+      "exports": [
+        "gameplay/pedestals/glowing-star-256.png",
+        "gameplay/pedestals/glowing-star-256.webp",
+        "gameplay/pedestals/glowing-star-512.png",
+        "gameplay/pedestals/glowing-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "pedestals/orb-star",
+      "description": "Pink decorative pedestal with gold star on front and transparent pink glowing crystal orb on top",
+      "type": "transparent static module",
+      "master": "masters/pedestals/orb-star.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        197,
+        82,
+        826,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1130,
+        744,
+        1207,
+        843
+      ],
+      "generated_size": [
+        1106,
+        1422
+      ],
+      "exports": [
+        "gameplay/pedestals/orb-star-256.png",
+        "gameplay/pedestals/orb-star-256.webp",
+        "gameplay/pedestals/orb-star-512.png",
+        "gameplay/pedestals/orb-star-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "pedestals/gold-orb",
+      "description": "Slender warm gold pedestal with pink cap and small golden crystal sphere on top",
+      "type": "transparent static module",
+      "master": "masters/pedestals/gold-orb.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        311,
+        82,
+        712,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1207,
+        744,
+        1273,
+        843
+      ],
+      "generated_size": [
+        1024,
+        1536
+      ],
+      "exports": [
+        "gameplay/pedestals/gold-orb-256.png",
+        "gameplay/pedestals/gold-orb-256.webp",
+        "gameplay/pedestals/gold-orb-512.png",
+        "gameplay/pedestals/gold-orb-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "props/telescope",
+      "description": "Small angled lavender and gold telescope on short pink tripod stand with gold star ornament at foot",
+      "type": "transparent static module",
+      "master": "masters/props/telescope.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        173,
+        82,
+        851,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1275,
+        741,
+        1369,
+        843
+      ],
+      "generated_size": [
+        1204,
+        1306
+      ],
+      "exports": [
+        "gameplay/props/telescope-256.png",
+        "gameplay/props/telescope-256.webp",
+        "gameplay/props/telescope-512.png",
+        "gameplay/props/telescope-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "plants/pinwheel-flower",
+      "description": "Tall pink and yellow pinwheel-shaped flower on green stem with narrow green grass leaves",
+      "type": "transparent static module",
+      "master": "masters/plants/pinwheel-flower.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        236,
+        82,
+        788,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1371,
+        741,
+        1456,
+        844
+      ],
+      "generated_size": [
+        1139,
+        1381
+      ],
+      "exports": [
+        "gameplay/plants/pinwheel-flower-256.png",
+        "gameplay/plants/pinwheel-flower-256.webp",
+        "gameplay/plants/pinwheel-flower-512.png",
+        "gameplay/plants/pinwheel-flower-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "plants/cream-flower",
+      "description": "Tall cream and pale golden five-petal flower on green stem with leaves",
+      "type": "transparent static module",
+      "master": "masters/plants/cream-flower.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        247,
+        82,
+        777,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1459,
+        740,
+        1526,
+        844
+      ],
+      "generated_size": [
+        1045,
+        1505
+      ],
+      "exports": [
+        "gameplay/plants/cream-flower-256.png",
+        "gameplay/plants/cream-flower-256.webp",
+        "gameplay/plants/cream-flower-512.png",
+        "gameplay/plants/cream-flower-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/pink-clouds",
+      "description": "Layered fluffy pink and lavender clouds against pastel blue-pink sky, clean full-bleed background",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/pink-clouds.png",
+      "size": [
+        1349,
+        1166
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1349,
+        1166
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        18,
+        870,
+        166,
+        998
+      ],
+      "generated_size": [
+        1349,
+        1166
+      ],
+      "exports": [
+        "gameplay/backgrounds/pink-clouds-256.png",
+        "gameplay/backgrounds/pink-clouds-256.webp",
+        "gameplay/backgrounds/pink-clouds-512.png",
+        "gameplay/backgrounds/pink-clouds-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/lilac-clouds",
+      "description": "Dense fluffy pale lavender and white cloud sea under soft blue-lilac sky, clean full-bleed background",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/lilac-clouds.png",
+      "size": [
+        1288,
+        1221
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1288,
+        1221
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        166,
+        870,
+        301,
+        998
+      ],
+      "generated_size": [
+        1288,
+        1221
+      ],
+      "exports": [
+        "gameplay/backgrounds/lilac-clouds-256.png",
+        "gameplay/backgrounds/lilac-clouds-256.webp",
+        "gameplay/backgrounds/lilac-clouds-512.png",
+        "gameplay/backgrounds/lilac-clouds-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/starry-sky",
+      "description": "Deep purple-blue starry sky with sparkling stars, distant pastel aurora and soft pink-lavender cloud banks, clean full-bleed background",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/starry-sky.png",
+      "size": [
+        1536,
+        882
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        882
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        301,
+        870,
+        524,
+        998
+      ],
+      "generated_size": [
+        1655,
+        950
+      ],
+      "exports": [
+        "gameplay/backgrounds/starry-sky-256.png",
+        "gameplay/backgrounds/starry-sky-256.webp",
+        "gameplay/backgrounds/starry-sky-512.png",
+        "gameplay/backgrounds/starry-sky-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "backgrounds/sunset-clouds",
+      "description": "Warm pink peach sunset above glowing soft cloud sea, tiny stars and subtle distant sky, clean full-bleed background",
+      "type": "flattened background plate",
+      "master": "masters/backgrounds/sunset-clouds.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        524,
+        870,
+        651,
+        998
+      ],
+      "generated_size": [
+        1254,
+        1254
+      ],
+      "exports": [
+        "gameplay/backgrounds/sunset-clouds-256.png",
+        "gameplay/backgrounds/sunset-clouds-256.webp",
+        "gameplay/backgrounds/sunset-clouds-512.png",
+        "gameplay/backgrounds/sunset-clouds-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/grass-large",
+      "description": "Large faceted lavender boulder cluster with thick bright green grassy turf cap",
+      "type": "transparent static module",
+      "master": "masters/rocks/grass-large.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        269,
+        942,
+        755
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.737305
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        676,
+        867,
+        802,
+        934
+      ],
+      "generated_size": [
+        1720,
+        914
+      ],
+      "exports": [
+        "gameplay/rocks/grass-large-256.png",
+        "gameplay/rocks/grass-large-256.webp",
+        "gameplay/rocks/grass-large-512.png",
+        "gameplay/rocks/grass-large-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/grass-medium",
+      "description": "Medium low lavender boulder cluster with green moss cap",
+      "type": "transparent static module",
+      "master": "masters/rocks/grass-medium.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        220,
+        942,
+        803
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.78418
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        802,
+        867,
+        875,
+        934
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/rocks/grass-medium-256.png",
+        "gameplay/rocks/grass-medium-256.webp",
+        "gameplay/rocks/grass-medium-512.png",
+        "gameplay/rocks/grass-medium-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "rocks/grass-small",
+      "description": "Small low lavender rock cluster with small green moss top",
+      "type": "transparent static module",
+      "master": "masters/rocks/grass-small.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        225,
+        942,
+        798
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.779297
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        875,
+        867,
+        947,
+        934
+      ],
+      "generated_size": [
+        1300,
+        1210
+      ],
+      "exports": [
+        "gameplay/rocks/grass-small-256.png",
+        "gameplay/rocks/grass-small-256.webp",
+        "gameplay/rocks/grass-small-512.png",
+        "gameplay/rocks/grass-small-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "grasses/wide-a",
+      "description": "Small wide bright green grass tuft with many pointed blades",
+      "type": "transparent static module",
+      "master": "masters/grasses/wide-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        336,
+        942,
+        688
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.671875
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        954,
+        860,
+        1031,
+        892
+      ],
+      "generated_size": [
+        1945,
+        808
+      ],
+      "exports": [
+        "gameplay/grasses/wide-a-256.png",
+        "gameplay/grasses/wide-a-256.webp",
+        "gameplay/grasses/wide-a-512.png",
+        "gameplay/grasses/wide-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "grasses/narrow-a",
+      "description": "Small narrow bright green grass tuft",
+      "type": "transparent static module",
+      "master": "masters/grasses/narrow-a.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        325,
+        942,
+        698
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.681641
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1032,
+        861,
+        1104,
+        893
+      ],
+      "generated_size": [
+        1881,
+        836
+      ],
+      "exports": [
+        "gameplay/grasses/narrow-a-256.png",
+        "gameplay/grasses/narrow-a-256.webp",
+        "gameplay/grasses/narrow-a-512.png",
+        "gameplay/grasses/narrow-a-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "grasses/wide-b",
+      "description": "Low wide bright green grass tuft with pointed leaves",
+      "type": "transparent static module",
+      "master": "masters/grasses/wide-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        344,
+        942,
+        680
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.664062
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        958,
+        900,
+        1040,
+        933
+      ],
+      "generated_size": [
+        1997,
+        788
+      ],
+      "exports": [
+        "gameplay/grasses/wide-b-256.png",
+        "gameplay/grasses/wide-b-256.webp",
+        "gameplay/grasses/wide-b-512.png",
+        "gameplay/grasses/wide-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "grasses/narrow-b",
+      "description": "Tiny narrow pointed green grass tuft",
+      "type": "transparent static module",
+      "master": "masters/grasses/narrow-b.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        281,
+        942,
+        743
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.725586
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1041,
+        901,
+        1105,
+        933
+      ],
+      "generated_size": [
+        1774,
+        887
+      ],
+      "exports": [
+        "gameplay/grasses/narrow-b-256.png",
+        "gameplay/grasses/narrow-b-256.webp",
+        "gameplay/grasses/narrow-b-512.png",
+        "gameplay/grasses/narrow-b-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "shrubs/white-pink",
+      "description": "Rounded green leafy flowering bush with many tiny white pink and orange flowers",
+      "type": "transparent static module",
+      "master": "masters/shrubs/white-pink.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        226,
+        942,
+        797
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.77832
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1108,
+        863,
+        1211,
+        935
+      ],
+      "generated_size": [
+        1500,
+        1049
+      ],
+      "exports": [
+        "gameplay/shrubs/white-pink-256.png",
+        "gameplay/shrubs/white-pink-256.webp",
+        "gameplay/shrubs/white-pink-512.png",
+        "gameplay/shrubs/white-pink-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "shrubs/pink",
+      "description": "Round green leafy bush with larger pink and white flowers and yellow centers",
+      "type": "transparent static module",
+      "master": "masters/shrubs/pink.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        198,
+        942,
+        825
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.805664
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1211,
+        863,
+        1308,
+        935
+      ],
+      "generated_size": [
+        1456,
+        1080
+      ],
+      "exports": [
+        "gameplay/shrubs/pink-256.png",
+        "gameplay/shrubs/pink-256.webp",
+        "gameplay/shrubs/pink-512.png",
+        "gameplay/shrubs/pink-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "shrubs/teal-succulent",
+      "description": "Cluster of pointed turquoise teal succulent leaves, glossy smooth surfaces",
+      "type": "transparent static module",
+      "master": "masters/shrubs/teal-succulent.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        153,
+        942,
+        870
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.849609
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1308,
+        863,
+        1393,
+        935
+      ],
+      "generated_size": [
+        1363,
+        1154
+      ],
+      "exports": [
+        "gameplay/shrubs/teal-succulent-256.png",
+        "gameplay/shrubs/teal-succulent-256.webp",
+        "gameplay/shrubs/teal-succulent-512.png",
+        "gameplay/shrubs/teal-succulent-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "shrubs/pink-sprig",
+      "description": "Small leafy plant with one big pink flower and tiny companion bud",
+      "type": "transparent static module",
+      "master": "masters/shrubs/pink-sprig.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        85,
+        97,
+        939,
+        927
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.905273
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1393,
+        863,
+        1456,
+        935
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/shrubs/pink-sprig-256.png",
+        "gameplay/shrubs/pink-sprig-256.webp",
+        "gameplay/shrubs/pink-sprig-512.png",
+        "gameplay/shrubs/pink-sprig-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "shrubs/flower-pair",
+      "description": "Small leafy plant with two pink yellow-centered flowers",
+      "type": "transparent static module",
+      "master": "masters/shrubs/flower-pair.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        100,
+        82,
+        923,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.919922
+      ],
+      "anchor_note": "bottom center of visible artwork; adjust for placement",
+      "source_box": [
+        1456,
+        863,
+        1525,
+        935
+      ],
+      "generated_size": [
+        1315,
+        1196
+      ],
+      "exports": [
+        "gameplay/shrubs/flower-pair-256.png",
+        "gameplay/shrubs/flower-pair-256.webp",
+        "gameplay/shrubs/flower-pair-512.png",
+        "gameplay/shrubs/flower-pair-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/star-comet",
+      "description": "Single golden five-point shooting star followed by curved golden sparkling trail sweeping to the right, isolated transparent VFX",
+      "type": "transparent static module",
+      "master": "masters/effects/star-comet.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        302,
+        942,
+        722
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        676,
+        944,
+        807,
+        1007
+      ],
+      "generated_size": [
+        1814,
+        867
+      ],
+      "exports": [
+        "gameplay/effects/star-comet-256.png",
+        "gameplay/effects/star-comet-256.webp",
+        "gameplay/effects/star-comet-512.png",
+        "gameplay/effects/star-comet-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/rainbow-arc",
+      "description": "Small pastel rainbow arc with soft luminous ends and tiny golden sparkles, isolated transparent VFX",
+      "type": "transparent static module",
+      "master": "masters/effects/rainbow-arc.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        282,
+        942,
+        741
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        807,
+        944,
+        913,
+        1007
+      ],
+      "generated_size": [
+        1694,
+        928
+      ],
+      "exports": [
+        "gameplay/effects/rainbow-arc-256.png",
+        "gameplay/effects/rainbow-arc-256.webp",
+        "gameplay/effects/rainbow-arc-512.png",
+        "gameplay/effects/rainbow-arc-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/star-trail",
+      "description": "Golden star followed by several thin curved golden streaks and tiny sparkles, transparent VFX",
+      "type": "transparent static module",
+      "master": "masters/effects/star-trail.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        329,
+        942,
+        694
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        913,
+        944,
+        1047,
+        1007
+      ],
+      "generated_size": [
+        1828,
+        860
+      ],
+      "exports": [
+        "gameplay/effects/star-trail-256.png",
+        "gameplay/effects/star-trail-256.webp",
+        "gameplay/effects/star-trail-512.png",
+        "gameplay/effects/star-trail-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/pink-star-chain",
+      "description": "Curving chain of small pink and gold outlined stars with fine golden sparkles, transparent VFX",
+      "type": "transparent static module",
+      "master": "masters/effects/pink-star-chain.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        260,
+        942,
+        763
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1047,
+        944,
+        1142,
+        1007
+      ],
+      "generated_size": [
+        1540,
+        1021
+      ],
+      "exports": [
+        "gameplay/effects/pink-star-chain-256.png",
+        "gameplay/effects/pink-star-chain-256.webp",
+        "gameplay/effects/pink-star-chain-512.png",
+        "gameplay/effects/pink-star-chain-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/pink-vortex",
+      "description": "Flat elliptical pink-violet swirling magical vortex with bright white center and sparkles, isolated transparent VFX",
+      "type": "transparent static module",
+      "master": "masters/effects/pink-vortex.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        265,
+        942,
+        759
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1142,
+        944,
+        1257,
+        1007
+      ],
+      "generated_size": [
+        1694,
+        928
+      ],
+      "exports": [
+        "gameplay/effects/pink-vortex-256.png",
+        "gameplay/effects/pink-vortex-256.webp",
+        "gameplay/effects/pink-vortex-512.png",
+        "gameplay/effects/pink-vortex-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/star-stream",
+      "description": "Golden five-point star at left emitting long thin horizontal sparkling rays toward the right with small gold and pink glints, transparent VFX",
+      "type": "transparent static module",
+      "master": "masters/effects/star-stream.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        82,
+        391,
+        942,
+        633
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1257,
+        944,
+        1439,
+        1007
+      ],
+      "generated_size": [
+        2137,
+        736
+      ],
+      "exports": [
+        "gameplay/effects/star-stream-256.png",
+        "gameplay/effects/star-stream-256.webp",
+        "gameplay/effects/star-stream-512.png",
+        "gameplay/effects/star-stream-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    },
+    {
+      "id": "effects/gold-glint",
+      "description": "ONE simple golden eight-ray light glint, bright white-gold center and soft halo, isolated transparent VFX. No scenery or other objects",
+      "type": "transparent static module",
+      "master": "masters/effects/gold-glint.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        83,
+        82,
+        940,
+        942
+      ],
+      "anchor_normalized": [
+        0.5,
+        0.5
+      ],
+      "anchor_note": "center",
+      "source_box": [
+        1439,
+        944,
+        1525,
+        1007
+      ],
+      "generated_size": [
+        1312,
+        1199
+      ],
+      "exports": [
+        "gameplay/effects/gold-glint-256.png",
+        "gameplay/effects/gold-glint-256.webp",
+        "gameplay/effects/gold-glint-512.png",
+        "gameplay/effects/gold-glint-512.webp"
+      ],
+      "origin": "AI reconstruction from original board crop; not pixel-exact extraction"
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 14887,
+      "sha256": "014bea643449c6f0f2ed7797b787ae4ee7b313d09fd8e6138d5996be3bc546ac"
+    },
+    {
+      "path": "gameplay/backgrounds/lilac-clouds-256.png",
+      "bytes": 60816,
+      "sha256": "5e52d6cde83df4c71c33d2efacc764fd4fd4bd6f32be09a2aaadec09fb5d7596"
+    },
+    {
+      "path": "gameplay/backgrounds/lilac-clouds-256.webp",
+      "bytes": 45422,
+      "sha256": "4ed7d20cf1f366cfc4506b3e42c66417c817e637e70b115032f189621905859c"
+    },
+    {
+      "path": "gameplay/backgrounds/lilac-clouds-512.png",
+      "bytes": 217036,
+      "sha256": "339401cf9b70f174a1b84eb4561ad5a6b9cbed1aa085b80bf77332dd94c08640"
+    },
+    {
+      "path": "gameplay/backgrounds/lilac-clouds-512.webp",
+      "bytes": 165812,
+      "sha256": "23f68b4e9ab1357a12620a57e6fc01854252e5925188f15192d6c09b328184b3"
+    },
+    {
+      "path": "gameplay/backgrounds/pink-clouds-256.png",
+      "bytes": 56032,
+      "sha256": "4f6410e6135eb9a967cd038fbe056ae1cef3f7b54a94e1c591d0a9bc79e480c8"
+    },
+    {
+      "path": "gameplay/backgrounds/pink-clouds-256.webp",
+      "bytes": 41952,
+      "sha256": "6f2fc063521cd7c92e5fc27eafe0ddc25d6e11ce626e83f08ad3ccb02d245fa7"
+    },
+    {
+      "path": "gameplay/backgrounds/pink-clouds-512.png",
+      "bytes": 200301,
+      "sha256": "19613d5ef43a5ee9bd29ac1d45887c524f3b0f4ab31ac1fdcca51e602f177aeb"
+    },
+    {
+      "path": "gameplay/backgrounds/pink-clouds-512.webp",
+      "bytes": 151878,
+      "sha256": "c2d0457ca13cba8a5c0025a564e6eb5c59480b9e28c3397d23ac9c3d30712328"
+    },
+    {
+      "path": "gameplay/backgrounds/starry-sky-256.png",
+      "bytes": 50779,
+      "sha256": "52d46c1c5cd1761d3770d27c5c2db3a69838a3edc2833878a978195c22d7e386"
+    },
+    {
+      "path": "gameplay/backgrounds/starry-sky-256.webp",
+      "bytes": 38346,
+      "sha256": "2bba920ab743d57969585fdd671e8e0e2ec320f7eb04184e06bc8b069931b47a"
+    },
+    {
+      "path": "gameplay/backgrounds/starry-sky-512.png",
+      "bytes": 164075,
+      "sha256": "37412cc8170a2a816ab5e30fd0b40023f5df78de23ffd5cc5d3edef68fdeaab4"
+    },
+    {
+      "path": "gameplay/backgrounds/starry-sky-512.webp",
+      "bytes": 123288,
+      "sha256": "84a1a5edd1c33cdcff67bb1e313d683f54ae8b815180db8598450e6baccd5e0a"
+    },
+    {
+      "path": "gameplay/backgrounds/sunset-clouds-256.png",
+      "bytes": 69287,
+      "sha256": "65c5c3503d8baef274d0ef87568c4deb587ce8d87dcda336986fef3fd645f695"
+    },
+    {
+      "path": "gameplay/backgrounds/sunset-clouds-256.webp",
+      "bytes": 52678,
+      "sha256": "b6d91d58a3595fb70a7e9ae7f3183bcbc57ed5fc057fce454a85b465b1c81dd9"
+    },
+    {
+      "path": "gameplay/backgrounds/sunset-clouds-512.png",
+      "bytes": 242578,
+      "sha256": "11720ebbc8d029c39642a67abf3eea6507f4e0ded899d3e1ced7d3e5facc1bf8"
+    },
+    {
+      "path": "gameplay/backgrounds/sunset-clouds-512.webp",
+      "bytes": 185704,
+      "sha256": "fb7fd9c93ef52227879917f257d0e01be7963131b149d0db707ce381f7566a3f"
+    },
+    {
+      "path": "gameplay/balloons/cloud-pink-256.png",
+      "bytes": 62590,
+      "sha256": "f0d396aaed139cf012079932f2be0d65def472e2fee440b1176a4c057ccc9eb9"
+    },
+    {
+      "path": "gameplay/balloons/cloud-pink-256.webp",
+      "bytes": 46654,
+      "sha256": "925adc0a07600c7fba5f3a5d21ca74c22a504ad2888f0bb1b7b567326cc0630c"
+    },
+    {
+      "path": "gameplay/balloons/cloud-pink-512.png",
+      "bytes": 200738,
+      "sha256": "995d34083325df6576a55425908fd38564d31cad3110eadd181f9b008c4527ee"
+    },
+    {
+      "path": "gameplay/balloons/cloud-pink-512.webp",
+      "bytes": 141884,
+      "sha256": "e4d59912125c549b6d2071dffebbb04e9cb8260b48994d0d54616fa337252a2d"
+    },
+    {
+      "path": "gameplay/balloons/pink-256.png",
+      "bytes": 51798,
+      "sha256": "e660147335445e9324e845dd3977cd85db5ac9dbc3646698a12983670e372b81"
+    },
+    {
+      "path": "gameplay/balloons/pink-256.webp",
+      "bytes": 37850,
+      "sha256": "a2062f1aa7ce24ef277cb5e4ee60eed31bbe725ca2c8a5f3697354c66d61d02a"
+    },
+    {
+      "path": "gameplay/balloons/pink-512.png",
+      "bytes": 166882,
+      "sha256": "4a9a6768c764d780f53885ea80fb0af3ced9dd9ba055c770f0e62aa8fe886bb3"
+    },
+    {
+      "path": "gameplay/balloons/pink-512.webp",
+      "bytes": 116116,
+      "sha256": "e42f1cf48ce65312d417dbbd13f50acd8efccfa41af9e398f9db83f1e7b60bde"
+    },
+    {
+      "path": "gameplay/balloons/purple-256.png",
+      "bytes": 50687,
+      "sha256": "8cdcee8cf59f363378912ae25e725bf383d01f11f34e6ce0632c838e684b14dd"
+    },
+    {
+      "path": "gameplay/balloons/purple-256.webp",
+      "bytes": 37078,
+      "sha256": "a7b439e8f5df9de55f40901cf1dd1aa406bd21be11151373676be6c7c42ff417"
+    },
+    {
+      "path": "gameplay/balloons/purple-512.png",
+      "bytes": 161777,
+      "sha256": "6c2a1987b9057255a84069bcfd1f71fab6881bb6f004c4749ef10b1af49458d6"
+    },
+    {
+      "path": "gameplay/balloons/purple-512.webp",
+      "bytes": 113790,
+      "sha256": "9b405afe35fbe006143739ed2329f2dec76e9007bc6bfef84fe07d16817b2a4d"
+    },
+    {
+      "path": "gameplay/bridges/gold-wood-256.png",
+      "bytes": 41713,
+      "sha256": "9f2885a15835d67561a0fd02252ed83e7723668559e51a3ea8bc6e37fce54064"
+    },
+    {
+      "path": "gameplay/bridges/gold-wood-256.webp",
+      "bytes": 33302,
+      "sha256": "b0bebd8f4caf82701d8d8847c63274bca59edea96563720dc358f38ec7d48ae3"
+    },
+    {
+      "path": "gameplay/bridges/gold-wood-512.png",
+      "bytes": 131973,
+      "sha256": "a503ebae1ba4a34622f4869ac814da241bac60743f80ceeb38d2c7a0e176bbbc"
+    },
+    {
+      "path": "gameplay/bridges/gold-wood-512.webp",
+      "bytes": 100640,
+      "sha256": "738c64c3e1d13f32a6f98d56efc3336540cf01553ed11ee51166bd1b068649f4"
+    },
+    {
+      "path": "gameplay/bridges/pink-arched-256.png",
+      "bytes": 30968,
+      "sha256": "dddb791d6132072714967518950f7083fa0cdb010404bca7a1da0ac3c6fc69b3"
+    },
+    {
+      "path": "gameplay/bridges/pink-arched-256.webp",
+      "bytes": 24276,
+      "sha256": "8c01696f8077f49496942e673f9d604a1abc06f3abea608b81c3ea85d8a77a7b"
+    },
+    {
+      "path": "gameplay/bridges/pink-arched-512.png",
+      "bytes": 94346,
+      "sha256": "d3597ebff63045b0db2db63613c374f91f7ab9dbc08e5cde8d0d359ded7ae09d"
+    },
+    {
+      "path": "gameplay/bridges/pink-arched-512.webp",
+      "bytes": 71030,
+      "sha256": "4ead768fba83d85e7ea9f8d9f545697d5d1c1e75c8b171ae982499e0dbf78205"
+    },
+    {
+      "path": "gameplay/bridges/pink-rope-256.png",
+      "bytes": 31895,
+      "sha256": "947d6dd9bdba60313e6b829fd3ff383ae415ba1820defb01e3e75214394b021b"
+    },
+    {
+      "path": "gameplay/bridges/pink-rope-256.webp",
+      "bytes": 24818,
+      "sha256": "81ad23a0ddf66f298d7a6e19fe58e9355a03025c31f521b15a68060a2cbcc9b9"
+    },
+    {
+      "path": "gameplay/bridges/pink-rope-512.png",
+      "bytes": 96240,
+      "sha256": "e05efdbe9dd2c2d983355546e5de3c6cf35be597787b18552c8dfb126cda3f67"
+    },
+    {
+      "path": "gameplay/bridges/pink-rope-512.webp",
+      "bytes": 72150,
+      "sha256": "b4648813d62a2c8f1b059a3f267192e23e825442cbc7a1bba4cc93611c6b590e"
+    },
+    {
+      "path": "gameplay/bridges/rainbow-256.png",
+      "bytes": 29102,
+      "sha256": "96234c3a33e9ad29756b6de46ed03d4878fb5b50dd8a8db59e9e44c5167fd5c2"
+    },
+    {
+      "path": "gameplay/bridges/rainbow-256.webp",
+      "bytes": 22230,
+      "sha256": "75238e653b7fd2ed355a78b8adde3755275e9cfcfd5cd2fd11933ff0a19df73a"
+    },
+    {
+      "path": "gameplay/bridges/rainbow-512.png",
+      "bytes": 90248,
+      "sha256": "1df7695da8c481a0a5531c9402206a2cf05305395642f232d7088bd31a5ee494"
+    },
+    {
+      "path": "gameplay/bridges/rainbow-512.webp",
+      "bytes": 66052,
+      "sha256": "51bc759798251a77712ade6f8b86397c837500d80c05ac056252d283f0410983"
+    },
+    {
+      "path": "gameplay/canopies/blue-256.png",
+      "bytes": 71662,
+      "sha256": "d7f97bc818a0ed831acdaea55c2e16255fac7f0b3eac98152ed45e0601f543f8"
+    },
+    {
+      "path": "gameplay/canopies/blue-256.webp",
+      "bytes": 53426,
+      "sha256": "e0eed6cf6ef0b84dfa0ea03345098d5e3dbf2719009caa060c5678944b0bcef8"
+    },
+    {
+      "path": "gameplay/canopies/blue-512.png",
+      "bytes": 235796,
+      "sha256": "4394d2e1396dfe3a9e2b383c5f89dc58c1851e15245e6da2b114ce0952260f35"
+    },
+    {
+      "path": "gameplay/canopies/blue-512.webp",
+      "bytes": 167252,
+      "sha256": "a67070412e0a586b14d07371ab1e7188df44a12feb54cb956519c9d770ed0197"
+    },
+    {
+      "path": "gameplay/canopies/golden-256.png",
+      "bytes": 67917,
+      "sha256": "debd735f6ec7baaa21cbc696bd0075bc1beb6d1814b0697ae24e8431098e52fb"
+    },
+    {
+      "path": "gameplay/canopies/golden-256.webp",
+      "bytes": 49608,
+      "sha256": "9f02d2fea7e9301e40366d2242ff3071fcb3fccf2907206d95a8eb98dd088ae7"
+    },
+    {
+      "path": "gameplay/canopies/golden-512.png",
+      "bytes": 224619,
+      "sha256": "32c34c12d201267c113ec9e0ef4428f44d97456f699c1de7f513e6a54b88a0e8"
+    },
+    {
+      "path": "gameplay/canopies/golden-512.webp",
+      "bytes": 158280,
+      "sha256": "294878ab365f2cc051f27b21d5a1a63caa7a8f3ef5fc5ca758981c40d186adc4"
+    },
+    {
+      "path": "gameplay/canopies/pink-256.png",
+      "bytes": 71435,
+      "sha256": "e6bba3ecfb43389ae403463dda9422de860bc450020ed11377375be4357dc4ef"
+    },
+    {
+      "path": "gameplay/canopies/pink-256.webp",
+      "bytes": 52762,
+      "sha256": "6a4d1924f1b50589dda99e7dfbed5852d91fd75cea6326c2b9f7c90c907c8431"
+    },
+    {
+      "path": "gameplay/canopies/pink-512.png",
+      "bytes": 230952,
+      "sha256": "e6c85d7177a0c5eb164e234182ff655b7a1ec00a319346cf62e18eb8429ab342"
+    },
+    {
+      "path": "gameplay/canopies/pink-512.webp",
+      "bytes": 162110,
+      "sha256": "724047df8df196136bc590c7dd78db3ca17129b21128b96d5c718a0e59c8e668"
+    },
+    {
+      "path": "gameplay/canopies/purple-256.png",
+      "bytes": 79170,
+      "sha256": "c96245ea9e33dc67aaed6c735000f4abab8ca33d8489629e826d62fb0fb5b6d4"
+    },
+    {
+      "path": "gameplay/canopies/purple-256.webp",
+      "bytes": 60380,
+      "sha256": "15ca71a4b1ce11b8b22f6b0f67a44bfa4f200ca17be2d34143081addbc238cb9"
+    },
+    {
+      "path": "gameplay/canopies/purple-512.png",
+      "bytes": 255886,
+      "sha256": "edf29cbe2a2ec1fbff4ec754e55c4e74da896bf17447a77bab704f3d09dc550a"
+    },
+    {
+      "path": "gameplay/canopies/purple-512.webp",
+      "bytes": 189026,
+      "sha256": "c776098a8b8fd90f6611f31aa35aacb0fa93215847ed8835e25f1cbcacd38fd8"
+    },
+    {
+      "path": "gameplay/castle-pieces/flag-256.png",
+      "bytes": 27284,
+      "sha256": "af898f0322c93812445bcb78455dc68db11564d504b4349519b893faa692e45b"
+    },
+    {
+      "path": "gameplay/castle-pieces/flag-256.webp",
+      "bytes": 18912,
+      "sha256": "614f0be8eeb314c6fa6151b50001639aea9b4da56e69fee89052377d339f0a63"
+    },
+    {
+      "path": "gameplay/castle-pieces/flag-512.png",
+      "bytes": 88546,
+      "sha256": "31f18e1a2f4a3211934bac1409758b8b817adf5ba7a3e42bafdfd4f5a7cd57c1"
+    },
+    {
+      "path": "gameplay/castle-pieces/flag-512.webp",
+      "bytes": 57624,
+      "sha256": "1c17fca288b7c037b52a5317daa8457ae31d2397833c9de266251027a71d0fa0"
+    },
+    {
+      "path": "gameplay/castle-pieces/pink-dome-256.png",
+      "bytes": 47830,
+      "sha256": "312a5c53cf02434101b2f2c62a94e0547e7cc490461749307569e242f992d25e"
+    },
+    {
+      "path": "gameplay/castle-pieces/pink-dome-256.webp",
+      "bytes": 33834,
+      "sha256": "4557268bb277d05c22e689732af03216d19e57a3acd4a43fb755df5a67cafa67"
+    },
+    {
+      "path": "gameplay/castle-pieces/pink-dome-512.png",
+      "bytes": 156776,
+      "sha256": "c1496c804a960030fcb1e857bfa9ca9aba861a441554a02715d59c618ef29d1c"
+    },
+    {
+      "path": "gameplay/castle-pieces/pink-dome-512.webp",
+      "bytes": 104680,
+      "sha256": "de536d8ad676d72c47ed09f122e448bf5a5882aaf3d419c2cb9029e9cc01338d"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-arch-256.png",
+      "bytes": 35367,
+      "sha256": "c16c6c15e33a4d3df82e7f7a111271eb4a2767f1fa010841d75f78e82f8aa938"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-arch-256.webp",
+      "bytes": 25504,
+      "sha256": "54ac21343a544324d5a238291d87a83b8040b015e0bdc51ae802b90d96bde7f0"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-arch-512.png",
+      "bytes": 113402,
+      "sha256": "4e157939a6e65afe1bdd7b3da0bc9feac33cfb06ce7099a3ba5e6a4512aabfcb"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-arch-512.webp",
+      "bytes": 77648,
+      "sha256": "8f2798b755da6f78fb4dcdb9d83eb58e3b98fcb35c1b36fb89414b78d0aa3de1"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-turret-256.png",
+      "bytes": 46359,
+      "sha256": "10d36c60f07eecca9700d940f280552bf26deb8884329221d78001946a094d59"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-turret-256.webp",
+      "bytes": 33082,
+      "sha256": "6b8f1b23498fd3e42f61b7ad64e92205b25eb37cafb5516f5b861942f1ef299d"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-turret-512.png",
+      "bytes": 153325,
+      "sha256": "50cd93a6b18f9d18b7e46a754d8786531b0e432bddfab807069ab8352c5e2c3e"
+    },
+    {
+      "path": "gameplay/castle-pieces/small-turret-512.webp",
+      "bytes": 102902,
+      "sha256": "d029b95eecdd5ff659c196e7f5339d78de3960eb607a8893856b4e5372cec90c"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-low-wall-256.png",
+      "bytes": 32868,
+      "sha256": "502c8c93f07fe72c1ded26574420b85d965200fc48c78af4b12d38f4c6b978d6"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-low-wall-256.webp",
+      "bytes": 24328,
+      "sha256": "cfbff179ed6dba9ecf59446b15945ec6a9c643ec2dcb78d8a748bda31fde9ce0"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-low-wall-512.png",
+      "bytes": 108374,
+      "sha256": "92432627e15eddb8e9848e410dac2a85c4efe041e005e73ee088665356748e2d"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-low-wall-512.webp",
+      "bytes": 75570,
+      "sha256": "9f38223fef0e0dad9ad8b54b26465506f26772ac2fb338e994c40f5a5535be86"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-pillar-256.png",
+      "bytes": 38183,
+      "sha256": "874ce7ef6a90363b3cb72a0e9cb28ea5971262e5f8993def8c6347aba6893af0"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-pillar-256.webp",
+      "bytes": 26668,
+      "sha256": "fb1ea285d934993f0248e6f6dfe7665b1a840ea5285413809ed5237c0379577d"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-pillar-512.png",
+      "bytes": 129485,
+      "sha256": "0f1edb702f498af1348bfb9f4b501fc07a3ac5482423ba66d9475cd716a0ef01"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-pillar-512.webp",
+      "bytes": 86280,
+      "sha256": "230bfbecf678af719ff50e9a2ccb858987b0dade81ac708a18bcbc3f78cdb00c"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-plaque-256.png",
+      "bytes": 58701,
+      "sha256": "6a5a9f49995503070c776e59d901e6de88341e5e3a40876dd2feb145bed33d8d"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-plaque-256.webp",
+      "bytes": 40530,
+      "sha256": "3448201e5f200d3eece1a64867eb778f671462d61fccf32c935d9ef21459df1a"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-plaque-512.png",
+      "bytes": 199938,
+      "sha256": "654386d96e8920e97179f6762ae22813ac6fd91f9d8987765e9d68a9d872a047"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-plaque-512.webp",
+      "bytes": 134616,
+      "sha256": "059e643c77366bda7260a5bed280e344dd7ba9528bb607c02f78fb737c7ecba4"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-portal-256.png",
+      "bytes": 55205,
+      "sha256": "1d0ec9edb28778cbd909cc904d6e782ee3cb4c5ef43e05ae67ffe2a8fb4b11b6"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-portal-256.webp",
+      "bytes": 40856,
+      "sha256": "bac07920ebac92e8af6117e002d66d64032cceb933f4c5c303ecdc561873c4ab"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-portal-512.png",
+      "bytes": 176337,
+      "sha256": "1295d29c2761015d2c05074869c3a57a4bc2d3e033de7649d2779cd1cf8494b7"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-portal-512.webp",
+      "bytes": 128056,
+      "sha256": "37b37e0de1f6a45505aa58c6ba7c684a476a91d74686648c168045170677e724"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-railing-256.png",
+      "bytes": 37597,
+      "sha256": "58edf62d3c3b49695a7cdda43eb042924ea47d926579f1ba23594cd17f0e446c"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-railing-256.webp",
+      "bytes": 28578,
+      "sha256": "a7fe9fdd4388f15542217bc075043f2b3e28df8de6a328563bb7aa277f338a41"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-railing-512.png",
+      "bytes": 119865,
+      "sha256": "51550ba0e36418c357ab0fdac63064d09ae98f19401745bc1343c1dc4d4e64d2"
+    },
+    {
+      "path": "gameplay/castle-pieces/star-railing-512.webp",
+      "bytes": 86436,
+      "sha256": "51b07b597a3cfff295b9c2bff95730ce28b6222514fcfdef309f75af8b7483b1"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-pink-256.png",
+      "bytes": 60347,
+      "sha256": "701e6d52e1ab1ba51dbe8a94c8fbd20b162efeb4cd12612847d93b5122dc0fcf"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-pink-256.webp",
+      "bytes": 42626,
+      "sha256": "1386233328ff1bdb36d4ee83757f006d9f98124d14820ba70dd47bbd2af0dd0d"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-pink-512.png",
+      "bytes": 207236,
+      "sha256": "da98c37f68e25b18d4b38c315b648d1be4da37eb9a817aa065e190aa18ea0cad"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-pink-512.webp",
+      "bytes": 142238,
+      "sha256": "a016f82191d23b0b71cefd342011d43801c1deee6e34036b2ddfcbfedba84f70"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-purple-256.png",
+      "bytes": 57233,
+      "sha256": "13151adb36f331efe7d766113fe2ac1386b0dcdc65a79db0ca47de6304356f61"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-purple-256.webp",
+      "bytes": 40848,
+      "sha256": "22d3f5e07f56c0c055569af8235700ce112ccc35985878153eced51f76205560"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-purple-512.png",
+      "bytes": 194426,
+      "sha256": "7bb86fdc0a41e6b7d74be7c31929e76b1584e750493147369cc83ad40b8b9427"
+    },
+    {
+      "path": "gameplay/castle-pieces/window-purple-512.webp",
+      "bytes": 135564,
+      "sha256": "e7703056362b50e15d887ece37089e2d0e67ff19612e94eb06803db806e260f4"
+    },
+    {
+      "path": "gameplay/castle-views/back-256.png",
+      "bytes": 57886,
+      "sha256": "4fe5a38d44af6c9ea8a54f3bf899da9c576f25bf8061d3ece49a414c7fe03d02"
+    },
+    {
+      "path": "gameplay/castle-views/back-256.webp",
+      "bytes": 43680,
+      "sha256": "d415f98a0e375391225a77e06fbf6d1a4c3d87555e595fd85f0de27876bef213"
+    },
+    {
+      "path": "gameplay/castle-views/back-512.png",
+      "bytes": 187513,
+      "sha256": "877ab1678aaa3c82b54c9b8c172b62eb72c40858e3b38d77b770e93e3e84b7a0"
+    },
+    {
+      "path": "gameplay/castle-views/back-512.webp",
+      "bytes": 134408,
+      "sha256": "d50f5645b9707d8bf3fd7e60f7060b03c950394b5842e8031c99c3ed0134619f"
+    },
+    {
+      "path": "gameplay/castle-views/front-256.png",
+      "bytes": 66614,
+      "sha256": "52e7606012e6f8b5f7e76fc034a471e712c6a767df4014636796d9546f47411e"
+    },
+    {
+      "path": "gameplay/castle-views/front-256.webp",
+      "bytes": 53256,
+      "sha256": "1b2c15930a24416e20d3fcbdbeae5f084d4d54fb38c19298949a83009a6011f5"
+    },
+    {
+      "path": "gameplay/castle-views/front-512.png",
+      "bytes": 219624,
+      "sha256": "27a3d286c7754a5ea914d09ee5512cc26add3233e9b796cf6a9872f1233e7527"
+    },
+    {
+      "path": "gameplay/castle-views/front-512.webp",
+      "bytes": 169920,
+      "sha256": "dc4609a7cc479305aff275a88653a3f9b3327a08c3892b2904dfcb0dfb06a77e"
+    },
+    {
+      "path": "gameplay/castle-views/overhead-256.png",
+      "bytes": 89967,
+      "sha256": "c722e97a91bc6d0201f56f0bcaf6ee5511663b784e1506d5195a01a5cdf7e570"
+    },
+    {
+      "path": "gameplay/castle-views/overhead-256.webp",
+      "bytes": 70206,
+      "sha256": "84725a0d85a24ba41e93a223b1cda63a4b436cf3f2c4fc26ff4f079183d4c340"
+    },
+    {
+      "path": "gameplay/castle-views/overhead-512.png",
+      "bytes": 301708,
+      "sha256": "ad150984abf79ec6210232ffbb6972cbbbed6c0f77e79a7cd307377835b317cd"
+    },
+    {
+      "path": "gameplay/castle-views/overhead-512.webp",
+      "bytes": 228644,
+      "sha256": "5846d27efa617a57a604e96b84d5cc4f543ac4460bcd255b0675500585094ddd"
+    },
+    {
+      "path": "gameplay/castle-views/side-256.png",
+      "bytes": 63946,
+      "sha256": "d1c77a59a656f9a45243482f9a7d3d09e0f7d4dd11be5a423316f936c076c340"
+    },
+    {
+      "path": "gameplay/castle-views/side-256.webp",
+      "bytes": 49710,
+      "sha256": "7bc14828b18e17da1e687f8bef0099696ce9ff65e4a700c4379bd4b12184ec88"
+    },
+    {
+      "path": "gameplay/castle-views/side-512.png",
+      "bytes": 210938,
+      "sha256": "fa1ea063028e2d983f7d4908461976beed8578237b629791f2f51578726a21f0"
+    },
+    {
+      "path": "gameplay/castle-views/side-512.webp",
+      "bytes": 157674,
+      "sha256": "abd965d8da8d335947e9ad2099c282620f217dd14f3525591f0d36ed65f8bf55"
+    },
+    {
+      "path": "gameplay/castle-views/three-quarter-256.png",
+      "bytes": 71934,
+      "sha256": "9b7940d3bef4483b06b317690181c5eea4968ddaed94038162e4e5bf19976d2e"
+    },
+    {
+      "path": "gameplay/castle-views/three-quarter-256.webp",
+      "bytes": 56036,
+      "sha256": "f215168c23e65978f8817052927e5386b6d757ed5a496a501acea440a67c5f00"
+    },
+    {
+      "path": "gameplay/castle-views/three-quarter-512.png",
+      "bytes": 233839,
+      "sha256": "470675f81b74db88756429a1178b54e952a9a0dc1edd4ce02ffd9932e2866213"
+    },
+    {
+      "path": "gameplay/castle-views/three-quarter-512.webp",
+      "bytes": 175412,
+      "sha256": "1fb34b9c24c5da3bfc278dd414a29ffaf07d496ce2225333d9c201dac95b8ac6"
+    },
+    {
+      "path": "gameplay/cloud-strips/blue-short-256.png",
+      "bytes": 20924,
+      "sha256": "d2ded395d84aa1773740e4d1eb741fdb5e9b62b770b7b5fa77c320f7c809f8a3"
+    },
+    {
+      "path": "gameplay/cloud-strips/blue-short-256.webp",
+      "bytes": 15426,
+      "sha256": "71b1caf41d6e26354d9ff6e814523aabb20889d03f03f9470421131b1fae73e3"
+    },
+    {
+      "path": "gameplay/cloud-strips/blue-short-512.png",
+      "bytes": 64016,
+      "sha256": "83a68eb07c7d562f520a00f36859a6819529524244173ef74e3afac17db10123"
+    },
+    {
+      "path": "gameplay/cloud-strips/blue-short-512.webp",
+      "bytes": 44454,
+      "sha256": "404ba099b4e556f28de98f363f7d7e62b84abbeb28ffd797421a69bbda1898c4"
+    },
+    {
+      "path": "gameplay/cloud-strips/lilac-short-256.png",
+      "bytes": 24510,
+      "sha256": "3e8a2b1c61be8e05af4537e8332e95b2316e94683e7e60c78f8ffcc3739a74e2"
+    },
+    {
+      "path": "gameplay/cloud-strips/lilac-short-256.webp",
+      "bytes": 17778,
+      "sha256": "7a19dc707cf42048ae44214565c22df323b2055a83ba74f61b38fc423c349698"
+    },
+    {
+      "path": "gameplay/cloud-strips/lilac-short-512.png",
+      "bytes": 77895,
+      "sha256": "d27e117495787e84df9d1a49c2e76130cad596379721dcbef5fb42451519381c"
+    },
+    {
+      "path": "gameplay/cloud-strips/lilac-short-512.webp",
+      "bytes": 51434,
+      "sha256": "7e987f65547d7bbe7a76df2a802d87e564e9913274498aed2fe12b1a471a62ad"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-long-256.png",
+      "bytes": 17611,
+      "sha256": "06a5619d6b814a5cf7e7eb632c94d7c607fd666ea07afdf237f347bac5a698e5"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-long-256.webp",
+      "bytes": 12868,
+      "sha256": "93649544303bece5a2848f6929197b976c4b102263ca8b532ebb85b72377baef"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-long-512.png",
+      "bytes": 54222,
+      "sha256": "ee39b87ec084e41d3cac65f7c2ce7696d8079506aeaa14987de1d2b8440e2933"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-long-512.webp",
+      "bytes": 37198,
+      "sha256": "dfdf0b98607bec28801b51bdfb790ac1fc10cbf0eabd83ec95f33e34910fa60a"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-short-256.png",
+      "bytes": 20174,
+      "sha256": "eadf0068ea181984473e9ee6149b39cb0fc3df2b159db95da3ae48754b857e22"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-short-256.webp",
+      "bytes": 15328,
+      "sha256": "582b5d7190ec5249ced2da9922565c0f3bd3ead8886cb40e18aca6beacdb4e3f"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-short-512.png",
+      "bytes": 61431,
+      "sha256": "bb43b9ad5cc4e65ca931b44385036e03b3ac33196b5684e9ac049d329a55163a"
+    },
+    {
+      "path": "gameplay/cloud-strips/pink-short-512.webp",
+      "bytes": 45908,
+      "sha256": "6c222bcbc17c375d6d4d4ff6a1489ecb37ebb7aa75f86474524f1682e1f73a64"
+    },
+    {
+      "path": "gameplay/cloud-strips/white-long-256.png",
+      "bytes": 16633,
+      "sha256": "f883bf7a40602642c06843b8f64e28a1ca30d9e54df8cd8d5ac5e16399690746"
+    },
+    {
+      "path": "gameplay/cloud-strips/white-long-256.webp",
+      "bytes": 11998,
+      "sha256": "8339c6190e3ad8a29b2e6707f88447d3f3171ddcb1ac5ee1ac65cd0f375db9c1"
+    },
+    {
+      "path": "gameplay/cloud-strips/white-long-512.png",
+      "bytes": 51342,
+      "sha256": "6a41bbd4dc40e5d98d64e1d15d808784d44d9bf5c16875bbf835cf4207d951e7"
+    },
+    {
+      "path": "gameplay/cloud-strips/white-long-512.webp",
+      "bytes": 35186,
+      "sha256": "f9c3042c6d2c60eeae628f778d8cd9be0444a59dddde5d0f04fc7bd2c79bbce1"
+    },
+    {
+      "path": "gameplay/cloud-tiles/pink-star-256.png",
+      "bytes": 56373,
+      "sha256": "f1478503e6934ea39ae4df2c3e01faa53bd3f4f6c8ee5fc5c8915a5ade8d781b"
+    },
+    {
+      "path": "gameplay/cloud-tiles/pink-star-256.webp",
+      "bytes": 39650,
+      "sha256": "cabea3151de5393859543b1eec4a15244e75cfb3c083e6963655eca4e8a10fa7"
+    },
+    {
+      "path": "gameplay/cloud-tiles/pink-star-512.png",
+      "bytes": 187137,
+      "sha256": "436ef2a9556bcbc9ea293c8d6892bff192b2d6c5864d462c123b4a8bfde42c8d"
+    },
+    {
+      "path": "gameplay/cloud-tiles/pink-star-512.webp",
+      "bytes": 126076,
+      "sha256": "487e914604d48578f21705bb685fc8e187b17fdf1e453c8c7c2b072e84d29a71"
+    },
+    {
+      "path": "gameplay/cloud-tiles/plain-white-256.png",
+      "bytes": 24833,
+      "sha256": "122a4f0e01a9a32977fe6f5b5d20a86858e95202a7b9b865726e758cf0f978e8"
+    },
+    {
+      "path": "gameplay/cloud-tiles/plain-white-256.webp",
+      "bytes": 18638,
+      "sha256": "9675dcc1f1680f151cf2ed5b3be80bc0234a7adb48a9ba66de0d8ea94dea7341"
+    },
+    {
+      "path": "gameplay/cloud-tiles/plain-white-512.png",
+      "bytes": 80192,
+      "sha256": "3e08778a1f9e83552d3265115a4754901ca515255cf4114a9c7d4c03eb5df25c"
+    },
+    {
+      "path": "gameplay/cloud-tiles/plain-white-512.webp",
+      "bytes": 56534,
+      "sha256": "38ea460d31de75cdd7a263344dd470c0d256bd86eff33f3d9233a658144d5cac"
+    },
+    {
+      "path": "gameplay/cloud-tiles/rainbow-256.png",
+      "bytes": 62169,
+      "sha256": "7647b575bfa057df76fa2c994c1115d5ab5355a3335ac5401402b89359f2c368"
+    },
+    {
+      "path": "gameplay/cloud-tiles/rainbow-256.webp",
+      "bytes": 47088,
+      "sha256": "fd17c5f66eda1bf5b309f350aa52d1514bac7f8dc1a3c5f2475508d54b61c8a3"
+    },
+    {
+      "path": "gameplay/cloud-tiles/rainbow-512.png",
+      "bytes": 206453,
+      "sha256": "b7c0ae05685b7c6aceadd3d831761f0f32ed8e67a25afba1b1cabc4f25e71c09"
+    },
+    {
+      "path": "gameplay/cloud-tiles/rainbow-512.webp",
+      "bytes": 146944,
+      "sha256": "d094946c11c5485b3eff22274c866089989b5141639aee8479035db32faf1ec5"
+    },
+    {
+      "path": "gameplay/cloud-tiles/spiral-256.png",
+      "bytes": 53412,
+      "sha256": "d4f3ab93f23c01f848095401c42ed9747756368a70dac98a490fa1df4821616f"
+    },
+    {
+      "path": "gameplay/cloud-tiles/spiral-256.webp",
+      "bytes": 35856,
+      "sha256": "90f4a2872539b7115c58f28b12636ea08c3b40ae14338f8de7b4abfaee408bcf"
+    },
+    {
+      "path": "gameplay/cloud-tiles/spiral-512.png",
+      "bytes": 179240,
+      "sha256": "4713fb607dad8e1f0d4e3ed4c1df68b2620422dcf00bf716fbc8f8b75cd1e38a"
+    },
+    {
+      "path": "gameplay/cloud-tiles/spiral-512.webp",
+      "bytes": 118348,
+      "sha256": "2b2f0d28d098b79acfb5c2468acf2e47fcbb9cfbcf2590d8631e7caebb1f4ae5"
+    },
+    {
+      "path": "gameplay/cloud-tiles/sprinkle-256.png",
+      "bytes": 57293,
+      "sha256": "b1fd7687065146ea6bf62466ed1055a58eb52cf8707aaa64c0b233c1eb737245"
+    },
+    {
+      "path": "gameplay/cloud-tiles/sprinkle-256.webp",
+      "bytes": 40466,
+      "sha256": "b71fbbe119cbe7426ee0fd9706d8575894bcc4224792d07b3153151317b07051"
+    },
+    {
+      "path": "gameplay/cloud-tiles/sprinkle-512.png",
+      "bytes": 190930,
+      "sha256": "75898a8e8fce0bfd82e2d3f120af13d58c83a328cf77091c1c96a67228e541a5"
+    },
+    {
+      "path": "gameplay/cloud-tiles/sprinkle-512.webp",
+      "bytes": 131064,
+      "sha256": "ad5d686f6d8265c038093156c493aa3f15ef58fc2036e614fa80a5e1ff1e1aea"
+    },
+    {
+      "path": "gameplay/cloud-tiles/waterfall-256.png",
+      "bytes": 65274,
+      "sha256": "8f5230a587e549e34235a5867c0343bca730c725206b173e49990481b299ae94"
+    },
+    {
+      "path": "gameplay/cloud-tiles/waterfall-256.webp",
+      "bytes": 48114,
+      "sha256": "a2ea9312b29a543738ba33276e9e5cf77fea48140d5b9961a4d77fbbe25667ed"
+    },
+    {
+      "path": "gameplay/cloud-tiles/waterfall-512.png",
+      "bytes": 212820,
+      "sha256": "18289dac57e12d00f46d7287161b34d64c97ce8d581b02362bc8ff34b2f44ec8"
+    },
+    {
+      "path": "gameplay/cloud-tiles/waterfall-512.webp",
+      "bytes": 150072,
+      "sha256": "db9d7bc41b9b8b39c4b3d26706412fd02fc5e7acaa580309cb7f467730e7e328"
+    },
+    {
+      "path": "gameplay/cloud-tiles/white-star-256.png",
+      "bytes": 60307,
+      "sha256": "3a4032ff83a7f858194a3a3d212eec6de2111c7b027ddac4613c4cd7e62e4226"
+    },
+    {
+      "path": "gameplay/cloud-tiles/white-star-256.webp",
+      "bytes": 42932,
+      "sha256": "e4da1b9251bcc58b8da92d5e4387d8fdb129b4f189a3708e92e0c0e226b00589"
+    },
+    {
+      "path": "gameplay/cloud-tiles/white-star-512.png",
+      "bytes": 202817,
+      "sha256": "4034781a6c74ea1ff6d771da03f485ab4b0d32349842316a8477086269a14a55"
+    },
+    {
+      "path": "gameplay/cloud-tiles/white-star-512.webp",
+      "bytes": 137066,
+      "sha256": "964e9385213d7590e95bf553add94212b0eeb84c749e2b3f25b739b8ba797d40"
+    },
+    {
+      "path": "gameplay/crystals/blue-cluster-256.png",
+      "bytes": 60426,
+      "sha256": "2c519c5409a384b5416cddab5f4f5ba99dfa4ae42c28da9649599b21bb924f61"
+    },
+    {
+      "path": "gameplay/crystals/blue-cluster-256.webp",
+      "bytes": 43544,
+      "sha256": "5d097d4ae048026163a881994621a721e2190fc1a50f159ac77bc0530b0d6409"
+    },
+    {
+      "path": "gameplay/crystals/blue-cluster-512.png",
+      "bytes": 196544,
+      "sha256": "7186371315ff353b9e0cb687f5ba5917c9458012bd370182858fc13a4778de86"
+    },
+    {
+      "path": "gameplay/crystals/blue-cluster-512.webp",
+      "bytes": 135230,
+      "sha256": "a34e95e24ef618a7c04c8cfffcadd722ca466b95e8ca463451134902b81d47e8"
+    },
+    {
+      "path": "gameplay/crystals/gold-star-256.png",
+      "bytes": 70454,
+      "sha256": "cdbbee66df326a41b178daf69b8cd13f24811e77d77dc15e04e73e13e1816e01"
+    },
+    {
+      "path": "gameplay/crystals/gold-star-256.webp",
+      "bytes": 52562,
+      "sha256": "077cf563aee709090b169d5b21167c772b5d44549625d4c485b47aefdf75c46e"
+    },
+    {
+      "path": "gameplay/crystals/gold-star-512.png",
+      "bytes": 239291,
+      "sha256": "f43d3cc94e25f9a37ee875a8fe0b6726e66a21725c90bf1d9f25332554445430"
+    },
+    {
+      "path": "gameplay/crystals/gold-star-512.webp",
+      "bytes": 175214,
+      "sha256": "32b0a23b38a024973a905f77eaa0b137d668304b83f6a8045029d6c8f96c31cd"
+    },
+    {
+      "path": "gameplay/crystals/pink-purple-256.png",
+      "bytes": 53704,
+      "sha256": "d0934682274a0c0c91fb5d902b6a0f744376b864063a3a20f26920ff674b45df"
+    },
+    {
+      "path": "gameplay/crystals/pink-purple-256.webp",
+      "bytes": 39940,
+      "sha256": "39c6bb59cff037956ee850d31a441f9b60f73af358c529bd4af2efe8d1d2b92e"
+    },
+    {
+      "path": "gameplay/crystals/pink-purple-512.png",
+      "bytes": 173930,
+      "sha256": "911009235502639dec0fc4ba41a2cfd4fdb4d5d5055c5d360049a04ab012e560"
+    },
+    {
+      "path": "gameplay/crystals/pink-purple-512.webp",
+      "bytes": 122768,
+      "sha256": "3de6047847b645c4d1a6d63dd3680ba5dc9dcfa6cd559e17323dc9326e17201f"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-256.png",
+      "bytes": 59028,
+      "sha256": "96a030a710abb5d57013486eb420d6e99ea70e7c0cb7f722a1a1c1549200f65a"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-256.webp",
+      "bytes": 43024,
+      "sha256": "faef0a7138d819295d790f9fd161c497c55e25d27da5b2abd0f16f91b86d2cf7"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-512.png",
+      "bytes": 190834,
+      "sha256": "3331ec9a3b092a32aca04300d0cf80498e6e6f181d267a47b0cf24bb7c366d22"
+    },
+    {
+      "path": "gameplay/crystals/purple-cluster-512.webp",
+      "bytes": 131928,
+      "sha256": "4812d39522f7dd8cd96272b037151e548b47398d60a32ec646836f6b91ca6152"
+    },
+    {
+      "path": "gameplay/crystals/rainbow-star-256.png",
+      "bytes": 67766,
+      "sha256": "4a37cb6efd96ae642c4a4837f11187a87078c16f05c46f5b740f67bcd1132128"
+    },
+    {
+      "path": "gameplay/crystals/rainbow-star-256.webp",
+      "bytes": 50976,
+      "sha256": "a67b7482068b16bbae5600415bf40649c37e716d205da9c8f79d2b2a7ccfd56e"
+    },
+    {
+      "path": "gameplay/crystals/rainbow-star-512.png",
+      "bytes": 225773,
+      "sha256": "be75c243cb61be3d6a47690dc5847343bf0bd7db6f297db93a1f6568dd1140f8"
+    },
+    {
+      "path": "gameplay/crystals/rainbow-star-512.webp",
+      "bytes": 163956,
+      "sha256": "f24768f072eeb264083ff40d41773b07a00cae695010b3b00940a417ef336b95"
+    },
+    {
+      "path": "gameplay/effects/gold-glint-256.png",
+      "bytes": 64464,
+      "sha256": "c2b63a02638abed70e526bdf1f20374e077035b6ba9db3d2a6fe27f64dddf40d"
+    },
+    {
+      "path": "gameplay/effects/gold-glint-256.webp",
+      "bytes": 50276,
+      "sha256": "198588979f065798d1ccec33ba56ef0d6bc941199d428c3c42a19ebbcaaf7c7a"
+    },
+    {
+      "path": "gameplay/effects/gold-glint-512.png",
+      "bytes": 209958,
+      "sha256": "073c10005dd2b3bbf051b5220779826511ad9a5a4c56b06705bb0f5da87ce84a"
+    },
+    {
+      "path": "gameplay/effects/gold-glint-512.webp",
+      "bytes": 159264,
+      "sha256": "7e71fa593ebf7d7de79e698da360a70c9d1953bf4ccdafcce69d3c200e71bfc5"
+    },
+    {
+      "path": "gameplay/effects/pink-star-chain-256.png",
+      "bytes": 38447,
+      "sha256": "30705873185f5ef12695240fa1c80eb7ec2dc2ea82ab0b4f9d9dae4c7723ca29"
+    },
+    {
+      "path": "gameplay/effects/pink-star-chain-256.webp",
+      "bytes": 31830,
+      "sha256": "f3d9034b4645bb061a0b6f4164de67831d044563b6cc75ea821f70ce804efb5c"
+    },
+    {
+      "path": "gameplay/effects/pink-star-chain-512.png",
+      "bytes": 133303,
+      "sha256": "91fcf78681da562fca9806a67dd6829d37d1cad678cdeac00182392b5d09c603"
+    },
+    {
+      "path": "gameplay/effects/pink-star-chain-512.webp",
+      "bytes": 105694,
+      "sha256": "ffb691d0a5c78bc1c917932427131dc45c89f3ffbd7927fe65c89166422b09aa"
+    },
+    {
+      "path": "gameplay/effects/pink-vortex-256.png",
+      "bytes": 44441,
+      "sha256": "bd484211681d766cea68e7e888e2ff7235ff7b094a0d15d049642921afc62362"
+    },
+    {
+      "path": "gameplay/effects/pink-vortex-256.webp",
+      "bytes": 33644,
+      "sha256": "0386f1cfd3b0ac28abb67950bf7ab998019c04f5d727b460d557868de9cef392"
+    },
+    {
+      "path": "gameplay/effects/pink-vortex-512.png",
+      "bytes": 151634,
+      "sha256": "45c6fd666e52df49b6e1dcc753c75370242bd577c47d9877b970b248fd49af94"
+    },
+    {
+      "path": "gameplay/effects/pink-vortex-512.webp",
+      "bytes": 111926,
+      "sha256": "a4152ef62b7c33dc07ceaae81c2d0adb64f73f94b2eb238a922c10aa7516c63b"
+    },
+    {
+      "path": "gameplay/effects/rainbow-arc-256.png",
+      "bytes": 37500,
+      "sha256": "6d48aea19eb793e77b24d97d8b9102d0a52ed0abca29b706d1639ea380510ce7"
+    },
+    {
+      "path": "gameplay/effects/rainbow-arc-256.webp",
+      "bytes": 27614,
+      "sha256": "c20a907090c44df89a82b708d8c586a07b09c744499c15dbe39ac14309fb259c"
+    },
+    {
+      "path": "gameplay/effects/rainbow-arc-512.png",
+      "bytes": 124261,
+      "sha256": "7c5b09601aff28ea7a933afac8fb33007bc72850662a57a5d8e5a09cf11caac2"
+    },
+    {
+      "path": "gameplay/effects/rainbow-arc-512.webp",
+      "bytes": 88150,
+      "sha256": "36cbb0b4bae6a19d481c921921758e768caa21d1b84ae9665ea6369a0395e761"
+    },
+    {
+      "path": "gameplay/effects/star-comet-256.png",
+      "bytes": 36472,
+      "sha256": "fc6b03314f441c26c071845a8d8fe7e3d638bb22c0a6cbd1d0a966b37d8dcf33"
+    },
+    {
+      "path": "gameplay/effects/star-comet-256.webp",
+      "bytes": 29310,
+      "sha256": "5ccb3c9eef35098931eed2ba1155d07c656a2972b09100786654b6cec9b89981"
+    },
+    {
+      "path": "gameplay/effects/star-comet-512.png",
+      "bytes": 123475,
+      "sha256": "d9aa7feff592071933aa4f77da2dc41c54e25271c13bd9c01071db6d6220278e"
+    },
+    {
+      "path": "gameplay/effects/star-comet-512.webp",
+      "bytes": 95836,
+      "sha256": "32e62b4d54fb64414dd57122a3fa7f0ee049ebd6325d3fd671abfae3f522beb6"
+    },
+    {
+      "path": "gameplay/effects/star-stream-256.png",
+      "bytes": 25736,
+      "sha256": "521a8e4c3c8c466c5b6426f0421770ec9283ba0bf343d717aa23c92e2faa1878"
+    },
+    {
+      "path": "gameplay/effects/star-stream-256.webp",
+      "bytes": 22586,
+      "sha256": "d2252ad9020db5e52e7fbf61a4e74a79a904c6617ac266a1bc6c8f9201d7d018"
+    },
+    {
+      "path": "gameplay/effects/star-stream-512.png",
+      "bytes": 87717,
+      "sha256": "f8d4042b5b041fe02f160936bc07101c764ecbe30b1cfbec1b8a371877f51a92"
+    },
+    {
+      "path": "gameplay/effects/star-stream-512.webp",
+      "bytes": 74306,
+      "sha256": "7991ce5a0f57a158970784b92213789317b3c7aff03ccc1f086f746e92872864"
+    },
+    {
+      "path": "gameplay/effects/star-trail-256.png",
+      "bytes": 32641,
+      "sha256": "94102857855898a50ed50ed9fe157a96ce2aeace82fa4f209a4ce085a5c8434e"
+    },
+    {
+      "path": "gameplay/effects/star-trail-256.webp",
+      "bytes": 27568,
+      "sha256": "2687a0ae875013d055a39f526e267a13cb63c662aff9318ed4d9a8461443f9c9"
+    },
+    {
+      "path": "gameplay/effects/star-trail-512.png",
+      "bytes": 109090,
+      "sha256": "aabd430af9e7fa50ac2aa7476ad6a33eb1d460b50a9e8db589f6b349bf944fc6"
+    },
+    {
+      "path": "gameplay/effects/star-trail-512.webp",
+      "bytes": 87062,
+      "sha256": "83e88bdc9b9398025b3f2ab6fe0b4b450be9d3b2f0d471d9a444dc52f81fdccd"
+    },
+    {
+      "path": "gameplay/grasses/narrow-a-256.png",
+      "bytes": 32735,
+      "sha256": "0e952d6db7fa393ceb3246d9de4723bd89baa52557f9eb0a4a394a59fcd969ac"
+    },
+    {
+      "path": "gameplay/grasses/narrow-a-256.webp",
+      "bytes": 24072,
+      "sha256": "63cc58ff66c4762134e20eda335c5ee05f20e3315b22d4304abea0f117307664"
+    },
+    {
+      "path": "gameplay/grasses/narrow-a-512.png",
+      "bytes": 99054,
+      "sha256": "10b0a81c8c276708e8a12743d57627417e3a093268ccabf49f65a7b9b30305a7"
+    },
+    {
+      "path": "gameplay/grasses/narrow-a-512.webp",
+      "bytes": 71932,
+      "sha256": "7c25ed65cfbe9118b7c41eba1b5ef3f908cfa35f0024779a8e4b6749b061b061"
+    },
+    {
+      "path": "gameplay/grasses/narrow-b-256.png",
+      "bytes": 36379,
+      "sha256": "06eb058cb936e446b7cadd6d2af5902d8a2a51b376fbb952111a382d26bd7457"
+    },
+    {
+      "path": "gameplay/grasses/narrow-b-256.webp",
+      "bytes": 26150,
+      "sha256": "08a55db4b73fa64cd4a0c8912a7e2f39d32efa2b090a49af45fc616d293a8905"
+    },
+    {
+      "path": "gameplay/grasses/narrow-b-512.png",
+      "bytes": 109756,
+      "sha256": "8adace9749e39fdd336eeff7f03a67ec6ed5fce32fd9ffe38cacccf7bad630c9"
+    },
+    {
+      "path": "gameplay/grasses/narrow-b-512.webp",
+      "bytes": 78542,
+      "sha256": "f815c78e8b1a449661cbb0ce01a42a293e93e27eff3dae14c6e8bc294c5a6f0c"
+    },
+    {
+      "path": "gameplay/grasses/wide-a-256.png",
+      "bytes": 34190,
+      "sha256": "68f80e732dcbfe849476b87568a9afd645e513e8fc27263b79fdec913448c65a"
+    },
+    {
+      "path": "gameplay/grasses/wide-a-256.webp",
+      "bytes": 25956,
+      "sha256": "fb7cc2e456708660fb6ec468b97a6f208fe3d1f91bb4b2e251e3b0b0e20f9e51"
+    },
+    {
+      "path": "gameplay/grasses/wide-a-512.png",
+      "bytes": 105950,
+      "sha256": "489c4cac95bf0398b08da15d59784464207235c70727be003eff09825ee5434e"
+    },
+    {
+      "path": "gameplay/grasses/wide-a-512.webp",
+      "bytes": 80446,
+      "sha256": "2d6127a27fbb47273ad446a718cc390d4edf9648d66c9e52fe6fe414eccb26e5"
+    },
+    {
+      "path": "gameplay/grasses/wide-b-256.png",
+      "bytes": 30436,
+      "sha256": "67bc83a5468bf4cf36b6d2cb4a5240d66705f163ef935877d70ea6fe71e5f25d"
+    },
+    {
+      "path": "gameplay/grasses/wide-b-256.webp",
+      "bytes": 22852,
+      "sha256": "a717e9b4748abe39d392bba101bc91f9bff09444920d8cf731b670db1a6d95a1"
+    },
+    {
+      "path": "gameplay/grasses/wide-b-512.png",
+      "bytes": 94123,
+      "sha256": "6392b69bdfdd6ad59beeafdb17387e10baf7db4594f6e565aa81187e409151cb"
+    },
+    {
+      "path": "gameplay/grasses/wide-b-512.webp",
+      "bytes": 68344,
+      "sha256": "72ebf690c9d08a9985a653ec805beda9557750537e55135f71075422a7720816"
+    },
+    {
+      "path": "gameplay/islands/large-meadow-256.png",
+      "bytes": 57114,
+      "sha256": "93562237daa702d13303882966a9cd87b1eedfa85d954dd8c4897cf2ee1176b7"
+    },
+    {
+      "path": "gameplay/islands/large-meadow-256.webp",
+      "bytes": 45126,
+      "sha256": "32ac707efedae16f8b4a7b60d1be3477a989ee77e27ab63b2b9b5356248053f6"
+    },
+    {
+      "path": "gameplay/islands/large-meadow-512.png",
+      "bytes": 188913,
+      "sha256": "c6f67cc1a0b14d29d1547df6e7e08b9722eeca6fa1039ec1a783ee165ec00014"
+    },
+    {
+      "path": "gameplay/islands/large-meadow-512.webp",
+      "bytes": 145782,
+      "sha256": "7361d883892567d16ad9ecbb3793fc234c06a17f9a56f57c5cc93bcd4db13436"
+    },
+    {
+      "path": "gameplay/islands/small-meadow-256.png",
+      "bytes": 69704,
+      "sha256": "f2eb879615c9738d51183b6464e37f65b2485aff69c14f8b341e892616b23190"
+    },
+    {
+      "path": "gameplay/islands/small-meadow-256.webp",
+      "bytes": 54074,
+      "sha256": "6e01f0e1bca3f584fefb29f088fd6e2a7788bd8751ac0c81ab612972670a03e2"
+    },
+    {
+      "path": "gameplay/islands/small-meadow-512.png",
+      "bytes": 228766,
+      "sha256": "7cb21e9d24e16855727228470a23de92e5c2bc60adc50965276209cc96f4e872"
+    },
+    {
+      "path": "gameplay/islands/small-meadow-512.webp",
+      "bytes": 169458,
+      "sha256": "693f88b447b2a22c93e109f57ad8920b6319c49f80766fb738b97e5b0fde4796"
+    },
+    {
+      "path": "gameplay/islands/star-meadow-256.png",
+      "bytes": 74407,
+      "sha256": "b77037327de93e4bc5ef6b0c0ee8db3fe5037e8cc6ccb5f0d4f976f148162487"
+    },
+    {
+      "path": "gameplay/islands/star-meadow-256.webp",
+      "bytes": 58920,
+      "sha256": "4f18932438f388c583f067da1b1dde0591e0b4e83863821bac253ce9f3c029f2"
+    },
+    {
+      "path": "gameplay/islands/star-meadow-512.png",
+      "bytes": 247461,
+      "sha256": "99a63092d8598701885dd36a17c06bfed1473264e2a3db8b0819cd039fd11316"
+    },
+    {
+      "path": "gameplay/islands/star-meadow-512.webp",
+      "bytes": 189862,
+      "sha256": "c33de0683aa909d580cf46995864cbe965013bc8d262c8ba5e083e1f72438b34"
+    },
+    {
+      "path": "gameplay/islands/waterfall-meadow-256.png",
+      "bytes": 72802,
+      "sha256": "98f6d669862a6d593645213dde1eeceb79e21688434a68f8debd5960f9ba0449"
+    },
+    {
+      "path": "gameplay/islands/waterfall-meadow-256.webp",
+      "bytes": 56844,
+      "sha256": "7d7bfe47c31a65b54585c78e2b47089e8ed498ce7ed7b909c42c15ef0b28a451"
+    },
+    {
+      "path": "gameplay/islands/waterfall-meadow-512.png",
+      "bytes": 240771,
+      "sha256": "d0292695d7d353ed6bf8b5a2ba1baae9725f48bdd63e31fd34dcfe2a79900b64"
+    },
+    {
+      "path": "gameplay/islands/waterfall-meadow-512.webp",
+      "bytes": 183380,
+      "sha256": "2e0e27abd8aa2270e2d7d64a2a06e930f8cf06dadb8901ac7f0abd43afdf9e25"
+    },
+    {
+      "path": "gameplay/lamps/crescent-star-256.png",
+      "bytes": 41084,
+      "sha256": "a45360d1084cd498a905dec5e800aa49aea65117f95622970fced1ba6e3199ad"
+    },
+    {
+      "path": "gameplay/lamps/crescent-star-256.webp",
+      "bytes": 31126,
+      "sha256": "8864a7914c8eeb0e1083e919e1389909cd2822c53a1c33f86d7dd8f9bf2958b2"
+    },
+    {
+      "path": "gameplay/lamps/crescent-star-512.png",
+      "bytes": 131982,
+      "sha256": "3107361e0829ad43d28228b32929b654daaa833059a55153294435ae8ce44406"
+    },
+    {
+      "path": "gameplay/lamps/crescent-star-512.webp",
+      "bytes": 94130,
+      "sha256": "203cbd87362ce9e9767b158f98c7b458169699664269c2c5ac7dd46788218d60"
+    },
+    {
+      "path": "gameplay/lamps/curved-star-256.png",
+      "bytes": 35457,
+      "sha256": "68dcad58c102778af7c3bb1306cf076a1810c4cdb29dc88d6689b99f90bdd206"
+    },
+    {
+      "path": "gameplay/lamps/curved-star-256.webp",
+      "bytes": 27184,
+      "sha256": "d73a432b439e027af12069b232c2f5e153fb2803e1d5be1b814b58756d9746bc"
+    },
+    {
+      "path": "gameplay/lamps/curved-star-512.png",
+      "bytes": 110487,
+      "sha256": "cd3c334852ec5cd14006bd008ad281be0497c1377c47d462368800c4960082de"
+    },
+    {
+      "path": "gameplay/lamps/curved-star-512.webp",
+      "bytes": 79594,
+      "sha256": "a882078acac73d78595dce0bd3dc2f7677ccd16eb47ca6121dbb9c3adeaff0f2"
+    },
+    {
+      "path": "gameplay/lamps/pink-star-256.png",
+      "bytes": 48801,
+      "sha256": "9cceb55375f914587f11f3bce1e4aa00de4f943e21f07ebf3d7043266fe4f0c6"
+    },
+    {
+      "path": "gameplay/lamps/pink-star-256.webp",
+      "bytes": 37140,
+      "sha256": "24fadac28abf7a8d8ad49a570ed04f75420c5abe6a5d959290b5b3339d8e159b"
+    },
+    {
+      "path": "gameplay/lamps/pink-star-512.png",
+      "bytes": 157579,
+      "sha256": "af0869e773a9c7c44c6f6bd3929670f2cc9455f604ea5bc859104f9536f11e25"
+    },
+    {
+      "path": "gameplay/lamps/pink-star-512.webp",
+      "bytes": 115026,
+      "sha256": "a4acf67070ef65adddbdf783cdef49a3651d4d91432ca3441a17fde01c8c2015"
+    },
+    {
+      "path": "gameplay/paths/gold-star-cluster-256.png",
+      "bytes": 41432,
+      "sha256": "3ac598652fb37d4d4ed6531f87e21cfe57849b030a052b3d22409cf8b6b1b23b"
+    },
+    {
+      "path": "gameplay/paths/gold-star-cluster-256.webp",
+      "bytes": 30772,
+      "sha256": "928e3be4be6e798a8cee260c49544945235c7be048149327a2a3a1563df5a377"
+    },
+    {
+      "path": "gameplay/paths/gold-star-cluster-512.png",
+      "bytes": 130497,
+      "sha256": "f0b96a0a72b10b0e9c95ea3f25e0ec514c6612c6ca024569b4aca9fa320741df"
+    },
+    {
+      "path": "gameplay/paths/gold-star-cluster-512.webp",
+      "bytes": 95074,
+      "sha256": "9876391d0a5025e4b539c2ca7845dc97d46f3d37c05177016a3cedf4823256cb"
+    },
+    {
+      "path": "gameplay/paths/rainbow-stairs-256.png",
+      "bytes": 34115,
+      "sha256": "ee8943dbf87b9bc069c0453b48d5473486455fc1c3b6750b3444a9679279d137"
+    },
+    {
+      "path": "gameplay/paths/rainbow-stairs-256.webp",
+      "bytes": 25782,
+      "sha256": "ad02f76548e93e24319c147ddec496240362bb3d3de1fae646d9aea6607cdf20"
+    },
+    {
+      "path": "gameplay/paths/rainbow-stairs-512.png",
+      "bytes": 106307,
+      "sha256": "99d0719419013fb645023197d86ee9472a8696efdaecb5b2c04fc0541d221a43"
+    },
+    {
+      "path": "gameplay/paths/rainbow-stairs-512.webp",
+      "bytes": 79150,
+      "sha256": "0d03ae6a684f68ace45f9b6d33bedcd0a4eb1f3810639edb2ae3468dfd200901"
+    },
+    {
+      "path": "gameplay/paths/star-steps-a-256.png",
+      "bytes": 27003,
+      "sha256": "3cc046b85c193cfbbf8ce930b9bdc57dde9e88fd147d5afcbab7dceee588fe39"
+    },
+    {
+      "path": "gameplay/paths/star-steps-a-256.webp",
+      "bytes": 20208,
+      "sha256": "16163a7e76220fd8c9aa39c28bf09a168c3b98c25e880f1f815483a3bf26132c"
+    },
+    {
+      "path": "gameplay/paths/star-steps-a-512.png",
+      "bytes": 84483,
+      "sha256": "1a10a9c7ab1fffcec3dfcdab2617b9a5a2a2362afdd7622367c1a95dba9544b8"
+    },
+    {
+      "path": "gameplay/paths/star-steps-a-512.webp",
+      "bytes": 61510,
+      "sha256": "b9ea3631371fa5646603cccb4bca77fd0bf24a446073ed4e0a2c765824de330b"
+    },
+    {
+      "path": "gameplay/paths/star-steps-b-256.png",
+      "bytes": 34496,
+      "sha256": "a3518be19da63086ee2d86e82c90332f6858a41eb9f81d5de6e9d948906e5d3f"
+    },
+    {
+      "path": "gameplay/paths/star-steps-b-256.webp",
+      "bytes": 25356,
+      "sha256": "f2fa67c90bc3c4a10011b20f9cb9e12443e147f1c82518934fad4724895f74a5"
+    },
+    {
+      "path": "gameplay/paths/star-steps-b-512.png",
+      "bytes": 106691,
+      "sha256": "d2976c24744ed979c409dd88af4f6363704f6a1ec6cfed41dc1a5941db510379"
+    },
+    {
+      "path": "gameplay/paths/star-steps-b-512.webp",
+      "bytes": 74854,
+      "sha256": "ac9b01f2c290a3d6c27f02ced4f87cbc6cdd46fb6b1c4212175ead5f158d9f1a"
+    },
+    {
+      "path": "gameplay/pedestals/glowing-star-256.png",
+      "bytes": 44529,
+      "sha256": "44cbb3b770eb456567e0c78276605510162cd12589f671f22749704ec441930e"
+    },
+    {
+      "path": "gameplay/pedestals/glowing-star-256.webp",
+      "bytes": 33240,
+      "sha256": "3a91e4bb44f854d02a4274f8fabf6c71a8c42c74cf4d9d6c3f7aad40b75d4506"
+    },
+    {
+      "path": "gameplay/pedestals/glowing-star-512.png",
+      "bytes": 147277,
+      "sha256": "6c798a099ebaae2d55bdf3531fd19fb7dfa65b95a7a1538216cb98c2365c8946"
+    },
+    {
+      "path": "gameplay/pedestals/glowing-star-512.webp",
+      "bytes": 104912,
+      "sha256": "c1fbbd262af6b121b297a17e325642c5fb7eba6d9037dee466cacfb19c3842d1"
+    },
+    {
+      "path": "gameplay/pedestals/gold-orb-256.png",
+      "bytes": 32923,
+      "sha256": "7f0a7c8e98c33ec5255c7905ca79c0b2eeac73ed03d2a0cc04f8efb26bb4d898"
+    },
+    {
+      "path": "gameplay/pedestals/gold-orb-256.webp",
+      "bytes": 23876,
+      "sha256": "214de578b34c88a995c1a638f5748c1af070ea0f5c8f9e2fdb9aced3c6a76ad2"
+    },
+    {
+      "path": "gameplay/pedestals/gold-orb-512.png",
+      "bytes": 103108,
+      "sha256": "c31b08798b3a4b3b6ce458d98bb85d1ca189cc3590278886aa3b5313cf41d5d4"
+    },
+    {
+      "path": "gameplay/pedestals/gold-orb-512.webp",
+      "bytes": 69466,
+      "sha256": "479c09df3f6037898e2e54b6800c0f2267d174de5d1c1cafb975e812d84e5f30"
+    },
+    {
+      "path": "gameplay/pedestals/orb-star-256.png",
+      "bytes": 53042,
+      "sha256": "0b6f5479f9305b868b2c34216461bd0bec9d0d0d7e288ef50c92f97d35eb2890"
+    },
+    {
+      "path": "gameplay/pedestals/orb-star-256.webp",
+      "bytes": 37738,
+      "sha256": "e78e32d1b8d9015a4c8c84799723e697ede8be6f00c9aaebd682e4e578e4b800"
+    },
+    {
+      "path": "gameplay/pedestals/orb-star-512.png",
+      "bytes": 172222,
+      "sha256": "88d00413bfdc8f8f6954c4cf2c113a3f7cd5efac0f9476c3bf90179c7c3020f2"
+    },
+    {
+      "path": "gameplay/pedestals/orb-star-512.webp",
+      "bytes": 117128,
+      "sha256": "e656105bf97c1614e4956f3dcf4ce2fb3e10102b7069df2db53639746c1d19e1"
+    },
+    {
+      "path": "gameplay/plants/cream-flower-256.png",
+      "bytes": 36430,
+      "sha256": "0857e9450f6c2e3e9ee86a532585a121b63773b7159f315d53e866841b729fdf"
+    },
+    {
+      "path": "gameplay/plants/cream-flower-256.webp",
+      "bytes": 25500,
+      "sha256": "dd03d6189d8e0f606e902afd0e364a5df34cff488cdedab0b86fa4767bd6364b"
+    },
+    {
+      "path": "gameplay/plants/cream-flower-512.png",
+      "bytes": 112322,
+      "sha256": "e38c581720eeb3d945d11dad89e4f75c0e5d980b32439fa40956c9b6e61255dc"
+    },
+    {
+      "path": "gameplay/plants/cream-flower-512.webp",
+      "bytes": 77898,
+      "sha256": "3956aa4a95490079aa759d2bc5919b8697d1aa8e7fd1cdbe5e1e1bfde015956d"
+    },
+    {
+      "path": "gameplay/plants/pinwheel-flower-256.png",
+      "bytes": 41333,
+      "sha256": "a04a85f99385e06836fb5c38bdbd689813526440e9a44626e3a81b4e4241c1f1"
+    },
+    {
+      "path": "gameplay/plants/pinwheel-flower-256.webp",
+      "bytes": 29844,
+      "sha256": "81e46aca7161d806dd20e1f30d44d84a3b068122cc18f471c72a67864f692c88"
+    },
+    {
+      "path": "gameplay/plants/pinwheel-flower-512.png",
+      "bytes": 129455,
+      "sha256": "434d057aacc84fc44239978e5d74d490c9fe8fc81dbeeeacd4e892121ade922d"
+    },
+    {
+      "path": "gameplay/plants/pinwheel-flower-512.webp",
+      "bytes": 90474,
+      "sha256": "b3f96e7a7e5bf53e0283c2bb3f37845609de4e3394389ca3f57ffaeed07ebe2d"
+    },
+    {
+      "path": "gameplay/props/telescope-256.png",
+      "bytes": 48641,
+      "sha256": "da054eee64f5f0e5030c0f4b6ed014c39f7191d05479d8bf80d5e42cd12ef1ed"
+    },
+    {
+      "path": "gameplay/props/telescope-256.webp",
+      "bytes": 36654,
+      "sha256": "24d29b74c1001d10edd97bd8fa7ea97d16f94a9a9940cc29f7a53c4badbb982e"
+    },
+    {
+      "path": "gameplay/props/telescope-512.png",
+      "bytes": 152906,
+      "sha256": "08053660120edf1a02fee5cc0fb7ef2966246dd0f488385c63d86ed2fa55e6df"
+    },
+    {
+      "path": "gameplay/props/telescope-512.webp",
+      "bytes": 110416,
+      "sha256": "cfcb16e3fc3687461e835239654bc279569390999ef48e5c4dfedcbfd55238ba"
+    },
+    {
+      "path": "gameplay/rocks/grass-large-256.png",
+      "bytes": 44645,
+      "sha256": "41b826306937953e6a58efbdf0eaf37925b6bd19f285843b60e16be9d39ac703"
+    },
+    {
+      "path": "gameplay/rocks/grass-large-256.webp",
+      "bytes": 33548,
+      "sha256": "ee1d4fdb7f86bc4fea4b2d891a22baa9715b88b97f2c067aebec59d64e409e7d"
+    },
+    {
+      "path": "gameplay/rocks/grass-large-512.png",
+      "bytes": 143261,
+      "sha256": "ada23b2fef58a7d101e168cd05eb8e45bb60850124e390b853fca1bad54aa9ac"
+    },
+    {
+      "path": "gameplay/rocks/grass-large-512.webp",
+      "bytes": 102392,
+      "sha256": "05f60a04c2a75e045d6ea3c0f37f9f54f5576048c1dde9308834e84ac24b9b91"
+    },
+    {
+      "path": "gameplay/rocks/grass-medium-256.png",
+      "bytes": 42895,
+      "sha256": "8df21950c6db12deac44af1c7b4a1874161338e518be0fd4aecb8b7245a39ea4"
+    },
+    {
+      "path": "gameplay/rocks/grass-medium-256.webp",
+      "bytes": 30104,
+      "sha256": "c40f9b5fec462d322be4eb815c504ff65a7587469d19bed8200f5341f1105e54"
+    },
+    {
+      "path": "gameplay/rocks/grass-medium-512.png",
+      "bytes": 140244,
+      "sha256": "857b8391e079712377e752b0e0fcdf88909ba9c1adcee65f85835d0ce2c490ef"
+    },
+    {
+      "path": "gameplay/rocks/grass-medium-512.webp",
+      "bytes": 95494,
+      "sha256": "12f51272312fe7cb52d01e650260fc226f4edbfdf2478098c468769417ceddae"
+    },
+    {
+      "path": "gameplay/rocks/grass-small-256.png",
+      "bytes": 42832,
+      "sha256": "d3df4d94392763a56ad768322e9f447d4c56a10719eef7093579184db2db6a49"
+    },
+    {
+      "path": "gameplay/rocks/grass-small-256.webp",
+      "bytes": 30968,
+      "sha256": "34e243193434da3194b8d6fc2e87f531290a7d6b444bc4b8a53efab2a7808bb5"
+    },
+    {
+      "path": "gameplay/rocks/grass-small-512.png",
+      "bytes": 145996,
+      "sha256": "d32847f92ff0cf154d294d61e626c9c42660d72e04223005a60528389d1dd576"
+    },
+    {
+      "path": "gameplay/rocks/grass-small-512.webp",
+      "bytes": 98968,
+      "sha256": "d7e9d216cbe15991ef6760847b9cbbf02837a16fcd1383eab9b6dc2a35f60911"
+    },
+    {
+      "path": "gameplay/scenes/hero-skies-256.png",
+      "bytes": 64682,
+      "sha256": "26eb4031459dd2b28133274fd0eabf40db32bfaeba22b18265c953459b90fcaf"
+    },
+    {
+      "path": "gameplay/scenes/hero-skies-256.webp",
+      "bytes": 57756,
+      "sha256": "074de5318fccc421aa56a4f1f44d9f8df943326771754abb1364fa198b46dc2b"
+    },
+    {
+      "path": "gameplay/scenes/hero-skies-512.png",
+      "bytes": 225468,
+      "sha256": "5b45df1042d2a8be126f29991de13a48040cdc0522138bd50fb7c9feeb5a44c5"
+    },
+    {
+      "path": "gameplay/scenes/hero-skies-512.webp",
+      "bytes": 187112,
+      "sha256": "da0dedbf2020f3d55b5b32cae32d143306e4c8fc916b658735734460b1d3a7ba"
+    },
+    {
+      "path": "gameplay/shrubs/flower-pair-256.png",
+      "bytes": 66026,
+      "sha256": "6d31c54007a92162a98e8bb4853622f188ef5ec29cc67527d8a462a0947e1d92"
+    },
+    {
+      "path": "gameplay/shrubs/flower-pair-256.webp",
+      "bytes": 47696,
+      "sha256": "463e31aa76bb06d51002962ac787391bad8bea946c92035ea055cf13e6883e12"
+    },
+    {
+      "path": "gameplay/shrubs/flower-pair-512.png",
+      "bytes": 214907,
+      "sha256": "e8e242cc27500c712e572eaba373847af6788d2181acc37537e48bb607faf1fd"
+    },
+    {
+      "path": "gameplay/shrubs/flower-pair-512.webp",
+      "bytes": 150250,
+      "sha256": "26b38ab7b759ad0fbf23105b1595e41cf5c1ed35ea3e97983ad49a9b61fe3ba8"
+    },
+    {
+      "path": "gameplay/shrubs/pink-256.png",
+      "bytes": 56544,
+      "sha256": "4e0453bb807cf2120ec2827f09c35a5cdb0a1139d50f30ff1485922c1a491a97"
+    },
+    {
+      "path": "gameplay/shrubs/pink-256.webp",
+      "bytes": 42064,
+      "sha256": "ce752f25e1eb5872f665f8f7aa33f067b5d34b5981735e9abc3fda07d57bd1bc"
+    },
+    {
+      "path": "gameplay/shrubs/pink-512.png",
+      "bytes": 178617,
+      "sha256": "b9aef34b26a8b416b8ad4dd97205b91e1757178971c8edebd65d6ab17b3aead0"
+    },
+    {
+      "path": "gameplay/shrubs/pink-512.webp",
+      "bytes": 125890,
+      "sha256": "2382f191adc2dfea5089ddc3b18f7061fe96b409b4e8455a86178c778abe6303"
+    },
+    {
+      "path": "gameplay/shrubs/pink-sprig-256.png",
+      "bytes": 64113,
+      "sha256": "e8cdff9cbf39df6371b957fa3817aedc7558cc0ba9a82c5d0bdd39f4e7d4b137"
+    },
+    {
+      "path": "gameplay/shrubs/pink-sprig-256.webp",
+      "bytes": 46246,
+      "sha256": "c4193200601e7dbf75e790b18eece180d2179759318ebcb02202f0c207e08f3a"
+    },
+    {
+      "path": "gameplay/shrubs/pink-sprig-512.png",
+      "bytes": 205518,
+      "sha256": "3c4a7c6a4c21a3630e3e13a53f0fa09d5717d9f48cbd30fa277cbea80b975c0b"
+    },
+    {
+      "path": "gameplay/shrubs/pink-sprig-512.webp",
+      "bytes": 139542,
+      "sha256": "3e966196f253388a15392de6aa3466b2a9b6d08a3c730f9609a80e19dfdec9d0"
+    },
+    {
+      "path": "gameplay/shrubs/teal-succulent-256.png",
+      "bytes": 49095,
+      "sha256": "5755e0ad7990d2b6e30a0708296b342790b41bcf47b5a7c75ca9de5be6994fa2"
+    },
+    {
+      "path": "gameplay/shrubs/teal-succulent-256.webp",
+      "bytes": 34558,
+      "sha256": "d3862446b34c411e01ea9a404f41d446d8d11088618a0ea9672362fdb4d21a57"
+    },
+    {
+      "path": "gameplay/shrubs/teal-succulent-512.png",
+      "bytes": 156212,
+      "sha256": "34765228cd593e1c8bc91adb0335bde480a3443946c6a134305eb7b0affffed6"
+    },
+    {
+      "path": "gameplay/shrubs/teal-succulent-512.webp",
+      "bytes": 103462,
+      "sha256": "dc6eae9a0c9d2d1ec73c5c660bbdcc05771577c57915c2c881665300868b07fd"
+    },
+    {
+      "path": "gameplay/shrubs/white-pink-256.png",
+      "bytes": 57077,
+      "sha256": "b6de06d79e977a9c00faaae88f28316531d5e57f6a81f80b7afa3d732f1139b6"
+    },
+    {
+      "path": "gameplay/shrubs/white-pink-256.webp",
+      "bytes": 43694,
+      "sha256": "8966b4b3414a428d1c6ff1897f69e1a67c2bb2ac7f3287c2d215889eb9e29ad8"
+    },
+    {
+      "path": "gameplay/shrubs/white-pink-512.png",
+      "bytes": 178875,
+      "sha256": "36bbbc25cb011d557808f766078499a192eb373b15d9122033522101e68faece"
+    },
+    {
+      "path": "gameplay/shrubs/white-pink-512.webp",
+      "bytes": 132970,
+      "sha256": "5864ef3298ea9f600ef8e68da9cdb6a076401c91ad2feb22db59a978608595be"
+    },
+    {
+      "path": "gameplay/sky-mascots/blue-wing-star-256.png",
+      "bytes": 50563,
+      "sha256": "6a935c8c630060519652f7932f68910ee7863b658c9d1f63b997d914d64ef308"
+    },
+    {
+      "path": "gameplay/sky-mascots/blue-wing-star-256.webp",
+      "bytes": 36472,
+      "sha256": "81b0ddf82114d10c66e36f2fbffaf9a5bc57bd7a15e3962dcddfa6330065c694"
+    },
+    {
+      "path": "gameplay/sky-mascots/blue-wing-star-512.png",
+      "bytes": 165379,
+      "sha256": "d87bb2ea01f2b8200ae0827294c88bcf641d25d157b4df7441fa5f94154f4716"
+    },
+    {
+      "path": "gameplay/sky-mascots/blue-wing-star-512.webp",
+      "bytes": 111954,
+      "sha256": "8f53b91329a0394a57ba206233649092f6a58bd61aaeafae40bba5bbf9d373de"
+    },
+    {
+      "path": "gameplay/sky-mascots/cloud-star-256.png",
+      "bytes": 50144,
+      "sha256": "798192c8b523fffb0b89804010725a4bf18092753ae3ed280a8d6b5b39767ac2"
+    },
+    {
+      "path": "gameplay/sky-mascots/cloud-star-256.webp",
+      "bytes": 36332,
+      "sha256": "e62c441c662180d798693e995a06dc9fb1cd6d3c645e184cbb3b076a5c29b124"
+    },
+    {
+      "path": "gameplay/sky-mascots/cloud-star-512.png",
+      "bytes": 166794,
+      "sha256": "fe2649cf8058efda18fe3c2b37dfd76082d931a9fd64c87cc35256d207848aac"
+    },
+    {
+      "path": "gameplay/sky-mascots/cloud-star-512.webp",
+      "bytes": 114900,
+      "sha256": "eec21f243da47ce83b5ca4cbceb996c0fd0b700c2373c52b87e35951388a52e5"
+    },
+    {
+      "path": "gameplay/sky-mascots/pink-wing-star-256.png",
+      "bytes": 48119,
+      "sha256": "744f23c9485a8b5802b6fbc332e4ef16da76d1d6cd25e555ead1b806e56fd3df"
+    },
+    {
+      "path": "gameplay/sky-mascots/pink-wing-star-256.webp",
+      "bytes": 34290,
+      "sha256": "0f5a03d8d0e44caa27712a26562932e6027d020fb5696dbd1cc954ce45696ef8"
+    },
+    {
+      "path": "gameplay/sky-mascots/pink-wing-star-512.png",
+      "bytes": 154912,
+      "sha256": "d6e77872f56cebc3ccb23654fe3b6c564952a881b13d78a9afded5871576c743"
+    },
+    {
+      "path": "gameplay/sky-mascots/pink-wing-star-512.webp",
+      "bytes": 105984,
+      "sha256": "3a900b11d2a257591d51853971575920e551da659e5bb61a9fbf475bed21db27"
+    },
+    {
+      "path": "gameplay/sky-mascots/sleepy-moon-256.png",
+      "bytes": 44662,
+      "sha256": "3abbce1dacb4bfb96d0f0be916313ce87c2e6cf46d631a49c7bccad11bef0b55"
+    },
+    {
+      "path": "gameplay/sky-mascots/sleepy-moon-256.webp",
+      "bytes": 31890,
+      "sha256": "1d1f2f26311fbe52867a891185f99320c99257a7788909b2523913a2a1f2c99b"
+    },
+    {
+      "path": "gameplay/sky-mascots/sleepy-moon-512.png",
+      "bytes": 146242,
+      "sha256": "527b8fef9488bdcdccbf5377d9a4349bb770171952f82d5e8b288a82d1620313"
+    },
+    {
+      "path": "gameplay/sky-mascots/sleepy-moon-512.webp",
+      "bytes": 96270,
+      "sha256": "bedb2f546f1752b68140dbeba30eb7ae81c3f5f01f03d99dfe445bf96b61e80b"
+    },
+    {
+      "path": "gameplay/trees/blue-star-256.png",
+      "bytes": 60307,
+      "sha256": "aa5223ac7676d78a32869f603163a25216b1491eae4780096f32ba7cb3bf6cee"
+    },
+    {
+      "path": "gameplay/trees/blue-star-256.webp",
+      "bytes": 46494,
+      "sha256": "d6e86845d00e9088bb2ca7bfedd3fb0a325827503b9c0ae5337457947eb7c037"
+    },
+    {
+      "path": "gameplay/trees/blue-star-512.png",
+      "bytes": 192028,
+      "sha256": "6d1e7de8e27599804e3caa8eb65f967b802627ebce43a6429c93459e2b8aa652"
+    },
+    {
+      "path": "gameplay/trees/blue-star-512.webp",
+      "bytes": 144330,
+      "sha256": "e1c534d29accec12ac2c6163e3b27e9d0ba41d71add964b79c709d39e90d6d51"
+    },
+    {
+      "path": "gameplay/trees/golden-star-256.png",
+      "bytes": 60644,
+      "sha256": "117a87665814652a95da9d13498707b5dd00d83f62fd6fa3ea81cb39f5887b08"
+    },
+    {
+      "path": "gameplay/trees/golden-star-256.webp",
+      "bytes": 46544,
+      "sha256": "110f514a6dfcf490f34567ac145bd4ad85420030862360893e8e30d554e20828"
+    },
+    {
+      "path": "gameplay/trees/golden-star-512.png",
+      "bytes": 193645,
+      "sha256": "bb53000cb10a0616b160c935d811589ad8aafef151f1cf0d9eb31adbe3cc5a27"
+    },
+    {
+      "path": "gameplay/trees/golden-star-512.webp",
+      "bytes": 141382,
+      "sha256": "0e223bd4c2db72af6e941e274f107591ac4a5b9e99c2dbedaf2da63c9b0a361c"
+    },
+    {
+      "path": "gameplay/trees/pink-large-256.png",
+      "bytes": 55323,
+      "sha256": "e95fab34298816b6c497e4a67dba8b60ddeb073b669881b85b5a0231f0784463"
+    },
+    {
+      "path": "gameplay/trees/pink-large-256.webp",
+      "bytes": 42190,
+      "sha256": "a88e65963f6c6efd1c74d0b695ec605e321b3a17e32fb436942dcb6dde388ade"
+    },
+    {
+      "path": "gameplay/trees/pink-large-512.png",
+      "bytes": 177743,
+      "sha256": "bd4f1b94e99b8dce73f7e38451a44585b327d20a7128d5510a06e167ac1a43cf"
+    },
+    {
+      "path": "gameplay/trees/pink-large-512.webp",
+      "bytes": 131590,
+      "sha256": "a0b12745c3118e410b8b658988a9b96fd50ef1ae0dbb0e39fb2ca640cb884960"
+    },
+    {
+      "path": "gameplay/trees/pink-medium-256.png",
+      "bytes": 63392,
+      "sha256": "a343718e2f616e508b26b36bf24fa15340ef2d6b738ee3f4f389da927c82b933"
+    },
+    {
+      "path": "gameplay/trees/pink-medium-256.webp",
+      "bytes": 47050,
+      "sha256": "b07c073d1ac8bbea9a8fc6d7c024e682e3eb14f79251c3e3f4bcc183660acbc8"
+    },
+    {
+      "path": "gameplay/trees/pink-medium-512.png",
+      "bytes": 198554,
+      "sha256": "ece1d1e0d5e4948dd645eedf2c8e282623eb19ae78cded792a956b49f498c3bf"
+    },
+    {
+      "path": "gameplay/trees/pink-medium-512.webp",
+      "bytes": 146138,
+      "sha256": "1d2dc8b6abde558aa9a37e3934ba0be657542042c047df5ca866dcb117820321"
+    },
+    {
+      "path": "gameplay/trees/pink-small-256.png",
+      "bytes": 62880,
+      "sha256": "1bff3376f625be06a64b35a87ff2b472a9c3555f816d9d97ac013cbd7791b9e6"
+    },
+    {
+      "path": "gameplay/trees/pink-small-256.webp",
+      "bytes": 45676,
+      "sha256": "1ccd32310a81aaa57aabdf8fb0271dccec66ba1767384bf6d3173cee94e59922"
+    },
+    {
+      "path": "gameplay/trees/pink-small-512.png",
+      "bytes": 203349,
+      "sha256": "ff12056ea5d3801288276cc62811162998b79337bb89c0d59572e16194d67b36"
+    },
+    {
+      "path": "gameplay/trees/pink-small-512.webp",
+      "bytes": 144750,
+      "sha256": "891930a03efcd86fa9dc4ec86c8a7efc84bde6b3e7ec3b29f59940ec30c1dd08"
+    },
+    {
+      "path": "gameplay/trees/purple-wisteria-256.png",
+      "bytes": 69204,
+      "sha256": "746176b188f0d20251ad072f3f9c0a9e55dd86da9ad040200fca180671e827c0"
+    },
+    {
+      "path": "gameplay/trees/purple-wisteria-256.webp",
+      "bytes": 54114,
+      "sha256": "314a7b1988bb7eb3f9877f749fdb309d045ee9831407b2043ce2ea06cdda7115"
+    },
+    {
+      "path": "gameplay/trees/purple-wisteria-512.png",
+      "bytes": 222517,
+      "sha256": "c77d63e0aee3797119e6f3a7eb14d06f94f1441ccd699f06099fa632915e9388"
+    },
+    {
+      "path": "gameplay/trees/purple-wisteria-512.webp",
+      "bytes": 167882,
+      "sha256": "cb08ed1dcbb5b8c8d771b47e921ff55712052129581a7d5a765be91ee304407e"
+    },
+    {
+      "path": "generation.json",
+      "bytes": 122342,
+      "sha256": "8fd8a2f75157893729651841de31b7e386a68bd7fc44a1520995806968cf5e58"
+    },
+    {
+      "path": "masters/backgrounds/lilac-clouds.png",
+      "bytes": 1165820,
+      "sha256": "9130e56c8bac93bbaa6ca7c5305fa6576866329095030e24191e188391eef6fa"
+    },
+    {
+      "path": "masters/backgrounds/pink-clouds.png",
+      "bytes": 1151260,
+      "sha256": "dd15f25438212f70eda699209932876bd868505d310aeb8c34f7876fec9ccc18"
+    },
+    {
+      "path": "masters/backgrounds/starry-sky.png",
+      "bytes": 1223196,
+      "sha256": "40270faa3518e11c0e7c2b752c554982ff86120a0d7c6a7b7eb29312f26d3fba"
+    },
+    {
+      "path": "masters/backgrounds/sunset-clouds.png",
+      "bytes": 1201310,
+      "sha256": "4d9cce241e8ef3b3da476bceb297c3f13c50c7b8057d345c1ee58d14e057fcc0"
+    },
+    {
+      "path": "masters/balloons/cloud-pink.png",
+      "bytes": 673865,
+      "sha256": "518f6abd95cd80c26024f8ec31699f5207f493baa0977c6f7e28d836cb58c42d"
+    },
+    {
+      "path": "masters/balloons/pink.png",
+      "bytes": 573625,
+      "sha256": "08a85ad54174c5821aa0af8bdee7b7162e4fde641c7be46cacf3b30f5238158d"
+    },
+    {
+      "path": "masters/balloons/purple.png",
+      "bytes": 548946,
+      "sha256": "2a5bed8dbe73fe61067d4a2c58d767e8c884c29f101c64d504ea32bbc9ecf7d3"
+    },
+    {
+      "path": "masters/bridges/gold-wood.png",
+      "bytes": 447867,
+      "sha256": "5fb7aa8b881ab593e35211bcbb017c114705a5cd06f70782338ab6fac168f9ee"
+    },
+    {
+      "path": "masters/bridges/pink-arched.png",
+      "bytes": 299976,
+      "sha256": "cffde926d1ed4c9c8641e5b89485ab00f80616daeeadcbd149634843ef1a7b93"
+    },
+    {
+      "path": "masters/bridges/pink-rope.png",
+      "bytes": 300815,
+      "sha256": "9699c180a729ab4e10da3b2a91502adb5a3472ada8273d04c70484dc5923a8b4"
+    },
+    {
+      "path": "masters/bridges/rainbow.png",
+      "bytes": 281005,
+      "sha256": "2fd45edf6a8fbaa314d67f7db3a89bdff863945048236784d8923419b7955e93"
+    },
+    {
+      "path": "masters/canopies/blue.png",
+      "bytes": 824403,
+      "sha256": "95e28cd4bce1f9626e6bc7df1a75e4d669799bced482e3579cbfb5895157f14f"
+    },
+    {
+      "path": "masters/canopies/golden.png",
+      "bytes": 797791,
+      "sha256": "3f9e0b0f42fc8ea5446d607be3640fa4cd275b18910853cb7f817c84e3827054"
+    },
+    {
+      "path": "masters/canopies/pink.png",
+      "bytes": 800060,
+      "sha256": "e33516c79f2f0184bae67f100bf7d2b673e989e053a9c982488b2556ffbef101"
+    },
+    {
+      "path": "masters/canopies/purple.png",
+      "bytes": 830433,
+      "sha256": "ad9488381e46181abc27a19fdecbd1f550b2b9350930f566b1433d0487ee0e55"
+    },
+    {
+      "path": "masters/castle-pieces/flag.png",
+      "bytes": 298103,
+      "sha256": "307d5f8d90bd0ce43591fd44dd1881deab0a1c392723b04da371b73b0458ec3c"
+    },
+    {
+      "path": "masters/castle-pieces/pink-dome.png",
+      "bytes": 567375,
+      "sha256": "53969cae36956875b1aec22b8b382977b685e097029ef42ff644d1fbf4db7c9b"
+    },
+    {
+      "path": "masters/castle-pieces/small-arch.png",
+      "bytes": 391224,
+      "sha256": "98d7d5c9d53fa9e9046295de9386b27c96ff268f6628529177dc478249c1291c"
+    },
+    {
+      "path": "masters/castle-pieces/small-turret.png",
+      "bytes": 560894,
+      "sha256": "abbd43e01d764de4f7fa9c5fc6b01cf4355555c939034003a3c0e559da90609f"
+    },
+    {
+      "path": "masters/castle-pieces/star-low-wall.png",
+      "bytes": 397631,
+      "sha256": "8c649ade0b6d5716d9ab11a77580bffd14f2fdf3f0dc64fe7a186bae078f311f"
+    },
+    {
+      "path": "masters/castle-pieces/star-pillar.png",
+      "bytes": 478343,
+      "sha256": "8f426a8abbcf31baa5130cff3a21e1477d5125d276c066a88d92ac2c700a01a6"
+    },
+    {
+      "path": "masters/castle-pieces/star-plaque.png",
+      "bytes": 709138,
+      "sha256": "7e9f126ff6e585b7ef88006cc295b3021a13171d63b4bcf80d97c24c3b81e2c1"
+    },
+    {
+      "path": "masters/castle-pieces/star-portal.png",
+      "bytes": 597770,
+      "sha256": "4e5595064c24befc19e134a5cb5e199b9cf863a3d2fc87359990366e92c879f2"
+    },
+    {
+      "path": "masters/castle-pieces/star-railing.png",
+      "bytes": 418281,
+      "sha256": "1580e0b922325c68d3fc05b87002410cb2603d27d8692248fdab7382173d25b6"
+    },
+    {
+      "path": "masters/castle-pieces/window-pink.png",
+      "bytes": 766702,
+      "sha256": "04e896f3ecf06f407b389ba0a181a057ea3cc6d1da208be4dc28c5c908a45363"
+    },
+    {
+      "path": "masters/castle-pieces/window-purple.png",
+      "bytes": 692503,
+      "sha256": "ef0dc693a9a92b52649e1ab1b0d46e7091fb813780940736ca91465d5023937b"
+    },
+    {
+      "path": "masters/castle-views/back.png",
+      "bytes": 638443,
+      "sha256": "6411ea4ef0e221e4f2fc11144defbe78adb8c85a81ccbc2a1152d321b23c0167"
+    },
+    {
+      "path": "masters/castle-views/front.png",
+      "bytes": 753050,
+      "sha256": "bd01bf71a022a6e7cfdd32327f058ea5315e8303ba47216a3b3e8c68915e2e88"
+    },
+    {
+      "path": "masters/castle-views/overhead.png",
+      "bytes": 1017755,
+      "sha256": "0512c742489cd563bf05e2e62a5049328306524dfbafdb7ead93b92cae09b61d"
+    },
+    {
+      "path": "masters/castle-views/side.png",
+      "bytes": 720328,
+      "sha256": "3bbbf71ab7fe0f11870ec141e6cb3b5c68059a0701bb0a39282e7cc4dce2d872"
+    },
+    {
+      "path": "masters/castle-views/three-quarter.png",
+      "bytes": 786931,
+      "sha256": "37d4fda47637810e02976ed643540144ec482d9c0c8984a21b0a3d29d523dc01"
+    },
+    {
+      "path": "masters/cloud-strips/blue-short.png",
+      "bytes": 211826,
+      "sha256": "eb316775688a3ff442d842ceb91fdefcfb14002b5cb062a11b714bd1af3467b9"
+    },
+    {
+      "path": "masters/cloud-strips/lilac-short.png",
+      "bytes": 277477,
+      "sha256": "67ec1f9e9c2786dc4816bebbc7c4d608c3504c9b57cff84fef246ef46f605205"
+    },
+    {
+      "path": "masters/cloud-strips/pink-long.png",
+      "bytes": 174255,
+      "sha256": "19385d71cd346ed233a02800d00402e7f843ae09f64bdefb892bdba17a91e842"
+    },
+    {
+      "path": "masters/cloud-strips/pink-short.png",
+      "bytes": 205200,
+      "sha256": "4970f86082d5821604899b9f573059b130d080d3116ca61150315df7d8e17b58"
+    },
+    {
+      "path": "masters/cloud-strips/white-long.png",
+      "bytes": 166711,
+      "sha256": "66c65fa7b6e2ea8d5f4873637cc6715356841efd2aea7b34de49386a413a79e0"
+    },
+    {
+      "path": "masters/cloud-tiles/pink-star.png",
+      "bytes": 656841,
+      "sha256": "ec0b302ee186ea0b5490fa258c2d805d1a7fa018e5668f59f3f899dca3286cdb"
+    },
+    {
+      "path": "masters/cloud-tiles/plain-white.png",
+      "bytes": 277219,
+      "sha256": "8cb9f6b236b567da6309bce5b5138c89a85d1f1d6608b965cf3d76a5ac4c5911"
+    },
+    {
+      "path": "masters/cloud-tiles/rainbow.png",
+      "bytes": 742694,
+      "sha256": "a1e610df9f9e982dcb171923c58cb012f6fa132a8304edf900b9f9ed68074f95"
+    },
+    {
+      "path": "masters/cloud-tiles/spiral.png",
+      "bytes": 657109,
+      "sha256": "1984cc6a642e09c83a92ffb23c525fb6144ddd2e7955b7e00dcb5580202526dd"
+    },
+    {
+      "path": "masters/cloud-tiles/sprinkle.png",
+      "bytes": 704747,
+      "sha256": "77251766a409b3743f536bbdf70ed81743994a5782c62b06508d68d6b6039a83"
+    },
+    {
+      "path": "masters/cloud-tiles/waterfall.png",
+      "bytes": 750343,
+      "sha256": "9fc21565b0e0205c81e4b187c112f5495f4fa8206cbecd1c91222d280485b895"
+    },
+    {
+      "path": "masters/cloud-tiles/white-star.png",
+      "bytes": 744876,
+      "sha256": "651f0a5d698ff7e65cd7bed5aeceb21f03b31682ef06a6b4d600b4b6d05893f8"
+    },
+    {
+      "path": "masters/crystals/blue-cluster.png",
+      "bytes": 663813,
+      "sha256": "08986063a153f865c52792a597d9a765967e772a9b8de032483b44805848ebb1"
+    },
+    {
+      "path": "masters/crystals/gold-star.png",
+      "bytes": 838245,
+      "sha256": "0c5283a959004e4af9b88608e2fa08d11825b64eaca480380deca54739d91b69"
+    },
+    {
+      "path": "masters/crystals/pink-purple.png",
+      "bytes": 572821,
+      "sha256": "e79d7d6a8a67dd640d7ea3d0def16167f12413022bed6697d2b5e22b4e88e68b"
+    },
+    {
+      "path": "masters/crystals/purple-cluster.png",
+      "bytes": 645217,
+      "sha256": "39f155bbef37430ef4a86c1eb78f6e86fe1aed580c697f7f672801078d86b59e"
+    },
+    {
+      "path": "masters/crystals/rainbow-star.png",
+      "bytes": 784960,
+      "sha256": "e69d762a5c75f6933ac41cee96a931c48e44ffb56035740cfa497d6679b9af02"
+    },
+    {
+      "path": "masters/effects/gold-glint.png",
+      "bytes": 692118,
+      "sha256": "d57713ab7246841f5301d4aa05db4b2438b7854fe914fa897f23caebb5f32f36"
+    },
+    {
+      "path": "masters/effects/pink-star-chain.png",
+      "bytes": 460988,
+      "sha256": "745471895ea4fb006876c1a4bae8306bd980d5c56cd009092bde3afdd2e458f1"
+    },
+    {
+      "path": "masters/effects/pink-vortex.png",
+      "bytes": 509125,
+      "sha256": "94202a2257138f7f5dcd6e2f5281f0b271a1c1ee7fcfa8090734c9bf23ac5b18"
+    },
+    {
+      "path": "masters/effects/rainbow-arc.png",
+      "bytes": 407252,
+      "sha256": "2956d0fa3ca7ed5a323b9398654e5eb26fdfff0ca49dfb87948afd476b2f3f13"
+    },
+    {
+      "path": "masters/effects/star-comet.png",
+      "bytes": 411538,
+      "sha256": "1bc911f2bca22b2cbeaf6bb13e778a03a22e1d70c6d683f0074c597f0ee42374"
+    },
+    {
+      "path": "masters/effects/star-stream.png",
+      "bytes": 291978,
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2"
+    },
+    {
+      "path": "masters/effects/star-trail.png",
+      "bytes": 349316,
+      "sha256": "45370de44d71e6856120842f23962d20ba57dd7d2c723a72091440a034e9b63c"
+    },
+    {
+      "path": "masters/grasses/narrow-a.png",
+      "bytes": 319650,
+      "sha256": "97cf8b25899ff19ae1e9004baf2190f13176635808d1c2212d090d26e4131c24"
+    },
+    {
+      "path": "masters/grasses/narrow-b.png",
+      "bytes": 353274,
+      "sha256": "60e6b07cb72661abfc377187e5788ede5cf50c4b8932662aae64a9aa2accfc16"
+    },
+    {
+      "path": "masters/grasses/wide-a.png",
+      "bytes": 338731,
+      "sha256": "a64e1c32e167290653748937e9e19c3969103ae2bc702bcef1b3bc4c5345b5ae"
+    },
+    {
+      "path": "masters/grasses/wide-b.png",
+      "bytes": 297863,
+      "sha256": "7e01e4a29430f6286e1727e2c40875dffad995ee61edf5105e5bb0b793927580"
+    },
+    {
+      "path": "masters/islands/large-meadow.png",
+      "bytes": 650941,
+      "sha256": "621c7c56bca8ca84c0df0d7f94bd5eea1a11bcf18905bbbf17ccc94c80879e8e"
+    },
+    {
+      "path": "masters/islands/small-meadow.png",
+      "bytes": 777445,
+      "sha256": "cab75d211be410b0cc80c944907d32e90de82831b876cf162f77146d1277b900"
+    },
+    {
+      "path": "masters/islands/star-meadow.png",
+      "bytes": 837257,
+      "sha256": "0f3d3dca766960e9eea659b25b8c155047e35154e452b705cd17b6ef919a21e0"
+    },
+    {
+      "path": "masters/islands/waterfall-meadow.png",
+      "bytes": 828098,
+      "sha256": "a9fa10059b87621a6ca5bbd959a78d2685028eae510882cf62e5e79efefadff9"
+    },
+    {
+      "path": "masters/lamps/crescent-star.png",
+      "bytes": 447429,
+      "sha256": "b406b4f6823d9ed4c0a1e570aa3573b101053c79bf4071af4f5b570eae092457"
+    },
+    {
+      "path": "masters/lamps/curved-star.png",
+      "bytes": 368055,
+      "sha256": "6060c2d5ba5e0df43bdb4b191f7b6c85991967804c41ff7d0152e00a8a4aebfc"
+    },
+    {
+      "path": "masters/lamps/pink-star.png",
+      "bytes": 525650,
+      "sha256": "0fa9137f2108ed9c0816d0e9677cc89b5695f5d532c986a42bd5521942898d4c"
+    },
+    {
+      "path": "masters/paths/gold-star-cluster.png",
+      "bytes": 435749,
+      "sha256": "00200949b51d37b60654b2ce31d21de168d28b29113a3c80bb7f7b491407045a"
+    },
+    {
+      "path": "masters/paths/rainbow-stairs.png",
+      "bytes": 354650,
+      "sha256": "3e187677fcfc39df8f2358cee5718a4a3a0a8a2cb5463b45080bb1c3424d1349"
+    },
+    {
+      "path": "masters/paths/star-steps-a.png",
+      "bytes": 271155,
+      "sha256": "4d842569030a7d32d0a2f61a01de7c3fe6b9746978e3d189457802403feac2b3"
+    },
+    {
+      "path": "masters/paths/star-steps-b.png",
+      "bytes": 363734,
+      "sha256": "b00c12c9e067cb924dc751f0a951fc56e763e565c6dfe604c3618e5c89f18da5"
+    },
+    {
+      "path": "masters/pedestals/glowing-star.png",
+      "bytes": 509223,
+      "sha256": "976b47a2e6add7399d37f57be507958f4bfa747f6900eb142afd59783a730716"
+    },
+    {
+      "path": "masters/pedestals/gold-orb.png",
+      "bytes": 352111,
+      "sha256": "89d184dc44c4c9ad3ffccaadfad4f5c8ab8e41fefe42ec27125fa868f19daaac"
+    },
+    {
+      "path": "masters/pedestals/orb-star.png",
+      "bytes": 605326,
+      "sha256": "585237d0136a0c9f5b74015909b37790cd980391ccde23ab6c37815d59558a7d"
+    },
+    {
+      "path": "masters/plants/cream-flower.png",
+      "bytes": 382309,
+      "sha256": "13fb1a2eb42818e7df88d3bf6d0ae9febbcd151486e2f93c4968d326bdd73cdc"
+    },
+    {
+      "path": "masters/plants/pinwheel-flower.png",
+      "bytes": 431396,
+      "sha256": "28f7e5ba2a0f88ca8eb57932d5997b9fffa6f8f70cb982e2894fa5d0db9ec02e"
+    },
+    {
+      "path": "masters/props/telescope.png",
+      "bytes": 499230,
+      "sha256": "df762db41ee8985a2598446fb7085eafa6f0b283aaf8153dc3ef2ab3d2b7522b"
+    },
+    {
+      "path": "masters/rocks/grass-large.png",
+      "bytes": 504588,
+      "sha256": "579b58c13b1ab0fd882bf859c2ca7bd421df23ba04159c03df68245c12232b54"
+    },
+    {
+      "path": "masters/rocks/grass-medium.png",
+      "bytes": 498327,
+      "sha256": "47b1a7cb87c1b9b0c4ceced5a2e9f2e183f6c1ab90c637d5510f4300e4f610a3"
+    },
+    {
+      "path": "masters/rocks/grass-small.png",
+      "bytes": 540071,
+      "sha256": "a90d2ad3e4ef03a39e1528c963903eedcf2297f22270478491793747887363eb"
+    },
+    {
+      "path": "masters/scenes/hero-skies.png",
+      "bytes": 1546354,
+      "sha256": "c02e04f5b5c53cc3f11a26a55a2d37bc5ecf125f5adfb6136a5a5026c602dc9a"
+    },
+    {
+      "path": "masters/shrubs/flower-pair.png",
+      "bytes": 745662,
+      "sha256": "b37be3a2d54c75db144cb886c4cc667f8b7b27c334f1bb01b03092c6999211ab"
+    },
+    {
+      "path": "masters/shrubs/pink-sprig.png",
+      "bytes": 672648,
+      "sha256": "d4bdd170bf0645043440213c6af14723553ecd159299cd33776f6f1aacdb2662"
+    },
+    {
+      "path": "masters/shrubs/pink.png",
+      "bytes": 614220,
+      "sha256": "5fa66f5c7033133364e62994acc61fb7b98acf90468372c4238574328b1767e2"
+    },
+    {
+      "path": "masters/shrubs/teal-succulent.png",
+      "bytes": 545733,
+      "sha256": "54222283b6d066a5cc109109a498e61e421a1af1059a10d931492409161230af"
+    },
+    {
+      "path": "masters/shrubs/white-pink.png",
+      "bytes": 585600,
+      "sha256": "80340841bc5e44c2d426376210ef7771ca1283b69c60499bc6d84992e9a09e95"
+    },
+    {
+      "path": "masters/sky-mascots/blue-wing-star.png",
+      "bytes": 582771,
+      "sha256": "739d6f0bc5809ce9b934f64661713fd032040ec2fcc19bedb22479cc52717d39"
+    },
+    {
+      "path": "masters/sky-mascots/cloud-star.png",
+      "bytes": 593885,
+      "sha256": "4bf78c70d7203627d4bd1652cabd8ef5b4b628975808e1fb770fea1322e1e98d"
+    },
+    {
+      "path": "masters/sky-mascots/pink-wing-star.png",
+      "bytes": 535825,
+      "sha256": "d5b95ddff7d81fa865b1a761b0ba26546479e0a68e177214331c844ef9df10dd"
+    },
+    {
+      "path": "masters/sky-mascots/sleepy-moon.png",
+      "bytes": 521402,
+      "sha256": "580e875681d55a69b0336c18e642659c81db1964dd4ef486892a632b958e46c9"
+    },
+    {
+      "path": "masters/trees/blue-star.png",
+      "bytes": 651843,
+      "sha256": "7172f941455b535460d68e8647bb0d363f23709f92ba366101d6ee2a0bc31961"
+    },
+    {
+      "path": "masters/trees/golden-star.png",
+      "bytes": 669062,
+      "sha256": "942b3332984ed66ecd50d9802342682adc46aa7dccf9893363ee052f3b8fa7a3"
+    },
+    {
+      "path": "masters/trees/pink-large.png",
+      "bytes": 604822,
+      "sha256": "27983d38a7f873616b764214b5c6579648f87ea89790b3d8a748e33ebe4608b4"
+    },
+    {
+      "path": "masters/trees/pink-medium.png",
+      "bytes": 652546,
+      "sha256": "d6224f56ae43bf64790bc68e18245edce3db97be7a94627e443087609362c3be"
+    },
+    {
+      "path": "masters/trees/pink-small.png",
+      "bytes": 681145,
+      "sha256": "2ba08204ecb9e26280186becdb494f0a6c9fa06f5c386f4f3577ee395c3a2c7d"
+    },
+    {
+      "path": "masters/trees/purple-wisteria.png",
+      "bytes": 724294,
+      "sha256": "a9c7826e7ba5ec625b01ee1c4a2f42398522cfd07408f8a68bacfd443c76bd10"
+    },
+    {
+      "path": "preview.html",
+      "bytes": 37527,
+      "sha256": "7513301061e5257caf0bcebd564fbb49d7ae75d13d2db653b9058f8457bb7175"
+    },
+    {
+      "path": "preview.jpg",
+      "bytes": 543291,
+      "sha256": "5e0e0fab52cb1766232e0c66a14fbf79937d946391ca2f3252a4645ce1305cb2"
+    },
+    {
+      "path": "previews/backgrounds.jpg",
+      "bytes": 56029,
+      "sha256": "4b679a31d6adeb2827b1c3eea53b04bdccaf895eda6d853eebb68b8d29bfbdb2"
+    },
+    {
+      "path": "previews/balloons.jpg",
+      "bytes": 38602,
+      "sha256": "0a77d848c8e44d51138144eb2a612297011004cdbd4bcb3226803313566eb696"
+    },
+    {
+      "path": "previews/bridges.jpg",
+      "bytes": 36602,
+      "sha256": "0ace555dd2f87499ebb5f46003b7ec212d2c8a039d3cd1f474149fc8badffeeb"
+    },
+    {
+      "path": "previews/canopies.jpg",
+      "bytes": 61368,
+      "sha256": "d88c48786260521d83528726f152eaf933da60d47808b7a34fbc0e315d884dac"
+    },
+    {
+      "path": "previews/castle-pieces.jpg",
+      "bytes": 111612,
+      "sha256": "f74359f3bb44300e3fd80901eee4e90051ba92ebe8918f222903283542ca6343"
+    },
+    {
+      "path": "previews/castle-views.jpg",
+      "bytes": 82309,
+      "sha256": "a30de0fa693fa294a28bc5b07abed03b5cdcea9cb1b16592f6529b109c6c9631"
+    },
+    {
+      "path": "previews/cloud-strips.jpg",
+      "bytes": 31884,
+      "sha256": "03436311abf2ee820cde5c573cd5ed59519c8e188b90e0da698e876b19d1119b"
+    },
+    {
+      "path": "previews/cloud-tiles.jpg",
+      "bytes": 74905,
+      "sha256": "b5d646ac78cc54a0fd00e5c873ba4edab34f445206166556e150e5f9e6f7e607"
+    },
+    {
+      "path": "previews/crystals.jpg",
+      "bytes": 68572,
+      "sha256": "50f7b49f5fb387de2f9f66ebb0fd7de9f154cafae9f6abdc8a610e21483b5be2"
+    },
+    {
+      "path": "previews/effects.jpg",
+      "bytes": 53950,
+      "sha256": "c8ffb30d34cd82267f4a08f41cabae6c81a3c3559ad1c354b852ebd2a6f301a5"
+    },
+    {
+      "path": "previews/grasses.jpg",
+      "bytes": 32759,
+      "sha256": "83b8616975bf33e5b83341e00ef0e100a6a4a639aadc7409e09cf762f99abb2c"
+    },
+    {
+      "path": "previews/islands.jpg",
+      "bytes": 59012,
+      "sha256": "f671f2350304cbba6fe27336ea80609fc6f4198ab047f8430e9127d6fac48349"
+    },
+    {
+      "path": "previews/lamps.jpg",
+      "bytes": 31280,
+      "sha256": "29359c5b5ecd8cf2643d3cb8e607540b976690f71fb07c6926f703575a79f5e8"
+    },
+    {
+      "path": "previews/paths.jpg",
+      "bytes": 36730,
+      "sha256": "ac094efe073148d6f9ccb8150941a3c3317e2450e83bc949496473275c6a6d76"
+    },
+    {
+      "path": "previews/pedestals.jpg",
+      "bytes": 29269,
+      "sha256": "c35e3cae5f3cc630dcca86530775acd949199b26a73db73bb5a3f5468a917b60"
+    },
+    {
+      "path": "previews/plants.jpg",
+      "bytes": 22328,
+      "sha256": "3e8226a9739f2cf3ae3b93f0e715dd972470e0b759e1fb64f864f331885e8304"
+    },
+    {
+      "path": "previews/props.jpg",
+      "bytes": 15577,
+      "sha256": "e257ad6e141b0c6d7860673ea00a144144c345cf9df7867c004d005873e0092b"
+    },
+    {
+      "path": "previews/rocks.jpg",
+      "bytes": 28533,
+      "sha256": "5b8e0c9462e50060988f2e3a713c6faecb5551f48320a8cbbfc785dcefb59db3"
+    },
+    {
+      "path": "previews/scenes.jpg",
+      "bytes": 23622,
+      "sha256": "010206fc2f96cf8862055f63334305cb5bdb69a492be981084ce15530cce1f53"
+    },
+    {
+      "path": "previews/shrubs.jpg",
+      "bytes": 66486,
+      "sha256": "8c77ebd3c2eb56e1ee3fdede17981dd8fa4548cd133fa66f0b99e0ac07d73f82"
+    },
+    {
+      "path": "previews/sky-mascots.jpg",
+      "bytes": 41491,
+      "sha256": "740ffee0a8602747e4ccb4b561be10e770a23153357d9c15d788f73db9e338ff"
+    },
+    {
+      "path": "previews/trees.jpg",
+      "bytes": 87963,
+      "sha256": "41fde852e63334ba08404839cc5b8927a19f829fa962de706d5ca4a0d732178e"
+    },
+    {
+      "path": "previews/world-overview.jpg",
+      "bytes": 174357,
+      "sha256": "c2261f35c14b38a47ace1187dadd6d6285ad17cbe12f7fbf2be29e5422ab4784"
+    },
+    {
+      "path": "qa.json",
+      "bytes": 737,
+      "sha256": "ac33d79da8ab945142d4a6c00d9d9f2f8eff03a9b9280f26fae0693d3b3a6cf2"
+    },
+    {
+      "path": "references/sugarstar-skies-original-board.png",
+      "bytes": 2259931,
+      "sha256": "986887c09f136ac56ccd1b1a36c71c35d3f69f8065771c9744e42a469461836c"
+    }
+  ]
+}
