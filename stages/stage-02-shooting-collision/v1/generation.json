@@ -1,0 +1,49 @@
+{
+  "method": "built-in image generator",
+  "references": [
+    "/Users/mac/Documents/Codex/2026-11-11/referenced-chatgpt-conversation-this-is-an-2/work/gdd-verified/locked/puff-trails-brand/v1/masters/icons/sparkle.png",
+    "/Users/mac/Documents/Codex/2026-11-11/referenced-chatgpt-conversation-this-is-an-2/work/gdd-verified/locked/puff-trails-brand/v1/masters/decor/magic-trail.png"
+  ],
+  "assets": [
+    {
+      "id": "aim-dot",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One single small round aiming-guide light particle, pearl white center, soft lilac bevel and restrained pink glow. Perfectly centered circular orb, no star, no trailing particles. This single dot will be repeated by the engine along straight ricochet segments.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-27ff14de-c6ac-4ccb-87b9-944566435829.png"
+    },
+    {
+      "id": "projectile-trail",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One straight horizontal magical projectile trail flowing from left to right, tapered thin tail at left and rounded luminous head at right. Pink and violet ribbon with warm white-gold core, sparse tiny sparkles confined close to trail. No projectile or creature.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-6ca2667e-3531-47ac-9fa8-de16a639a9a3.png"
+    },
+    {
+      "id": "wall-rebound",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One compact side-wall ricochet flash, origin at image center, a small four-point golden glint with short pink-lilac curved shock arcs radiating mostly toward the left. No wall drawn. Gentle toy-like magical impact, not an explosion.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-b881fc2a-c4af-482e-b751-1c0308f1b4f3.png"
+    },
+    {
+      "id": "attachment-pulse",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One delicate circular attachment contact ring, front-facing perfectly circular pale lilac and pearl-white rim, tiny gold contact glints, completely empty transparent center. Compact and restrained, to sit behind a creature on legal attachment. No grid or hexagon.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-01239674-cf38-4061-a8f7-d5fc8aa01432.png"
+    },
+    {
+      "id": "match-pop",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One ordinary match-pop VFX burst: soft pastel pink-lilac cloud puffs around a clear transparent center, several tiny warm gold four-point sparkles, modest rounded radial burst. No creatures, no balls, no numerals. Readable small-scale effect.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-64783a44-564b-40c2-a2cb-81ab532e7a39.png"
+    },
+    {
+      "id": "evolution-halo",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One special-evolution VFX halo, front-facing circular luminous warm-gold rim with lilac-pink outer aura and six delicate glints, empty transparent center large enough for an unchanged character sprite. More celebratory than ordinary pop but keep the center empty, no creature or symbol.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-1f1cd394-f87b-47d2-a08c-84ccce88fdec.png"
+    },
+    {
+      "id": "falling-trail",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One vertical falling-creature VFX trail: three soft tapered lilac-pink motion wisps pointing upward, fading to nothing at top, small pearly glints near lower end. Empty space at bottom for external creature sprite. No creature rendered, no arrows.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-43b71dba-036b-471e-99bc-76eaad9b8890.png"
+    },
+    {
+      "id": "danger-boundary",
+      "prompt": "Use case: stylized-concept. Create ONE standalone original Puff Trails Stage 2 game VFX sprite on genuine transparent RGBA background. Reference images are style references only: existing golden sparkle and pink-gold magic ribbon from the actual brand pack. Match their polished soft 3D candy-magic rendering, pastel glow, rounded friendly contours, clean silhouettes. Brand palette purple #8024BC, lilac #A242FA, pink #FC6BB2, gold #FDD114, warm #FD8602, pearl #FEFEFD. Asset only, no presentation board, no panel, no scene, no logo, no lettering, no characters, no cannon. Preserve broad empty alpha padding and do not clip glow at canvas edge. No opaque background or checkerboard drawing. One horizontal warning boundary VFX segment, slim rounded luminous pink-magenta line with plum-violet edge and subtle warm-gold highlights. Straight horizontal, restrained soft halo, no text, no skull, no icon, no scenery. Isolated segment with clean transparent padding.",
+      "source": "/Users/mac/.codex/generated_images/01a1cb73-c76c-7a52-b53d-56aa601a1f86/exec-8fc7cf83-3da8-4822-9e62-532b52fc4f7b.png"
+    }
+  ]
+}

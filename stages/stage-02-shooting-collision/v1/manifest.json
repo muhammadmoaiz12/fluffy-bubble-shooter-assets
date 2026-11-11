@@ -1,0 +1,114 @@
+[
+  {
+    "id": "aim-dot",
+    "file": "masters/aim-dot.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "2103b07bb9c02af7ee5885d082e945fd8887cb32f4bcd8ec123ad6bb830b156e",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "projectile-trail",
+    "file": "masters/projectile-trail.png",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "sha256": "3c53b2b4d6550c9e8a21d91476b1d990497c04d3d6e7f0303389f2bc42bdfec8",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "wall-rebound",
+    "file": "masters/wall-rebound.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "sha256": "6607bce3cb15d120843d02705aa7619370f67987533af77e908e7a9849b4a611",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "attachment-pulse",
+    "file": "masters/attachment-pulse.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "c364ce8aca899fe269d4936a7bb97bb21733672044cda5f9d85e40b8a1bdc973",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "match-pop",
+    "file": "masters/match-pop.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "sha256": "c8d63c12b86ea997780d9a2d231fdaf80973cff57b4c5f15187f870256ee0290",
+    "alpha_range": [
+      0,
+      253
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "evolution-halo",
+    "file": "masters/evolution-halo.png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "f7822354830fc1802143b33d5daf187bc4e504f8dd73a5afce8bcdea81d98ea7",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "falling-trail",
+    "file": "masters/falling-trail.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "9ad4bb51ada854565b17cb9816b0f22d5196fe79fdf4eed5ae7affe5ef429015",
+    "alpha_range": [
+      0,
+      253
+    ],
+    "status": "art_review_pending"
+  },
+  {
+    "id": "danger-boundary",
+    "file": "masters/danger-boundary.png",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "sha256": "6c296f450ee891189435cf12bac34a6712ea7ec7886a4bb6fe943658ec211f26",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "status": "art_review_pending"
+  }
+]
