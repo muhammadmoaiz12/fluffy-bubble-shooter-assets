@@ -1,0 +1,91 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "../references/Puff Trails Starburst Cannon Asset Board-1.png",
+  "prompts": [
+    {
+      "id": "views/three-quarter-front",
+      "prompt": "Use case identity-preserve. Generate ONE isolated Starburst Cannon game sprite matching supplied original board's hero and 3/4 front view. Squat round lavender fluffy cannon creature with cream-lilac face, glossy dark violet eyes, pink cheeks, happy mouth, tiny gold star on forehead and gold four-point cheek glints. Purple cosmic cannon barrel sprinkled with small gold stars, large FIVE-POINT STAR-SHAPED muzzle framed in thick rounded polished gold, violet-magenta interior with radiant light. Barrel angles upper right. Cream/pink little feather wings on gold circular side mounts. Puffy lilac cloud curls around base, large gold star front emblem and low gold oval foot rim. Preserve proportions and all visual identity. Three-quarter FRONT view toward viewer right. No flower petals, no leaves, no flower crown. Entire cannon centered with ten percent margin. Polished cute 3D plush casual mobile game art. Transparent background with opaque solid interiors and finely antialiased fur edges; no ground shadow, loose particles, scenery, text or UI.\nCleanup edit: Edit this Starburst Cannon sprite. Preserve the entire cannon design, geometry, colors, face and materials exactly. Remove ALL exterior aura, haze, glow and ground shadow. Keep light only INSIDE the star muzzle. Outside the solid cannon silhouette must be completely transparent, with delicate antialiased fur edges only. Reframe the complete cannon on square canvas with 10% clear transparent padding on all four sides; nothing clipped. No backdrop or extra objects."
+    },
+    {
+      "id": "views/front",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/front: Exact symmetric FRONT view, star muzzle directly above centered face, both feather-wing side ornaments visible. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "views/back",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/back: Exact BACK view: no face, rounded purple cosmic back panel bearing large gold star, puffy lilac cloud curls below, little feather wings on both sides. Match original board back. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "views/left",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/left: LEFT profile matching original board Left View: face sliver at right edge, prominent cream-pink feather wing and gold mount, barrel points upper right. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "expressions/excited",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset expressions/excited: Keep entire cannon exactly in image2 three-quarter front pose. Change only face: golden star-shaped eye highlights, joyful excited open smile. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "views/right",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/right: RIGHT profile matching original board Right View: face sliver at left edge, prominent cream-pink feather wing and gold mount, barrel points upper left. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "expressions/focused",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset expressions/focused: Keep entire cannon exactly in image2 three-quarter front pose. Change only face: slightly angled determined eyebrows, focused violet eyes and small determined mouth. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "views/top",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/top: Direct overhead TOP view as original board, starry purple barrel across upper section, gold band, fur and cloud curls beneath. Camera above, no eye-level front pose. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "expressions/surprised",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset expressions/surprised: Keep entire cannon exactly in image2 three-quarter front pose. Change only face to wide eyes and tiny O mouth. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "expressions/sleepy",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset expressions/sleepy: Keep entire cannon exactly in image2 three-quarter front pose. Change only face to peaceful closed eyes and tiny smile. No Z letters. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "views/bottom",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/bottom: Direct underside BOTTOM view as original board, round purple rim around lilac furry disk, single central gold star; no face. Orthographic from below. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "expressions/cheerful-wink",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset expressions/cheerful-wink: Keep entire cannon exactly in image2 three-quarter front pose. Change only face to one winking eye and joyful smile. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "poses/idle",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset poses/idle: Keep entire cannon exactly in image2 three-quarter front pose. Both eyes closed in happy arcs and soft open smile, matching board Idle Default pose. No firing VFX. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "views/three-quarter-back",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset views/three-quarter-back: Three-quarter BACK view as board, no face, large gold star on purple rear, cream-pink feather wing mounts, lilac clouds, gold base. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "poses/firing",
+      "prompt": "Identity-preserving Starburst Cannon game sprite. Image1 original board, image2 established master. Asset poses/firing: Keep entire cannon exactly in image2 three-quarter front pose; joyful closed eyes with subtle recoil squash, same barrel orientation and base. No projectile, ray, or loose VFX: they are separate images. Preserve exact purple cosmic star barrel, gold five-point star muzzle, cream feather wings, lilac fur, cloud base and gold trim. No external glow around cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "effects/star-projectile",
+      "prompt": "Single standalone transparent casual game VFX/icon. Asset effects/star-projectile: ONLY one standalone glossy five-point golden star projectile with cream luminous center and tightly controlled warm glow. No cannon, face or other objects. Only the named effect. Do not generate a cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "effects/target-brackets",
+      "prompt": "Single standalone transparent casual game VFX/icon. Asset effects/target-brackets: ONLY four rounded glowing gold corner brackets outlining an empty square. Transparent center. No cannon, character, scenery or target. Only the named effect. Do not generate a cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "effects/star-trail",
+      "prompt": "Single standalone transparent casual game VFX/icon. Asset effects/star-trail: ONLY one narrow luminous golden energy streak travelling diagonally from lower left to upper right with a few small gold star particles, as board firing beam. No cannon, character, face, scenery or other objects. Only the named effect. Do not generate a cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "icons/starburst-clear",
+      "prompt": "Single standalone transparent casual game VFX/icon. Asset icons/starburst-clear: ONLY one layered golden five-point star emblem over a short pink-gold radial burst, as board Special Ability icon. No cannon, face, text or other objects. Only the named effect. Do not generate a cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "effects/muzzle-flash",
+      "prompt": "Single standalone transparent casual game VFX/icon. Asset effects/muzzle-flash: ONLY one radiant gold-white eight-point burst of light with subtle pink halo, compact core, transparent outside. No cannon, physical frame, face or background. Only the named effect. Do not generate a cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    },
+    {
+      "id": "effects/aim-dot",
+      "prompt": "Single standalone transparent casual game VFX/icon. Asset effects/aim-dot: ONLY one small white pearl circle with subtle lilac halo for repeated trajectory dots. No cannon, character, line, target or scene. Only the named effect. Do not generate a cannon. Square canvas, entire asset inside with 10% transparent margins, clean RGBA transparency, no background, floor, text, labels, scenery or extra subjects."
+    }
+  ],
+  "processing": "Remove alpha <=8 and disconnected components under24 pixels; fill enclosed solid body alpha; normalize within 860px envelope on 1024px canvas; bottom baseline922 for cannon. Preserve translucent VFX. Lanczos resize, lossless WebP."
+}

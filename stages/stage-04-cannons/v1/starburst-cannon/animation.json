@@ -1,0 +1,28 @@
+{
+  "status": "illustrative composite sequence; tune in engine",
+  "loop": false,
+  "frames": [
+    {
+      "id": "animation/00-idle",
+      "duration_ms": 120
+    },
+    {
+      "id": "animation/01-charge-1",
+      "duration_ms": 120
+    },
+    {
+      "id": "animation/02-charge-2",
+      "duration_ms": 120
+    },
+    {
+      "id": "animation/03-release",
+      "duration_ms": 120
+    },
+    {
+      "id": "animation/04-recoil",
+      "duration_ms": 120
+    }
+  ],
+  "return_to": "poses/idle",
+  "note": "Five composite key poses, not a rig or independently drawn continuous animation. Active power requires player input after charging; no change to obstacle eligibility, radius or match thresholds."
+}
