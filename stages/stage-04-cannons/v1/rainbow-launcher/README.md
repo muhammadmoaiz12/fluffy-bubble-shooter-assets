@@ -17,3 +17,83 @@ Five animation frames use deterministic squash/recoil and effect compositing, no
 ## QA and provenance
 
 `preview.html` and `preview.jpg` show the set. `manifest.json` records actual file hashes, dimensions, origins and alpha bounds. `generation.json` retains prompts and cleanup details. Technical checks cover decoding, transparent alpha, dimensions and lossless PNG/WebP pixel equivalence. Stray pixels are removed and enclosed solid-body alpha filled; glow transparency remains. No claim of engine-tested production lock. Earlier cannons and locked character files remain unchanged.
+
+<!-- asset-gallery:start -->
+## Individual asset previews
+
+Every unique master is shown below, including animation frames and explicitly documented aliases. Click an image to open its PNG. Resolution exports repeat the same artwork.
+
+### Animation
+
+| 00 Idle | 01 Charge 1 | 02 Charge 2 |
+| --- | --- | --- |
+| [![00 Idle](masters/animation/00-idle.png)](masters/animation/00-idle.png) | [![01 Charge 1](masters/animation/01-charge-1.png)](masters/animation/01-charge-1.png) | [![02 Charge 2](masters/animation/02-charge-2.png)](masters/animation/02-charge-2.png) |
+
+| 03 Release | 04 Recoil |
+| --- | --- |
+| [![03 Release](masters/animation/03-release.png)](masters/animation/03-release.png) | [![04 Recoil](masters/animation/04-recoil.png)](masters/animation/04-recoil.png) |
+
+
+### Effects
+
+| Aim Dot | Muzzle Flash | Projectile |
+| --- | --- | --- |
+| [![Aim Dot](masters/effects/aim-dot.png)](masters/effects/aim-dot.png) | [![Muzzle Flash](masters/effects/muzzle-flash.png)](masters/effects/muzzle-flash.png) | [![Projectile](masters/effects/projectile.png)](masters/effects/projectile.png) |
+
+| Target Brackets | Trail |
+| --- | --- |
+| [![Target Brackets](masters/effects/target-brackets.png)](masters/effects/target-brackets.png) | [![Trail](masters/effects/trail.png)](masters/effects/trail.png) |
+
+
+### Expressions
+
+| Cheerful | Excited | Focused |
+| --- | --- | --- |
+| [![Cheerful](masters/expressions/cheerful.png)](masters/expressions/cheerful.png) | [![Excited](masters/expressions/excited.png)](masters/expressions/excited.png) | [![Focused](masters/expressions/focused.png)](masters/expressions/focused.png) |
+
+| Happy | Surprised | Wink |
+| --- | --- | --- |
+| [![Happy](masters/expressions/happy.png)](masters/expressions/happy.png) | [![Surprised](masters/expressions/surprised.png)](masters/expressions/surprised.png) | [![Wink](masters/expressions/wink.png)](masters/expressions/wink.png) |
+
+
+### Icons
+
+| Ability | App Tile |
+| --- | --- |
+| [![Ability](masters/icons/ability.png)](masters/icons/ability.png) | [![App Tile](masters/icons/app-tile.png)](masters/icons/app-tile.png) |
+
+
+### Poses
+
+| Aiming Charged | Firing | Idle |
+| --- | --- | --- |
+| [![Aiming Charged](masters/poses/aiming-charged.png)](masters/poses/aiming-charged.png) | [![Firing](masters/poses/firing.png)](masters/poses/firing.png) | [![Idle](masters/poses/idle.png)](masters/poses/idle.png) |
+
+
+### Silhouettes
+
+| Back | Bottom | Front |
+| --- | --- | --- |
+| [![Back](masters/silhouettes/back.png)](masters/silhouettes/back.png) | [![Bottom](masters/silhouettes/bottom.png)](masters/silhouettes/bottom.png) | [![Front](masters/silhouettes/front.png)](masters/silhouettes/front.png) |
+
+| Left | Top |
+| --- | --- |
+| [![Left](masters/silhouettes/left.png)](masters/silhouettes/left.png) | [![Top](masters/silhouettes/top.png)](masters/silhouettes/top.png) |
+
+
+### Views
+
+| Back | Bottom | Front |
+| --- | --- | --- |
+| [![Back](masters/views/back.png)](masters/views/back.png) | [![Bottom](masters/views/bottom.png)](masters/views/bottom.png) | [![Front](masters/views/front.png)](masters/views/front.png) |
+
+| Left | Right | Three Quarter Back |
+| --- | --- | --- |
+| [![Left](masters/views/left.png)](masters/views/left.png) | [![Right](masters/views/right.png)](masters/views/right.png) | [![Three Quarter Back](masters/views/three-quarter-back.png)](masters/views/three-quarter-back.png) |
+
+| Three Quarter Front | Top |
+| --- | --- |
+| [![Three Quarter Front](masters/views/three-quarter-front.png)](masters/views/three-quarter-front.png) | [![Top](masters/views/top.png)](masters/views/top.png) |
+
+
+<!-- asset-gallery:end -->

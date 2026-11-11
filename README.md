@@ -80,3 +80,66 @@ No open-source license is granted. Preserve the user's artwork and provenance.
 ## Puff Trails brand assets
 
 [Browse the brand pack](locked/puff-trails-brand/v1/README.md): 45 individual assets, PNG and lossless WebP size exports, 15 sampled palette swatches, Baloo 2 and Quicksand fonts with licenses, and light/dark previews. The supplied board is preserved inside the pack. Character portraits and character-bearing compositions reuse the prior locked family artwork. Visual approval and in-game testing remain pending; earlier character packs are unchanged.
+
+<!-- asset-gallery:start -->
+## Stage asset previews
+
+Each pack links to a gallery of every unique master. Click any image to open it. Smaller PNG/WebP exports reuse these same designs.
+
+### Stage 2 — Shooting and collision
+
+[Browse every individual asset](stages/stage-02-shooting-collision/v1/README.md)
+
+
+### Effects
+
+| Aim Dot | Attachment Pulse | Danger Boundary |
+| --- | --- | --- |
+| [![Aim Dot](stages/stage-02-shooting-collision/v1/masters/aim-dot.png)](stages/stage-02-shooting-collision/v1/masters/aim-dot.png) | [![Attachment Pulse](stages/stage-02-shooting-collision/v1/masters/attachment-pulse.png)](stages/stage-02-shooting-collision/v1/masters/attachment-pulse.png) | [![Danger Boundary](stages/stage-02-shooting-collision/v1/masters/danger-boundary.png)](stages/stage-02-shooting-collision/v1/masters/danger-boundary.png) |
+
+| Evolution Halo | Falling Trail | Match Pop |
+| --- | --- | --- |
+| [![Evolution Halo](stages/stage-02-shooting-collision/v1/masters/evolution-halo.png)](stages/stage-02-shooting-collision/v1/masters/evolution-halo.png) | [![Falling Trail](stages/stage-02-shooting-collision/v1/masters/falling-trail.png)](stages/stage-02-shooting-collision/v1/masters/falling-trail.png) | [![Match Pop](stages/stage-02-shooting-collision/v1/masters/match-pop.png)](stages/stage-02-shooting-collision/v1/masters/match-pop.png) |
+
+| Projectile Trail | Wall Rebound |
+| --- | --- |
+| [![Projectile Trail](stages/stage-02-shooting-collision/v1/masters/projectile-trail.png)](stages/stage-02-shooting-collision/v1/masters/projectile-trail.png) | [![Wall Rebound](stages/stage-02-shooting-collision/v1/masters/wall-rebound.png)](stages/stage-02-shooting-collision/v1/masters/wall-rebound.png) |
+
+
+### Stage 3 — Family powers
+
+[Browse every individual asset](stages/stage-03-character-powers/v1/README.md)
+
+![Stage 3 — Family powers asset preview](stages/stage-03-character-powers/v1/preview.png)
+
+### Cloud Sling
+
+[Browse every individual asset](stages/stage-04-cannons/v1/cloud-sling/README.md)
+
+![Cloud Sling asset preview](stages/stage-04-cannons/v1/cloud-sling/preview.jpg)
+
+### Bloom Launcher
+
+[Browse every individual asset](stages/stage-04-cannons/v1/bloom-launcher/README.md)
+
+![Bloom Launcher asset preview](stages/stage-04-cannons/v1/bloom-launcher/preview.jpg)
+
+### Starburst Cannon
+
+[Browse every individual asset](stages/stage-04-cannons/v1/starburst-cannon/README.md)
+
+![Starburst Cannon asset preview](stages/stage-04-cannons/v1/starburst-cannon/preview.jpg)
+
+### Moonlight Cannon
+
+[Browse every individual asset](stages/stage-04-cannons/v1/moonlight-cannon/README.md)
+
+![Moonlight Cannon asset preview](stages/stage-04-cannons/v1/moonlight-cannon/preview.jpg)
+
+### Rainbow Launcher
+
+[Browse every individual asset](stages/stage-04-cannons/v1/rainbow-launcher/README.md)
+
+![Rainbow Launcher asset preview](stages/stage-04-cannons/v1/rainbow-launcher/preview.jpg)
+
+<!-- asset-gallery:end -->

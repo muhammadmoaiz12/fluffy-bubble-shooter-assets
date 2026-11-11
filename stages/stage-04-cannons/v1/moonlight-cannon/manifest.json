@@ -1165,8 +1165,8 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 2351,
-      "sha256": "f5d74f6186da2f95feba7d02fd9fb212893f688c00a43d7568277e519f203ab3"
+      "bytes": 5983,
+      "sha256": "da69a2d6979b4e4715defe31c5d54f8c853b7f21b706bf9f278af715f61eea5a"
     },
     {
       "path": "animation.json",

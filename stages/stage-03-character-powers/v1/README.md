@@ -19,3 +19,21 @@ Effects are static sprites intended for runtime opacity, scale, rotation and tra
 ## Provenance and QA
 
 `provenance.json` records the recovered board. `generation.json` records the built-in image generation prompts. Masters retain generated alpha; smaller exports are deterministic resizes. `manifest.json` records sizes, alpha bounds, family mapping and SHA-256 checksums. Technical QA checks decoding, alpha, dimensions, lossless WebP equivalence and unchanged locked reference bytes; it is not a claim of engine-tested production readiness.
+
+<!-- asset-gallery:start -->
+## Individual asset previews
+
+Every unique master is shown below, including animation frames and explicitly documented aliases. Click an image to open its PNG. Resolution exports repeat the same artwork.
+
+### Effects
+
+| Heart Link | Magic Shift | Seed Bloom |
+| --- | --- | --- |
+| [![Heart Link](masters/heart-link.png)](masters/heart-link.png) | [![Magic Shift](masters/magic-shift.png)](masters/magic-shift.png) | [![Seed Bloom](masters/seed-bloom.png)](masters/seed-bloom.png) |
+
+| Sky Dash | Sun Burst | Sweet Rescue |
+| --- | --- | --- |
+| [![Sky Dash](masters/sky-dash.png)](masters/sky-dash.png) | [![Sun Burst](masters/sun-burst.png)](masters/sun-burst.png) | [![Sweet Rescue](masters/sweet-rescue.png)](masters/sweet-rescue.png) |
+
+
+<!-- asset-gallery:end -->
