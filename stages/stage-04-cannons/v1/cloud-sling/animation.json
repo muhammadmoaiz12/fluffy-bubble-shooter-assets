@@ -1,0 +1,39 @@
+{
+  "status": "illustrative sequence; tune in engine",
+  "loop": false,
+  "frames": [
+    {
+      "id": "animation/fire-00",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-01",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-02",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-03",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-04",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-05",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-06",
+      "duration_ms": 100
+    },
+    {
+      "id": "animation/fire-07",
+      "duration_ms": 180
+    }
+  ],
+  "note": "Composite squash/recoil/FX sequence, not independently hand-drawn frames. Aim line is engine-computed; target indicator never changes collision or enables auto-hit."
+}
