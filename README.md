@@ -143,3 +143,15 @@ Each pack links to a gallery of every unique master. Click any image to open it.
 ![Rainbow Launcher asset preview](stages/stage-04-cannons/v1/rainbow-launcher/preview.jpg)
 
 <!-- asset-gallery:end -->
+
+<!-- stage5-world1:start -->
+## Stage 5 · Worlds and levels
+
+### World 1 · Cloudberry Meadows
+
+[Browse all 117 individual modules and variants](stages/stage-05-worlds-levels/v1/cloudberry-meadows/README.md) · [Stage 5 index](stages/stage-05-worlds-levels/v1/README.md)
+
+![Cloudberry Meadows](stages/stage-05-worlds-levels/v1/cloudberry-meadows/previews/world-overview.jpg)
+
+![All Cloudberry Meadows assets](stages/stage-05-worlds-levels/v1/cloudberry-meadows/preview.jpg)
+<!-- stage5-world1:end -->

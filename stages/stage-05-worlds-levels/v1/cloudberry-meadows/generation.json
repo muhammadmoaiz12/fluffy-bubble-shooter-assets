@@ -1,0 +1,1299 @@
+{
+  "tool": "built-in image_gen",
+  "original_reference": "references/cloudberry-meadows-original-board.png",
+  "original_sha256": "a4992e278537b4c4186a88dabf1578bf5c1199bd86709ca1d8b387c7301697a1",
+  "reference_dimensions": [
+    1536,
+    1024
+  ],
+  "processing": "Source crops used only as generation references. Remove alpha <=8 (<=2 for clouds/water/waterfalls/particles/crystals) and components below8 pixels. For solid modules remove low-alpha residue farther than12 pixels from alpha>=128. Splash-only edge residue cleanup: alpha>8 and within24 pixels of alpha>=64. No hole filling or recoloring. Trim alpha bounds, fit860px, center on1024px canvas. Plates preserve aspect ratio at max1536px. Lanczos exports. Lossless WebP.",
+  "items": [
+    {
+      "id": "scenes/hero-island",
+      "source_box": [
+        0,
+        0,
+        793,
+        350
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Complete hero scene: grassy floating purple stone island with huge pink blossom tree, cream meadow cottage with turf roof and pink flower windmill, wooden fence, flower meadow and turquoise waterfall, distant cloud islands and rainbow. Wide landscape full background.. Generate a wide landscape full-bleed background plate, no frame, no panel borders, no text or labels. Reconstruct only the supplied scene, maintaining its composition and world style. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "ef2d16ff60213403ad931d19cee91af02a906ca909fda02b3330c95fee10b27c"
+    },
+    {
+      "id": "islands/waterfall-settlement",
+      "source_box": [
+        800,
+        0,
+        1008,
+        160
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Floating lavender rock island with flowered grass, tiny tree and cottage, bright turquoise waterfall over front edge. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "56cbe528e3d618570e64cc6cf3d2366e5ac5ebeadacb08f454dcec6fd96f6880"
+    },
+    {
+      "id": "islands/wide-meadow",
+      "source_box": [
+        1008,
+        0,
+        1205,
+        160
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Wide grassy floating purple rock island with pink and white flowers, small rocks and young sprout. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "3f01d30a6ae4211d4e82d7e6bc98b71704d5a7b0527bcc6840da5d7e3beb289e"
+    },
+    {
+      "id": "islands/rocky-meadow",
+      "source_box": [
+        1205,
+        0,
+        1395,
+        160
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Grassy floating lavender island with tall rocky outcrop at rear and small meadow flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "a318b8f747be06b3fa1430ecfe456e947ad49cc99c4f4014c7f08509b3052707"
+    },
+    {
+      "id": "islands/small-meadow",
+      "source_box": [
+        1395,
+        0,
+        1535,
+        160
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small compact floating grassy purple stone island with flowers and little rocks. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "8a4af57127670e35e7c4745b8436b61d44bcd25ea433e7559a4a00e775a7ac9a"
+    },
+    {
+      "id": "islands/tree-meadow",
+      "source_box": [
+        800,
+        165,
+        1006,
+        307
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Floating meadow island with small green tree, flowers and lavender rock underside. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "157ce92222d8eef7f7fe4962e91e1db44f2bd9bddc013019f9339d607d2936db"
+    },
+    {
+      "id": "islands/boulder-meadow",
+      "source_box": [
+        1006,
+        165,
+        1200,
+        307
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Floating meadow island with rear lavender boulders, daisies and hanging green vines. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "7b3bf4dac1ff616ff37956b4f2a82447b2c3bd77c6d4983c2388c8355675b83e"
+    },
+    {
+      "id": "islands/vine-meadow",
+      "source_box": [
+        1200,
+        165,
+        1390,
+        307
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Wide low meadow island with purple stone underside, flowers and long hanging ivy. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b0b682c00f21f24fb46e4eacde1664a4135a1941a86ad0979c1f976f9ecd5008"
+    },
+    {
+      "id": "islands/overhead-meadow",
+      "source_box": [
+        1390,
+        165,
+        1535,
+        307
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Direct overhead oval grass island with white daisies, pink flowers, tiny rocks and mossy rim, no sky. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "9fc5fa8c3e9becff9a61586855c5c727bcb294a321321b8f8ee226688f7edac6"
+    },
+    {
+      "id": "cottages/front-left",
+      "source_box": [
+        5,
+        354,
+        150,
+        490
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Cream rounded fairy cottage, turf roof with daisies and pink flower pinwheel, chimney left, arched wooden door and warm upper window, left three-quarter view. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and any neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference, not a contact sheet.",
+      "generated_original_sha256": "c5bb0689a1de86f98d84632eb5d79f8d8f525f64a97f4e24bd4cd41af0401874"
+    },
+    {
+      "id": "cottages/front",
+      "source_box": [
+        150,
+        354,
+        295,
+        490
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Same meadow cottage straight front, gold wood arched door, small warm window, grassy daisy roof, pink flower pinwheel, little chimney and flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "7213f565ac682a9f697f6dec29f84a4f9bd8ba241a3fc9a0fd42df837365d601"
+    },
+    {
+      "id": "cottages/left-side",
+      "source_box": [
+        295,
+        354,
+        435,
+        490
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Meadow cottage left side showing cream wall, chimney and flowered grass roof with pink pinwheel; no new building. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "c4f824d0d99e881576360598d9e9670a98304acce12274e3a389b9819fe06807"
+    },
+    {
+      "id": "cottages/back",
+      "source_box": [
+        435,
+        354,
+        560,
+        490
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Meadow cottage rear showing centered small warm wood window, rounded cream wall, grassy roof and pinwheel. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "24f55da63b98414ef4af267744389c60e4583c301b2e68428504563a52d6ddb0"
+    },
+    {
+      "id": "cottages/right-front",
+      "source_box": [
+        531,
+        354,
+        663,
+        490
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Meadow cottage right three-quarter front with arched wood door, pink pinwheel and flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "c7ed82ac412273f08dc9876dd6fd1c84406703c23b7e3fc15822f33db7c2bdd2"
+    },
+    {
+      "id": "cottages/overhead",
+      "source_box": [
+        665,
+        354,
+        789,
+        490
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Overhead cottage showing rounded green turf roof, daisies, pink pinwheel and small chimney, compact footprint. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "df3d387fde332df52a15f3355ec3241ae2ce58d5767f44103c1b73c2b9d5d11e"
+    },
+    {
+      "id": "terrain/flower-grass-block",
+      "source_box": [
+        805,
+        316,
+        909,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Square block with lush green grass and pink and white flowers over brown rock sides. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and any neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference, not a contact sheet.",
+      "generated_original_sha256": "775cf5fb4e29e1ec52a874fb5516fc4c67822490afd7bdc026fc5798badff72a"
+    },
+    {
+      "id": "terrain/daisy-grass-block",
+      "source_box": [
+        909,
+        316,
+        1008,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Square grassy block with white daisies, short grass over warm brown stone sides. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "6d2f7ba97d6f4c726e1d80516e0203d0fcfd357c9256b8047f687941007a811e"
+    },
+    {
+      "id": "terrain/snow-block",
+      "source_box": [
+        1008,
+        316,
+        1109,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Square lavender rock block topped with soft white snow cap. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "d0df577266a8a99e2834beaacf99cb4c1fa80fa7bc37e5d0476f6a94967433aa"
+    },
+    {
+      "id": "terrain/sand-block",
+      "source_box": [
+        1109,
+        316,
+        1215,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Square warm golden sandstone block with soft uneven sandy top. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "15422301336658ea02d07cf6569fa09acf56f8fae91df18f3ec7380fccac003f"
+    },
+    {
+      "id": "terrain/paved-stone-block",
+      "source_box": [
+        1215,
+        316,
+        1315,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Square block of chunky irregular lavender cobblestones with green moss cracks. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "cef974657955c629d2f3eee2d45e7617a700cd57936050fe7ba7874a0a211ed0"
+    },
+    {
+      "id": "terrain/pink-flower-block",
+      "source_box": [
+        1315,
+        316,
+        1415,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Square turf block with dense pink flowers and bright grass over brown sides. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "0290bbf698e833716cbbf5eab3f1cbf3389e73aa5132497a67446310cb69ed57"
+    },
+    {
+      "id": "terrain/grass-cliff-block",
+      "source_box": [
+        1415,
+        316,
+        1534,
+        408
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tall square lavender cliff block topped with grassy meadow and sparse daisies. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "2d36dd0c0651b68c1fbbcab5d4809f5b52317ae66fbb371ffb0e4ac8baf486da"
+    },
+    {
+      "id": "terrain/grass-ledge",
+      "source_box": [
+        805,
+        410,
+        913,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Low horizontal grassy lavender cliff ledge, straight front and two uneven rock pillars. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "06e3591f3ba3ad6f2920c7a1cb07194a7ae54b0077db626dd010da584f1d95e9"
+    },
+    {
+      "id": "terrain/two-step-stairs",
+      "source_box": [
+        913,
+        410,
+        1013,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Two-step ascending right grassy lavender rock staircase. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "3960cd845018e3718bb093bce3ca67f150811a1a575c93c65b62402b668dfe15"
+    },
+    {
+      "id": "terrain/three-step-stairs",
+      "source_box": [
+        1013,
+        410,
+        1115,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Three-step ascending right grassy lavender rock staircase. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "a6d9f1028d4a744244b9eac5015eb3ebb41c66473ae49c5f1c9590d0421c2f6d"
+    },
+    {
+      "id": "terrain/vine-arch",
+      "source_box": [
+        1115,
+        410,
+        1220,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small open lavender stone arch with green vines and daisies, no star. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "f042f55216053832cfa4405103d4601bbb34d151a1c0592502c2f0cafa8597b5"
+    },
+    {
+      "id": "terrain/moss-boulder-large",
+      "source_box": [
+        1220,
+        410,
+        1323,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Large moss-capped lavender rocky mound with several angular rock faces. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "6add586f3d34d4d7d44b39ada92c31a7824b10e9adf30fb1a786d7c69c17619f"
+    },
+    {
+      "id": "terrain/flower-boulder-large",
+      "source_box": [
+        1323,
+        410,
+        1428,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Large lavender stone cluster with small pink flowers at lower right. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "e1282c8760d372f59d0a0f1629985440c5f5d9828869be7d7e56e6aecf212caa"
+    },
+    {
+      "id": "terrain/moss-pillar-large",
+      "source_box": [
+        1428,
+        410,
+        1534,
+        492
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tall lavender boulder cluster topped with moss, small flowers and leaves at base. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "ba16e88a6743dfcf3cde608a880fbf404a81844fa80004a7813828aebcdb20f3"
+    },
+    {
+      "id": "gates/star-front-left",
+      "source_box": [
+        8,
+        503,
+        139,
+        619
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Lavender stone portal arch with gold star at crest, vines and pink flowers, front-left angle, open transparent center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "f80b226785d8f322fce0082cffc1588d5e7a6df5ffb84f44681a22ea2776b4e0"
+    },
+    {
+      "id": "gates/star-front",
+      "source_box": [
+        139,
+        503,
+        267,
+        619
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Lavender stone portal arch with gold star at crest, climbing vines, pink flowers, straight front, open transparent center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "01139fc69bfc11e17beff10c00f0c893f504d0eda58f48efd08f778ac84387c7"
+    },
+    {
+      "id": "gates/star-side",
+      "source_box": [
+        267,
+        503,
+        379,
+        619
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Narrow side profile of same flowered stone star portal showing pillar thickness. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "df165081494525970230a4aa0ce5e957d9ca3f0e2a86c7281e391b72b557a0dd"
+    },
+    {
+      "id": "gates/star-rear",
+      "source_box": [
+        379,
+        503,
+        515,
+        619
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Rear view of flowered stone arch with pale star crest and leafy vines, open transparent center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "bd8b2826efa6497ada5a18455cd1d16ce21c1deef315a1c771b9488b13a2f1e9"
+    },
+    {
+      "id": "gates/star-front-right",
+      "source_box": [
+        515,
+        503,
+        644,
+        619
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Right three-quarter view of same flowered lavender stone portal with bright gold star at crest. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "af5e7b9bd046714d4634a69c813d5fcee630b0ecbf1d101397b470ba94c2faee"
+    },
+    {
+      "id": "bridges/arched-rope",
+      "source_box": [
+        654,
+        505,
+        765,
+        581
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Arched warm wooden plank bridge with short posts and tan rope railings, three-quarter view. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "9c185080f83be52fa6db6b2d18d8033f2f34ed168cc18493860acfccbed24714"
+    },
+    {
+      "id": "bridges/arched-wood",
+      "source_box": [
+        765,
+        505,
+        875,
+        581
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Warm wood arched plank footbridge, simple posts, orange timber rails and rope, front-left angle. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "8ef73aa97e389846c5aed1855a8f9f669ca5df6eca3ed743f5ec607540f73c4e"
+    },
+    {
+      "id": "bridges/straight",
+      "source_box": [
+        875,
+        505,
+        968,
+        581
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Straight short wooden plank bridge with upright posts and tan rope, frontal view. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b05dff8ad6f1fe652f6ce2c07183a695cc9a1e8f7589bb8156ac4b5863bfc1d2"
+    },
+    {
+      "id": "bridges/arched-right",
+      "source_box": [
+        968,
+        505,
+        1085,
+        581
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Arched wooden footbridge from right three-quarter angle, rope railing and warm gold wood. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "1b70e74fde287eece127c7ad5fa35731af53a0c9545c6d39145a7866c1d00e13"
+    },
+    {
+      "id": "paths/stepping-cluster",
+      "source_box": [
+        654,
+        582,
+        729,
+        649
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Four separate smooth flat lavender-gray stepping stones as one small path cluster. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "f51020a8372d300821ea14884715f6b92ca28837130bb344f28cd9d680e5d777"
+    },
+    {
+      "id": "paths/stepping-pair-a",
+      "source_box": [
+        729,
+        582,
+        782,
+        649
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Two smooth flat lavender stepping stones, larger upper oval and smaller lower. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "c542807227fe71b1aa53799e4184b8fd0c1cdea45fa82becf17c6227e96f806a"
+    },
+    {
+      "id": "paths/stepping-pair-b",
+      "source_box": [
+        782,
+        582,
+        837,
+        649
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Pair of broad smooth rounded lavender-gray stepping stones. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "f1d105b15c70701905729e9c3e2d8890f6bf039d90d13b7e8f51f2b4e44003b2"
+    },
+    {
+      "id": "paths/winding-sand",
+      "source_box": [
+        837,
+        582,
+        1000,
+        649
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Curving sandy meadow path with low green grass edges, tiny pink flowers and embedded gray stepping rock. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "d3e438c7985278e51619d00a1624e53a9cca1ac83557f7f3095ed44e4b4681ee"
+    },
+    {
+      "id": "paths/round-clearing",
+      "source_box": [
+        1000,
+        582,
+        1084,
+        649
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Round sandy path junction ringed by lavender stones and short green moss. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "675d7abc6b93b157008eaa03c1485e391aacebeabfabe3adee5431a5427a3ce1"
+    },
+    {
+      "id": "waterfalls/single-wide",
+      "source_box": [
+        1089,
+        505,
+        1200,
+        651
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Compact lavender rock waterfall with broad turquoise water curtain, green leaves and small flowers, blue pool with white foam at base. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "06088d2e31ddf149cd3e24baf7eda2d2c8fa8747f4b86872e5710df74d75860c"
+    },
+    {
+      "id": "waterfalls/single-tall",
+      "source_box": [
+        1200,
+        505,
+        1304,
+        651
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tall slender turquoise waterfall between moss-capped lavender cliffs, small front pool. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "26ff3c114b39915d2afbf6cf468ddc16790b3d80a79abac800b0be6ca9f9ccc6"
+    },
+    {
+      "id": "waterfalls/two-tier",
+      "source_box": [
+        1304,
+        505,
+        1413,
+        651
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Two-tier turquoise waterfall down lavender rocks into a blue pool, moss caps, flowers and white foam. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "845d9e578c1f39e62ee68cc00ae4191d06632665c12e4194bc2a55dceca7b66e"
+    },
+    {
+      "id": "waterfalls/three-tier",
+      "source_box": [
+        1413,
+        505,
+        1534,
+        651
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Three-tier turquoise cascade over stepped lavender rocks with moss and flowers, broad white foamy bottom pool. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "6bfa457ab075e074f2cad14dbb4b0ba28bfb08b88585d8b2ce7ca3711df91a1e"
+    },
+    {
+      "id": "trees/pink-large",
+      "source_box": [
+        7,
+        627,
+        123,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Large pink cotton-candy blossom tree with thick warm brown branching trunk, soft pink fluffy canopy and tiny flowers at roots. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and any neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference, not a contact sheet.",
+      "generated_original_sha256": "2d013b1f9f5346a0bc4d64871d87d6ab71667489f884fd630faabf7552b0f113"
+    },
+    {
+      "id": "trees/pink-sapling-a",
+      "source_box": [
+        119,
+        708,
+        151,
+        745
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tiny pink blossom sapling with slender warm brown trunk. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "dbb54254b8cf748779bcaa3e76fa30c78e98bf09622e6e331a34de8fe6f91946"
+    },
+    {
+      "id": "trees/pink-medium",
+      "source_box": [
+        140,
+        636,
+        245,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Medium pink fluffy blossom tree with branching brown trunk. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "bf181db638674f8a3b7162cf23c06d5eca9275204c989321dbc759b306a50026"
+    },
+    {
+      "id": "trees/pink-sapling-b",
+      "source_box": [
+        231,
+        708,
+        265,
+        746
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small bright pink blossom sapling, slender trunk and compact round canopy. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b2e5093b4c4cc75da30f1cc6b3d940a9959882b72942dd02c20495154de74d60"
+    },
+    {
+      "id": "trees/purple",
+      "source_box": [
+        264,
+        627,
+        360,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Lavender-purple flowering tree with branching golden brown trunk and a few tiny yellow blossoms. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "72bb6065252b71b1716e6d8ef3a2abaaec62267e81970a430776d1112dc02bab"
+    },
+    {
+      "id": "trees/purple-sapling",
+      "source_box": [
+        359,
+        704,
+        389,
+        746
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tiny lavender blossom sapling with slender trunk. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "bab67ba004c0e4d5052bd3e7b4ebdccf065530508657da39fb59f01443598d05"
+    },
+    {
+      "id": "trees/white-pink",
+      "source_box": [
+        390,
+        627,
+        472,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: White and blush-pink blossom tree with brown trunk and cream fluffy canopy. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "39d1a59f368420315520fa406ba071befceefa55b242ebecea83e0f5bb0b309a"
+    },
+    {
+      "id": "trees/pale-pink-sapling",
+      "source_box": [
+        469,
+        705,
+        504,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tiny pale pink flowering sapling. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "ceee8d8ec2c9fb52bf746423690d787e7aeb73c088df7fd67e5c04a574751f4b"
+    },
+    {
+      "id": "trees/berry",
+      "source_box": [
+        504,
+        627,
+        601,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Green leafy fruit tree with clusters of coral-pink berries, warm branching trunk. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "cf84a89525f79c68a38646e8c8083db6e779b12be624120900aaa2030e6d0b4c"
+    },
+    {
+      "id": "trees/golden",
+      "source_box": [
+        601,
+        627,
+        708,
+        747
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Warm yellow-orange fluffy flowering tree with brown trunk. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "32ca3fb335498d47da25ee586d6873accf390190dfdd50d69f0a7c3d25057b8d"
+    },
+    {
+      "id": "shrubs/white-daisies-a",
+      "source_box": [
+        8,
+        754,
+        79,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Round green shrub covered in white daisies with yellow centers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "16594ec61fec03171818860fe225d38211f1115f0e1b16cf10690bee8384fc7c"
+    },
+    {
+      "id": "shrubs/white-daisies-b",
+      "source_box": [
+        79,
+        754,
+        145,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Compact green shrub with white and pale lavender daisy flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "bb22e8e25e05dc214bc8ba29d599b659c934b8e90f9a7afeec50b7ebfd142617"
+    },
+    {
+      "id": "shrubs/pink-flowers",
+      "source_box": [
+        145,
+        754,
+        216,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Round green bush densely covered in pink flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "020c242743171fb8fba9eeb9ad529b50681e098629eec75bbbb2708255bed10a"
+    },
+    {
+      "id": "shrubs/blueberries",
+      "source_box": [
+        216,
+        752,
+        285,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Round green-leaf bush carrying clusters of dark blue berries. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "149fe7caee4310eda93bfa369fdc82a866b2b14ffbd2d9f733538f8ae9193315"
+    },
+    {
+      "id": "shrubs/leafy",
+      "source_box": [
+        286,
+        754,
+        353,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Rounded dense bright-green leafy shrub, no fruit. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "a0531d9f5cdb05391e48d927619d23f429633adf3157a75ea91e790cf4f5b067"
+    },
+    {
+      "id": "shrubs/peach-berries",
+      "source_box": [
+        354,
+        754,
+        425,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Compact green bush with clusters of coral-pink round berries. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "16f3b5d9df03a3ddef03ea560d386ada9fdb8c4f335a02c44b49802471bc0375"
+    },
+    {
+      "id": "crystals/blue-large",
+      "source_box": [
+        428,
+        746,
+        512,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Large cluster of faceted luminous blue and violet crystals, several tall points. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "41b9c33317bf1ae13ae217c52ad3fb58ac64d109ec9c3941845a13f1193c1fc7"
+    },
+    {
+      "id": "crystals/purple-cluster",
+      "source_box": [
+        514,
+        754,
+        581,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Cluster of translucent faceted pink-purple crystals. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "e5dcc23cfdec6bf66d82657ee42559d7e61978a8a58378899908dc8d4601f5c6"
+    },
+    {
+      "id": "crystals/blue-small",
+      "source_box": [
+        587,
+        758,
+        633,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small cluster of bright cyan-blue faceted crystals. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "15b6f53dc634c4b570c6e10eca056d0d02261c02b5864b5e69e4f0a3aa86f27c"
+    },
+    {
+      "id": "crystals/pink-single",
+      "source_box": [
+        636,
+        768,
+        670,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: One small upright faceted pink-violet crystal. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "afe96b2c18e88a7857b5b6d4fe0167864b386b64963943edc1988f9f7bdf895c"
+    },
+    {
+      "id": "crystals/purple-single",
+      "source_box": [
+        671,
+        768,
+        705,
+        820
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: One upright deep lavender faceted crystal. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "56f390c3295b1d6350819ec1098fe00588db132b335025a9e2f8ff46f95a46a4"
+    },
+    {
+      "id": "rocks/moss-round",
+      "source_box": [
+        711,
+        664,
+        786,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Rounded lavender boulder with soft green moss on top. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "cb2f0671d6740c9511dc3f197e7e27ea33ce8bca25fa29b2dc20e5ad87e54c49"
+    },
+    {
+      "id": "rocks/tall-angular",
+      "source_box": [
+        786,
+        664,
+        853,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tall angular lavender stone with small moss patches and tiny flower. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "48d3eb7be6c0ed5d13dffdb5b79a6e34dc58072e7b3550234b3906f3bef962cd"
+    },
+    {
+      "id": "rocks/angular-cluster",
+      "source_box": [
+        853,
+        664,
+        936,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Cluster of three angular lavender rocks with green moss at base. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "9fad295b98899b36dd2e84347a8144405cf327c6b388e39bb339ec912bdf73e2"
+    },
+    {
+      "id": "rocks/small-purple",
+      "source_box": [
+        936,
+        664,
+        997,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small low rough lavender stone cluster, no moss. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "238ee348b27b89b63366713a054223f5b05991488dc14c075fc4030756f91e15"
+    },
+    {
+      "id": "rocks/low-moss",
+      "source_box": [
+        997,
+        664,
+        1057,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Low lavender rock cluster with green moss patches. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "5bd462e408408a1338db3c34fe1ce21693152005a6c3c64735818e8dca0a07bd"
+    },
+    {
+      "id": "foliage/pink-flower-bush",
+      "source_box": [
+        1058,
+        664,
+        1145,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Low dense green shrub with pink flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b937da69edd6a243a77ea729bf8b3e516a587edbf170a274942f1c78cd63013c"
+    },
+    {
+      "id": "foliage/short-grass",
+      "source_box": [
+        1145,
+        664,
+        1203,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Short bright green grass tuft with broad blades. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "793ab5041a02d53a4279023487175f9f6734b3649d473ab5749ae455fa4a666d"
+    },
+    {
+      "id": "foliage/purple-flower-bush",
+      "source_box": [
+        1203,
+        664,
+        1287,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Low lush green shrub packed with purple and pink flowers. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "862e1987488451ce5b0d3001f2ab5856708685f94a821d16f70c7b9b6171f797"
+    },
+    {
+      "id": "foliage/broad-grass",
+      "source_box": [
+        1287,
+        664,
+        1370,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Broad green grass clump with tall arching leaves. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "d82851bebefd5fdc9c133a21d776ff95f5bba509cab6316c7e9ad4c4f330f37b"
+    },
+    {
+      "id": "foliage/thin-grass",
+      "source_box": [
+        1370,
+        664,
+        1430,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small thin-bladed green grass tuft. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "3a4d5530e2e9566fffae81f2bbb09a967106cddf00ddbe60fea402c27e5874a2"
+    },
+    {
+      "id": "foliage/fern-tall",
+      "source_box": [
+        1430,
+        664,
+        1487,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single tall curling green fiddlehead fern with two spiral shoots. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "24488e2a5b4b44f82da9bd9f5aad9d70737adc721a47e0c99e36ed41a69eeec0"
+    },
+    {
+      "id": "foliage/fern-small",
+      "source_box": [
+        1487,
+        664,
+        1535,
+        735
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small curling green fern with one spiral shoot. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "0cc8c99d7d533f4c5dab6f836701c26475c499ddda0ead65903c6c1cc704cf3b"
+    },
+    {
+      "id": "rocks/flower-round",
+      "source_box": [
+        713,
+        744,
+        791,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Rounded lavender rock with moss cap and pink-white daisies at base. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "d9fc02bb3eb4451b66de5c8ed89705d69dd42cf898455aa98114f6382a8bf543"
+    },
+    {
+      "id": "rocks/moss-angular",
+      "source_box": [
+        791,
+        744,
+        860,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Angular lavender rock with thick green moss patches. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "49d44f06d06767157e21d9b4e28378f4b320f036899e506c5835c8627df304e6"
+    },
+    {
+      "id": "rocks/flat-moss",
+      "source_box": [
+        860,
+        744,
+        924,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small flat low lavender rock with moss cap. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "9309bd0b35954a8a1cddf3faf21dfe77747341636b133067f5316f882d26aa5f"
+    },
+    {
+      "id": "rocks/broad-moss",
+      "source_box": [
+        924,
+        744,
+        1005,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Broad rounded lavender boulder with moss in cracks. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "44748ebfe7ec59c35810e51299cc1a60bc17ad8a27005e31dc0e389965f97ac0"
+    },
+    {
+      "id": "rocks/tiny-moss",
+      "source_box": [
+        1005,
+        744,
+        1050,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tiny low lavender rock mound with green moss. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "3b8ba6506e5344c60495247fe9b680c04a5c7ca3d84d1a5b66bf0ed40350aa56"
+    },
+    {
+      "id": "rocks/dome-moss",
+      "source_box": [
+        1050,
+        744,
+        1111,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Rounded dome lavender boulder with moss cap. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "15cd7adf4ad2e49b2b285fa61408b2b04126d342959dc24f466a9c5dd5783b29"
+    },
+    {
+      "id": "props/fence",
+      "source_box": [
+        1113,
+        744,
+        1220,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Short warm wood rustic fence segment, three posts joined with horizontal wood rails. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "496ba649f4c0c1d20d8beabc67bb4fe3a93a0551c4cc4d95fd399bbcae840d02"
+    },
+    {
+      "id": "props/purple-mushrooms",
+      "source_box": [
+        1220,
+        744,
+        1295,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Pair of purple spotted mushrooms, one tall and one short, cream stems. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "ced82022420aed31e6f433e919ad3ef29cb153f1789a2a1780aaaf074257b3ff"
+    },
+    {
+      "id": "props/orange-mushroom",
+      "source_box": [
+        1295,
+        744,
+        1338,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: One small orange-pink cap mushroom with cream stem. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "bb4390cde3f251150b095264ec0f6ace964476db45067fd756eada33d727eef8"
+    },
+    {
+      "id": "props/pink-mushroom",
+      "source_box": [
+        1338,
+        744,
+        1398,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: One pink mushroom with white spots and cream stem. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "eaf59e6c877bcfebf886d04df34055e0bdf70c4f1b9a9c83d5d6c59a4a180a2b"
+    },
+    {
+      "id": "props/stump-small",
+      "source_box": [
+        1398,
+        744,
+        1450,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Two small cut wooden stumps with gold-brown growth rings. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "4b9a20c0e07642ee68e3bdcfc055c733fa9d842a11495ee254f0be066aa5f85e"
+    },
+    {
+      "id": "props/stump-large",
+      "source_box": [
+        1450,
+        744,
+        1534,
+        821
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: One broad cut wooden stump with concentric growth rings and flared roots. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "8e720edada4cdd6196c4653e1248ce01858e0142736466348e018c38dbdbcf68"
+    },
+    {
+      "id": "clouds/puffy-a",
+      "source_box": [
+        7,
+        830,
+        114,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Soft white-lilac puffy cloud cluster with rounded lobes. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b5b852c334a8142f7e475106983ef943d9c3bc56127844c658dde97f9cade04f"
+    },
+    {
+      "id": "clouds/small-flat",
+      "source_box": [
+        114,
+        830,
+        224,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small low soft white-lilac cloud cluster. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b50516297a76c86e7dc05d99715537aa484b37621068044a9e6de9036a2f9350"
+    },
+    {
+      "id": "clouds/long-low",
+      "source_box": [
+        224,
+        830,
+        343,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Long low bank of rounded white clouds with lilac lower shading. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "fc91c71afa1f7f45b2418e3f25bd3b3c882a4b143eb03c37fa05154ae6fddb74"
+    },
+    {
+      "id": "clouds/puffy-b",
+      "source_box": [
+        343,
+        830,
+        454,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Medium soft white cloud cluster, pale lavender lower shading. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "6b0a817ad9e4f2558e81c1b2874afa4dfe6dcc1c55e53144e0e2094003437ba4"
+    },
+    {
+      "id": "clouds/puffy-c",
+      "source_box": [
+        454,
+        830,
+        575,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Broad puffy white cloud cluster with several rounded lobes. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "5a8380f5495d7cac5c4032e6934a5fa2b57b389f4983eec04e1092b3be540def"
+    },
+    {
+      "id": "water/pond",
+      "source_box": [
+        583,
+        830,
+        707,
+        899
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small circular turquoise pond with lavender stone rim and green lily pads. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "a689acd82994c4d19f3dafb85eb9fefcaa7cfc91abcc73485c419c9439a7a4c8"
+    },
+    {
+      "id": "water/splash",
+      "source_box": [
+        707,
+        830,
+        833,
+        899
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Small blue water splash with white foamy cloud-like droplets, transparent background. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b87f2e5e0838c044c7e9dee70e6098a479ccb2cbc9a1950b792642cb6ad171f8"
+    },
+    {
+      "id": "water/curtain",
+      "source_box": [
+        833,
+        830,
+        926,
+        899
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Standalone short vertical turquoise waterfall curtain with white highlights, no rock or scenery. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "e4790ed77d84cb8f120e3a66a4c70e338da3022ec993635c07d4f2fb7d024458"
+    },
+    {
+      "id": "particles/sparkle-gold",
+      "source_box": [
+        935,
+        830,
+        985,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single gold four-point magical sparkle with tight soft glow. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "435d83cf44d4c55dee7e2b83c2d335b2408448f6e020ff9bba843b9e7e9d3dd3"
+    },
+    {
+      "id": "particles/sparkle-pink",
+      "source_box": [
+        985,
+        830,
+        1031,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single pink-gold four-point sparkle with soft glow. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "7da22b86056ac62efcce7b8ba000ddde978e21d318fdd8efcf6e4bf8355f960a"
+    },
+    {
+      "id": "particles/sparkle-lilac",
+      "source_box": [
+        1031,
+        830,
+        1081,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single small lavender four-point sparkle with subtle glow. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "a559854451266a5adf6b2bfc40f24444c78eb194905e3f4264d062127425b44d"
+    },
+    {
+      "id": "flowers/pink",
+      "source_box": [
+        1083,
+        830,
+        1136,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single five-petal pink flower with yellow center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "c59c7927ef6efcea4b441fb7e7c187490243c7102b028281ee4fd499d342a97a"
+    },
+    {
+      "id": "flowers/coral",
+      "source_box": [
+        1136,
+        830,
+        1188,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single five-petal coral pink flower with yellow center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "5eadb110bc8ccaff54dcd923b6b2a01570c199865127e06ceebd245da2cd70c1"
+    },
+    {
+      "id": "flowers/purple",
+      "source_box": [
+        1188,
+        830,
+        1239,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single five-petal purple flower with yellow center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "885641ab3160b4a553d85d07404b3a371ac7e3fc071c36cce017e0e88ac3fb93"
+    },
+    {
+      "id": "flowers/yellow",
+      "source_box": [
+        1239,
+        830,
+        1290,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Single five-petal golden yellow flower with yellow center. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "375d1efd388a83bd47be4e2673cafe39252d6c05666c4149f99204e2c40c12fd"
+    },
+    {
+      "id": "collectibles/leaf-pair",
+      "source_box": [
+        1292,
+        830,
+        1361,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Pair of bright green pointed leaves joined by short stem. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "88a80c60d4071b4eefdcc590d1ca53608ef7bea339781891dd5ca6e8b9cac536"
+    },
+    {
+      "id": "collectibles/blueberries",
+      "source_box": [
+        1361,
+        830,
+        1420,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Cluster of three glossy dark-blue berries with small green leaves. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "3a6078fd653081b002e2ef850d20886cd70b536c9c73fd302ce647e07aae7a2f"
+    },
+    {
+      "id": "collectibles/pink-berries",
+      "source_box": [
+        1420,
+        830,
+        1480,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Cluster of three glossy pink berries with small green leaves. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "57e81c0cc9dce90273b2c1ef537e3908d89e69c12cb6fd8d1216cc1434264307"
+    },
+    {
+      "id": "collectibles/leaf-single",
+      "source_box": [
+        1480,
+        830,
+        1534,
+        898
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: One bright green leaf on a tiny stem. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "81efeacc14c636731e02b55b323ace543827534330022b051e6709a835bc3cbb"
+    },
+    {
+      "id": "backgrounds/cloud-mountains-a",
+      "source_box": [
+        6,
+        905,
+        342,
+        1018
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Wide pastel blue sky with white-lilac clouds framing distant soft blue mountain peaks, calm uncluttered center. Generate a wide landscape full-bleed background plate, no frame, no panel borders, no text or labels. Reconstruct only the supplied scene, maintaining its composition and world style. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "995c674bd760b769a2abde0131cca190b8aca6f289b4c0fac17f1c0c665ddf71"
+    },
+    {
+      "id": "backgrounds/cloud-mountains-b",
+      "source_box": [
+        342,
+        905,
+        657,
+        1018
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Wide pastel cloud sea and blue mountain peaks, slightly warmer pink clouds and clear upper blue sky. Generate a wide landscape full-bleed background plate, no frame, no panel borders, no text or labels. Reconstruct only the supplied scene, maintaining its composition and world style. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "b6921123a3a29996bca4fdf0091e08185fb98f114105f064fa3ee70b971d81d6"
+    },
+    {
+      "id": "backgrounds/distant-islands",
+      "source_box": [
+        657,
+        905,
+        963,
+        1018
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Wide dreamy cloud sea, distant pale blue mountain silhouettes and tiny floating islands in the sky. Generate a wide landscape full-bleed background plate, no frame, no panel borders, no text or labels. Reconstruct only the supplied scene, maintaining its composition and world style. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "c2f0a56bc60961ab1fdaa3f01d1f5e67d0ad19df4c15e4b4a5a34f4a535837a0"
+    },
+    {
+      "id": "backgrounds/rainbow-sky",
+      "source_box": [
+        963,
+        905,
+        1254,
+        1018
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Reconstruct ONLY this wide sky-background panel: pastel rainbow arch over fluffy pink and lavender clouds, open blue sky with distant blue mountain peaks through clouds. Absolutely NO foreground land, grass, flowers, rocks, paths, buildings, lettering, or characters. Clouds fill the bottom edge as in reference. Wide full-bleed landscape background, no borders. Match the original cropped board composition closely.",
+      "generated_original_sha256": "2fca46ba97aef3f51448395324a335a8b171e4b73ff9bf4c5d4af9d08c4580cd"
+    },
+    {
+      "id": "backgrounds/cloud-sky",
+      "source_box": [
+        1254,
+        905,
+        1533,
+        1018
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Wide blue sky with large white-lilac puffy clouds along bottom and sides, no land. Generate a wide landscape full-bleed background plate, no frame, no panel borders, no text or labels. Reconstruct only the supplied scene, maintaining its composition and world style. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "54b7db72bea15a5170003ccbc176e50d0c1d14d1654dbf096ea72d4e0d147c0d"
+    },
+    {
+      "id": "trees/berry-sapling",
+      "source_box": [
+        584,
+        704,
+        615,
+        746
+      ],
+      "prompt": "Faithful Cloudberry Meadows environment asset reconstruction from supplied source crop. The crop is a small module excerpt of the user's approved board. Preserve its design, palette, material, viewpoint, silhouette and ornament placements. High-quality soft polished 3D casual mobile game, pastel lavender rocks, rich fresh green grass, warm wood, soft blossoms. Do not change to a different world or introduce characters. Requested ONE module: Tiny green leafy sapling bearing coral pink berries, slender brown trunk, matching small tree beside large berry tree. Generate a standalone transparent sprite, complete object with 10% clear margins on square canvas. Remove board panel, background, floor shadows and neighboring cropped objects. Keep only requested module. True RGBA transparency, opaque solid interiors, smooth antialiased edges. Preserve openings under arches and between bridge rails as transparent. No text, labels, watermarks, characters, scene or layout. This is new high-resolution artwork faithful to the small reference.",
+      "generated_original_sha256": "38d9a8b06088d4b0a5eee186386db085253a4842211da9fe2cde25625498bb5e"
+    }
+  ]
+}

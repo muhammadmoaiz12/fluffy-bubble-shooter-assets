@@ -1,0 +1,15 @@
+{
+  "asset_count": 117,
+  "transparent_modules": 111,
+  "opaque_plates": 6,
+  "gameplay_exports": 468,
+  "checks": [
+    "all inventory IDs present",
+    "PNG and WebP exports decode and match pixel-for-pixel",
+    "transparent masters have clear outer borders",
+    "original board SHA256 unchanged"
+  ],
+  "warnings": [],
+  "status": "technical export checks passed; in-engine validation outstanding",
+  "visual_review": "All 117 assets reviewed in grouped contact sheets. Rainbow background revised to remove added foreground. Two gates and water splash reviewed after alpha cleanup."
+}
