@@ -1,0 +1,26 @@
+{
+  "references": [
+    {
+      "path": "references/Puff_Trails_Stage04_Cannon_Collection_Concept_Board.png",
+      "sha256": "ab8423dad011a548cda1b6d7e30905f1fa9943346ffdd13d911abc554e6c8281",
+      "dimensions": [
+        2400,
+        1600
+      ],
+      "bytes": 446041,
+      "original_unchanged": true,
+      "source": "ChatGPT Library download"
+    },
+    {
+      "path": "references/Puff Trails Cloud Sling Asset Board-1.png",
+      "sha256": "bc3dda368ecf64fe5f04cffb499e91d2aeaf872cb2e9c5dbfef1bc6b80c95945",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2010125,
+      "original_unchanged": true,
+      "source": "User supplied local detailed cannon board"
+    }
+  ]
+}
