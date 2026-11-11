@@ -1,0 +1,1420 @@
+{
+  "tool": "built-in image_gen",
+  "original_reference": "references/honeydrop-gardens-original-board.png",
+  "original_sha256": "7892e5d949be25d900eeae734bf82f6583fd0708276051715ad377f25358caff",
+  "reference_dimensions": [
+    1536,
+    1024
+  ],
+  "processing": "Source crops used only as generation references. Remove alpha <=8 (<=2 for clouds/falls/particles/effects/sky/bees/collectibles) and components below8 pixels. For solid modules remove low-alpha residue farther than12 pixels from alpha>=128. For sparkle-low remove faint residue beyond48 pixels from alpha>=16. No hole filling or recoloring. Trim alpha bounds, fit860px, center on1024px canvas. Plates preserve aspect ratio at max1536px. Lanczos exports. Lossless WebP.",
+  "items": [
+    {
+      "id": "scenes/hero-garden",
+      "source_box": [
+        0,
+        0,
+        695,
+        499
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide Honeydrop Gardens environment scene: floating flower meadow with pink blossom tree, cream flower-roof cottage with golden honey trim, honey fountain, stream, honey stepping stones, wooden fence, distant floating islands and pastel clouds. Omit all foreground creatures (rabbit, purple character and bee); this is a clean environment plate for placing existing locked characters separately.. Wide full-bleed landscape background, match reference composition, no board edges, panels or lettering. No creatures or characters: leave the environment clean for existing game characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "54d6d3ccb686d3d3e444add66067c5774d45af5c81f9d196cd7c790669730066"
+    },
+    {
+      "id": "flower-cottages/front-left",
+      "source_box": [
+        704,
+        7,
+        847,
+        136
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Cream fairy cottage with broad pink petal roof, yellow honey center, leafy flower garlands, warm glowing arched door and honey chimney; front-left view. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "ab56a75a60ff6a4485d6b94153c3e1a60c98a5583d3e83e2850141db2552e656"
+    },
+    {
+      "id": "flower-cottages/front-right",
+      "source_box": [
+        847,
+        7,
+        990,
+        136
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Same pink petal-roof cream fairy cottage with blue and white daisies, warm wooden door, flowers and honey trim; front-right view. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "e02666b3010b2d7c279c2e86004bd91c0a698cf4f0672d36721a6fe9e890bf66"
+    },
+    {
+      "id": "flower-cottages/side",
+      "source_box": [
+        990,
+        7,
+        1125,
+        136
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pink petal-roof cream cottage side view with small glowing window, flower garden and narrow honey chimney. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "5aad9fcf348b7f18fc2d045ffa4028a8c7866c753a92b79f964f264939c210fe"
+    },
+    {
+      "id": "flower-cottages/back",
+      "source_box": [
+        1125,
+        7,
+        1255,
+        136
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Back of round cream cottage, layered pink flower-petal roof, tiny chimney, daisies and green vines. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "cfa55bb3240b995f6c5ae54f87054a33688f00cc7e571843317e3253e6bfadd1"
+    },
+    {
+      "id": "flower-cottages/rear-three-quarter",
+      "source_box": [
+        1255,
+        7,
+        1385,
+        136
+      ],
+      "prompt": "Create one transparent game sprite of the small fairy garden house shown in this reference crop. Match its angled view: round cream masonry walls, a glowing yellow window, a roof made of large pink flower petals, tiny flowers and green vines around the base, and a little golden chimney. Preserve the pictured cottage design and colors. Soft polished 3D garden illustration. Show the entire cottage with clear margins. Transparent background. No labels, borders, people, animals, or neighboring buildings.",
+      "generated_original_sha256": "527f95ae9b2b15d5f984d3e528cdf06458df705a30bc2792c070d4e1c5e0da80"
+    },
+    {
+      "id": "flower-cottages/overhead",
+      "source_box": [
+        1385,
+        7,
+        1529,
+        136
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Overhead view of large round pink flower roof, honey-gold central cup, green leaf and daisy trim. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "fbb7de9cc0748d0932b062c815562e66ff6c0c5e9341838bc67dd52d0f09009e"
+    },
+    {
+      "id": "honey-huts/front",
+      "source_box": [
+        704,
+        146,
+        847,
+        256
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Round cream honey hut with tiered domed glossy golden honey roof, dripping honey eaves, arched wooden door, flowers at base; front view. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "690916f85284a9ca5de4c3b442f4ef53f448a28504449493701dc477db08b042"
+    },
+    {
+      "id": "honey-huts/three-quarter",
+      "source_box": [
+        847,
+        146,
+        990,
+        256
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Honey-roof round cream hut three-quarter view with open recessed doorway, dripping golden honey and flower bed. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "f15dd018c63db6ca70390cd417a1cc92574c4b7965dd4ad20e538b92f91f0444"
+    },
+    {
+      "id": "honey-huts/side",
+      "source_box": [
+        990,
+        146,
+        1125,
+        256
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Honey-roof round hut side view with small hexagon glowing window and pink white flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c1dc7bb689982232071112c82f528893bbe6636a024f9e9067e0dce469df758c"
+    },
+    {
+      "id": "honey-huts/back",
+      "source_box": [
+        1125,
+        146,
+        1255,
+        256
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Rear view of round honey hut with cream brick wall and dripping tiered gold roof, flowers at base. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "53dc7e8f903ed4347049b11ed6185d73a73e5797a31c483cacb06b2c28790e92"
+    },
+    {
+      "id": "honey-huts/rear-three-quarter",
+      "source_box": [
+        1255,
+        146,
+        1385,
+        256
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Rear three-quarter view of small cream honey hut with gold tiered roof and flower border. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "1fd1087822ca3542571021108146dd4c927396683705a81ccf1899a7a0f203b3"
+    },
+    {
+      "id": "honey-huts/overhead",
+      "source_box": [
+        1385,
+        146,
+        1529,
+        256
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Overhead gold honeycomb hexagonal roof of honey hut, raised honeycomb cells and glossy honey rim. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "631bb2b166bf2ee58b9c8c53b3242e802a2512a81a8370ba9f7556898254a14c"
+    },
+    {
+      "id": "blossom-trees/view-01",
+      "source_box": [
+        704,
+        265,
+        847,
+        378
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pink cotton-candy blossom tree with warm branching trunk, tiny pale flowers in fluffy pink canopy, flowered grassy root patch, match pictured angle 1. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "666d1c6557c1b6e8214d211bfd9da49798aeb0db47e083de13b81fa349c928d3"
+    },
+    {
+      "id": "blossom-trees/view-02",
+      "source_box": [
+        847,
+        265,
+        990,
+        378
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pink cotton-candy blossom tree with warm branching trunk, tiny pale flowers in fluffy pink canopy, flowered grassy root patch, match pictured angle 2. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "42f5a1e17d5c15df36be563331cb794128e1523b0b2a080b8b19abb334f2de27"
+    },
+    {
+      "id": "blossom-trees/view-03",
+      "source_box": [
+        990,
+        265,
+        1117,
+        378
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pink cotton-candy blossom tree with warm branching trunk, tiny pale flowers in fluffy pink canopy, flowered grassy root patch, match pictured angle 3. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "13097e63e933c91f7a0961329689877eabec2be66a23ee9499cb75634d54c90a"
+    },
+    {
+      "id": "blossom-trees/view-04",
+      "source_box": [
+        1117,
+        265,
+        1255,
+        378
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pink cotton-candy blossom tree with warm branching trunk, tiny pale flowers in fluffy pink canopy, flowered grassy root patch, match pictured angle 4. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "87a5ca27453883517dbf460beeef1b2fd795cb88333d1a3388a7f08dc75330e9"
+    },
+    {
+      "id": "blossom-trees/view-05",
+      "source_box": [
+        1255,
+        265,
+        1385,
+        378
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pink cotton-candy blossom tree with warm branching trunk, tiny pale flowers in fluffy pink canopy, flowered grassy root patch, match pictured angle 5. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "d853f402c8bc829fca23fa2ff4ceeebe565bb8892a7510d46410f325e5d3ec7f"
+    },
+    {
+      "id": "blossom-trees/overhead",
+      "source_box": [
+        1385,
+        265,
+        1528,
+        378
+      ],
+      "prompt": "Strict 90-degree TOP-DOWN orthographic view of the pink blossom tree canopy from the reference. Only a round canopy of fluffy pink blossom clusters with tiny white-yellow flowers is visible, as seen looking vertically down onto the crown. NO trunk, NO roots, NO ground patch, NO side view. Preserve the reference's round overhead silhouette and blossom colors. Soft polished 3D casual game render faithful to the supplied approved source crop. Isolated single complete object with clear margins on true transparent RGBA background. No text, border or neighboring objects.",
+      "generated_original_sha256": "17c242234b6c9101aa7299e0b2759152059b0559bec4f2b1da9c8611f932a978"
+    },
+    {
+      "id": "wisteria-trees/view-01",
+      "source_box": [
+        704,
+        386,
+        847,
+        494
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Purple wisteria tree with long hanging lavender blossom bunches, twisting warm brown trunk, green moss and flowered root patch, match pictured angle 1. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "f1ddd4a08dacd00c12fb45d46749d17893aba03f11f474a8d0acd361878b21a3"
+    },
+    {
+      "id": "wisteria-trees/view-02",
+      "source_box": [
+        847,
+        386,
+        990,
+        494
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Purple wisteria tree with long hanging lavender blossom bunches, twisting warm brown trunk, green moss and flowered root patch, match pictured angle 2. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "287418f32442f04996c00a5c9e9fb35cad519020e6afeff19156af287dea57ab"
+    },
+    {
+      "id": "wisteria-trees/view-03",
+      "source_box": [
+        990,
+        386,
+        1117,
+        494
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Purple wisteria tree with long hanging lavender blossom bunches, twisting warm brown trunk, green moss and flowered root patch, match pictured angle 3. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "1104b1cde9376401ca36814602a059b0bb79076cb91fe2fbd9e03a6745317262"
+    },
+    {
+      "id": "wisteria-trees/view-04",
+      "source_box": [
+        1117,
+        386,
+        1255,
+        494
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Purple wisteria tree with long hanging lavender blossom bunches, twisting warm brown trunk, green moss and flowered root patch, match pictured angle 4. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "4830c4972b8a26afbd946dd5f60142714c21c0f59cb11d44dc7a98572e642428"
+    },
+    {
+      "id": "wisteria-trees/view-05",
+      "source_box": [
+        1255,
+        386,
+        1385,
+        494
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Purple wisteria tree with long hanging lavender blossom bunches, twisting warm brown trunk, green moss and flowered root patch, match pictured angle 5. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "2c9901835644294af5cb5cb8816531c1e2947dde4ade9a2df7e36cded85fea03"
+    },
+    {
+      "id": "wisteria-trees/overhead",
+      "source_box": [
+        1385,
+        386,
+        1528,
+        494
+      ],
+      "prompt": "Strict 90-degree TOP-DOWN orthographic view of the purple wisteria canopy from the reference. Only a rounded purple-lavender flowering crown with tiny pink-yellow blossom accents is visible, looking vertically down. NO trunk, NO roots, NO ground patch, NO side view. Preserve the reference's overhead circular silhouette. Soft polished 3D casual game render faithful to the supplied approved source crop. Isolated single complete object with clear margins on true transparent RGBA background. No text, border or neighboring objects.",
+      "generated_original_sha256": "2bdceb0fb4140a9a434ec02166f06d9cf8ed0085463d41460a4a460ae5b3bedf"
+    },
+    {
+      "id": "terrain/flower-grass-a",
+      "source_box": [
+        8,
+        505,
+        108,
+        583
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Chunky flower-covered green grass platform on lavender-brown rock, broad square shape. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "d3dfa477f6f6396c93f9f24c7c2b45dd4adc500b36f0a1548e06d192700de941"
+    },
+    {
+      "id": "terrain/flower-grass-b",
+      "source_box": [
+        108,
+        505,
+        205,
+        583
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Square grassy rock platform with white and pink daisies and lush hanging turf. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0b4455b7ca330ca96e39cf011712d49e5beebd06efe807699c3922bedba50709"
+    },
+    {
+      "id": "terrain/daisy-grass",
+      "source_box": [
+        205,
+        505,
+        302,
+        583
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Rounded grass-topped rock platform with large white daisies, pale brown stone side. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "9402eb8f1ddf8781783641aeae679ed8a0a2b4d9b7ad2d150d249dde42a7fea3"
+    },
+    {
+      "id": "terrain/small-flower-grass",
+      "source_box": [
+        302,
+        505,
+        383,
+        583
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small grass-topped purple rock block with pink and yellow flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "dfe2b93adfbb7048f339378fe153288a0fb93586503e15120973cf3c474b7bbb"
+    },
+    {
+      "id": "terrain/wide-flower-grass",
+      "source_box": [
+        383,
+        505,
+        467,
+        583
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide grass-topped rock platform with white flowers and hanging turf. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c921391b1a7b1588b721a3137a1f85e0455eb0d4b4e58dda7bab924028ca5cbb"
+    },
+    {
+      "id": "terrain/low-flower-grass",
+      "source_box": [
+        467,
+        505,
+        576,
+        562
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Low wide oval grass-topped purple rock platform with small flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "8940c7927ac8ae3b1932b3a38a9d6e324e14ae99edcdbfb95e83475aa84c1426"
+    },
+    {
+      "id": "honey-platforms/cluster-wide",
+      "source_box": [
+        8,
+        588,
+        107,
+        659
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Broad cluster of glossy golden honey hexagon stepping platforms with long honey drips underneath. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "b12c9c02ec971372a5552933bbdc7d7083d9ce8a1ca56bbcf0c9034bb93a5a9f"
+    },
+    {
+      "id": "honey-platforms/cluster-small",
+      "source_box": [
+        107,
+        588,
+        195,
+        659
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small golden honey platform cluster with three rounded hexagonal cells and hanging drips. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c616729d85ac2a7961bddd62929f9ce171a7d095f6d2c5b5ac41d74d40eb4041"
+    },
+    {
+      "id": "honey-platforms/large-hexagon",
+      "source_box": [
+        195,
+        588,
+        288,
+        659
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Single broad thick hexagonal golden honey platform with honey-dripping sides. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "6bdd7c4deea51d3a0bbc26a4d24701b9f6e279fd5db2559e8a35efd267a63f60"
+    },
+    {
+      "id": "honey-platforms/honeycomb-cluster",
+      "source_box": [
+        288,
+        588,
+        381,
+        659
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Cluster of five small honeycomb hexagon platforms with bright gold rims and drips. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "8b1e7c5baeb5522fe3c847d37454d816dc901a5be4cf0ec43a10971708d3c2d4"
+    },
+    {
+      "id": "honey-platforms/single-hexagon",
+      "source_box": [
+        381,
+        588,
+        444,
+        659
+      ],
+      "prompt": "One small simple hexagonal golden honey platform exactly like the reference crop. Smooth glossy golden top with a subtle hexagonal rim; thick viscous honey sides taper into one hanging drip. No pillars, no architectural arch openings, no legs, no stone or wood. It is just a floating honey stepping stone. Preserve the reference view and silhouette. Soft polished 3D casual game render faithful to the supplied approved source crop. Isolated single complete object with clear margins on true transparent RGBA background. No text, border or neighboring objects.",
+      "generated_original_sha256": "e57c6b2defde997f73564de026f3101d3d0d29df8561fe3992b69b8bbd1ff661"
+    },
+    {
+      "id": "terrain/large-flower-island",
+      "source_box": [
+        444,
+        562,
+        576,
+        658
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Large raised lavender rock meadow platform with green grass, pink stepping stones and scattered daisies and pink flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "61bade554a0ece5d2b2113a67340ae29ca99f916aeaa44438dec253577a1fd95"
+    },
+    {
+      "id": "terrain/bare-round-stone",
+      "source_box": [
+        8,
+        666,
+        91,
+        722
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Round flat lavender rock stepping platform with cracks and no grass. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "5aeae4df26e489307f1d6fac985cea5acfaeb53fbd6402c0661a37e1695d2528"
+    },
+    {
+      "id": "terrain/moss-round-stone",
+      "source_box": [
+        91,
+        666,
+        170,
+        722
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Round low stone platform with green moss cap and tiny daisies. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "cda3066c79711244177ccd54f72c97d99ac5f7d9713b8c911356182d0142a767"
+    },
+    {
+      "id": "terrain/small-moss-stone",
+      "source_box": [
+        170,
+        666,
+        234,
+        712
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small short moss-topped lavender stone block. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7cdbecce171aca723de26253c925ea81fe1aa55ac8a86066578237a909ed7165"
+    },
+    {
+      "id": "terrain/bare-wide-stone",
+      "source_box": [
+        234,
+        666,
+        333,
+        722
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide low lavender stone platform with large irregular cracked flagstones. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "4d5761e839b6eedbbf019ec5eb4beb50172942953866513be096c4dc09b9f767"
+    },
+    {
+      "id": "terrain/wide-moss-stone",
+      "source_box": [
+        333,
+        666,
+        441,
+        722
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide mossy stone platform with green top and sparse daisies. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "4eeac41068ec4c1b476cae8f8f55fad4f828f65501595d6d2591138717e81a2d"
+    },
+    {
+      "id": "terrain/large-moss-platform",
+      "source_box": [
+        441,
+        666,
+        576,
+        722
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Large low lavender rock platform, cracked stone top mixed with moss and tiny flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "22209fde44a4349f4ee266981dc559bf089ab0805867b1a5ebaac8cb7362bde9"
+    },
+    {
+      "id": "water-tiles/pool-a",
+      "source_box": [
+        8,
+        726,
+        91,
+        815
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Square shallow turquoise water tile with white ripples, rock border and moss corners. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c79991307abfad94f7896796dee64cbbad184c0a1a564cd6bf416d6ebd0ec0fb"
+    },
+    {
+      "id": "water-tiles/pool-b",
+      "source_box": [
+        91,
+        726,
+        169,
+        815
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Second square turquoise water tile with white ripple shapes and subtle moss border. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "d88697a456a272ef8f4444da0bcf29df23bdc045ba4ce5555bd399d8951eebda"
+    },
+    {
+      "id": "falls/water-tall",
+      "source_box": [
+        169,
+        722,
+        269,
+        824
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tall turquoise waterfall pouring from round lavender rock pillar into white foam pool, moss on ledges. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "759365a839457530c3889a80a20d24462fb793951b3a00579b28f4b04cc884ec"
+    },
+    {
+      "id": "falls/water-wide",
+      "source_box": [
+        269,
+        722,
+        366,
+        824
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Broad turquoise waterfall on mossy lavender rock column with white foam and small pool. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "b02990c7a7730cf3095eda7bf7c82303b486aee87b489c8a5ad214b446a52c72"
+    },
+    {
+      "id": "falls/honey-wide",
+      "source_box": [
+        366,
+        722,
+        477,
+        824
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Golden honey waterfall dripping over broad round rock column, glossy honey pool and pale foam below. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "b7be3733437030555ef30185b7b4bdccd30879319dd1855d1f848ac8e5b687f1"
+    },
+    {
+      "id": "falls/honey-small",
+      "source_box": [
+        477,
+        722,
+        576,
+        824
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small glossy golden honey waterfall over lavender rock pillar, honey puddle at base. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "f11b433080e1b1ac7a77fcb400f54199378527479d7480dc2a9bc89a8c60c523"
+    },
+    {
+      "id": "bridges/wood-straight",
+      "source_box": [
+        586,
+        508,
+        704,
+        594
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Short straight wooden plank bridge with golden rope handrails and four posts. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "ba98f74fd5cbc7bb871783bf88ec0d620463cb893e6f783fd88b60ed3b0f5c33"
+    },
+    {
+      "id": "bridges/honey-arch",
+      "source_box": [
+        704,
+        508,
+        846,
+        594
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Arched wooden bridge with glossy honey-gold handrail and pink capped posts. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "1b9a561eb12da26b47fe49a192ee4990924bfe0bd60087654becf07c49a80959"
+    },
+    {
+      "id": "bridges/honeycomb-arch",
+      "source_box": [
+        846,
+        508,
+        978,
+        594
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Arched golden honey bridge with central hexagonal honeycomb ornament and stout wooden posts. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "95835587f59ae6d5236ab29443975dca110cf7fe69dcccca26661b6c508948e8"
+    },
+    {
+      "id": "gates/flower-vine",
+      "source_box": [
+        586,
+        599,
+        696,
+        698
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Garden arch of green vines and pale stone decorated with pink white flowers and yellow flower crest. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "ed54335ae51162314d5372825a09fe940054b35200b942eb50ce1d1c0540073e"
+    },
+    {
+      "id": "gates/lantern-vine",
+      "source_box": [
+        696,
+        599,
+        793,
+        698
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Vine and flower gateway with hanging honey-gold lantern at top, pink flowers on pale stone supports. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "45ab6e535e146554c023f8e3a953e98d21f53bafb71b49de3f2d31b1c3b98d3a"
+    },
+    {
+      "id": "gates/honey-arch",
+      "source_box": [
+        793,
+        599,
+        886,
+        698
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Golden honey stone arch with single hexagon crest, pink flower clusters at both feet. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c984a077df52f54932b4bddfa813156230585231c2081f61a2c1c01c9a2661eb"
+    },
+    {
+      "id": "gates/honeycomb-arch",
+      "source_box": [
+        886,
+        599,
+        978,
+        698
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Golden honeycomb gateway made of raised hexagonal cells, round honey-gold bases. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "cf331b16beeb7f85f671e4543f6061e5eb43d90400ea3ce0a82b57957fd8a0b7"
+    },
+    {
+      "id": "props/direction-sign",
+      "source_box": [
+        987,
+        512,
+        1075,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Warm wooden right-pointing arrow sign on post, pale arrow inset and tiny gold flower corner. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "53ee7680df8a41459310ca0eedb781eea2a2037523e049dd4d1d3bc24b68f9a1"
+    },
+    {
+      "id": "props/honey-jar-large",
+      "source_box": [
+        1075,
+        516,
+        1167,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Round amber honey jar with pink cloth lid, flower emblem and gold honey clasp. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7f5fd5c0fa583060f8e0a64e8c34b6907bf002591115907755fc1d1fe54a7365"
+    },
+    {
+      "id": "props/honey-jar-small",
+      "source_box": [
+        1167,
+        521,
+        1233,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small glossy honey jar with pink fabric lid and pale bow. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "4b669b7bbb86dc9732c3a1cfe842d7b696ae619639523f2371a376e49b860cac"
+    },
+    {
+      "id": "props/honey-dipper",
+      "source_box": [
+        1233,
+        508,
+        1303,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Angled wooden honey dipper with thick golden honey dripping into a small puddle. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0b52c33c633f58ed584428f2451e16454583de15363ffa93a474462691ff0d72"
+    },
+    {
+      "id": "props/honeycomb-blocks",
+      "source_box": [
+        1288,
+        529,
+        1368,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Stack of golden rectangular honeycomb blocks with hexagonal holes. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "9adb2e5c4668160f6df10750bf03b2c4285ac279aa2b75060998901196a492eb"
+    },
+    {
+      "id": "props/hanging-hive",
+      "source_box": [
+        1368,
+        508,
+        1454,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Golden tiered hanging beehive with dark entrance, suspended from horizontal rustic wooden branch by cord. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "4c4249948113d5f82499abae4ad3b7461ba7aa2cac6e874bab82192e4effd36e"
+    },
+    {
+      "id": "props/banner-high",
+      "source_box": [
+        1455,
+        509,
+        1526,
+        599
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Coral pink hanging banner on golden wooden pole, yellow flower emblem, pointed lower edge. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "8f24119bdd3e84f1b5bf8a3e09734a5b1ccad096e1f85944d821152d197a6b0e"
+    },
+    {
+      "id": "props/honey-stump",
+      "source_box": [
+        989,
+        606,
+        1090,
+        696
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Hollow warm brown tree stump overflowing with glossy golden honey and honey puddle. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "16777d237fae755f4f2e7f621164bfdf5b0ecfdf1f3bd297622f615f8350b0b9"
+    },
+    {
+      "id": "rocks/flower-boulder-a",
+      "source_box": [
+        1095,
+        606,
+        1233,
+        697
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Low lavender boulder cluster with purple and pink daisies and green leaf bed. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "3cf991e43d0ca7cb7d9963c3c313dd7d251f8eecb11a1cc7014376d02ae5c3ab"
+    },
+    {
+      "id": "rocks/flower-boulder-b",
+      "source_box": [
+        1234,
+        606,
+        1385,
+        697
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Lavender boulder cluster with large pink flowers on top, small green leaves and moss. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "752b3f56841361e5556b35aa72d5dd077599547e22ae58d48b4bb72940147e6a"
+    },
+    {
+      "id": "rocks/small-moss-a",
+      "source_box": [
+        1386,
+        605,
+        1454,
+        647
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small moss-capped lavender garden boulder with tiny white daisy. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0c9658bc35cf0aa99a5bd0d5496f90f979222e487d0a7fae908feac145a68b51"
+    },
+    {
+      "id": "rocks/small-moss-b",
+      "source_box": [
+        1386,
+        648,
+        1454,
+        695
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small rounded mossy lavender rock cluster with tiny pink flower. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7472f65b86023123b258ca887ea8aa25aab0c8b0b5a9dd625511d9b00fd0ac3f"
+    },
+    {
+      "id": "props/banner-low",
+      "source_box": [
+        1455,
+        601,
+        1526,
+        697
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Coral pink flower-emblem banner on golden wooden stand, lower angle variant. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "a5e3dc00ff8b3e8c8366c1b567585650f4a5e3fe128fbb073ff46ce2a9f17a21"
+    },
+    {
+      "id": "shrubs/leafy",
+      "source_box": [
+        588,
+        710,
+        680,
+        773
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Compact round lush green leaf bush with a few small pale yellow flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "1b1cb871955df3dfc0dbb0a61a6e5913d9434fb54a2d90c11e46af244be625d6"
+    },
+    {
+      "id": "shrubs/pink-blossom",
+      "source_box": [
+        680,
+        710,
+        768,
+        773
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Round low pink blossom shrub with pale yellow flower centers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "be5e8b3269e9930808b6a7cc30a14d1d7e944a6082d9fe551153a72f420b4096"
+    },
+    {
+      "id": "shrubs/purple-blossom",
+      "source_box": [
+        768,
+        710,
+        851,
+        773
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Round low purple blossom shrub with pale yellow flower centers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "82511b0a042623fcdca3482cc2c4306dd9bf53fc70dd7b22c47c566564bf63c0"
+    },
+    {
+      "id": "shrubs/white-pink",
+      "source_box": [
+        588,
+        778,
+        680,
+        834
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Rounded green shrub with clusters of small white, pale pink and yellow flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "22826d331ee36dd7244a4d42fd688e72b9e04b523d029d030a25e8c51579f629"
+    },
+    {
+      "id": "shrubs/white-daisies",
+      "source_box": [
+        680,
+        778,
+        768,
+        834
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Green leafy shrub with small white daisies and yellow centers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "fed22de8b542bdce5bcf71e394669f34964111fb97d44dd43ff2d0e8ed88f17e"
+    },
+    {
+      "id": "shrubs/pink-yellow",
+      "source_box": [
+        768,
+        778,
+        851,
+        834
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Rounded green bush with mixed pink and yellow blossoms. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "e8bc31a8a455e5cf9112a940164c1f489e673b49e72feb61f4622ed5d153d4cb"
+    },
+    {
+      "id": "grasses/tall-blades",
+      "source_box": [
+        851,
+        711,
+        947,
+        790
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tall pointed bright green grass tuft with several broad tapered leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "d91e1a014aadfffb0079ae28daa12d3d6d66859818b8ce5b2785b1ecc030d7d5"
+    },
+    {
+      "id": "grasses/broad-blades",
+      "source_box": [
+        947,
+        711,
+        1038,
+        790
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Broad green grass tuft with curved layered leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "ae74d668a72e6b1f45213903afef6930a1a3f53817b7f2e045f869b692bfc3f8"
+    },
+    {
+      "id": "flowers/lavender-sprig",
+      "source_box": [
+        1040,
+        711,
+        1114,
+        791
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Upright purple lavender flower spikes with narrow green leaves at base. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0b7c44ac4fb0f7a065843f7f7f59a4af21f329f4093c5effb1754277688c77f9"
+    },
+    {
+      "id": "flowers/white-daisy",
+      "source_box": [
+        1114,
+        710,
+        1183,
+        795
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Single white daisy with yellow center, green stem and two leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7be6ef3a5c27522f7dc06e97eb4b48f56ab34b8838660a810b586fb0ef8ef896"
+    },
+    {
+      "id": "flowers/pink-daisy",
+      "source_box": [
+        1183,
+        710,
+        1246,
+        795
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Single pink daisy with yellow center, green stem and leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "6bcda851b613a6bc97567297d62080fbef34ef2178beabb6592b77397ee792cb"
+    },
+    {
+      "id": "flowers/golden-flower",
+      "source_box": [
+        1246,
+        710,
+        1318,
+        795
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Single golden yellow garden flower with green stem and broad leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "186f1c08ad2996634ff982aac70589d754eea595b35cd2791cc20fe6dc9cf480"
+    },
+    {
+      "id": "flowers/pink-tulip",
+      "source_box": [
+        1318,
+        710,
+        1385,
+        795
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Closed pink tulip bloom on green stem with curved leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "3662a51189a38f60faf03eb55a0a67ae023c3b72690c55e89d75c725d6f3a292"
+    },
+    {
+      "id": "flowers/white-tulip",
+      "source_box": [
+        1385,
+        710,
+        1452,
+        795
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: White tulip with golden base and green stem and leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "cb07c5b049e176d9b0c7da9ee9839868fcbbff247b1eaf36cdaa1c62fbe9d19c"
+    },
+    {
+      "id": "flowers/coral-daisy",
+      "source_box": [
+        1452,
+        710,
+        1527,
+        795
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Bright coral-pink daisy with yellow center on leafy green stem. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "b640bd61b2c1a04b6a1d526899ba469dffb6d130fb8cc04b6fcb6b06b631e3fd"
+    },
+    {
+      "id": "grasses/small-a",
+      "source_box": [
+        873,
+        795,
+        926,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small pointed green grass tuft with five blades. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "abf54606f200639b58f4f42cb12b5eb405d4c53c7f75f14cb4ef925f90b20e7c"
+    },
+    {
+      "id": "grasses/small-b",
+      "source_box": [
+        943,
+        795,
+        987,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny three-blade green grass tuft. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "e1a24deaf396100d4a404f1efaca9b3695a73721c77ec64207a29cb44880a27e"
+    },
+    {
+      "id": "grasses/small-c",
+      "source_box": [
+        1000,
+        795,
+        1046,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny narrow green grass tuft. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7a265bf80549de09d53714a3bf1fb01c430bf69f627eed8094348ffb61abfd5c"
+    },
+    {
+      "id": "grasses/small-d",
+      "source_box": [
+        1055,
+        795,
+        1114,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small broad-blade green grass tuft. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "b85fb402e6e5b0c1ca067404139e1cab85a9d9dacc63985f0eae6c200f0cda8d"
+    },
+    {
+      "id": "petals/flower-bud",
+      "source_box": [
+        1124,
+        797,
+        1156,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny pink and yellow flower bud. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "60ee4f4b49577150974c2ee55df12f8f9465912261bd4a7764066bad3466f83a"
+    },
+    {
+      "id": "petals/pink-small",
+      "source_box": [
+        1156,
+        797,
+        1190,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small isolated soft pink petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7ea0fc215e7e51da3136bf8a3a5b859102284218209d4e6240b6c1c4d59c0cea"
+    },
+    {
+      "id": "petals/pink-folded",
+      "source_box": [
+        1190,
+        797,
+        1229,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Folded glossy pink petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "73367d5b33a061493d8ef38ee3b3d2e0821de56ff994618b051d967c81762af9"
+    },
+    {
+      "id": "petals/pink-curved",
+      "source_box": [
+        1229,
+        797,
+        1273,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Curved pointed pink petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0e1c87ea1a508e5f4a1ca91fda738432c10b7c2a5868d0f34feb6b40968d52e7"
+    },
+    {
+      "id": "petals/pink-flat",
+      "source_box": [
+        1273,
+        797,
+        1318,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Flat soft pink blossom petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "6b8c6fa14a82e042c716eca291c3566deafb3c51ff67d49dd4061746bcb9816d"
+    },
+    {
+      "id": "petals/pink-rounded",
+      "source_box": [
+        1318,
+        797,
+        1364,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Rounded soft pink petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c2d72ed0cc8bd4764b8a309fb21ee99a40daccc788c0b21c3c99f0be42a97c3a"
+    },
+    {
+      "id": "petals/pink-wide",
+      "source_box": [
+        1364,
+        797,
+        1409,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide bent pink blossom petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "8e9225522cdce4bbfa6c69e97551f3551309d82571d5af2acd1a79766d543f16"
+    },
+    {
+      "id": "petals/purple",
+      "source_box": [
+        1409,
+        797,
+        1450,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Single purple blossom petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0306cefcb61ef9fc8199d0d84cff924ceb977be5b9e078c712ce3cbe72fbd64a"
+    },
+    {
+      "id": "petals/pink-pale",
+      "source_box": [
+        1450,
+        797,
+        1488,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Single pale pink blossom petal. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "218f2199ce371d1c7335ee549a4b262bfce588f4867978b2e63024651fe8cba9"
+    },
+    {
+      "id": "petals/gold-petal-cluster",
+      "source_box": [
+        1488,
+        797,
+        1528,
+        835
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small golden yellow flower petal cluster. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "4e24266c3bcefc85375257decbc09a20fd4bed99203d75e834c7d717ac74c7c2"
+    },
+    {
+      "id": "backgrounds/sunset-gardens",
+      "source_box": [
+        12,
+        851,
+        216,
+        993
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide pastel sunset garden background, pink blossom trees along sides, golden pink sky and cloud sea, distant lavender mountains; no characters, no border. Wide full-bleed landscape background, match reference composition, no board edges, panels or lettering. No creatures or characters: leave the environment clean for existing game characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "6cf38d7cbca34e725cd8e75f337cea35fdfe2460a21bf749a902d6d64139cf65"
+    },
+    {
+      "id": "backgrounds/floating-gardens",
+      "source_box": [
+        218,
+        851,
+        452,
+        993
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide bright pastel sky background with distant floating flower cottage islands above pink lavender cloud sea and blue sky; no characters, no border. Wide full-bleed landscape background, match reference composition, no board edges, panels or lettering. No creatures or characters: leave the environment clean for existing game characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "35782455372ae14e10144f1f947cac04df5f5c568716ef7eeeef4e7faa2c4941"
+    },
+    {
+      "id": "clouds/white-high",
+      "source_box": [
+        467,
+        853,
+        593,
+        921
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Large soft white cloud cluster with pale lavender undersides. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "d2b4c316ce810c613eedb10cd3649cf791a21acc22af9e96ef530e679cfe9160"
+    },
+    {
+      "id": "clouds/lilac-high",
+      "source_box": [
+        598,
+        853,
+        702,
+        909
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small lilac cloud cluster with rounded puffs. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "2a2c99637d0604c94af30c420f11cda6e707958fc35167d0a21768d0109d33b6"
+    },
+    {
+      "id": "clouds/white-low",
+      "source_box": [
+        462,
+        936,
+        578,
+        990
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide low white cloud cluster, pale lilac underside. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "a13b7229c60266cab4208f44b85d93b01a66bb4f69c679798cc77deba61b58fb"
+    },
+    {
+      "id": "clouds/lilac-low",
+      "source_box": [
+        578,
+        921,
+        704,
+        990
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Wide lilac cloud cluster with tall central puffs. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "121c9b080dbfd3cf84cd052c5a5ea4344da005e02738e9adb00c807f0f756682"
+    },
+    {
+      "id": "clouds/tiny-left",
+      "source_box": [
+        461,
+        918,
+        501,
+        937
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny white lavender cloud puff. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "a8ad3928f26eeeeb3948e9fd431a7a2d5e4141d6b445512630014f92e0b5eaca"
+    },
+    {
+      "id": "clouds/tiny-middle",
+      "source_box": [
+        564,
+        911,
+        617,
+        938
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny low white cloud with lavender underside. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "a92c3e22bd67489de432daef07a34d738d2bf5b439ea6cb631407bd7ddfdb0c7"
+    },
+    {
+      "id": "clouds/tiny-right",
+      "source_box": [
+        653,
+        909,
+        701,
+        929
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny low lilac cloud puff. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c9c02fbd17d8fd96bc3f15d21ca114fd36baf426d4946e04cc998280115a79de"
+    },
+    {
+      "id": "sky/rainbow",
+      "source_box": [
+        712,
+        852,
+        862,
+        946
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Pastel rainbow arch, gold pink mint blue bands, soft white cloud at each foot. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "dc1506daa936ad35a641f625e4ebd9f61c207391b78b319b26c183899f8476ca"
+    },
+    {
+      "id": "clouds/pink-small",
+      "source_box": [
+        726,
+        946,
+        824,
+        993
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small soft pink-lavender cloud cluster. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "ab169bdbc88160d6bd83703b600b6ee838d26e1e3eea3f177809b731460b9b7d"
+    },
+    {
+      "id": "clouds/flower-cloud",
+      "source_box": [
+        844,
+        951,
+        920,
+        993
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small lilac cloud with tiny pink flower and yellow center. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "41867d3adbabe1e139dc2aa90c0964fbdb55531818a67bc535799cdfe1e114c5"
+    },
+    {
+      "id": "particles/sparkle-tall",
+      "source_box": [
+        861,
+        852,
+        895,
+        891
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Slender warm golden four-point sparkle. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "8a5e76c867702738a73268f86f1e3bad9cfeed3abf206152ed565f933ec47ba8"
+    },
+    {
+      "id": "particles/sparkle-small",
+      "source_box": [
+        882,
+        888,
+        908,
+        917
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small four-point golden sparkle. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "82d7838e14bc8631af7877e75d5bea43e92320ae2d1fedce1733b8c70af723fb"
+    },
+    {
+      "id": "particles/sparkle-low",
+      "source_box": [
+        899,
+        926,
+        926,
+        955
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small softly glowing gold four-point sparkle. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "dfc190c84a23253897c0cf45c3c3262c9f3937d420cf48dd946a2e83bac00d24"
+    },
+    {
+      "id": "effects/petals-upper",
+      "source_box": [
+        921,
+        853,
+        995,
+        919
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Loose cluster of drifting pink flower petals, isolated transparent VFX. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "cbdfa9f86d59e40e7febe460d6eaffae0f3820470b3f50cc2435e511008cc24d"
+    },
+    {
+      "id": "effects/petals-lower",
+      "source_box": [
+        921,
+        925,
+        998,
+        991
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Second cluster of curling floating pink flower petals, isolated transparent VFX. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c01e6ec03032b84adb956894f547c5310011c68972412d3cba933ec42486eb01"
+    },
+    {
+      "id": "bees/three-quarter",
+      "source_box": [
+        999,
+        852,
+        1065,
+        915
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Cute small round yellow bee, dark brown bands, smiling face, antennae and translucent pale blue wings; three-quarter flying view. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "7b0d8abbefd9293ce5e7e81ebc4fec556bb0d1ab3914f98be5423ff4b61e6031"
+    },
+    {
+      "id": "bees/front",
+      "source_box": [
+        1073,
+        852,
+        1133,
+        915
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Cute round yellow bee, brown stripes, smiling face, antennae and translucent pale blue wings; front flying view. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "0d627621164890814ee349c4d837d3e2ff0b0e72eb2642a3942c0d75d7605dcb"
+    },
+    {
+      "id": "bees/side",
+      "source_box": [
+        1136,
+        854,
+        1194,
+        915
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Cute small yellow bee with brown stripes and pale blue wings; side flying view. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "a194b1d38751abed71c969b64f885bab73c491cf6cdc57f92ff95455ede5a974"
+    },
+    {
+      "id": "effects/bee-trail",
+      "source_box": [
+        1000,
+        919,
+        1215,
+        993
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: White dotted looping bee flight trail with tiny diamond glints, transparent overlay; no bee. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "e04a4625c64ce91c93e440cfefbe49bc5f1d94edaf55bcc5a56fcd9b05c3a1b4"
+    },
+    {
+      "id": "collectibles/amber-crystal",
+      "source_box": [
+        1231,
+        845,
+        1324,
+        928
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Faceted amber honey-gold crystal cluster, glossy luminous golden facets. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "9ff0af1d6cd4b4d8410ab6ce878783a4d04b471141884317f0a10084bc9d604c"
+    },
+    {
+      "id": "collectibles/honeycomb",
+      "source_box": [
+        1351,
+        849,
+        1423,
+        928
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small cluster of glossy golden hexagonal honeycomb cells, open amber centers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "c101dca56730af31ba542fc6820679a17a3595c540029fcd2fbf3608ae9498f0"
+    },
+    {
+      "id": "bouquets/pink-large",
+      "source_box": [
+        1423,
+        845,
+        1527,
+        930
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Large pink flower bouquet with yellow centers, green leaves and small pale flowers. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "cf66f9a15ba1f3285cf0f6a07ce91fc863e0d9406c2d5620d7c0c86f5302bb5f"
+    },
+    {
+      "id": "bouquets/mixed-small",
+      "source_box": [
+        1230,
+        933,
+        1331,
+        995
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small ground cluster of white and pink daisies with yellow centers and green leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "9391033b9ccc65ea405c82184a479e3183b7fb0de4222200634600afa2998113"
+    },
+    {
+      "id": "collectibles/honey-drop-small",
+      "source_box": [
+        1333,
+        953,
+        1363,
+        989
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small glossy golden honey droplet. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "68d3ddac3f66ea829a94603df0052715228b2ed00a59b297abf42775a3c4a8d9"
+    },
+    {
+      "id": "collectibles/honey-drop-tiny",
+      "source_box": [
+        1355,
+        932,
+        1380,
+        962
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Tiny glossy golden honey droplet. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "b5004e961646f9f8a03422a24b97ee7c21f77e5e6ecb05c9413590700e8248bc"
+    },
+    {
+      "id": "collectibles/honey-drop-large",
+      "source_box": [
+        1384,
+        930,
+        1427,
+        986
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Large glossy golden amber honey droplet. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "ad86522cb944cfa5e3dcacb77ac2c2d7893f688992cf8014bb451fe02e7b24f3"
+    },
+    {
+      "id": "particles/sparkle-honey",
+      "source_box": [
+        1328,
+        929,
+        1354,
+        955
+      ],
+      "prompt": "ONE tiny simple golden four-point sparkle icon, matching the little light glint in the supplied crop. A thin vertical gold ray and a shorter horizontal gold ray meeting in a bright cream center, soft warm golden glow. Flat front-facing isolated VFX sprite, centered with wide transparent margins. Transparent RGBA background. Only the single sparkle. Absolutely no scenery, building, bridge, gazebo, honey jar, flowers, leaves, objects, characters, text or border.",
+      "generated_original_sha256": "1f6a36df974fdcc2ee122f3711c07a2485545375073c224a918585eafb53dea4"
+    },
+    {
+      "id": "bouquets/coral-small",
+      "source_box": [
+        1433,
+        929,
+        1527,
+        996
+      ],
+      "prompt": "Reconstruct one standalone Honeydrop Gardens game asset from the supplied source crop, which is a reference excerpt from the user's approved world board. Preserve the reference design, exact pictured viewpoint, silhouette, palette, ornament placement and materials. Soft polished 3D casual mobile game render: glossy honey gold, warm wood, cream walls, pink petals, lavender rocks, fresh green leaves. Do not redesign or add ornaments. Requested asset: Small pink and yellow flower bouquet with bright green leaves. Single isolated transparent RGBA sprite with 10% clear margin. Complete object, opaque solid interiors, smooth antialiased edges and natural translucency only for glows, water and wings. Preserve open spaces through arches and bridge rails. Remove board background, ground shadow and any neighboring cropped objects. No scene, text, labels, watermarks, panel borders or extra objects. Only the requested asset; no other characters. High-resolution faithful reconstruction, not a contact sheet.",
+      "generated_original_sha256": "2d6454fdefec44bcc0db5b8e72023e15246fab05747cbe05a48604d220ed2629"
+    }
+  ]
+}

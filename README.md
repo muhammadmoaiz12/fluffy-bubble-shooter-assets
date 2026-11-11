@@ -155,3 +155,13 @@ Each pack links to a gallery of every unique master. Click any image to open it.
 
 ![All Cloudberry Meadows assets](stages/stage-05-worlds-levels/v1/cloudberry-meadows/preview.jpg)
 <!-- stage5-world1:end -->
+
+<!-- stage5-world2:start -->
+### World 2 · Honeydrop Gardens
+
+[Browse all 128 individual modules and variants](stages/stage-05-worlds-levels/v1/honeydrop-gardens/README.md)
+
+![Honeydrop Gardens](stages/stage-05-worlds-levels/v1/honeydrop-gardens/previews/world-overview.jpg)
+
+![All Honeydrop Gardens modules](stages/stage-05-worlds-levels/v1/honeydrop-gardens/preview.jpg)
+<!-- stage5-world2:end -->
