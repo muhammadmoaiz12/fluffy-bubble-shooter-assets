@@ -237,3 +237,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![stars](stages/stage-07-economy/v1/stars/preview.jpg)
 <!-- economy-stars:end -->
+
+
+<!-- economy-energy:start -->
+### Economy · Cannon Energy
+
+[Every individual asset and preview](stages/stage-07-economy/v1/cannon-energy/README.md) · 42 masters · 252 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![cannon-energy](stages/stage-07-economy/v1/cannon-energy/preview.jpg)
+<!-- economy-energy:end -->

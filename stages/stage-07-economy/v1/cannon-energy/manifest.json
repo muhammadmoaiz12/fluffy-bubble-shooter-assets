@@ -1,0 +1,2849 @@
+{
+  "pack": "cannon-energy",
+  "assets": [
+    {
+      "id": "side/partial-50",
+      "master": "masters/side/partial-50.png",
+      "exports": [
+        "gameplay/side/partial-50-128.png",
+        "gameplay/side/partial-50-128.webp",
+        "gameplay/side/partial-50-256.png",
+        "gameplay/side/partial-50-256.webp",
+        "gameplay/side/partial-50-512.png",
+        "gameplay/side/partial-50-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        214,
+        72,
+        810,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "1939e32651f34a3a5d0d432ad6f8df33ced46478ec4f7999563717ffe4896257"
+      }
+    },
+    {
+      "id": "front/partial-50",
+      "master": "masters/front/partial-50.png",
+      "exports": [
+        "gameplay/front/partial-50-128.png",
+        "gameplay/front/partial-50-128.webp",
+        "gameplay/front/partial-50-256.png",
+        "gameplay/front/partial-50-256.webp",
+        "gameplay/front/partial-50-512.png",
+        "gameplay/front/partial-50-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        189,
+        72,
+        834,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "c2bcd19ba2469e2de5fa29b47497b6b68a15514a635f18ab91e9b64b21e25c59"
+      }
+    },
+    {
+      "id": "side/partial-30",
+      "master": "masters/side/partial-30.png",
+      "exports": [
+        "gameplay/side/partial-30-128.png",
+        "gameplay/side/partial-30-128.webp",
+        "gameplay/side/partial-30-256.png",
+        "gameplay/side/partial-30-256.webp",
+        "gameplay/side/partial-30-512.png",
+        "gameplay/side/partial-30-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        205,
+        72,
+        818,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "0cba3614583249c0aeb4b4cc13ba8ce3b213da211f610643b97dd61c26ddec4a"
+      }
+    },
+    {
+      "id": "front/empty",
+      "master": "masters/front/empty.png",
+      "exports": [
+        "gameplay/front/empty-128.png",
+        "gameplay/front/empty-128.webp",
+        "gameplay/front/empty-256.png",
+        "gameplay/front/empty-256.webp",
+        "gameplay/front/empty-512.png",
+        "gameplay/front/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        177,
+        72,
+        847,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "5c0e8b0e967a41632c6abab8f0d447f85570b4d109b52784c0252a4799959518"
+      }
+    },
+    {
+      "id": "top/partial-80",
+      "master": "masters/top/partial-80.png",
+      "exports": [
+        "gameplay/top/partial-80-128.png",
+        "gameplay/top/partial-80-128.webp",
+        "gameplay/top/partial-80-256.png",
+        "gameplay/top/partial-80-256.webp",
+        "gameplay/top/partial-80-512.png",
+        "gameplay/top/partial-80-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        103,
+        952,
+        921
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Isolate and reconstruct the exact top-down circular energy cap in attached reference. STRICT ORTHOGRAPHIC TOP VIEW: concentric circular gold ring around cyan inner disk and raised star at center, two small side gold tabs. No cylinder walls visible below, no foreshortening or tilted perspective. This is Cannon Energy 80 percent state, match reference cyan/purple and gold palette, rounded glossy 3D. One centered asset transparent background, no text, panels or ground.",
+        "generated_sha256": "952835747fbb067acf83147f7ae72b44f37579ac122e2b4abb327d3befbd7248"
+      }
+    },
+    {
+      "id": "front/partial-30",
+      "master": "masters/front/partial-30.png",
+      "exports": [
+        "gameplay/front/partial-30-128.png",
+        "gameplay/front/partial-30-128.webp",
+        "gameplay/front/partial-30-256.png",
+        "gameplay/front/partial-30-256.webp",
+        "gameplay/front/partial-30-512.png",
+        "gameplay/front/partial-30-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        181,
+        72,
+        842,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "f91bd28a30bef67a30302225d72fd356802dbace82e7f2b9f145811f4a8caaf9"
+      }
+    },
+    {
+      "id": "three-quarter/earned",
+      "master": "masters/three-quarter/earned.png",
+      "exports": [
+        "gameplay/three-quarter/earned-128.png",
+        "gameplay/three-quarter/earned-128.webp",
+        "gameplay/three-quarter/earned-256.png",
+        "gameplay/three-quarter/earned-256.webp",
+        "gameplay/three-quarter/earned-512.png",
+        "gameplay/three-quarter/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        79,
+        952,
+        945
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "9ad4be966a519dba096df2d1d16b3e2ed06f27d486874ff5c737fce0ff807357"
+      }
+    },
+    {
+      "id": "top/empty",
+      "master": "masters/top/empty.png",
+      "exports": [
+        "gameplay/top/empty-128.png",
+        "gameplay/top/empty-128.webp",
+        "gameplay/top/empty-256.png",
+        "gameplay/top/empty-256.webp",
+        "gameplay/top/empty-512.png",
+        "gameplay/top/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        81,
+        72,
+        942,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "b6f6e194396106266432e91e25646d543eef753a54bcb4d608744fa57aa97179"
+      }
+    },
+    {
+      "id": "three-quarter/partial-50",
+      "master": "masters/three-quarter/partial-50.png",
+      "exports": [
+        "gameplay/three-quarter/partial-50-128.png",
+        "gameplay/three-quarter/partial-50-128.webp",
+        "gameplay/three-quarter/partial-50-256.png",
+        "gameplay/three-quarter/partial-50-256.webp",
+        "gameplay/three-quarter/partial-50-512.png",
+        "gameplay/three-quarter/partial-50-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        167,
+        72,
+        856,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "72163a62d78fffd7993337f38d416d24936090527a56d92ecd7ced5a47354e18"
+      }
+    },
+    {
+      "id": "top/full",
+      "master": "masters/top/full.png",
+      "exports": [
+        "gameplay/top/full-128.png",
+        "gameplay/top/full-128.webp",
+        "gameplay/top/full-256.png",
+        "gameplay/top/full-256.webp",
+        "gameplay/top/full-512.png",
+        "gameplay/top/full-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        91,
+        95,
+        933,
+        928
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct exactly the single energy asset in this reference crop, preserving its camera angle and STAR emblem. The emblem is a raised five-point GOLD STAR, NOT a lightning bolt. Match the gold rim, purple glass/cyan liquid and side gold star medallion. Strict orthographic top-down circular cap only, no visible jar walls. No text or scenery. Transparent background and clear margins. ",
+        "generated_sha256": "67e2cfc82b7ab14ff0c7e51a29c4b55fbe99ae4ee25f4218e4e611f2f7191478"
+      }
+    },
+    {
+      "id": "front/reward",
+      "master": "masters/front/reward.png",
+      "exports": [
+        "gameplay/front/reward-128.png",
+        "gameplay/front/reward-128.webp",
+        "gameplay/front/reward-256.png",
+        "gameplay/front/reward-256.webp",
+        "gameplay/front/reward-512.png",
+        "gameplay/front/reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        73,
+        952,
+        950
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "f93f7e8568c27f69a8f33da8429f6a0fa35ca7df6718be3f86ca8a2e22ccec4f"
+      }
+    },
+    {
+      "id": "three-quarter/partial-30",
+      "master": "masters/three-quarter/partial-30.png",
+      "exports": [
+        "gameplay/three-quarter/partial-30-128.png",
+        "gameplay/three-quarter/partial-30-128.webp",
+        "gameplay/three-quarter/partial-30-256.png",
+        "gameplay/three-quarter/partial-30-256.webp",
+        "gameplay/three-quarter/partial-30-512.png",
+        "gameplay/three-quarter/partial-30-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        174,
+        72,
+        850,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "6b0c7c9272a0e2bb391c928cd513eda1515090239673e2d851268ff8f7411297"
+      }
+    },
+    {
+      "id": "front/full",
+      "master": "masters/front/full.png",
+      "exports": [
+        "gameplay/front/full-128.png",
+        "gameplay/front/full-128.webp",
+        "gameplay/front/full-256.png",
+        "gameplay/front/full-256.webp",
+        "gameplay/front/full-512.png",
+        "gameplay/front/full-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        72,
+        861,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "b758b368eb849e0e0da121c271f1c9a0d8f49564cd0abfa1fa981f09c8436ace"
+      }
+    },
+    {
+      "id": "top/earned",
+      "master": "masters/top/earned.png",
+      "exports": [
+        "gameplay/top/earned-128.png",
+        "gameplay/top/earned-128.webp",
+        "gameplay/top/earned-256.png",
+        "gameplay/top/earned-256.webp",
+        "gameplay/top/earned-512.png",
+        "gameplay/top/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        76,
+        952,
+        948
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "48cd8f0781e1436b5b5b4a1fec8b896882785e71f2c2da542aee362ec64f7f26"
+      }
+    },
+    {
+      "id": "side/empty",
+      "master": "masters/side/empty.png",
+      "exports": [
+        "gameplay/side/empty-128.png",
+        "gameplay/side/empty-128.webp",
+        "gameplay/side/empty-256.png",
+        "gameplay/side/empty-256.webp",
+        "gameplay/side/empty-512.png",
+        "gameplay/side/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        207,
+        72,
+        816,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "d834f64ee85c67f5007fd9ac7d98ef07e94d6775e045ba2d5ab19c45689788de"
+      }
+    },
+    {
+      "id": "side/earned",
+      "master": "masters/side/earned.png",
+      "exports": [
+        "gameplay/side/earned-128.png",
+        "gameplay/side/earned-128.webp",
+        "gameplay/side/earned-256.png",
+        "gameplay/side/earned-256.webp",
+        "gameplay/side/earned-512.png",
+        "gameplay/side/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        202,
+        72,
+        822,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct exactly the single energy asset in this reference crop, preserving its camera angle and STAR emblem. The emblem is a raised five-point GOLD STAR, NOT a lightning bolt. Match the gold rim, purple glass/cyan liquid and side gold star medallion. Side-facing cylindrical jar, side star medallion left edge as in crop. No text or scenery. Transparent background and clear margins. Subtle earned glow allowed.",
+        "generated_sha256": "5e156de3fc273819af2a355fa1b426ca2d789d73eb8ad94ee2b04e9297755c57"
+      }
+    },
+    {
+      "id": "side/reward",
+      "master": "masters/side/reward.png",
+      "exports": [
+        "gameplay/side/reward-128.png",
+        "gameplay/side/reward-128.webp",
+        "gameplay/side/reward-256.png",
+        "gameplay/side/reward-256.webp",
+        "gameplay/side/reward-512.png",
+        "gameplay/side/reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        195,
+        72,
+        829,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "0ecf45792960622e2880acde52162d11ea08c6c153166cfb9f0eab0db597c5ce"
+      }
+    },
+    {
+      "id": "top/reward",
+      "master": "masters/top/reward.png",
+      "exports": [
+        "gameplay/top/reward-128.png",
+        "gameplay/top/reward-128.webp",
+        "gameplay/top/reward-256.png",
+        "gameplay/top/reward-256.webp",
+        "gameplay/top/reward-512.png",
+        "gameplay/top/reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        72,
+        889,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "e22e285bb038f2605db6ebafe2b9a935355c10150ea0b8e1768ed475a56b5716"
+      }
+    },
+    {
+      "id": "top/partial-50",
+      "master": "masters/top/partial-50.png",
+      "exports": [
+        "gameplay/top/partial-50-128.png",
+        "gameplay/top/partial-50-128.webp",
+        "gameplay/top/partial-50-256.png",
+        "gameplay/top/partial-50-256.webp",
+        "gameplay/top/partial-50-512.png",
+        "gameplay/top/partial-50-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        97,
+        952,
+        926
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "c1f98ee362a711e78a2b911636bc31ff52f369b95a8fcb9aad1f6dde2331b26f"
+      }
+    },
+    {
+      "id": "front/earned",
+      "master": "masters/front/earned.png",
+      "exports": [
+        "gameplay/front/earned-128.png",
+        "gameplay/front/earned-128.webp",
+        "gameplay/front/earned-256.png",
+        "gameplay/front/earned-256.webp",
+        "gameplay/front/earned-512.png",
+        "gameplay/front/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        92,
+        952,
+        931
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "80ea27e82db65656352dd6f241fe5f58a6d97e723e30e4a5e83d0235caa03684"
+      }
+    },
+    {
+      "id": "top/partial-30",
+      "master": "masters/top/partial-30.png",
+      "exports": [
+        "gameplay/top/partial-30-128.png",
+        "gameplay/top/partial-30-128.webp",
+        "gameplay/top/partial-30-256.png",
+        "gameplay/top/partial-30-256.webp",
+        "gameplay/top/partial-30-512.png",
+        "gameplay/top/partial-30-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        76,
+        952,
+        948
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "64f83796927b4698ccce8d4a912dd96bd97b9fd20e65776913f7ffa11cc2d27c"
+      }
+    },
+    {
+      "id": "front/partial-80",
+      "master": "masters/front/partial-80.png",
+      "exports": [
+        "gameplay/front/partial-80-128.png",
+        "gameplay/front/partial-80-128.webp",
+        "gameplay/front/partial-80-256.png",
+        "gameplay/front/partial-80-256.webp",
+        "gameplay/front/partial-80-512.png",
+        "gameplay/front/partial-80-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        174,
+        72,
+        849,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "e318146bdd397e903658bf89d1d9ce797b6107c46647c71c36b45d3c8780e4bf"
+      }
+    },
+    {
+      "id": "side/partial-80",
+      "master": "masters/side/partial-80.png",
+      "exports": [
+        "gameplay/side/partial-80-128.png",
+        "gameplay/side/partial-80-128.webp",
+        "gameplay/side/partial-80-256.png",
+        "gameplay/side/partial-80-256.webp",
+        "gameplay/side/partial-80-512.png",
+        "gameplay/side/partial-80-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        208,
+        72,
+        815,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "9d374cecb21d8bec3cce005cd2214b9b6610e1e1bbad7ca050ce5086c2e759ce"
+      }
+    },
+    {
+      "id": "three-quarter/reward",
+      "master": "masters/three-quarter/reward.png",
+      "exports": [
+        "gameplay/three-quarter/reward-128.png",
+        "gameplay/three-quarter/reward-128.webp",
+        "gameplay/three-quarter/reward-256.png",
+        "gameplay/three-quarter/reward-256.webp",
+        "gameplay/three-quarter/reward-512.png",
+        "gameplay/three-quarter/reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        95,
+        72,
+        929,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "4e672abfdaf341b5bcf99a08a459583768e4eb015318a3ceac0db63fedbd1c98"
+      }
+    },
+    {
+      "id": "three-quarter/empty",
+      "master": "masters/three-quarter/empty.png",
+      "exports": [
+        "gameplay/three-quarter/empty-128.png",
+        "gameplay/three-quarter/empty-128.webp",
+        "gameplay/three-quarter/empty-256.png",
+        "gameplay/three-quarter/empty-256.webp",
+        "gameplay/three-quarter/empty-512.png",
+        "gameplay/three-quarter/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        195,
+        72,
+        829,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "3c30b67f901a7169a4861bf8285e94516daa29fdb95583f7ade80a2c57ce8d93"
+      }
+    },
+    {
+      "id": "side/full",
+      "master": "masters/side/full.png",
+      "exports": [
+        "gameplay/side/full-128.png",
+        "gameplay/side/full-128.webp",
+        "gameplay/side/full-256.png",
+        "gameplay/side/full-256.webp",
+        "gameplay/side/full-512.png",
+        "gameplay/side/full-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        218,
+        72,
+        806,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct exactly the single energy asset in this reference crop, preserving its camera angle and STAR emblem. The emblem is a raised five-point GOLD STAR, NOT a lightning bolt. Match the gold rim, purple glass/cyan liquid and side gold star medallion. Side-facing cylindrical jar, side star medallion left edge as in crop. No text or scenery. Transparent background and clear margins. ",
+        "generated_sha256": "624186b028220376516d8f4f5274cf5f8a8a2e6579324c915453d293d741abec"
+      }
+    },
+    {
+      "id": "three-quarter/full",
+      "master": "masters/three-quarter/full.png",
+      "exports": [
+        "gameplay/three-quarter/full-128.png",
+        "gameplay/three-quarter/full-128.webp",
+        "gameplay/three-quarter/full-256.png",
+        "gameplay/three-quarter/full-256.webp",
+        "gameplay/three-quarter/full-512.png",
+        "gameplay/three-quarter/full-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        169,
+        72,
+        855,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "a2d11efe9d899c3891ce2c83196122611eabe0dedbb15ab6816cad2c24bffcaf"
+      }
+    },
+    {
+      "id": "three-quarter/partial-80",
+      "master": "masters/three-quarter/partial-80.png",
+      "exports": [
+        "gameplay/three-quarter/partial-80-128.png",
+        "gameplay/three-quarter/partial-80-128.webp",
+        "gameplay/three-quarter/partial-80-256.png",
+        "gameplay/three-quarter/partial-80-256.webp",
+        "gameplay/three-quarter/partial-80-512.png",
+        "gameplay/three-quarter/partial-80-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        184,
+        72,
+        840,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+        "generated_sha256": "4b81b6ea45ef068bd5ffbdad01a254156730d140fcf2012cb098f6eeb6492ec7"
+      }
+    },
+    {
+      "id": "components/bolt",
+      "master": "masters/components/bolt.png",
+      "exports": [
+        "gameplay/components/bolt-128.png",
+        "gameplay/components/bolt-128.webp",
+        "gameplay/components/bolt-256.png",
+        "gameplay/components/bolt-256.webp",
+        "gameplay/components/bolt-512.png",
+        "gameplay/components/bolt-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        171,
+        61,
+        852,
+        962
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "locked/puff-trails-brand/v1/masters/icons/energy.png"
+      }
+    },
+    {
+      "id": "components/plus",
+      "master": "masters/components/plus.png",
+      "exports": [
+        "gameplay/components/plus-128.png",
+        "gameplay/components/plus-128.webp",
+        "gameplay/components/plus-256.png",
+        "gameplay/components/plus-256.webp",
+        "gameplay/components/plus-512.png",
+        "gameplay/components/plus-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        84,
+        82,
+        940,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/icons/plus.png"
+      }
+    },
+    {
+      "id": "components/meter",
+      "master": "masters/components/meter.png",
+      "exports": [
+        "gameplay/components/meter-128.png",
+        "gameplay/components/meter-128.webp",
+        "gameplay/components/meter-256.png",
+        "gameplay/components/meter-256.webp",
+        "gameplay/components/meter-512.png",
+        "gameplay/components/meter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        442,
+        942,
+        582
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/ui/purple-meter.png"
+      }
+    },
+    {
+      "id": "effects/sparkles",
+      "master": "masters/effects/sparkles.png",
+      "exports": [
+        "gameplay/effects/sparkles-128.png",
+        "gameplay/effects/sparkles-128.webp",
+        "gameplay/effects/sparkles-256.png",
+        "gameplay/effects/sparkles-256.webp",
+        "gameplay/effects/sparkles-512.png",
+        "gameplay/effects/sparkles-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        391,
+        942,
+        633
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png"
+      }
+    },
+    {
+      "id": "animation/fill-00",
+      "master": "masters/animation/fill-00.png",
+      "exports": [
+        "gameplay/animation/fill-00-128.png",
+        "gameplay/animation/fill-00-128.webp",
+        "gameplay/animation/fill-00-256.png",
+        "gameplay/animation/fill-00-256.webp",
+        "gameplay/animation/fill-00-512.png",
+        "gameplay/animation/fill-00-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        177,
+        72,
+        847,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Alias of front state",
+        "source_asset": "front/empty"
+      }
+    },
+    {
+      "id": "animation/fill-01",
+      "master": "masters/animation/fill-01.png",
+      "exports": [
+        "gameplay/animation/fill-01-128.png",
+        "gameplay/animation/fill-01-128.webp",
+        "gameplay/animation/fill-01-256.png",
+        "gameplay/animation/fill-01-256.webp",
+        "gameplay/animation/fill-01-512.png",
+        "gameplay/animation/fill-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        181,
+        72,
+        842,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Alias of front state",
+        "source_asset": "front/partial-30"
+      }
+    },
+    {
+      "id": "animation/fill-02",
+      "master": "masters/animation/fill-02.png",
+      "exports": [
+        "gameplay/animation/fill-02-128.png",
+        "gameplay/animation/fill-02-128.webp",
+        "gameplay/animation/fill-02-256.png",
+        "gameplay/animation/fill-02-256.webp",
+        "gameplay/animation/fill-02-512.png",
+        "gameplay/animation/fill-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        189,
+        72,
+        834,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Alias of front state",
+        "source_asset": "front/partial-50"
+      }
+    },
+    {
+      "id": "animation/fill-03",
+      "master": "masters/animation/fill-03.png",
+      "exports": [
+        "gameplay/animation/fill-03-128.png",
+        "gameplay/animation/fill-03-128.webp",
+        "gameplay/animation/fill-03-256.png",
+        "gameplay/animation/fill-03-256.webp",
+        "gameplay/animation/fill-03-512.png",
+        "gameplay/animation/fill-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        174,
+        72,
+        849,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Alias of front state",
+        "source_asset": "front/partial-80"
+      }
+    },
+    {
+      "id": "animation/fill-04",
+      "master": "masters/animation/fill-04.png",
+      "exports": [
+        "gameplay/animation/fill-04-128.png",
+        "gameplay/animation/fill-04-128.webp",
+        "gameplay/animation/fill-04-256.png",
+        "gameplay/animation/fill-04-256.webp",
+        "gameplay/animation/fill-04-512.png",
+        "gameplay/animation/fill-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        72,
+        861,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Alias of front state",
+        "source_asset": "front/full"
+      }
+    },
+    {
+      "id": "effects/earned",
+      "master": "masters/effects/earned.png",
+      "exports": [
+        "gameplay/effects/earned-128.png",
+        "gameplay/effects/earned-128.webp",
+        "gameplay/effects/earned-256.png",
+        "gameplay/effects/earned-256.webp",
+        "gameplay/effects/earned-512.png",
+        "gameplay/effects/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        153,
+        942,
+        871
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/sparkles",
+          "three-quarter/earned"
+        ]
+      }
+    },
+    {
+      "id": "effects/reward",
+      "master": "masters/effects/reward.png",
+      "exports": [
+        "gameplay/effects/reward-128.png",
+        "gameplay/effects/reward-128.webp",
+        "gameplay/effects/reward-256.png",
+        "gameplay/effects/reward-256.webp",
+        "gameplay/effects/reward-512.png",
+        "gameplay/effects/reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        147,
+        942,
+        877
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/sparkles",
+          "three-quarter/reward"
+        ]
+      }
+    },
+    {
+      "id": "ui/meter",
+      "master": "masters/ui/meter.png",
+      "exports": [
+        "gameplay/ui/meter-128.png",
+        "gameplay/ui/meter-128.webp",
+        "gameplay/ui/meter-256.png",
+        "gameplay/ui/meter-256.webp",
+        "gameplay/ui/meter-512.png",
+        "gameplay/ui/meter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        382,
+        949,
+        642
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/meter",
+          "components/bolt",
+          "components/plus"
+        ]
+      }
+    },
+    {
+      "id": "ui/earned-toast",
+      "master": "masters/ui/earned-toast.png",
+      "exports": [
+        "gameplay/ui/earned-toast-128.png",
+        "gameplay/ui/earned-toast-128.webp",
+        "gameplay/ui/earned-toast-256.png",
+        "gameplay/ui/earned-toast-256.webp",
+        "gameplay/ui/earned-toast-512.png",
+        "gameplay/ui/earned-toast-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        106,
+        862,
+        795
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "three-quarter/earned"
+        ]
+      }
+    },
+    {
+      "id": "ui/reward-badge",
+      "master": "masters/ui/reward-badge.png",
+      "exports": [
+        "gameplay/ui/reward-badge-128.png",
+        "gameplay/ui/reward-badge-128.webp",
+        "gameplay/ui/reward-badge-256.png",
+        "gameplay/ui/reward-badge-256.webp",
+        "gameplay/ui/reward-badge-512.png",
+        "gameplay/ui/reward-badge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        180,
+        100,
+        843,
+        800
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "three-quarter/reward"
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "bde5cdf268d88f11af548e79d2f7069ee8baa783753c38adf22a982ee7dbb859",
+      "bytes": 5713
+    },
+    {
+      "path": "gameplay/animation/fill-00-128.png",
+      "sha256": "774d581aaf2cafde9e81110fe178a96fb27935d4851dc9665717a303a2521055",
+      "bytes": 20324
+    },
+    {
+      "path": "gameplay/animation/fill-00-128.webp",
+      "sha256": "e8234c22119a4f5c6b0e9cc15008dc531d7726ee482d63ab32aff519c81ec2f7",
+      "bytes": 15968
+    },
+    {
+      "path": "gameplay/animation/fill-00-256.png",
+      "sha256": "ce2493e9a45d05514058079b430a29121b9d359bb4182e91dc759c023fcfcfe2",
+      "bytes": 65311
+    },
+    {
+      "path": "gameplay/animation/fill-00-256.webp",
+      "sha256": "2b16a06f62c65401a68505ac23f238f14f067a8cbb33006a44429753706c3457",
+      "bytes": 48210
+    },
+    {
+      "path": "gameplay/animation/fill-00-512.png",
+      "sha256": "fcea023a0d51bb0f697ca952d277f12166d9a9c01d500479c654cfe430159bd9",
+      "bytes": 217602
+    },
+    {
+      "path": "gameplay/animation/fill-00-512.webp",
+      "sha256": "871708c113c5e6c48ea643550d4977264e51ce37bde775ee76b3defc72d18fab",
+      "bytes": 153166
+    },
+    {
+      "path": "gameplay/animation/fill-01-128.png",
+      "sha256": "69623e56b1884acd8847f4eb4183fbdd139afb54058f6661536be9c0bb11c582",
+      "bytes": 18197
+    },
+    {
+      "path": "gameplay/animation/fill-01-128.webp",
+      "sha256": "fe13d2b8c15410ea9e68c5f270cfa63274b396078575822ce54f11814bacf927",
+      "bytes": 14526
+    },
+    {
+      "path": "gameplay/animation/fill-01-256.png",
+      "sha256": "b8d6042bdd41f8b48755dc07e8f3b4834d52d1fd42c585d35b836475cbb320d1",
+      "bytes": 57509
+    },
+    {
+      "path": "gameplay/animation/fill-01-256.webp",
+      "sha256": "73b63bac2d82e6331106654256483f3980f1f1dd5aba9121f898a8687a326f28",
+      "bytes": 42556
+    },
+    {
+      "path": "gameplay/animation/fill-01-512.png",
+      "sha256": "bc5665d421a1b2db599948bdd51497b407ff3a9514b70912fa9fb9e340282d0a",
+      "bytes": 198178
+    },
+    {
+      "path": "gameplay/animation/fill-01-512.webp",
+      "sha256": "bdbe6ad742027a5580ee543c26d556f5fc945ae51a4f4371c065587ac9f448ec",
+      "bytes": 142234
+    },
+    {
+      "path": "gameplay/animation/fill-02-128.png",
+      "sha256": "a4e66e34247023bf8e7a86ce081d6d6d93e75c9cb2666c69d143522d51e622d9",
+      "bytes": 18266
+    },
+    {
+      "path": "gameplay/animation/fill-02-128.webp",
+      "sha256": "71eb685a95701efc29f7fb44471c94aeab6eb0c34f6d3a056edc0aee4850edef",
+      "bytes": 14746
+    },
+    {
+      "path": "gameplay/animation/fill-02-256.png",
+      "sha256": "b586ef8c7a2da2f75ff03fe2687ee2c971d0bb61aa5c13c41ca2f0e75cdf69f8",
+      "bytes": 57889
+    },
+    {
+      "path": "gameplay/animation/fill-02-256.webp",
+      "sha256": "3512d8b6d21dc6be36302a9ca52aba636ad47082217d4b423e1b1a0bfaae1050",
+      "bytes": 42744
+    },
+    {
+      "path": "gameplay/animation/fill-02-512.png",
+      "sha256": "6a5dc1ad73d46c9159b8162d7ff100283b8d5f570f22af5902f379951a66963c",
+      "bytes": 195109
+    },
+    {
+      "path": "gameplay/animation/fill-02-512.webp",
+      "sha256": "503c9197eeafe93e0a168574a3f1a00a8de99df6a42ac4d27180c5bb3bb56850",
+      "bytes": 139330
+    },
+    {
+      "path": "gameplay/animation/fill-03-128.png",
+      "sha256": "fb33e9b8ee9bb8cfc4c927ab0e6d8c078634ba2e56dc74606bf963f7d96b420e",
+      "bytes": 20203
+    },
+    {
+      "path": "gameplay/animation/fill-03-128.webp",
+      "sha256": "7d8170a086388865db6c5e8155124580da72cb290f1e6528eb976dd36b7769b4",
+      "bytes": 16714
+    },
+    {
+      "path": "gameplay/animation/fill-03-256.png",
+      "sha256": "cf1cc12dfab2bd74af0e26166f70333651c8ec68425603b9c238ca5fca80ea30",
+      "bytes": 68543
+    },
+    {
+      "path": "gameplay/animation/fill-03-256.webp",
+      "sha256": "2d64cfc9d02f08142e506391cf863a2ac16dfaf0f6c75d5910e0bad7678e27c9",
+      "bytes": 52416
+    },
+    {
+      "path": "gameplay/animation/fill-03-512.png",
+      "sha256": "741fbe7fe1f13f8567f2f21dabaa628bec3c751ed20940b499083ca304aea25d",
+      "bytes": 236295
+    },
+    {
+      "path": "gameplay/animation/fill-03-512.webp",
+      "sha256": "bcb85f75e959ef843d43f61034ab145aa7873dd49dbad5326326f28b94d97cdf",
+      "bytes": 175682
+    },
+    {
+      "path": "gameplay/animation/fill-04-128.png",
+      "sha256": "90847ac8e14310738d1d2e6cc01a6d856d024f53160c6aece6252f98f49e5ffa",
+      "bytes": 21855
+    },
+    {
+      "path": "gameplay/animation/fill-04-128.webp",
+      "sha256": "5d0b8fecb0f91bf7c77c5e6bd9604123c33d3e8e93061b697222409a391daa84",
+      "bytes": 17976
+    },
+    {
+      "path": "gameplay/animation/fill-04-256.png",
+      "sha256": "3b32e79f69172934b7dc0cddd84c60c9eb25c091b4e07aaf874756c22a37a835",
+      "bytes": 73345
+    },
+    {
+      "path": "gameplay/animation/fill-04-256.webp",
+      "sha256": "4a95ab6bacd03486a59ccae2e3e2ac0e2697b2781d30e0f7d80223e7f46c65b0",
+      "bytes": 56222
+    },
+    {
+      "path": "gameplay/animation/fill-04-512.png",
+      "sha256": "533f01a4b5c271e0ddd59e6b5b7b63bf320190e146a5ac7da3fcf3826bd6db8a",
+      "bytes": 255418
+    },
+    {
+      "path": "gameplay/animation/fill-04-512.webp",
+      "sha256": "36ca7fa2666a227571f70cd0331740d2fc22fe4e34a4deb7ee4ba147372fa525",
+      "bytes": 190552
+    },
+    {
+      "path": "gameplay/components/bolt-128.png",
+      "sha256": "a9789e43e4052b9f23dff1b822a835bd709cb50b6756a8c5f18ee678cf4efb10",
+      "bytes": 14447
+    },
+    {
+      "path": "gameplay/components/bolt-128.webp",
+      "sha256": "e392966563f3439d25d2f8cc94b335ddee6ea8bc18b740275f280bbef22877a8",
+      "bytes": 10686
+    },
+    {
+      "path": "gameplay/components/bolt-256.png",
+      "sha256": "62078b104cf13c6fce7fe5c19c77735f2f8bd512b76d3109f96f88dfcd01a557",
+      "bytes": 45132
+    },
+    {
+      "path": "gameplay/components/bolt-256.webp",
+      "sha256": "ec35bdab607bdf134d371d7c03ef1b3b56f9c2777c2ec3eedb4f40903b0e7b5a",
+      "bytes": 30716
+    },
+    {
+      "path": "gameplay/components/bolt-512.png",
+      "sha256": "901b50b81a3ce0a57bacb83434831e3316adfa7bccbca068e6960a33e999ac20",
+      "bytes": 145999
+    },
+    {
+      "path": "gameplay/components/bolt-512.webp",
+      "sha256": "a35b9dc6cf1459b15f890992826d76fa40967a8faae0327bdc11517f9c2083bd",
+      "bytes": 93858
+    },
+    {
+      "path": "gameplay/components/meter-128.png",
+      "sha256": "47c38279a7c068e91b48b1450a3c3c5a3e6b1619d1829ded1bd3c511b050835a",
+      "bytes": 3909
+    },
+    {
+      "path": "gameplay/components/meter-128.webp",
+      "sha256": "56403db8e6f3d4926b596d9e1aa6937888d491e78e2df7ef5a7dc04e861d378e",
+      "bytes": 3116
+    },
+    {
+      "path": "gameplay/components/meter-256.png",
+      "sha256": "99eb96a18fe986d80672ae56b3cce4ac01aece43c79a6d7e961bfe0207efcf9b",
+      "bytes": 12835
+    },
+    {
+      "path": "gameplay/components/meter-256.webp",
+      "sha256": "563ccf29e76659743249cafdb5b8a563325fbdef18bd8a583c538a1fcb6dcc09",
+      "bytes": 9098
+    },
+    {
+      "path": "gameplay/components/meter-512.png",
+      "sha256": "25a15c13a80d7c4404672b07e6829838cb8d9d16bef390a72b701bf5422e1a72",
+      "bytes": 41857
+    },
+    {
+      "path": "gameplay/components/meter-512.webp",
+      "sha256": "92a176bf21c38d9727cda7a31678e63d2933b3bef883644c63708b2a48ba8f47",
+      "bytes": 27510
+    },
+    {
+      "path": "gameplay/components/plus-128.png",
+      "sha256": "273e258235249db2dd62da2dcd2bf475e189c854636a35f22251687db60f0661",
+      "bytes": 18859
+    },
+    {
+      "path": "gameplay/components/plus-128.webp",
+      "sha256": "febb085c76bcddc57d1413c5159db8b59f88691dbf8026fc3ba341d7f90816f2",
+      "bytes": 14530
+    },
+    {
+      "path": "gameplay/components/plus-256.png",
+      "sha256": "e30174ea04243939712737f3a7911f7f5ebee97e338356e9c6e763120d660d8f",
+      "bytes": 58672
+    },
+    {
+      "path": "gameplay/components/plus-256.webp",
+      "sha256": "1eb4958482f83a4b9ee977e02e11ce02133d73a03444bedaf973c9c4dd4ac194",
+      "bytes": 41884
+    },
+    {
+      "path": "gameplay/components/plus-512.png",
+      "sha256": "cf080c80aa90b5187296f01867c3fa9b7c3d8d53a5b634dc26d5927db0bbaade",
+      "bytes": 192105
+    },
+    {
+      "path": "gameplay/components/plus-512.webp",
+      "sha256": "1f4f0caa028ed4d1d921b001446c343c27ac304a959d6719c1b8e17df1981564",
+      "bytes": 128916
+    },
+    {
+      "path": "gameplay/effects/earned-128.png",
+      "sha256": "35dee73bb594eb57c59a58150881c8666ffbe044738843fdd958d9b163a21279",
+      "bytes": 19988
+    },
+    {
+      "path": "gameplay/effects/earned-128.webp",
+      "sha256": "17e4813e254e2ae7b469fb182a73bb29bd69e703049d79022a3bdef9c45071bf",
+      "bytes": 17744
+    },
+    {
+      "path": "gameplay/effects/earned-256.png",
+      "sha256": "13e9de132a359ea5b1529ccfdc52ad4ee4b9be80f9f0011031d6c463b9d9f2b5",
+      "bytes": 67345
+    },
+    {
+      "path": "gameplay/effects/earned-256.webp",
+      "sha256": "f1f70ce888a268707fd86f262f05ff4eb17cd6679768c2e27c808fd67a829828",
+      "bytes": 54452
+    },
+    {
+      "path": "gameplay/effects/earned-512.png",
+      "sha256": "3748716d238a5bf3f596381523967321dc7a3eca7626fabb35f459fbe04f3440",
+      "bytes": 227427
+    },
+    {
+      "path": "gameplay/effects/earned-512.webp",
+      "sha256": "e3fbe4473b1c66ea8cb122e1f73c5246f1aa40e7f0b6342e9f1b2153c92000db",
+      "bytes": 176216
+    },
+    {
+      "path": "gameplay/effects/reward-128.png",
+      "sha256": "4a48dcd38f53e05556b326e63940ae6ad3be0ac146fa2f85733db84df45ee641",
+      "bytes": 19472
+    },
+    {
+      "path": "gameplay/effects/reward-128.webp",
+      "sha256": "d8bab068416e834e9b7f7b60f8c19422530abb3b1d159a2592319cfd92e6d97c",
+      "bytes": 17156
+    },
+    {
+      "path": "gameplay/effects/reward-256.png",
+      "sha256": "da5cb7e83ef391ce8e0266b3c8818f68d8642f9666977c1312dedd499c0be5b1",
+      "bytes": 66196
+    },
+    {
+      "path": "gameplay/effects/reward-256.webp",
+      "sha256": "366b27799723a43ef8b6e1abc16aea7bb423d1f9bc146ea558d4781c2e7fb998",
+      "bytes": 53470
+    },
+    {
+      "path": "gameplay/effects/reward-512.png",
+      "sha256": "e07870ca59235dc35e167fa72a8732f900c0ea89cf47e7b372c7d90ef16d538e",
+      "bytes": 224911
+    },
+    {
+      "path": "gameplay/effects/reward-512.webp",
+      "sha256": "f702995ee4c103c9ebefce8c3302797b11cd8c5d3af26afa4d79fa5de2fc35c2",
+      "bytes": 172086
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.png",
+      "sha256": "99c7ade8686ae647c72ba8ccf89944bc7e359c254d861b30b4bf258ba5b224de",
+      "bytes": 7735
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.webp",
+      "sha256": "94069650f8f3c50d70045271ac7501121deafaff9e96e4c03588d14daee6a51c",
+      "bytes": 6550
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.png",
+      "sha256": "521a8e4c3c8c466c5b6426f0421770ec9283ba0bf343d717aa23c92e2faa1878",
+      "bytes": 25736
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.webp",
+      "sha256": "d2252ad9020db5e52e7fbf61a4e74a79a904c6617ac266a1bc6c8f9201d7d018",
+      "bytes": 22586
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.png",
+      "sha256": "f8d4042b5b041fe02f160936bc07101c764ecbe30b1cfbec1b8a371877f51a92",
+      "bytes": 87717
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.webp",
+      "sha256": "7991ce5a0f57a158970784b92213789317b3c7aff03ccc1f086f746e92872864",
+      "bytes": 74306
+    },
+    {
+      "path": "gameplay/front/earned-128.png",
+      "sha256": "f618c50abf25b5e7996cf4e581098eeeb4c6e7dbd7e287f8061c7a050883de83",
+      "bytes": 26697
+    },
+    {
+      "path": "gameplay/front/earned-128.webp",
+      "sha256": "07994f29866b122255e3ee20e80480dd5b86d7f39483738b6c7d7ecb500a5461",
+      "bytes": 23104
+    },
+    {
+      "path": "gameplay/front/earned-256.png",
+      "sha256": "b9a703f7fbb5d0c6d7d5387273336acc2a2e92ceea8837da8f36612ffe2a5a04",
+      "bytes": 91074
+    },
+    {
+      "path": "gameplay/front/earned-256.webp",
+      "sha256": "2575b7b54359289cd810a4025d8c89c4a611a73c140147bd1cdb5d33ea8ade86",
+      "bytes": 72292
+    },
+    {
+      "path": "gameplay/front/earned-512.png",
+      "sha256": "3ed91536c90a26e06ac294e9bcc2dfcfe88e0348e26617e82436298619a7f968",
+      "bytes": 315741
+    },
+    {
+      "path": "gameplay/front/earned-512.webp",
+      "sha256": "8b4cb4b520ad7748afb66d6785419ee4bc237663c19b2aff85f54a4b8365bcf5",
+      "bytes": 239714
+    },
+    {
+      "path": "gameplay/front/empty-128.png",
+      "sha256": "774d581aaf2cafde9e81110fe178a96fb27935d4851dc9665717a303a2521055",
+      "bytes": 20324
+    },
+    {
+      "path": "gameplay/front/empty-128.webp",
+      "sha256": "e8234c22119a4f5c6b0e9cc15008dc531d7726ee482d63ab32aff519c81ec2f7",
+      "bytes": 15968
+    },
+    {
+      "path": "gameplay/front/empty-256.png",
+      "sha256": "ce2493e9a45d05514058079b430a29121b9d359bb4182e91dc759c023fcfcfe2",
+      "bytes": 65311
+    },
+    {
+      "path": "gameplay/front/empty-256.webp",
+      "sha256": "2b16a06f62c65401a68505ac23f238f14f067a8cbb33006a44429753706c3457",
+      "bytes": 48210
+    },
+    {
+      "path": "gameplay/front/empty-512.png",
+      "sha256": "fcea023a0d51bb0f697ca952d277f12166d9a9c01d500479c654cfe430159bd9",
+      "bytes": 217602
+    },
+    {
+      "path": "gameplay/front/empty-512.webp",
+      "sha256": "871708c113c5e6c48ea643550d4977264e51ce37bde775ee76b3defc72d18fab",
+      "bytes": 153166
+    },
+    {
+      "path": "gameplay/front/full-128.png",
+      "sha256": "90847ac8e14310738d1d2e6cc01a6d856d024f53160c6aece6252f98f49e5ffa",
+      "bytes": 21855
+    },
+    {
+      "path": "gameplay/front/full-128.webp",
+      "sha256": "5d0b8fecb0f91bf7c77c5e6bd9604123c33d3e8e93061b697222409a391daa84",
+      "bytes": 17976
+    },
+    {
+      "path": "gameplay/front/full-256.png",
+      "sha256": "3b32e79f69172934b7dc0cddd84c60c9eb25c091b4e07aaf874756c22a37a835",
+      "bytes": 73345
+    },
+    {
+      "path": "gameplay/front/full-256.webp",
+      "sha256": "4a95ab6bacd03486a59ccae2e3e2ac0e2697b2781d30e0f7d80223e7f46c65b0",
+      "bytes": 56222
+    },
+    {
+      "path": "gameplay/front/full-512.png",
+      "sha256": "533f01a4b5c271e0ddd59e6b5b7b63bf320190e146a5ac7da3fcf3826bd6db8a",
+      "bytes": 255418
+    },
+    {
+      "path": "gameplay/front/full-512.webp",
+      "sha256": "36ca7fa2666a227571f70cd0331740d2fc22fe4e34a4deb7ee4ba147372fa525",
+      "bytes": 190552
+    },
+    {
+      "path": "gameplay/front/partial-30-128.png",
+      "sha256": "69623e56b1884acd8847f4eb4183fbdd139afb54058f6661536be9c0bb11c582",
+      "bytes": 18197
+    },
+    {
+      "path": "gameplay/front/partial-30-128.webp",
+      "sha256": "fe13d2b8c15410ea9e68c5f270cfa63274b396078575822ce54f11814bacf927",
+      "bytes": 14526
+    },
+    {
+      "path": "gameplay/front/partial-30-256.png",
+      "sha256": "b8d6042bdd41f8b48755dc07e8f3b4834d52d1fd42c585d35b836475cbb320d1",
+      "bytes": 57509
+    },
+    {
+      "path": "gameplay/front/partial-30-256.webp",
+      "sha256": "73b63bac2d82e6331106654256483f3980f1f1dd5aba9121f898a8687a326f28",
+      "bytes": 42556
+    },
+    {
+      "path": "gameplay/front/partial-30-512.png",
+      "sha256": "bc5665d421a1b2db599948bdd51497b407ff3a9514b70912fa9fb9e340282d0a",
+      "bytes": 198178
+    },
+    {
+      "path": "gameplay/front/partial-30-512.webp",
+      "sha256": "bdbe6ad742027a5580ee543c26d556f5fc945ae51a4f4371c065587ac9f448ec",
+      "bytes": 142234
+    },
+    {
+      "path": "gameplay/front/partial-50-128.png",
+      "sha256": "a4e66e34247023bf8e7a86ce081d6d6d93e75c9cb2666c69d143522d51e622d9",
+      "bytes": 18266
+    },
+    {
+      "path": "gameplay/front/partial-50-128.webp",
+      "sha256": "71eb685a95701efc29f7fb44471c94aeab6eb0c34f6d3a056edc0aee4850edef",
+      "bytes": 14746
+    },
+    {
+      "path": "gameplay/front/partial-50-256.png",
+      "sha256": "b586ef8c7a2da2f75ff03fe2687ee2c971d0bb61aa5c13c41ca2f0e75cdf69f8",
+      "bytes": 57889
+    },
+    {
+      "path": "gameplay/front/partial-50-256.webp",
+      "sha256": "3512d8b6d21dc6be36302a9ca52aba636ad47082217d4b423e1b1a0bfaae1050",
+      "bytes": 42744
+    },
+    {
+      "path": "gameplay/front/partial-50-512.png",
+      "sha256": "6a5dc1ad73d46c9159b8162d7ff100283b8d5f570f22af5902f379951a66963c",
+      "bytes": 195109
+    },
+    {
+      "path": "gameplay/front/partial-50-512.webp",
+      "sha256": "503c9197eeafe93e0a168574a3f1a00a8de99df6a42ac4d27180c5bb3bb56850",
+      "bytes": 139330
+    },
+    {
+      "path": "gameplay/front/partial-80-128.png",
+      "sha256": "fb33e9b8ee9bb8cfc4c927ab0e6d8c078634ba2e56dc74606bf963f7d96b420e",
+      "bytes": 20203
+    },
+    {
+      "path": "gameplay/front/partial-80-128.webp",
+      "sha256": "7d8170a086388865db6c5e8155124580da72cb290f1e6528eb976dd36b7769b4",
+      "bytes": 16714
+    },
+    {
+      "path": "gameplay/front/partial-80-256.png",
+      "sha256": "cf1cc12dfab2bd74af0e26166f70333651c8ec68425603b9c238ca5fca80ea30",
+      "bytes": 68543
+    },
+    {
+      "path": "gameplay/front/partial-80-256.webp",
+      "sha256": "2d64cfc9d02f08142e506391cf863a2ac16dfaf0f6c75d5910e0bad7678e27c9",
+      "bytes": 52416
+    },
+    {
+      "path": "gameplay/front/partial-80-512.png",
+      "sha256": "741fbe7fe1f13f8567f2f21dabaa628bec3c751ed20940b499083ca304aea25d",
+      "bytes": 236295
+    },
+    {
+      "path": "gameplay/front/partial-80-512.webp",
+      "sha256": "bcb85f75e959ef843d43f61034ab145aa7873dd49dbad5326326f28b94d97cdf",
+      "bytes": 175682
+    },
+    {
+      "path": "gameplay/front/reward-128.png",
+      "sha256": "e9271b324180669bc33fec08035317e9f6f9a577b1d8a4e1737756af18cf44a5",
+      "bytes": 25445
+    },
+    {
+      "path": "gameplay/front/reward-128.webp",
+      "sha256": "3f87cae01fe8cec69e8110d9cbf1dfd147c4a9589729b1e19c42653ab22d9d20",
+      "bytes": 22386
+    },
+    {
+      "path": "gameplay/front/reward-256.png",
+      "sha256": "bb08f44c5a688e45884f4a7d89951a47934f500612a4d23976ad9763d8d30e10",
+      "bytes": 87632
+    },
+    {
+      "path": "gameplay/front/reward-256.webp",
+      "sha256": "f4ccadb2a1871d1c0bfc2069b72e6cae5b0e7b70a82bb1c5700414e4eda74fd3",
+      "bytes": 69986
+    },
+    {
+      "path": "gameplay/front/reward-512.png",
+      "sha256": "597309e9a22ae198ee315bdf299b9f83e3212aa23a839026de72926fd2f53233",
+      "bytes": 300923
+    },
+    {
+      "path": "gameplay/front/reward-512.webp",
+      "sha256": "779b575b51ffec0f9a6712959674507ef055e8ec3ed7671cf3333d87d9178ccf",
+      "bytes": 229796
+    },
+    {
+      "path": "gameplay/side/earned-128.png",
+      "sha256": "3c5c7d896d739a9dfcd46a12ea21d4ae7679b4f685685f609e413608bd010100",
+      "bytes": 18710
+    },
+    {
+      "path": "gameplay/side/earned-128.webp",
+      "sha256": "a0651f140344bcf9e75cc13b3279a724cb31306aae80cc98e52f353e6819fac1",
+      "bytes": 15672
+    },
+    {
+      "path": "gameplay/side/earned-256.png",
+      "sha256": "c654268f819c111c5d0e37a2257a4fe3f1a0e34fc6ea322f26605d01e905e31b",
+      "bytes": 64164
+    },
+    {
+      "path": "gameplay/side/earned-256.webp",
+      "sha256": "d695a02b13585f03e5c0874d90e6d7fb126cec7f6813b98c256ac52795185380",
+      "bytes": 49160
+    },
+    {
+      "path": "gameplay/side/earned-512.png",
+      "sha256": "76ed59c09c8fe668cb968e970222caea9cca6ea9136d9782579b2e4565813968",
+      "bytes": 224528
+    },
+    {
+      "path": "gameplay/side/earned-512.webp",
+      "sha256": "63c22e552a55e62319a2e3a5f6f4d38bf823f4603f6496a0f9b26e51853fda9c",
+      "bytes": 165868
+    },
+    {
+      "path": "gameplay/side/empty-128.png",
+      "sha256": "74d80530450bdd16a68e7a70a37ade237c8a751f8a9be3a15fe44f4362024b3c",
+      "bytes": 18808
+    },
+    {
+      "path": "gameplay/side/empty-128.webp",
+      "sha256": "b1984c77fcc32fda509f11da9836bcd3872607dff87e05849f11685f30a3e795",
+      "bytes": 15456
+    },
+    {
+      "path": "gameplay/side/empty-256.png",
+      "sha256": "bb69613654719d718da8d51f9f01b4241cf90be010588ef0b6f038291a622523",
+      "bytes": 63027
+    },
+    {
+      "path": "gameplay/side/empty-256.webp",
+      "sha256": "dfe4f86a7c171bfaa2c7a83bff8a4f7bc80d60ac00f8d3affcabbe8c7d7b9353",
+      "bytes": 48070
+    },
+    {
+      "path": "gameplay/side/empty-512.png",
+      "sha256": "327ac2d0db9348c94d49cd515bae74b958a8f533417f4bdcb9a00c67797e77e6",
+      "bytes": 219205
+    },
+    {
+      "path": "gameplay/side/empty-512.webp",
+      "sha256": "1851db1d2db6fefe5f533b53ddbcee252b72b91351b031ffe5c5b1616e3a5c7b",
+      "bytes": 161106
+    },
+    {
+      "path": "gameplay/side/full-128.png",
+      "sha256": "1d22b25e7ba827b4e7a41045a6a04f5fddcc98ea33015a1932a96f7b4f0b2e71",
+      "bytes": 17550
+    },
+    {
+      "path": "gameplay/side/full-128.webp",
+      "sha256": "dac730dc66dddbdad3ae540b867f557aff3c4c7ee0a63e937dec0c1384f73f8a",
+      "bytes": 14440
+    },
+    {
+      "path": "gameplay/side/full-256.png",
+      "sha256": "13239d815a388694fa980950ab8e4702bde2e8343b645248a8e4a8b282b44427",
+      "bytes": 57527
+    },
+    {
+      "path": "gameplay/side/full-256.webp",
+      "sha256": "6db5fc052bd0e637e0477b497626b57d98a07b092824aeeda91ea6f0eb349c32",
+      "bytes": 43724
+    },
+    {
+      "path": "gameplay/side/full-512.png",
+      "sha256": "d69e87bb847b920771c698cf2ead403afe49c848f9bfb0ff9d8e3e37c3e96dc3",
+      "bytes": 197332
+    },
+    {
+      "path": "gameplay/side/full-512.webp",
+      "sha256": "baabde0462f21e4f55e5c0ade5b07c76687466c55731d13a4adb5469eff578be",
+      "bytes": 143308
+    },
+    {
+      "path": "gameplay/side/partial-30-128.png",
+      "sha256": "7fbf1fa70f74d74601f9671b950837a429ba387012ebb2096cd1063632b0ac29",
+      "bytes": 18655
+    },
+    {
+      "path": "gameplay/side/partial-30-128.webp",
+      "sha256": "caab83aafd11d4e17276a4452f385cc5dc77c0fc0899ac840cb3f83b5266bcae",
+      "bytes": 15242
+    },
+    {
+      "path": "gameplay/side/partial-30-256.png",
+      "sha256": "b5d8a3d23170333574f218dfb9ab81c24fe45fc2af100dea9a9d71e79dad08f7",
+      "bytes": 59010
+    },
+    {
+      "path": "gameplay/side/partial-30-256.webp",
+      "sha256": "519341178bd690d28cd36deee1bb34d79203ebaefa70b950ed9f2953f3f4b68b",
+      "bytes": 44304
+    },
+    {
+      "path": "gameplay/side/partial-30-512.png",
+      "sha256": "798c1c55045017e3d8c970cfae871f2b02718a69aeb202388230e84800f86cb5",
+      "bytes": 196723
+    },
+    {
+      "path": "gameplay/side/partial-30-512.webp",
+      "sha256": "c0b5fd4f6e6fe3b4d1786e8e16f5cb6f6655f14593c2bb187163c50cbf38437d",
+      "bytes": 142600
+    },
+    {
+      "path": "gameplay/side/partial-50-128.png",
+      "sha256": "2f0be8e63cf0382c30be3fb20063dd8b6ae330320910d6c88cbfa9a681fa4434",
+      "bytes": 17354
+    },
+    {
+      "path": "gameplay/side/partial-50-128.webp",
+      "sha256": "1b95f0ac4b98083bf58fbc8610fadc65d8cb2ef086ab4f74ac06bc97c1790ca9",
+      "bytes": 14184
+    },
+    {
+      "path": "gameplay/side/partial-50-256.png",
+      "sha256": "0f79c6f23bc0254fb1023f5d096cbc07d2b7a1b414a2f5baf88ab72a7414699d",
+      "bytes": 56344
+    },
+    {
+      "path": "gameplay/side/partial-50-256.webp",
+      "sha256": "96905deb556e0afa2ba75a93223dd096d23924db0df8c64120c091207a749b9c",
+      "bytes": 43044
+    },
+    {
+      "path": "gameplay/side/partial-50-512.png",
+      "sha256": "3db7d22f805c3ec1bfb4f5f87d40642b8f998702f5d6eb670cdc0c4086cc621a",
+      "bytes": 191997
+    },
+    {
+      "path": "gameplay/side/partial-50-512.webp",
+      "sha256": "1986733d3143bf8ad7c893931771c2cbd4e12bf2e404a83448c8b4da12878540",
+      "bytes": 139514
+    },
+    {
+      "path": "gameplay/side/partial-80-128.png",
+      "sha256": "73e490a9040d4de48a15b5ca5e12142d2e44d4209809f96c201f0ee1e4459813",
+      "bytes": 17233
+    },
+    {
+      "path": "gameplay/side/partial-80-128.webp",
+      "sha256": "0016747fab71d7aeda7a84a3a5c49487ccec254151083ae1f6a2ec35edf64810",
+      "bytes": 13980
+    },
+    {
+      "path": "gameplay/side/partial-80-256.png",
+      "sha256": "c54de77f52d46749ab7794503ecc4229769462b1159c056f6282464c78104d0e",
+      "bytes": 55904
+    },
+    {
+      "path": "gameplay/side/partial-80-256.webp",
+      "sha256": "6abcaedbba4d788f4931559c2e1aa90f89642683ea4e1ac293ea99ba56534869",
+      "bytes": 41982
+    },
+    {
+      "path": "gameplay/side/partial-80-512.png",
+      "sha256": "9b87a829de96592081c66ea4efaf17907d57d1440162f50a426bf6ba61cd2c47",
+      "bytes": 193043
+    },
+    {
+      "path": "gameplay/side/partial-80-512.webp",
+      "sha256": "594129eaba493e1745c2268f02c6fb903f08344790bc9373c42d865058eeb25b",
+      "bytes": 139868
+    },
+    {
+      "path": "gameplay/side/reward-128.png",
+      "sha256": "2ca3bd49ba71ad1424e7fbd1d27bc4ab949d7ed8c9231bdc64c72af1386b5d70",
+      "bytes": 21998
+    },
+    {
+      "path": "gameplay/side/reward-128.webp",
+      "sha256": "eacdfd3826b620b6f84a25c8dcc04ea9f4af5037574dc688c1ff9ec637081b56",
+      "bytes": 18616
+    },
+    {
+      "path": "gameplay/side/reward-256.png",
+      "sha256": "f911873391f6a48cd9a7dbe8dd59b7aba1640cd8060a14023bb61fc203bc6620",
+      "bytes": 75558
+    },
+    {
+      "path": "gameplay/side/reward-256.webp",
+      "sha256": "ec2b2b88a381f8100022384b4edef4bda48954a9fd1c2076b572adc1095c1a9f",
+      "bytes": 58754
+    },
+    {
+      "path": "gameplay/side/reward-512.png",
+      "sha256": "344c2b97c9c8df3bc0e999bf1b068616dc985d6d799a92fb112b1546afb11e7a",
+      "bytes": 262774
+    },
+    {
+      "path": "gameplay/side/reward-512.webp",
+      "sha256": "150bb49749366384f89a7df6dbb2fc5eb6037feb9fae98748bcc4b0e01de7dc9",
+      "bytes": 195932
+    },
+    {
+      "path": "gameplay/three-quarter/earned-128.png",
+      "sha256": "47794158912b78bf6600dd1efdc2b6afc66c61ada2d8fb4570fab4dad0e456ea",
+      "bytes": 25807
+    },
+    {
+      "path": "gameplay/three-quarter/earned-128.webp",
+      "sha256": "5bf48b5afda622b054993ff5cc74da066c118165acbe62106c4a030039113d01",
+      "bytes": 22300
+    },
+    {
+      "path": "gameplay/three-quarter/earned-256.png",
+      "sha256": "8e1e20c300ed1b3744db30a37e83f8f5b8dd09182f6103410be95a07f55fc3a6",
+      "bytes": 85713
+    },
+    {
+      "path": "gameplay/three-quarter/earned-256.webp",
+      "sha256": "1bf5f666978c57034ccafe645b43be6837352a46121c0e2fd9e687675300c60d",
+      "bytes": 67310
+    },
+    {
+      "path": "gameplay/three-quarter/earned-512.png",
+      "sha256": "9d46de6c46a016f2506625d854fd20fe52647d5d9366337bd9cd99d8a9fa15e6",
+      "bytes": 290280
+    },
+    {
+      "path": "gameplay/three-quarter/earned-512.webp",
+      "sha256": "90651e92a7062c0215d1ad1f0a914f08d19c4c0151ccfbc2e26255fa455bef3e",
+      "bytes": 219892
+    },
+    {
+      "path": "gameplay/three-quarter/empty-128.png",
+      "sha256": "4bb475a250ad6e82e23a0a0cb08fabcc0b86a2f05b63c8cc4068fd6d9a3c4a8d",
+      "bytes": 20338
+    },
+    {
+      "path": "gameplay/three-quarter/empty-128.webp",
+      "sha256": "f001f2ab7601f11b37546cde0a047bab6da6e72e51eda5d18b77de89fbd41550",
+      "bytes": 16492
+    },
+    {
+      "path": "gameplay/three-quarter/empty-256.png",
+      "sha256": "4d1ab3bc96430617728747a75a5cd65c3c11977d412806206392a95d7ad2b559",
+      "bytes": 65542
+    },
+    {
+      "path": "gameplay/three-quarter/empty-256.webp",
+      "sha256": "4da934fede20e0aa3a38063b04b373026162f6d795da4dfd03779fccffe02447",
+      "bytes": 48466
+    },
+    {
+      "path": "gameplay/three-quarter/empty-512.png",
+      "sha256": "41f2dce3b9235db4d707834c19756be1c32a884a14b3edf0c8b0939203e958cb",
+      "bytes": 216771
+    },
+    {
+      "path": "gameplay/three-quarter/empty-512.webp",
+      "sha256": "a06ebc9bcb954f9add2319b359c0b54379ad8bb182d7744f55753a99927a3617",
+      "bytes": 154046
+    },
+    {
+      "path": "gameplay/three-quarter/full-128.png",
+      "sha256": "b0f8fd28a788aef701a532c7f83e96acdb1bad108852898fc39633c2f335efdb",
+      "bytes": 21206
+    },
+    {
+      "path": "gameplay/three-quarter/full-128.webp",
+      "sha256": "144423a41525958fb7aff9d25a033b6da471368fb89be214f7d53de8dc4490b7",
+      "bytes": 17694
+    },
+    {
+      "path": "gameplay/three-quarter/full-256.png",
+      "sha256": "f87d3ff077c08eff48f0fe26d7e9b7c24b47ba7b1b34c287120c1cc3cf36bf25",
+      "bytes": 69099
+    },
+    {
+      "path": "gameplay/three-quarter/full-256.webp",
+      "sha256": "4ffda1d87a58d0c96f5f5ed5ef1382e2e002a6c266ac2736a38f1aded9269dac",
+      "bytes": 52662
+    },
+    {
+      "path": "gameplay/three-quarter/full-512.png",
+      "sha256": "533978de1048856d376b2aabc25e68f3b2c2e4ca2fe8307e3cee1168109a245a",
+      "bytes": 233132
+    },
+    {
+      "path": "gameplay/three-quarter/full-512.webp",
+      "sha256": "71981807212a84f2bd12ccaff464be83969d0fa452e8ed8f065b15870323f965",
+      "bytes": 169868
+    },
+    {
+      "path": "gameplay/three-quarter/partial-30-128.png",
+      "sha256": "f859f6b85cf2efe9a3c902e4084078e65eac53097afee56ae02fc2eaa76a73f6",
+      "bytes": 20866
+    },
+    {
+      "path": "gameplay/three-quarter/partial-30-128.webp",
+      "sha256": "ff147c41b7db71f2a624e137429cd13eeb5b48fc4efa45d6b63d5da684c3f2ac",
+      "bytes": 16980
+    },
+    {
+      "path": "gameplay/three-quarter/partial-30-256.png",
+      "sha256": "e4fe4811460e77e9ed792121bb83001ed25c124953249c8244e6550f6babb3f7",
+      "bytes": 66303
+    },
+    {
+      "path": "gameplay/three-quarter/partial-30-256.webp",
+      "sha256": "9901e6c25d96b31ff828163e5108b5f9f3d7fbbb3d48c252f8f419509f1a9018",
+      "bytes": 49322
+    },
+    {
+      "path": "gameplay/three-quarter/partial-30-512.png",
+      "sha256": "70431bbef280b5b1f73f808ee925cc9669f7738479f51d55f5cfdaa166ee13ad",
+      "bytes": 216159
+    },
+    {
+      "path": "gameplay/three-quarter/partial-30-512.webp",
+      "sha256": "66f1adad2a58e3c861f3d21362fdbd33e668ff65a4a2cadf9ab066a416f40e7d",
+      "bytes": 154384
+    },
+    {
+      "path": "gameplay/three-quarter/partial-50-128.png",
+      "sha256": "6f9ac2ab3bc5e7cd6b657224ac2bb3b97785ed4db244aaf57cb473c9006ea522",
+      "bytes": 20989
+    },
+    {
+      "path": "gameplay/three-quarter/partial-50-128.webp",
+      "sha256": "a0b6a350290b06d45cba725586ffe3d1d52a4107d6895a59ff8722c98f5a9745",
+      "bytes": 17182
+    },
+    {
+      "path": "gameplay/three-quarter/partial-50-256.png",
+      "sha256": "07bb4222dee9088393bfe5c3e23a3d818e36db1b6a44a46777d1b3c2c6b4278f",
+      "bytes": 67302
+    },
+    {
+      "path": "gameplay/three-quarter/partial-50-256.webp",
+      "sha256": "47ddeb68bb69b5ae0f8df925f753c84b64774dc85c22e328576cb290daf11aeb",
+      "bytes": 51306
+    },
+    {
+      "path": "gameplay/three-quarter/partial-50-512.png",
+      "sha256": "bfc0c4345d9b6eb2e18cad226832284a814833e57239b10802e51fbc19ed37db",
+      "bytes": 220903
+    },
+    {
+      "path": "gameplay/three-quarter/partial-50-512.webp",
+      "sha256": "017c7a38456b1f42e7bed7d40d0a1a707c9ed51400144dc8440eabbfb1b8a42b",
+      "bytes": 161994
+    },
+    {
+      "path": "gameplay/three-quarter/partial-80-128.png",
+      "sha256": "9566a9e7f03d699b8d1c2469867af6ea517e928045e1065becc2622903f80f2a",
+      "bytes": 19933
+    },
+    {
+      "path": "gameplay/three-quarter/partial-80-128.webp",
+      "sha256": "00b0f360ff27c3592446eb8a4e0b9e12eee92508c8a5870ec1c23ead29ffb140",
+      "bytes": 16372
+    },
+    {
+      "path": "gameplay/three-quarter/partial-80-256.png",
+      "sha256": "18cb81aa848eaf252f1efdb050cd4f376390b4d68edd4fc79b7c14b66f626faa",
+      "bytes": 63679
+    },
+    {
+      "path": "gameplay/three-quarter/partial-80-256.webp",
+      "sha256": "aae1ce4195f6198be7146b4eba8a0106f25eb143b7873e905686a55bb5a3a0bf",
+      "bytes": 48416
+    },
+    {
+      "path": "gameplay/three-quarter/partial-80-512.png",
+      "sha256": "20177ca12d69e62a376487baaa3507de054ca16befe28576f08cda24eb20ff71",
+      "bytes": 212963
+    },
+    {
+      "path": "gameplay/three-quarter/partial-80-512.webp",
+      "sha256": "f033aa08fd1ebd6ab760ad1d88da0ed8457fe2e341368d1a3cb6c0a303481342",
+      "bytes": 153896
+    },
+    {
+      "path": "gameplay/three-quarter/reward-128.png",
+      "sha256": "d92d90a9d1e67e65c6a2ab498daca86b2887ac2de3887a3fc576001b1cac9a72",
+      "bytes": 24143
+    },
+    {
+      "path": "gameplay/three-quarter/reward-128.webp",
+      "sha256": "0161f13a2a219c2a60af98886a0e02260ac11eb3f1f7b7f18669d920e15eec0e",
+      "bytes": 20754
+    },
+    {
+      "path": "gameplay/three-quarter/reward-256.png",
+      "sha256": "fc2e26157fbb6da82b7ea27189909d293fcd65c4e1d93a9b611a4cf5e95bc4cd",
+      "bytes": 81714
+    },
+    {
+      "path": "gameplay/three-quarter/reward-256.webp",
+      "sha256": "34d3d318fabba434238b1895572c9023dae18cc2b2331ca0384a53520351bdb7",
+      "bytes": 63474
+    },
+    {
+      "path": "gameplay/three-quarter/reward-512.png",
+      "sha256": "2139bc406ecba2423d5143c6c905f57277605ffe266e717298f6dd15cc2aaab1",
+      "bytes": 275533
+    },
+    {
+      "path": "gameplay/three-quarter/reward-512.webp",
+      "sha256": "ba468c949589882c72e14d676d4ff85d229a4d1f3f344731558203e2e4b74063",
+      "bytes": 204872
+    },
+    {
+      "path": "gameplay/top/earned-128.png",
+      "sha256": "946cdd9ce7c6feff377766bd328dd8fe5dcb1c4e39c7efbbe76191f679aeac87",
+      "bytes": 24468
+    },
+    {
+      "path": "gameplay/top/earned-128.webp",
+      "sha256": "697d8309ddf7a68fc6204505ea8089df7e4261f9208c9d43ff425e8c24e15ece",
+      "bytes": 20146
+    },
+    {
+      "path": "gameplay/top/earned-256.png",
+      "sha256": "71e030b1e2e8028885b39f3db2e9251554fd5f20de28f5ba4019d716bff44d1c",
+      "bytes": 84471
+    },
+    {
+      "path": "gameplay/top/earned-256.webp",
+      "sha256": "4f610d1a9b33e61f53c576c9c4f959a5f97e3b6080e6939e421f065a6a8fd1cd",
+      "bytes": 63834
+    },
+    {
+      "path": "gameplay/top/earned-512.png",
+      "sha256": "a5c35c6498a1268ab5bf31523003fe5d81a512e1a8171b4182480b40a3c20c72",
+      "bytes": 289126
+    },
+    {
+      "path": "gameplay/top/earned-512.webp",
+      "sha256": "537d5bb480c6a1053b76be23ec5233016f8f54ed1544e73b3bd0170ce5d3e2f1",
+      "bytes": 209404
+    },
+    {
+      "path": "gameplay/top/empty-128.png",
+      "sha256": "3fb0caedbc3e4c522a1de61038ba826e6984c89efa76f343fa980ad5200514bc",
+      "bytes": 25515
+    },
+    {
+      "path": "gameplay/top/empty-128.webp",
+      "sha256": "1ccf0d892b245b87ab5b848d6097ccc39215977ea8bdae9916782f4486cc34cd",
+      "bytes": 19516
+    },
+    {
+      "path": "gameplay/top/empty-256.png",
+      "sha256": "828cbcf19fd5df218d0602b588e9de62e761b198bd0abf456c1141b2780c165c",
+      "bytes": 85836
+    },
+    {
+      "path": "gameplay/top/empty-256.webp",
+      "sha256": "1f2744d81738aafa52279841dd3ecd8e428306f3eb212d649a06b4cd6e943a4c",
+      "bytes": 62022
+    },
+    {
+      "path": "gameplay/top/empty-512.png",
+      "sha256": "8c28c5478f3ed6820b1105c4125255f7219c8bac476688e5e074a68cc0dd170c",
+      "bytes": 294907
+    },
+    {
+      "path": "gameplay/top/empty-512.webp",
+      "sha256": "9d531eb9429750a1a46541b357edb57a980946f34f62892f4de9ca897857a6d5",
+      "bytes": 209364
+    },
+    {
+      "path": "gameplay/top/full-128.png",
+      "sha256": "9c8d343316d868743db837e8cee83c97c5959ed3b9ebafa43050fa6f3f5e04d8",
+      "bytes": 22399
+    },
+    {
+      "path": "gameplay/top/full-128.webp",
+      "sha256": "cdcdadf481e443c323aee1adf648162b440f9a53330def981b79554c4e6b3a75",
+      "bytes": 17692
+    },
+    {
+      "path": "gameplay/top/full-256.png",
+      "sha256": "082fbcc45fd845ac40e17342296943f3af3a6d03534929418c23fa2d194868c1",
+      "bytes": 72220
+    },
+    {
+      "path": "gameplay/top/full-256.webp",
+      "sha256": "4914358bc13521a79c7f998c4d36ce97d39b527086f3e0a24e5ee7097b3f6ce2",
+      "bytes": 51506
+    },
+    {
+      "path": "gameplay/top/full-512.png",
+      "sha256": "2e99be89ffa2bc752df8bbc6304c169ed0d2c133f9328c0ca4db8f7a4e5e9658",
+      "bytes": 240029
+    },
+    {
+      "path": "gameplay/top/full-512.webp",
+      "sha256": "3f7e7abda75bd0566a0ff5ee77c9a05208de53b82e0e415917fb78f3f321181c",
+      "bytes": 166716
+    },
+    {
+      "path": "gameplay/top/partial-30-128.png",
+      "sha256": "aba20c7c9ffce547a53b113ee69ca8dd6c07f30a855df1a5e1f9073562e72d40",
+      "bytes": 25737
+    },
+    {
+      "path": "gameplay/top/partial-30-128.webp",
+      "sha256": "4c7ba5f26fe14dcacab2dda8d7ecfa8f34e35647aaea66dbf79c17157743bcc9",
+      "bytes": 20956
+    },
+    {
+      "path": "gameplay/top/partial-30-256.png",
+      "sha256": "644db28e1259f652b2288fdf9030816c2648f2152cdfa84d1942901a70f14724",
+      "bytes": 87823
+    },
+    {
+      "path": "gameplay/top/partial-30-256.webp",
+      "sha256": "3f4a7bf4e8d9109a41dd91c6347f6466d6c5725bc90833c2432bc43105b8b671",
+      "bytes": 65522
+    },
+    {
+      "path": "gameplay/top/partial-30-512.png",
+      "sha256": "edb6eeda6abfd00cf97d8c49f4515d9b342be77a0d2ab475108c0c2809d3fd30",
+      "bytes": 300538
+    },
+    {
+      "path": "gameplay/top/partial-30-512.webp",
+      "sha256": "b44dc868f9ec9a09864138115ed704ef18ebc7ca2a4d9b8f8f0136e1323c3e83",
+      "bytes": 217526
+    },
+    {
+      "path": "gameplay/top/partial-50-128.png",
+      "sha256": "f8effac6cef66e3d0a8dc8cb8aa6eb5b99393926593743788ed2bb7c929a5947",
+      "bytes": 25508
+    },
+    {
+      "path": "gameplay/top/partial-50-128.webp",
+      "sha256": "44a909443c78fe54ea68253423e9077d90ac40fa8d341c0c9afb41d79b99e34b",
+      "bytes": 20294
+    },
+    {
+      "path": "gameplay/top/partial-50-256.png",
+      "sha256": "d64e0ffe034c38bda5555ed0583d14bbbf0f4570de258d17ee16d9348f903bd3",
+      "bytes": 87032
+    },
+    {
+      "path": "gameplay/top/partial-50-256.webp",
+      "sha256": "b0ad340d188c48ffc589a840fc5e7ec7e9b5d8ff934551dca55b5059641a4d04",
+      "bytes": 63830
+    },
+    {
+      "path": "gameplay/top/partial-50-512.png",
+      "sha256": "ff417e53e84fb271fe22c4e1bc35766a630b1cf615d520801f383632f38f2f68",
+      "bytes": 300833
+    },
+    {
+      "path": "gameplay/top/partial-50-512.webp",
+      "sha256": "b659b5cc75501814402208aa06c2dcbd2f944ad0e57bc952a7e37d8312076b02",
+      "bytes": 215076
+    },
+    {
+      "path": "gameplay/top/partial-80-128.png",
+      "sha256": "99e718a6d3f52b034bf17a9c771afa62ea9869a231178adea5e644e5674cc529",
+      "bytes": 22351
+    },
+    {
+      "path": "gameplay/top/partial-80-128.webp",
+      "sha256": "8811b53bf74496d7776190a84f97f827bf301c2e236c457e3166746d9a76884a",
+      "bytes": 17594
+    },
+    {
+      "path": "gameplay/top/partial-80-256.png",
+      "sha256": "048c3aa4aad6e4968e3e3602d132241b06e78517f8809a8f5c9f6d0b41223d76",
+      "bytes": 72565
+    },
+    {
+      "path": "gameplay/top/partial-80-256.webp",
+      "sha256": "77c822b82fa97dd2745eebb2ee6c58b27b5ba230cf527196b902221a65a5206d",
+      "bytes": 51874
+    },
+    {
+      "path": "gameplay/top/partial-80-512.png",
+      "sha256": "622e6465535897bf3de58f42ffcee868738e73a4550ac84b214cfa01287d01e4",
+      "bytes": 240266
+    },
+    {
+      "path": "gameplay/top/partial-80-512.webp",
+      "sha256": "e19d0674219a14fbef373df309ea94daf7ffa0df6243114267de101344f98275",
+      "bytes": 165348
+    },
+    {
+      "path": "gameplay/top/reward-128.png",
+      "sha256": "5382b8cf8e6e0fbe652dad43ab33f239cf680725fca85deca1f53ba210f0d526",
+      "bytes": 24965
+    },
+    {
+      "path": "gameplay/top/reward-128.webp",
+      "sha256": "e54a566423c03531121f730da834bdeae7dfb28a7226138dacead8882e7522ff",
+      "bytes": 21170
+    },
+    {
+      "path": "gameplay/top/reward-256.png",
+      "sha256": "da8aa4324ce2240d9986bb88119049a2e37100a8fc614d3465600238560c0810",
+      "bytes": 87754
+    },
+    {
+      "path": "gameplay/top/reward-256.webp",
+      "sha256": "47618f4e36ea53498a37d9e4ff18ad86fbdc36c1f8899fe6fde46eeb5ad03fc8",
+      "bytes": 68290
+    },
+    {
+      "path": "gameplay/top/reward-512.png",
+      "sha256": "b3d1b8b95e8602c947d1d72f31fbc12cba961bdecb32964a91512919146919f6",
+      "bytes": 304052
+    },
+    {
+      "path": "gameplay/top/reward-512.webp",
+      "sha256": "5d07b4b8138cbd965087092db360c6329e4baea4994c8b106996ce826b94652e",
+      "bytes": 227472
+    },
+    {
+      "path": "gameplay/ui/earned-toast-128.png",
+      "sha256": "f8f72e3f02e340be694698ad283df0c81a088fc5d3cac56cc053732d3cbc1f7d",
+      "bytes": 17443
+    },
+    {
+      "path": "gameplay/ui/earned-toast-128.webp",
+      "sha256": "2dd529e4fbb95ecc4f8b5af6bd5c9bb64e159b2f05f1f21e85405e1027fd9357",
+      "bytes": 15302
+    },
+    {
+      "path": "gameplay/ui/earned-toast-256.png",
+      "sha256": "edb270f9a3d55ecb1bdf0af13db190612eefe7502ffecda796d3526ee837788d",
+      "bytes": 58621
+    },
+    {
+      "path": "gameplay/ui/earned-toast-256.webp",
+      "sha256": "0e79a7e8acead12ec530bb4b33c56b50fcc459096e0cdbe2fdd015e4a346719b",
+      "bytes": 46954
+    },
+    {
+      "path": "gameplay/ui/earned-toast-512.png",
+      "sha256": "a4df6782330c60b0d04bb034c768316e886d12a81d09287afd3ac32b27cf62c0",
+      "bytes": 197716
+    },
+    {
+      "path": "gameplay/ui/earned-toast-512.webp",
+      "sha256": "d485ae6d0c1eb504be6475a3fdd6c3db6995b9bc9694dbc75cfe2af73192f38a",
+      "bytes": 151148
+    },
+    {
+      "path": "gameplay/ui/meter-128.png",
+      "sha256": "c14382878635e450ac7d315b8db911a79af9d5d9c20343af96fd9a5b4abf32ee",
+      "bytes": 6110
+    },
+    {
+      "path": "gameplay/ui/meter-128.webp",
+      "sha256": "22e47edca50ee9eeaecad305386097798ed5ad7d398a2b9ba160ebcefdfe3413",
+      "bytes": 5206
+    },
+    {
+      "path": "gameplay/ui/meter-256.png",
+      "sha256": "3cd0937b4cf14fde63a3c9c219ce5c39cf7c11921fed38594d589c60cb3d5a2a",
+      "bytes": 19163
+    },
+    {
+      "path": "gameplay/ui/meter-256.webp",
+      "sha256": "c6cd8b7e9ac74409720d40c675f85bc87715f4364eedb3e06ca8c87d2c36fdb6",
+      "bytes": 14584
+    },
+    {
+      "path": "gameplay/ui/meter-512.png",
+      "sha256": "8348822fcfddbc6d64cb00b00fcc8dc8288ac0a3c70f258de59b4a1f41e10435",
+      "bytes": 61470
+    },
+    {
+      "path": "gameplay/ui/meter-512.webp",
+      "sha256": "53ae87636c0a5e57e2f4e23b6780691eea46c4669f66d0aeab09c4f18f4ed6c2",
+      "bytes": 43662
+    },
+    {
+      "path": "gameplay/ui/reward-badge-128.png",
+      "sha256": "44aa7e869ca6574978f844f0392b2d7e6e68996d1112b364bb5338232b334661",
+      "bytes": 16332
+    },
+    {
+      "path": "gameplay/ui/reward-badge-128.webp",
+      "sha256": "e70b1012c4ad74cbfa0a3526c6f18937c5b6c37a324fae7d82e42f0297746c14",
+      "bytes": 14328
+    },
+    {
+      "path": "gameplay/ui/reward-badge-256.png",
+      "sha256": "92e008d8f0017b54947ec19c0db92940e5858ce5573b16f94ae9e5242e3c5a58",
+      "bytes": 55534
+    },
+    {
+      "path": "gameplay/ui/reward-badge-256.webp",
+      "sha256": "05828b7d3eb9435315950f6af5d49e7860866ccd6a61a60986d80428c38cefb7",
+      "bytes": 44046
+    },
+    {
+      "path": "gameplay/ui/reward-badge-512.png",
+      "sha256": "9e57f483111ff839e72bd90f8f11286a059b638bf9cc0c59a0a61aca9d7c0544",
+      "bytes": 187583
+    },
+    {
+      "path": "gameplay/ui/reward-badge-512.webp",
+      "sha256": "26e0ffe9c96b920ef62e1768d81540fe60d9bc1c756a5d973504bad903a6a843",
+      "bytes": 142128
+    },
+    {
+      "path": "generation.json",
+      "sha256": "bd36f0bd8ca61bc65e1e66af3edfcfce4d1f71a3727028a8419a78a71066d81a",
+      "bytes": 45229
+    },
+    {
+      "path": "masters/animation/fill-00.png",
+      "sha256": "5cddb9590b9f5088a40b04578c875198ed2660c3159125be6e7c4451b59cac01",
+      "bytes": 735953
+    },
+    {
+      "path": "masters/animation/fill-01.png",
+      "sha256": "c59a43a46a071ada52e50e4c45480893841389c867fe8abb70011b535bb339d2",
+      "bytes": 704408
+    },
+    {
+      "path": "masters/animation/fill-02.png",
+      "sha256": "e0590e40647e1afd210f329187a5c50d89d085780c5ea71377988a0552624ab4",
+      "bytes": 651777
+    },
+    {
+      "path": "masters/animation/fill-03.png",
+      "sha256": "fbcce9760f513f1b7b6ab2efc27e70ec1b1ecdb7f0c9cbf3a39f83c7e22db151",
+      "bytes": 803664
+    },
+    {
+      "path": "masters/animation/fill-04.png",
+      "sha256": "c5982c9f649fdaa267c05488d7b9473b8474f59d58b077cbd846252bd03effbb",
+      "bytes": 861873
+    },
+    {
+      "path": "masters/components/bolt.png",
+      "sha256": "223cfba7ba7bceb848773ae59a8803ea4fbff8bcde8d1bf6ed63c5cf579cc2a4",
+      "bytes": 447439
+    },
+    {
+      "path": "masters/components/meter.png",
+      "sha256": "2794a6ba1b54d811a2b97e740d20d798db18dc29d9329c6d063e296304c4f4a4",
+      "bytes": 142054
+    },
+    {
+      "path": "masters/components/plus.png",
+      "sha256": "a53938e39a18ab5e0582f2f003e710687703baf8aa73a658e97f450ca0929852",
+      "bytes": 668046
+    },
+    {
+      "path": "masters/effects/earned.png",
+      "sha256": "df228b3bf6aea30b835815eb81ca6111adc78c958b8d95349b78898e792553b6",
+      "bytes": 786397
+    },
+    {
+      "path": "masters/effects/reward.png",
+      "sha256": "d51a9281a7a315b5611c440d0f38b3da6f64781277f3b8bfacd2e0b57255aad1",
+      "bytes": 771551
+    },
+    {
+      "path": "masters/effects/sparkles.png",
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "bytes": 291978
+    },
+    {
+      "path": "masters/front/earned.png",
+      "sha256": "81202231696cd27b1757b9628f18aeee299ddbc726b1408d49b4446e0e293414",
+      "bytes": 1101831
+    },
+    {
+      "path": "masters/front/empty.png",
+      "sha256": "5cddb9590b9f5088a40b04578c875198ed2660c3159125be6e7c4451b59cac01",
+      "bytes": 735953
+    },
+    {
+      "path": "masters/front/full.png",
+      "sha256": "c5982c9f649fdaa267c05488d7b9473b8474f59d58b077cbd846252bd03effbb",
+      "bytes": 861873
+    },
+    {
+      "path": "masters/front/partial-30.png",
+      "sha256": "c59a43a46a071ada52e50e4c45480893841389c867fe8abb70011b535bb339d2",
+      "bytes": 704408
+    },
+    {
+      "path": "masters/front/partial-50.png",
+      "sha256": "e0590e40647e1afd210f329187a5c50d89d085780c5ea71377988a0552624ab4",
+      "bytes": 651777
+    },
+    {
+      "path": "masters/front/partial-80.png",
+      "sha256": "fbcce9760f513f1b7b6ab2efc27e70ec1b1ecdb7f0c9cbf3a39f83c7e22db151",
+      "bytes": 803664
+    },
+    {
+      "path": "masters/front/reward.png",
+      "sha256": "3ffd86e64537a533c472f7b40f5c04ae5ce0cde0520bb5389ab9204af41a17d3",
+      "bytes": 1044565
+    },
+    {
+      "path": "masters/side/earned.png",
+      "sha256": "038fb49521fd6b2082c3dac9ac6647d0f02eb812454cc01835af8c14a9d54bf7",
+      "bytes": 793627
+    },
+    {
+      "path": "masters/side/empty.png",
+      "sha256": "6a8091336b299e1f2437a466b20c1b33be0f5299f233791aac10eb8967829c1d",
+      "bytes": 765956
+    },
+    {
+      "path": "masters/side/full.png",
+      "sha256": "4620c5f279278d17f21629bdecb5ebdd5c3f8d5c922a8d9c3b476cea4d5d45c2",
+      "bytes": 681533
+    },
+    {
+      "path": "masters/side/partial-30.png",
+      "sha256": "c8d6d9fe500d9070bcc591eb06a1e4820e63eed6ccda5a0df8c9358165047996",
+      "bytes": 662714
+    },
+    {
+      "path": "masters/side/partial-50.png",
+      "sha256": "d5175e28e59d4a1d4263899160ff3c708cbe7c99cd0826bdf7afea008083e28a",
+      "bytes": 655110
+    },
+    {
+      "path": "masters/side/partial-80.png",
+      "sha256": "7d514f40324137a93a34b8ea7bef12643bbd7a93d6e58dc6b91522aa01b83a03",
+      "bytes": 677900
+    },
+    {
+      "path": "masters/side/reward.png",
+      "sha256": "5d35e60faf4e5cbbfda8969e569aabf5c6f64da9099095e55d5b092e000fab57",
+      "bytes": 924471
+    },
+    {
+      "path": "masters/three-quarter/earned.png",
+      "sha256": "6b812cd0e1fe1bc09199f860411c8843e35bde97e759ac73e3ad0014bc697e49",
+      "bytes": 988181
+    },
+    {
+      "path": "masters/three-quarter/empty.png",
+      "sha256": "fbce76e6f4901a58083a0d334a8088c2c917e4df918baf8a3623d7b623a49ee7",
+      "bytes": 745196
+    },
+    {
+      "path": "masters/three-quarter/full.png",
+      "sha256": "95721fa556964a42aac19212b0a261a442c1885b25dca09fb86fdbdfbce4ad07",
+      "bytes": 798914
+    },
+    {
+      "path": "masters/three-quarter/partial-30.png",
+      "sha256": "78a2f39f54c3a5663cfb66e1c4bfe132daf22cdccce4411ea396f0423d5c7f5c",
+      "bytes": 710295
+    },
+    {
+      "path": "masters/three-quarter/partial-50.png",
+      "sha256": "079db7fe02308a10089800fc4d15de89e29dce51f2a86b338baa9649a03b889d",
+      "bytes": 719002
+    },
+    {
+      "path": "masters/three-quarter/partial-80.png",
+      "sha256": "11f065213efde4848188301d5b0b16b9707792296dacd0cae9095a870945074e",
+      "bytes": 712055
+    },
+    {
+      "path": "masters/three-quarter/reward.png",
+      "sha256": "1f141610465381284423f655cf2b683d803101930ebc1bc23a3a78bb63e7506e",
+      "bytes": 934625
+    },
+    {
+      "path": "masters/top/earned.png",
+      "sha256": "b7ddbddbb3097ea68cf8f7454ca0811bcbd00e8300399c5b33881cd6238cdaad",
+      "bytes": 984596
+    },
+    {
+      "path": "masters/top/empty.png",
+      "sha256": "18a21c62214701fff629332f5c776ae64c68a81bf2d8eb1530bf35bcff71217d",
+      "bytes": 1007372
+    },
+    {
+      "path": "masters/top/full.png",
+      "sha256": "00787b2fe58633be9aef9e495034d86927836c673d2ac46f19746eb725d68b7a",
+      "bytes": 779685
+    },
+    {
+      "path": "masters/top/partial-30.png",
+      "sha256": "c6396829552fd480c9499b0d65655bbcb61bad3fe6dfc02b6af0a5235289f4bd",
+      "bytes": 1023673
+    },
+    {
+      "path": "masters/top/partial-50.png",
+      "sha256": "2391a3c41c2c64505c33c6f738944250df56a617b1aaca47091a689220093827",
+      "bytes": 1057383
+    },
+    {
+      "path": "masters/top/partial-80.png",
+      "sha256": "62d086f91043de80c2eca9d5817d993ca04c7944a4e68a76ee03bbfbc4577ed2",
+      "bytes": 790764
+    },
+    {
+      "path": "masters/top/reward.png",
+      "sha256": "0f91a59b91b5e9bdcdfcfff77b47be8a3c4833c847d6a659c5d5770d08119eb8",
+      "bytes": 1050567
+    },
+    {
+      "path": "masters/ui/earned-toast.png",
+      "sha256": "b055ca2f2bf9f3f4aa2226daa93003c8fcc2b843297bd96fc8e0ac75099d0246",
+      "bytes": 685700
+    },
+    {
+      "path": "masters/ui/meter.png",
+      "sha256": "6c24717a09ef8aae66bf3051a8fbba4cf7b7d7bbc65204d0a6baf491b9fda371",
+      "bytes": 199888
+    },
+    {
+      "path": "masters/ui/reward-badge.png",
+      "sha256": "20ea3de9854bc757d52225cb2cb6ce034835554e28324b922d66bf112f183f93",
+      "bytes": 648040
+    },
+    {
+      "path": "preview.html",
+      "sha256": "0b80f78f34c6e04e838abc60d638724efb2d72ca2943ea0a03ebbf97ba4ad57b",
+      "bytes": 3742
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "3c4c67b5cbb06d9d57af609ef784e7a78583ec81822985bf0e4c8f91be77b095",
+      "bytes": 294042
+    },
+    {
+      "path": "previews/animation.jpg",
+      "sha256": "b81db7db06db71c9b75e41f97ba1c93f14be3de191c103478fc252159452c3ac",
+      "bytes": 48904
+    },
+    {
+      "path": "previews/components.jpg",
+      "sha256": "0e9f2b629a9c1809ebb042234d04ad172164283663dd2c6a290f75f887e29abf",
+      "bytes": 20520
+    },
+    {
+      "path": "previews/effects.jpg",
+      "sha256": "a3a1c0486a6c29281416817f8dd47d34a9caf9a1156ceeb6f8b76c7fa09827f8",
+      "bytes": 26761
+    },
+    {
+      "path": "previews/front.jpg",
+      "sha256": "6c3af9b9c2897c0ad77e8904039c5ce4de5190e2d0d5b1a9a06b73d0031b197a",
+      "bytes": 68349
+    },
+    {
+      "path": "previews/side.jpg",
+      "sha256": "57b023a18d4d3f7767b9d25258f0f32bcf1d20ae8c657bacc115fd048af7a293",
+      "bytes": 63511
+    },
+    {
+      "path": "previews/three-quarter.jpg",
+      "sha256": "e47f409c2b5dd19ed129f42ba82489685c86762b6058cd6a5c57cb855fc4f648",
+      "bytes": 77959
+    },
+    {
+      "path": "previews/top.jpg",
+      "sha256": "078a1b9d7f420a80ca4447990c61c4e1626b8ee31d2965a7d86f92b4fe060009",
+      "bytes": 75905
+    },
+    {
+      "path": "previews/ui.jpg",
+      "sha256": "578b4fe4ab63a4e50ce7bd0e86647d3a5c675da43ca18c0dbedab382211d24a4",
+      "bytes": 24156
+    },
+    {
+      "path": "qa.json",
+      "sha256": "473fdcbb08f213427ed71a7c8e9c3836c9dd093c15b6cc490b467e2866d93eb7",
+      "bytes": 135
+    },
+    {
+      "path": "references/Puff Trails Cannon Energy Asset Board-4.png",
+      "sha256": "0b81153c8dd3a0ecc8bdb2fff1767dd9b5bb667106d890e4abf4cf7b9f64f786",
+      "bytes": 2215403
+    }
+  ]
+}

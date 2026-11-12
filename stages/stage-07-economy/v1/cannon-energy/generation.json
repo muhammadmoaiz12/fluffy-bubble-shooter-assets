@@ -1,0 +1,381 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Puff Trails Cannon Energy Asset Board-4.png",
+      "sha256": "0b81153c8dd3a0ecc8bdb2fff1767dd9b5bb667106d890e4abf4cf7b9f64f786"
+    }
+  ],
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/energy.png": "223cfba7ba7bceb848773ae59a8803ea4fbff8bcde8d1bf6ed63c5cf579cc2a4",
+    "stages/stage-06-power-ups-boosters/v1/masters/icons/plus.png": "a53938e39a18ab5e0582f2f003e710687703baf8aa73a658e97f450ca0929852",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/purple-meter.png": "2794a6ba1b54d811a2b97e740d20d798db18dc29d9329c6d063e296304c4f4a4",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2"
+  },
+  "records": {
+    "side/partial-50": {
+      "id": "side/partial-50",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--partial-50.png",
+      "source_box": [
+        392,
+        730,
+        512,
+        835
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2f94054d-7270-414a-894d-f8d70011f9d6.png"
+    },
+    "front/partial-50": {
+      "id": "front/partial-50",
+      "description": "ONE Cannon Energy jar, front orthographic view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--partial-50.png",
+      "source_box": [
+        392,
+        515,
+        512,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-90bafc20-5eb9-4fe8-b45a-2cb12896c109.png"
+    },
+    "side/partial-30": {
+      "id": "side/partial-30",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--partial-30.png",
+      "source_box": [
+        271,
+        730,
+        391,
+        835
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2f876610-81a4-431a-a4b6-d0f4a39454d0.png"
+    },
+    "front/empty": {
+      "id": "front/empty",
+      "description": "ONE Cannon Energy jar, front orthographic view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--empty.png",
+      "source_box": [
+        150,
+        515,
+        270,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-cb3fad6c-33b7-47f6-a20f-5d11d3c1cb68.png"
+    },
+    "top/partial-80": {
+      "id": "top/partial-80",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--partial-80.png",
+      "source_box": [
+        513,
+        850,
+        633,
+        944
+      ],
+      "prompt": "Isolate and reconstruct the exact top-down circular energy cap in attached reference. STRICT ORTHOGRAPHIC TOP VIEW: concentric circular gold ring around cyan inner disk and raised star at center, two small side gold tabs. No cylinder walls visible below, no foreshortening or tilted perspective. This is Cannon Energy 80 percent state, match reference cyan/purple and gold palette, rounded glossy 3D. One centered asset transparent background, no text, panels or ground.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0da58266-ff35-4b94-8298-0f3c3ba0ba1e.png"
+    },
+    "front/partial-30": {
+      "id": "front/partial-30",
+      "description": "ONE Cannon Energy jar, front orthographic view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--partial-30.png",
+      "source_box": [
+        271,
+        515,
+        391,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b2a7f639-f88e-4f88-a1f2-0f30d17cbf7e.png"
+    },
+    "three-quarter/earned": {
+      "id": "three-quarter/earned",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--earned.png",
+      "source_box": [
+        755,
+        620,
+        875,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-9e41a3ba-d15a-4a1d-8be4-60fdea57f900.png"
+    },
+    "top/empty": {
+      "id": "top/empty",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--empty.png",
+      "source_box": [
+        150,
+        850,
+        270,
+        944
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c5ea7cbe-b13d-43eb-8f0c-8934e5d64d50.png"
+    },
+    "three-quarter/partial-50": {
+      "id": "three-quarter/partial-50",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--partial-50.png",
+      "source_box": [
+        392,
+        620,
+        512,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-fa5a22ef-df69-4290-92b3-cd5f0bcd3216.png"
+    },
+    "top/full": {
+      "id": "top/full",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--full.png",
+      "source_box": [
+        634,
+        850,
+        754,
+        944
+      ],
+      "prompt": "Reconstruct exactly the single energy asset in this reference crop, preserving its camera angle and STAR emblem. The emblem is a raised five-point GOLD STAR, NOT a lightning bolt. Match the gold rim, purple glass/cyan liquid and side gold star medallion. Strict orthographic top-down circular cap only, no visible jar walls. No text or scenery. Transparent background and clear margins. ",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-37bbdb4e-1754-44c8-9aff-7fbfe5077e49.png"
+    },
+    "front/reward": {
+      "id": "front/reward",
+      "description": "ONE Cannon Energy jar, front orthographic view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--reward.png",
+      "source_box": [
+        876,
+        515,
+        996,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-69ebe4a2-57bc-48da-a34b-b705ae610b23.png"
+    },
+    "three-quarter/partial-30": {
+      "id": "three-quarter/partial-30",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--partial-30.png",
+      "source_box": [
+        271,
+        620,
+        391,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8bcf2bb6-883f-49dc-9611-fc4ba0d2b4ee.png"
+    },
+    "front/full": {
+      "id": "front/full",
+      "description": "ONE Cannon Energy jar, front orthographic view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--full.png",
+      "source_box": [
+        634,
+        515,
+        754,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-fa121de9-2c5d-46dc-9f7c-734c427f4787.png"
+    },
+    "top/earned": {
+      "id": "top/earned",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--earned.png",
+      "source_box": [
+        755,
+        850,
+        875,
+        944
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8c2615e8-0561-4894-933e-21af18b05f5d.png"
+    },
+    "side/empty": {
+      "id": "side/empty",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--empty.png",
+      "source_box": [
+        150,
+        730,
+        270,
+        835
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-03d73625-9f79-4af7-82e3-c2b7d926262e.png"
+    },
+    "side/earned": {
+      "id": "side/earned",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--earned.png",
+      "source_box": [
+        755,
+        730,
+        875,
+        835
+      ],
+      "prompt": "Reconstruct exactly the single energy asset in this reference crop, preserving its camera angle and STAR emblem. The emblem is a raised five-point GOLD STAR, NOT a lightning bolt. Match the gold rim, purple glass/cyan liquid and side gold star medallion. Side-facing cylindrical jar, side star medallion left edge as in crop. No text or scenery. Transparent background and clear margins. Subtle earned glow allowed.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-673e8c95-7493-43bb-ba1b-2b76b1d5f78e.png"
+    },
+    "side/reward": {
+      "id": "side/reward",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--reward.png",
+      "source_box": [
+        876,
+        730,
+        996,
+        835
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-27617473-8436-4e3a-affa-76b5c7ad089e.png"
+    },
+    "top/reward": {
+      "id": "top/reward",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--reward.png",
+      "source_box": [
+        876,
+        850,
+        996,
+        944
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-5decba73-c74a-4334-9c7b-9242c94e7192.png"
+    },
+    "top/partial-50": {
+      "id": "top/partial-50",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--partial-50.png",
+      "source_box": [
+        392,
+        850,
+        512,
+        944
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 50% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-4b529e25-ef27-4a76-b230-1c99b38c4f88.png"
+    },
+    "front/earned": {
+      "id": "front/earned",
+      "description": "ONE Cannon Energy jar, front orthographic view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--earned.png",
+      "source_box": [
+        755,
+        515,
+        875,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state full cyan liquid with golden lightning bolt emblem, green upward arrows and magical gold sparkle ring. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-e1410da3-18b3-4bc9-bd55-3b46723aaa55.png"
+    },
+    "top/partial-30": {
+      "id": "top/partial-30",
+      "description": "ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/top--partial-30.png",
+      "source_box": [
+        271,
+        850,
+        391,
+        944
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, top-down circular cap with star emblem view, state cyan liquid at 30% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7c8e8eb3-717b-4f59-a528-866e85116dfb.png"
+    },
+    "front/partial-80": {
+      "id": "front/partial-80",
+      "description": "ONE Cannon Energy jar, front orthographic view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/front--partial-80.png",
+      "source_box": [
+        513,
+        515,
+        633,
+        612
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, front orthographic view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-237a65e1-c34b-4167-bb1d-3910151ab4f5.png"
+    },
+    "side/partial-80": {
+      "id": "side/partial-80",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--partial-80.png",
+      "source_box": [
+        513,
+        730,
+        633,
+        835
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, side 90 degree view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2b222759-39af-44ce-ad07-efcfaa48e91c.png"
+    },
+    "three-quarter/reward": {
+      "id": "three-quarter/reward",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--reward.png",
+      "source_box": [
+        876,
+        620,
+        996,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state glowing energy jar with large pink gift ribbon and bow, gold star seal, golden lightning bolt. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-94a20f2b-fc7f-48f2-9be9-797d2edb4f7a.png"
+    },
+    "three-quarter/empty": {
+      "id": "three-quarter/empty",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--empty.png",
+      "source_box": [
+        150,
+        620,
+        270,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state empty purple-tinted transparent glass, zero cyan liquid. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-f2663aba-0a42-4a4e-82b6-929647e3871b.png"
+    },
+    "side/full": {
+      "id": "side/full",
+      "description": "ONE Cannon Energy jar, side 90 degree view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/side--full.png",
+      "source_box": [
+        634,
+        730,
+        754,
+        835
+      ],
+      "prompt": "Reconstruct exactly the single energy asset in this reference crop, preserving its camera angle and STAR emblem. The emblem is a raised five-point GOLD STAR, NOT a lightning bolt. Match the gold rim, purple glass/cyan liquid and side gold star medallion. Side-facing cylindrical jar, side star medallion left edge as in crop. No text or scenery. Transparent background and clear margins. ",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-23b59e5c-e999-4dba-9c77-3c52f59d470a.png"
+    },
+    "three-quarter/full": {
+      "id": "three-quarter/full",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--full.png",
+      "source_box": [
+        634,
+        620,
+        754,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state 100% cyan glowing liquid, golden lightning bolt emblem. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-9d76343f-56eb-472d-b38d-ea19d6aca9ac.png"
+    },
+    "three-quarter/partial-80": {
+      "id": "three-quarter/partial-80",
+      "description": "ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/energy-refs/three-quarter--partial-80.png",
+      "source_box": [
+        513,
+        620,
+        633,
+        723
+      ],
+      "prompt": "Reconstruct ONE isolated production game asset from this exact approved Puff Trails reference cell. Subject: ONE Cannon Energy jar, 45 degree three-quarter tilted view, state cyan liquid at 80% height. Rounded cylindrical jar, gold cap and base with small star details; match appropriate cell in supplied All States in Multiple Angles grid. For top view show the state-appropriate lid and glow rather than a front-facing cylinder. No text or percentages. Preserve camera angle, silhouette, gold trim, glass, cyan/purple palette and rounded premium 3D style. Transparent alpha background, centered with generous margins. No panels, floor, labels, numbers or characters. Transparent exterior; retain glass and glows appropriately. The camera angle in the crop is authoritative.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-adde9ccd-80e8-499a-86f3-a7f36ebfb9f9.png"
+    }
+  }
+}
