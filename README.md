@@ -255,3 +255,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![reward-chests](stages/stage-07-economy/v1/reward-chests/preview.jpg)
 <!-- economy-chests:end -->
+
+
+<!-- economy-inventory:start -->
+### Economy · Booster Inventory
+
+[Every individual asset and preview](stages/stage-07-economy/v1/booster-inventory/README.md) · 55 masters · 330 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![booster-inventory](stages/stage-07-economy/v1/booster-inventory/preview.jpg)
+<!-- economy-inventory:end -->

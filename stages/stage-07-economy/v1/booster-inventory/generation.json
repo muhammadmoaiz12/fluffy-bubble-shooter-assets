@@ -1,0 +1,366 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Puff Trails Booster Design System-6.png",
+      "sha256": "050b765a1eab2c8bef80c52e6ea9d8c45234fc6f2b43acb048e29b84a2c45602"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-06-adventure-map/v1/masters/icons/lock.png": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+    "stages/stage-06-power-ups-boosters/v1/masters/icons/plus.png": "a53938e39a18ab5e0582f2f003e710687703baf8aa73a658e97f450ca0929852",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/purple-vortex.png": "c48ad29602daf1316cd02d38ffe9e2ddfb6d661e28ba11597c1cf8625dd6ac9b",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/flower-explosion.png": "ace2d6e318f460edaf36e2153d02d16f65c3dfc06e177de97dc0e197abaccc3b",
+    "locked/puff-trails-brand/v1/masters/icons/gift.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+    "stages/stage-07-economy/v1/coins/masters/packs/coin-bag.png": "b3b419c1856ae8272135c22127de0723913dd9b32b45e49da260a8811e01f167",
+    "stages/stage-06-power-ups-boosters/v1/masters/icons/ticket.png": "9aaaf11f37bacc279bb8b6b2c07ae6d115523d0aeae2d1eaec459446a8694326",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/hotbar.png": "5a639eaadcf46093ade9cece99661b7cfd98c0b0a767d649c1c97ade7dca399f"
+  },
+  "records": {
+    "rainbow-friend/rear-three-quarter": {
+      "id": "rainbow-friend/rear-three-quarter",
+      "description": "ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/rainbow-friend--rear-three-quarter.png",
+      "source_box": [
+        477,
+        482,
+        575,
+        552
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-a7d15768-41e3-4994-bdd5-6c55e53885f9.png"
+    },
+    "precision-trail/rear-three-quarter": {
+      "id": "precision-trail/rear-three-quarter",
+      "description": "ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/precision-trail--rear-three-quarter.png",
+      "source_box": [
+        477,
+        557,
+        575,
+        627
+      ],
+      "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Rear three-quarter view of pink plush round target. Show mostly plain pink plush back, seam and small slice of target rings at the far right edge. Gold star arrow projects from the front hidden beyond the far edge. NO face, eyes or mouth. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c1138fa8-aaa7-4ca8-8aaf-3320afe9add0.png"
+    },
+    "soft-burst/top": {
+      "id": "soft-burst/top",
+      "description": "ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, top-down 90 degree from above view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/soft-burst--top.png",
+      "source_box": [
+        685,
+        632,
+        783,
+        702
+      ],
+      "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Purple plush spherical bomb seen STRICTLY from directly above. Golden collar and tiny star-shaped fuse centered at the top of the sphere. No front star emblem, no eyes, no mouth, no face. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-f38616d0-8cc0-4809-8b23-5433ee5f172e.png"
+    },
+    "components/quantity-badge": {
+      "id": "components/quantity-badge",
+      "description": "Small purple rounded pill badge with white/lilac rim, blank center for runtime quantity, no text.",
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Small purple rounded pill badge with white/lilac rim, blank center for runtime quantity, no text. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c607d207-e413-4834-b000-06de6c9d7385.png"
+    },
+    "precision-trail/front": {
+      "id": "precision-trail/front",
+      "description": "ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/precision-trail--front.png",
+      "source_box": [
+        165,
+        557,
+        263,
+        627
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ec8e0cf2-b013-44df-8a97-efdc9e2e5100.png"
+    },
+    "cozy-save/rear-three-quarter": {
+      "id": "cozy-save/rear-three-quarter",
+      "description": "ONE pink plush heart with smiling face, white feather wings and floating golden halo, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/cozy-save--rear-three-quarter.png",
+      "source_box": [
+        477,
+        707,
+        575,
+        777
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-4f1558a0-fce4-4333-9006-81ac2bdbaf32.png"
+    },
+    "soft-burst/side": {
+      "id": "soft-burst/side",
+      "description": "ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/soft-burst--side.png",
+      "source_box": [
+        373,
+        632,
+        471,
+        702
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-88c2f88f-1f4f-4cf7-826a-614f2cc1f4e8.png"
+    },
+    "soft-burst/back": {
+      "id": "soft-burst/back",
+      "description": "ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/soft-burst--back.png",
+      "source_box": [
+        581,
+        632,
+        679,
+        702
+      ],
+      "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Rear view of purple plush spherical bomb. Plain purple furry back with vertical stitched seam, golden collar and star-shaped fuse above. Absolutely NO yellow star emblem on the body, no face, no eyes, no mouth. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2660295a-e43f-4aaf-9bff-55d0d926f077.png"
+    },
+    "components/inventory-slot": {
+      "id": "components/inventory-slot",
+      "description": "Empty rounded-square lavender glass inventory slot, thick pearlescent pale-purple border, no contents or labels.",
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Empty rounded-square lavender glass inventory slot, thick pearlescent pale-purple border, no contents or labels. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-32a0c8af-6d03-4730-8595-27eba34a93c7.png"
+    },
+    "cozy-save/front": {
+      "id": "cozy-save/front",
+      "description": "ONE pink plush heart with smiling face, white feather wings and floating golden halo, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/cozy-save--front.png",
+      "source_box": [
+        165,
+        707,
+        263,
+        777
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-03db037d-82c6-45f2-b783-49c413d97cec.png"
+    },
+    "rewards/mystery-cube": {
+      "id": "rewards/mystery-cube",
+      "description": "Purple rounded cube gift with glossy gold ribbon, yellow question-mark on front, pale lavender lid. Match Mystery Reward. No unrelated characters.",
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Purple rounded cube gift with glossy gold ribbon, yellow question-mark on front, pale lavender lid. Match Mystery Reward. No unrelated characters. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7b5bd989-d73e-4370-8192-ef48d7d9065d.png"
+    },
+    "cozy-save/side": {
+      "id": "cozy-save/side",
+      "description": "ONE pink plush heart with smiling face, white feather wings and floating golden halo, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/cozy-save--side.png",
+      "source_box": [
+        373,
+        707,
+        471,
+        777
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-e28f8bce-7c74-4909-8f37-d908f05c246d.png"
+    },
+    "cozy-save/back": {
+      "id": "cozy-save/back",
+      "description": "ONE pink plush heart with smiling face, white feather wings and floating golden halo, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/cozy-save--back.png",
+      "source_box": [
+        581,
+        707,
+        679,
+        777
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b95bec20-5ec8-466a-88e3-0371a6e3dcd8.png"
+    },
+    "components/selection-frame": {
+      "id": "components/selection-frame",
+      "description": "Hollow rounded square golden glowing selection frame, transparent center, no contents or text.",
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Hollow rounded square golden glowing selection frame, transparent center, no contents or text. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-3b824929-05ff-4393-b911-8049fa2c04ff.png"
+    },
+    "precision-trail/side": {
+      "id": "precision-trail/side",
+      "description": "ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/precision-trail--side.png",
+      "source_box": [
+        373,
+        557,
+        471,
+        627
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0a2a709d-308b-4c5a-8b75-5152559fe0d7.png"
+    },
+    "precision-trail/back": {
+      "id": "precision-trail/back",
+      "description": "ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/precision-trail--back.png",
+      "source_box": [
+        581,
+        557,
+        679,
+        627
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-cf84a862-af23-4226-961d-62270be253a3.png"
+    },
+    "cozy-save/top": {
+      "id": "cozy-save/top",
+      "description": "ONE pink plush heart with smiling face, white feather wings and floating golden halo, top-down 90 degree from above view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/cozy-save--top.png",
+      "source_box": [
+        685,
+        707,
+        783,
+        777
+      ],
+      "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Winged pink heart viewed STRICTLY from directly overhead. Gold halo appears as a large foreshortened oval over the thin pink heart top edge; white wings extend sideways. No face, eyes, mouth or cheeks; do not show upright front-facing heart. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-04cbf97e-2329-4fb8-99e3-0c458ccbf8e7.png"
+    },
+    "rainbow-friend/three-quarter": {
+      "id": "rainbow-friend/three-quarter",
+      "description": "ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/rainbow-friend--three-quarter.png",
+      "source_box": [
+        269,
+        482,
+        367,
+        552
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-03ba027b-0aef-453d-9042-6fe6c2c88e0e.png"
+    },
+    "soft-burst/front": {
+      "id": "soft-burst/front",
+      "description": "ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/soft-burst--front.png",
+      "source_box": [
+        165,
+        632,
+        263,
+        702
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-060a797a-708c-4810-a5f3-6b60b530418b.png"
+    },
+    "soft-burst/rear-three-quarter": {
+      "id": "soft-burst/rear-three-quarter",
+      "description": "ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/soft-burst--rear-three-quarter.png",
+      "source_box": [
+        477,
+        632,
+        575,
+        702
+      ],
+      "prompt": "ONE purple plush bomb booster, REAR THREE-QUARTER view at 135 degrees. Show broad rounded purple furry BACK with central seam. Golden collar and small star-shaped fuse at top. Only a very narrow gold sliver of the front star emblem may peek around the far right edge; no face visible. No complete front emblem. Match reference purple/gold soft Puff Trails materials. Transparent background, centered, clear margins, no text or floor.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-65120d41-1aee-4924-a362-ca2db919b372.png"
+    },
+    "rainbow-friend/back": {
+      "id": "rainbow-friend/back",
+      "description": "ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/rainbow-friend--back.png",
+      "source_box": [
+        581,
+        482,
+        679,
+        552
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-78e30083-4459-4ec2-9e9a-e5cb40519e5d.png"
+    },
+    "soft-burst/three-quarter": {
+      "id": "soft-burst/three-quarter",
+      "description": "ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/soft-burst--three-quarter.png",
+      "source_box": [
+        269,
+        632,
+        367,
+        702
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-80987b04-da78-4022-9e79-8384bf3a34b1.png"
+    },
+    "components/earned-tag": {
+      "id": "components/earned-tag",
+      "description": "Glossy orange-red slightly tilted sticker with gold border for New reward, blank surface, no text.",
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Glossy orange-red slightly tilted sticker with gold border for New reward, blank surface, no text. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-a4c748d8-e497-480c-be06-b5bbbb70525e.png"
+    },
+    "rainbow-friend/side": {
+      "id": "rainbow-friend/side",
+      "description": "ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/rainbow-friend--side.png",
+      "source_box": [
+        373,
+        482,
+        471,
+        552
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-daf9cae2-209d-4c03-a520-ca2e673ef7c9.png"
+    },
+    "rainbow-friend/front": {
+      "id": "rainbow-friend/front",
+      "description": "ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/rainbow-friend--front.png",
+      "source_box": [
+        165,
+        482,
+        263,
+        552
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-feda0c4c-42f9-4cea-95e0-925bde6d87ea.png"
+    },
+    "rainbow-friend/top": {
+      "id": "rainbow-friend/top",
+      "description": "ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, top-down 90 degree from above view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/rainbow-friend--top.png",
+      "source_box": [
+        685,
+        482,
+        783,
+        552
+      ],
+      "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. A rainbow-colored orb viewed STRICTLY from directly above: concentric rounded rainbow bands with blue-purple top-center. No eyes, mouth, cheeks, face or facial features anywhere. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ee8d211-73b4-4288-8ae9-8c155838c5f4.png"
+    },
+    "precision-trail/three-quarter": {
+      "id": "precision-trail/three-quarter",
+      "description": "ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/precision-trail--three-quarter.png",
+      "source_box": [
+        269,
+        557,
+        367,
+        627
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c2f40a3b-5fa0-4ad3-a3f6-65701507af76.png"
+    },
+    "cozy-save/three-quarter": {
+      "id": "cozy-save/three-quarter",
+      "description": "ONE pink plush heart with smiling face, white feather wings and floating golden halo, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/cozy-save--three-quarter.png",
+      "source_box": [
+        269,
+        707,
+        367,
+        777
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-37420ef9-d0e7-48d3-81ed-60e9642144f9.png"
+    },
+    "precision-trail/top": {
+      "id": "precision-trail/top",
+      "description": "ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, top-down 90 degree from above view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/inventory-refs/precision-trail--top.png",
+      "source_box": [
+        685,
+        557,
+        783,
+        627
+      ],
+      "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Pink plush circular target viewed from above looking down at its TOP EDGE, heavily vertically foreshortened. Gold star arrow crosses its top as reference. No face, eyes or mouth. NOT an upright front view. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-59fa8380-5c26-4bcd-8833-4942eb2b8f32.png"
+    }
+  }
+}

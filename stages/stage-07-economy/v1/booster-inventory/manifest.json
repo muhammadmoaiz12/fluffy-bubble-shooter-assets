@@ -1,0 +1,3733 @@
+{
+  "pack": "booster-inventory",
+  "assets": [
+    {
+      "id": "rainbow-friend/rear-three-quarter",
+      "master": "masters/rainbow-friend/rear-three-quarter.png",
+      "exports": [
+        "gameplay/rainbow-friend/rear-three-quarter-128.png",
+        "gameplay/rainbow-friend/rear-three-quarter-128.webp",
+        "gameplay/rainbow-friend/rear-three-quarter-256.png",
+        "gameplay/rainbow-friend/rear-three-quarter-256.webp",
+        "gameplay/rainbow-friend/rear-three-quarter-512.png",
+        "gameplay/rainbow-friend/rear-three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        101,
+        118,
+        922,
+        906
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "98cf4014971d6bc6a74986579be32e472a755ed9b143364223ee92c8a7d3d416"
+      }
+    },
+    {
+      "id": "precision-trail/rear-three-quarter",
+      "master": "masters/precision-trail/rear-three-quarter.png",
+      "exports": [
+        "gameplay/precision-trail/rear-three-quarter-128.png",
+        "gameplay/precision-trail/rear-three-quarter-128.webp",
+        "gameplay/precision-trail/rear-three-quarter-256.png",
+        "gameplay/precision-trail/rear-three-quarter-256.webp",
+        "gameplay/precision-trail/rear-three-quarter-512.png",
+        "gameplay/precision-trail/rear-three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        123,
+        149,
+        901,
+        875
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Rear three-quarter view of pink plush round target. Show mostly plain pink plush back, seam and small slice of target rings at the far right edge. Gold star arrow projects from the front hidden beyond the far edge. NO face, eyes or mouth. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+        "generated_sha256": "d6972399501c7d87656677c0923a00e2d2a6e635883be24ebcb83d80484b119b"
+      }
+    },
+    {
+      "id": "soft-burst/top",
+      "master": "masters/soft-burst/top.png",
+      "exports": [
+        "gameplay/soft-burst/top-128.png",
+        "gameplay/soft-burst/top-128.webp",
+        "gameplay/soft-burst/top-256.png",
+        "gameplay/soft-burst/top-256.webp",
+        "gameplay/soft-burst/top-512.png",
+        "gameplay/soft-burst/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        203,
+        199,
+        820,
+        824
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Purple plush spherical bomb seen STRICTLY from directly above. Golden collar and tiny star-shaped fuse centered at the top of the sphere. No front star emblem, no eyes, no mouth, no face. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+        "generated_sha256": "4b4449df67758086c72e941ae9f78bab414784c09428ea6cb3870063c6fba259"
+      }
+    },
+    {
+      "id": "components/quantity-badge",
+      "master": "masters/components/quantity-badge.png",
+      "exports": [
+        "gameplay/components/quantity-badge-128.png",
+        "gameplay/components/quantity-badge-128.webp",
+        "gameplay/components/quantity-badge-256.png",
+        "gameplay/components/quantity-badge-256.webp",
+        "gameplay/components/quantity-badge-512.png",
+        "gameplay/components/quantity-badge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        133,
+        351,
+        890,
+        673
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Small purple rounded pill badge with white/lilac rim, blank center for runtime quantity, no text. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "d6255072ba0c612dc614bb80868158ba9466a169e824aa0b286bfb25a7e11643"
+      }
+    },
+    {
+      "id": "precision-trail/front",
+      "master": "masters/precision-trail/front.png",
+      "exports": [
+        "gameplay/precision-trail/front-128.png",
+        "gameplay/precision-trail/front-128.webp",
+        "gameplay/precision-trail/front-256.png",
+        "gameplay/precision-trail/front-256.webp",
+        "gameplay/precision-trail/front-512.png",
+        "gameplay/precision-trail/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        98,
+        952,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "416595fcad1273bfbe7c6d79f1ab649ad3eca8e5bd29430ebcbf7fab34a09396"
+      }
+    },
+    {
+      "id": "cozy-save/rear-three-quarter",
+      "master": "masters/cozy-save/rear-three-quarter.png",
+      "exports": [
+        "gameplay/cozy-save/rear-three-quarter-128.png",
+        "gameplay/cozy-save/rear-three-quarter-128.webp",
+        "gameplay/cozy-save/rear-three-quarter-256.png",
+        "gameplay/cozy-save/rear-three-quarter-256.webp",
+        "gameplay/cozy-save/rear-three-quarter-512.png",
+        "gameplay/cozy-save/rear-three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        91,
+        952,
+        933
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 135 degree rear three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "10e6a69e3ee0c2ebe4d79f8ad831b12fc27c00e894807f81bd46c0d4cc985d20"
+      }
+    },
+    {
+      "id": "soft-burst/side",
+      "master": "masters/soft-burst/side.png",
+      "exports": [
+        "gameplay/soft-burst/side-128.png",
+        "gameplay/soft-burst/side-128.webp",
+        "gameplay/soft-burst/side-256.png",
+        "gameplay/soft-burst/side-256.webp",
+        "gameplay/soft-burst/side-512.png",
+        "gameplay/soft-burst/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        163,
+        72,
+        860,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "66e5399bd4dee5b00073529f3f52001a81734dda862363293c0edbcb5a875025"
+      }
+    },
+    {
+      "id": "soft-burst/back",
+      "master": "masters/soft-burst/back.png",
+      "exports": [
+        "gameplay/soft-burst/back-128.png",
+        "gameplay/soft-burst/back-128.webp",
+        "gameplay/soft-burst/back-256.png",
+        "gameplay/soft-burst/back-256.webp",
+        "gameplay/soft-burst/back-512.png",
+        "gameplay/soft-burst/back-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        161,
+        75,
+        862,
+        948
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Rear view of purple plush spherical bomb. Plain purple furry back with vertical stitched seam, golden collar and star-shaped fuse above. Absolutely NO yellow star emblem on the body, no face, no eyes, no mouth. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+        "generated_sha256": "13a9e2fbe78b7d95b29ae975eb63e4c292fee6430e8ea48706c13756b654781c"
+      }
+    },
+    {
+      "id": "components/inventory-slot",
+      "master": "masters/components/inventory-slot.png",
+      "exports": [
+        "gameplay/components/inventory-slot-128.png",
+        "gameplay/components/inventory-slot-128.webp",
+        "gameplay/components/inventory-slot-256.png",
+        "gameplay/components/inventory-slot-256.webp",
+        "gameplay/components/inventory-slot-512.png",
+        "gameplay/components/inventory-slot-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        141,
+        889,
+        882
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Empty rounded-square lavender glass inventory slot, thick pearlescent pale-purple border, no contents or labels. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "705f8b166f629b7172125b5f6fa25708fefc5bd1bdd1ee35d1c829bb658caa99"
+      }
+    },
+    {
+      "id": "cozy-save/front",
+      "master": "masters/cozy-save/front.png",
+      "exports": [
+        "gameplay/cozy-save/front-128.png",
+        "gameplay/cozy-save/front-128.webp",
+        "gameplay/cozy-save/front-256.png",
+        "gameplay/cozy-save/front-256.webp",
+        "gameplay/cozy-save/front-512.png",
+        "gameplay/cozy-save/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        198,
+        952,
+        826
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "5aa7709315d42175561554494857753baee7af12292a20106e17307c43b1f68e"
+      }
+    },
+    {
+      "id": "rewards/mystery-cube",
+      "master": "masters/rewards/mystery-cube.png",
+      "exports": [
+        "gameplay/rewards/mystery-cube-128.png",
+        "gameplay/rewards/mystery-cube-128.webp",
+        "gameplay/rewards/mystery-cube-256.png",
+        "gameplay/rewards/mystery-cube-256.webp",
+        "gameplay/rewards/mystery-cube-512.png",
+        "gameplay/rewards/mystery-cube-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        108,
+        136,
+        916,
+        888
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Purple rounded cube gift with glossy gold ribbon, yellow question-mark on front, pale lavender lid. Match Mystery Reward. No unrelated characters. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "b20a0d019551aa0077df6f0259beb6c1b56265cbe7bb0f116df6f4795896f193"
+      }
+    },
+    {
+      "id": "cozy-save/side",
+      "master": "masters/cozy-save/side.png",
+      "exports": [
+        "gameplay/cozy-save/side-128.png",
+        "gameplay/cozy-save/side-128.webp",
+        "gameplay/cozy-save/side-256.png",
+        "gameplay/cozy-save/side-256.webp",
+        "gameplay/cozy-save/side-512.png",
+        "gameplay/cozy-save/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        173,
+        72,
+        850,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "af780dd0f11dd597fea6b67521f5f03ab470754b67b3dab436c3737f12449059"
+      }
+    },
+    {
+      "id": "cozy-save/back",
+      "master": "masters/cozy-save/back.png",
+      "exports": [
+        "gameplay/cozy-save/back-128.png",
+        "gameplay/cozy-save/back-128.webp",
+        "gameplay/cozy-save/back-256.png",
+        "gameplay/cozy-save/back-256.webp",
+        "gameplay/cozy-save/back-512.png",
+        "gameplay/cozy-save/back-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        229,
+        952,
+        795
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "77f9a3b9dcb2f7598450b89fc55c7a7decc8e4246f3971ebfbd41013dc799c2c"
+      }
+    },
+    {
+      "id": "components/selection-frame",
+      "master": "masters/components/selection-frame.png",
+      "exports": [
+        "gameplay/components/selection-frame-128.png",
+        "gameplay/components/selection-frame-128.webp",
+        "gameplay/components/selection-frame-256.png",
+        "gameplay/components/selection-frame-256.webp",
+        "gameplay/components/selection-frame-512.png",
+        "gameplay/components/selection-frame-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        128,
+        136,
+        896,
+        888
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Hollow rounded square golden glowing selection frame, transparent center, no contents or text. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "76173676b1c00b8992b426dd1012df55f95d10d0c9ad102787f1fee6441b46b4"
+      }
+    },
+    {
+      "id": "precision-trail/side",
+      "master": "masters/precision-trail/side.png",
+      "exports": [
+        "gameplay/precision-trail/side-128.png",
+        "gameplay/precision-trail/side-128.webp",
+        "gameplay/precision-trail/side-256.png",
+        "gameplay/precision-trail/side-256.webp",
+        "gameplay/precision-trail/side-512.png",
+        "gameplay/precision-trail/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        136,
+        72,
+        887,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "41e7ecf51ce12f8106b2fadf543f7fa543fb7125fc160e4839c55f8f88e4cb4d"
+      }
+    },
+    {
+      "id": "precision-trail/back",
+      "master": "masters/precision-trail/back.png",
+      "exports": [
+        "gameplay/precision-trail/back-128.png",
+        "gameplay/precision-trail/back-128.webp",
+        "gameplay/precision-trail/back-256.png",
+        "gameplay/precision-trail/back-256.webp",
+        "gameplay/precision-trail/back-512.png",
+        "gameplay/precision-trail/back-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        91,
+        952,
+        933
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "a98f0840e644cc3829496a528258d899ad1433963030bd1dd519690981ce0dd2"
+      }
+    },
+    {
+      "id": "cozy-save/top",
+      "master": "masters/cozy-save/top.png",
+      "exports": [
+        "gameplay/cozy-save/top-128.png",
+        "gameplay/cozy-save/top-128.webp",
+        "gameplay/cozy-save/top-256.png",
+        "gameplay/cozy-save/top-256.webp",
+        "gameplay/cozy-save/top-512.png",
+        "gameplay/cozy-save/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        327,
+        952,
+        696
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Winged pink heart viewed STRICTLY from directly overhead. Gold halo appears as a large foreshortened oval over the thin pink heart top edge; white wings extend sideways. No face, eyes, mouth or cheeks; do not show upright front-facing heart. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+        "generated_sha256": "bac5cf0a6c59ee1868347d5fee517a8eefaa6dd404c345a05bfa50b72b2603f7"
+      }
+    },
+    {
+      "id": "rainbow-friend/three-quarter",
+      "master": "masters/rainbow-friend/three-quarter.png",
+      "exports": [
+        "gameplay/rainbow-friend/three-quarter-128.png",
+        "gameplay/rainbow-friend/three-quarter-128.webp",
+        "gameplay/rainbow-friend/three-quarter-256.png",
+        "gameplay/rainbow-friend/three-quarter-256.webp",
+        "gameplay/rainbow-friend/three-quarter-512.png",
+        "gameplay/rainbow-friend/three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        96,
+        106,
+        928,
+        918
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "db1be36d6f7fbd65f5b2ee5cbc162210cda77551b5b462863c5b8e3bf81f5d34"
+      }
+    },
+    {
+      "id": "soft-burst/front",
+      "master": "masters/soft-burst/front.png",
+      "exports": [
+        "gameplay/soft-burst/front-128.png",
+        "gameplay/soft-burst/front-128.webp",
+        "gameplay/soft-burst/front-256.png",
+        "gameplay/soft-burst/front-256.webp",
+        "gameplay/soft-burst/front-512.png",
+        "gameplay/soft-burst/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        182,
+        72,
+        841,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "ca85a8f3cbb3ec1e28a6314923540d81e3eb80ce4021f95d8e9d7ae4a0900c41"
+      }
+    },
+    {
+      "id": "soft-burst/rear-three-quarter",
+      "master": "masters/soft-burst/rear-three-quarter.png",
+      "exports": [
+        "gameplay/soft-burst/rear-three-quarter-128.png",
+        "gameplay/soft-burst/rear-three-quarter-128.webp",
+        "gameplay/soft-burst/rear-three-quarter-256.png",
+        "gameplay/soft-burst/rear-three-quarter-256.webp",
+        "gameplay/soft-burst/rear-three-quarter-512.png",
+        "gameplay/soft-burst/rear-three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        168,
+        72,
+        856,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "ONE purple plush bomb booster, REAR THREE-QUARTER view at 135 degrees. Show broad rounded purple furry BACK with central seam. Golden collar and small star-shaped fuse at top. Only a very narrow gold sliver of the front star emblem may peek around the far right edge; no face visible. No complete front emblem. Match reference purple/gold soft Puff Trails materials. Transparent background, centered, clear margins, no text or floor.",
+        "generated_sha256": "22654e885036ad8e25edd0e868045a644f84711194f97d01d320e18766fc4dc2"
+      }
+    },
+    {
+      "id": "rainbow-friend/back",
+      "master": "masters/rainbow-friend/back.png",
+      "exports": [
+        "gameplay/rainbow-friend/back-128.png",
+        "gameplay/rainbow-friend/back-128.webp",
+        "gameplay/rainbow-friend/back-256.png",
+        "gameplay/rainbow-friend/back-256.webp",
+        "gameplay/rainbow-friend/back-512.png",
+        "gameplay/rainbow-friend/back-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        84,
+        152,
+        939,
+        872
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 180 degree rear, no front facial features view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "d0c4ac73b3e7b5d152320535c9763454bcb6551634c51142468223fe0450ce8d"
+      }
+    },
+    {
+      "id": "soft-burst/three-quarter",
+      "master": "masters/soft-burst/three-quarter.png",
+      "exports": [
+        "gameplay/soft-burst/three-quarter-128.png",
+        "gameplay/soft-burst/three-quarter-128.webp",
+        "gameplay/soft-burst/three-quarter-256.png",
+        "gameplay/soft-burst/three-quarter-256.webp",
+        "gameplay/soft-burst/three-quarter-512.png",
+        "gameplay/soft-burst/three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        176,
+        72,
+        848,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE round plush purple bomb, golden collar and short lit star-shaped fuse, raised yellow smiling star emblem, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "451eb004a011f09f5faff2b4de30dbf937b2a0bd34e7ab0b32363f6a3cabad3e"
+      }
+    },
+    {
+      "id": "components/earned-tag",
+      "master": "masters/components/earned-tag.png",
+      "exports": [
+        "gameplay/components/earned-tag-128.png",
+        "gameplay/components/earned-tag-128.webp",
+        "gameplay/components/earned-tag-256.png",
+        "gameplay/components/earned-tag-256.webp",
+        "gameplay/components/earned-tag-512.png",
+        "gameplay/components/earned-tag-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        228,
+        952,
+        795
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: Glossy orange-red slightly tilted sticker with gold border for New reward, blank surface, no text. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "d8f268b8bcdb6029bb51edd9900cc77c6f5c13bccc9c0200785812fee60bceb1"
+      }
+    },
+    {
+      "id": "rainbow-friend/side",
+      "master": "masters/rainbow-friend/side.png",
+      "exports": [
+        "gameplay/rainbow-friend/side-128.png",
+        "gameplay/rainbow-friend/side-128.webp",
+        "gameplay/rainbow-friend/side-256.png",
+        "gameplay/rainbow-friend/side-256.webp",
+        "gameplay/rainbow-friend/side-512.png",
+        "gameplay/rainbow-friend/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        151,
+        152,
+        873,
+        871
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, 90 degree side profile view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "7e68e472cde70ceb7f42f25df5ad10862bd32bce92807531e119f96e3576bc88"
+      }
+    },
+    {
+      "id": "rainbow-friend/front",
+      "master": "masters/rainbow-friend/front.png",
+      "exports": [
+        "gameplay/rainbow-friend/front-128.png",
+        "gameplay/rainbow-friend/front-128.webp",
+        "gameplay/rainbow-friend/front-256.png",
+        "gameplay/rainbow-friend/front-256.webp",
+        "gameplay/rainbow-friend/front-512.png",
+        "gameplay/rainbow-friend/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        134,
+        952,
+        890
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE cute smiling multicolor rainbow sphere with blue lower face, pink cheeks, tiny black eyes, soft iridescent halo, front 0 degree view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "ebd3ad049fcfb4a44bb913495fd729b12a7c5e34046d9da52b23c815b9fc62a2"
+      }
+    },
+    {
+      "id": "rainbow-friend/top",
+      "master": "masters/rainbow-friend/top.png",
+      "exports": [
+        "gameplay/rainbow-friend/top-128.png",
+        "gameplay/rainbow-friend/top-128.webp",
+        "gameplay/rainbow-friend/top-256.png",
+        "gameplay/rainbow-friend/top-256.webp",
+        "gameplay/rainbow-friend/top-512.png",
+        "gameplay/rainbow-friend/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        146,
+        138,
+        878,
+        885
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. A rainbow-colored orb viewed STRICTLY from directly above: concentric rounded rainbow bands with blue-purple top-center. No eyes, mouth, cheeks, face or facial features anywhere. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+        "generated_sha256": "28b476dd2af726fce81b5fc413551abf47f3a82b6f56309f9159709b083c1f8b"
+      }
+    },
+    {
+      "id": "precision-trail/three-quarter",
+      "master": "masters/precision-trail/three-quarter.png",
+      "exports": [
+        "gameplay/precision-trail/three-quarter-128.png",
+        "gameplay/precision-trail/three-quarter-128.webp",
+        "gameplay/precision-trail/three-quarter-256.png",
+        "gameplay/precision-trail/three-quarter-256.webp",
+        "gameplay/precision-trail/three-quarter-512.png",
+        "gameplay/precision-trail/three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        107,
+        72,
+        917,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE plush pink round archery target with cream and red concentric rings, cute face at center, gold arrow ending in a star angled up-right, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "400c8b80e7af6dafadaddc816f7c3951419e8cf51437413e5fbb3bad5b19e730"
+      }
+    },
+    {
+      "id": "cozy-save/three-quarter",
+      "master": "masters/cozy-save/three-quarter.png",
+      "exports": [
+        "gameplay/cozy-save/three-quarter-128.png",
+        "gameplay/cozy-save/three-quarter-128.webp",
+        "gameplay/cozy-save/three-quarter-256.png",
+        "gameplay/cozy-save/three-quarter-256.webp",
+        "gameplay/cozy-save/three-quarter-512.png",
+        "gameplay/cozy-save/three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        131,
+        952,
+        893
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent game asset from this Puff Trails Booster Inventory reference. Subject: ONE pink plush heart with smiling face, white feather wings and floating golden halo, 45 degree three-quarter view. Match row and angle in the Icon Turnaround grid. This is a booster object, not a family character. Preserve its approved motif. Preserve reference colors, rounded plush/glossy 3D materials, motif and camera angle; no redesign. Do not invent a new family character. Centered object with generous clear margins. No scenery, panel, floor, labels, counts or words. Question mark only when explicitly requested as object motif. Transparent background; solid object interiors. For back view, show the back without a face. For UI frames preserve a transparent opening as specified.",
+        "generated_sha256": "dcc8f38ec0ecea89737aff7a056bad11db65a83929303221f3482b597e310359"
+      }
+    },
+    {
+      "id": "precision-trail/top",
+      "master": "masters/precision-trail/top.png",
+      "exports": [
+        "gameplay/precision-trail/top-128.png",
+        "gameplay/precision-trail/top-128.webp",
+        "gameplay/precision-trail/top-256.png",
+        "gameplay/precision-trail/top-256.webp",
+        "gameplay/precision-trail/top-512.png",
+        "gameplay/precision-trail/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        102,
+        273,
+        922,
+        751
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct one Puff Trails booster object using reference colors and materials. Correct camera geometry is mandatory. Pink plush circular target viewed from above looking down at its TOP EDGE, heavily vertically foreshortened. Gold star arrow crosses its top as reference. No face, eyes or mouth. NOT an upright front view. Match the crop motif but enforce the requested view. Centered with generous margins, genuine transparent background. No floor, panel, labels or words.",
+        "generated_sha256": "c04d6e1ee402c3e488b7ae45b2b468ebf7772c07b958b4567bb45c9adfb8137e"
+      }
+    },
+    {
+      "id": "components/lock",
+      "master": "masters/components/lock.png",
+      "exports": [
+        "gameplay/components/lock-128.png",
+        "gameplay/components/lock-128.webp",
+        "gameplay/components/lock-256.png",
+        "gameplay/components/lock-256.webp",
+        "gameplay/components/lock-512.png",
+        "gameplay/components/lock-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        165,
+        82,
+        858,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-adventure-map/v1/masters/icons/lock.png"
+      }
+    },
+    {
+      "id": "components/plus",
+      "master": "masters/components/plus.png",
+      "exports": [
+        "gameplay/components/plus-128.png",
+        "gameplay/components/plus-128.webp",
+        "gameplay/components/plus-256.png",
+        "gameplay/components/plus-256.webp",
+        "gameplay/components/plus-512.png",
+        "gameplay/components/plus-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        84,
+        82,
+        940,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/icons/plus.png"
+      }
+    },
+    {
+      "id": "effects/sparkles",
+      "master": "masters/effects/sparkles.png",
+      "exports": [
+        "gameplay/effects/sparkles-128.png",
+        "gameplay/effects/sparkles-128.webp",
+        "gameplay/effects/sparkles-256.png",
+        "gameplay/effects/sparkles-256.webp",
+        "gameplay/effects/sparkles-512.png",
+        "gameplay/effects/sparkles-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        391,
+        942,
+        633
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png"
+      }
+    },
+    {
+      "id": "effects/orbit",
+      "master": "masters/effects/orbit.png",
+      "exports": [
+        "gameplay/effects/orbit-128.png",
+        "gameplay/effects/orbit-128.webp",
+        "gameplay/effects/orbit-256.png",
+        "gameplay/effects/orbit-256.webp",
+        "gameplay/effects/orbit-512.png",
+        "gameplay/effects/orbit-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png"
+      }
+    },
+    {
+      "id": "effects/vortex",
+      "master": "masters/effects/vortex.png",
+      "exports": [
+        "gameplay/effects/vortex-128.png",
+        "gameplay/effects/vortex-128.webp",
+        "gameplay/effects/vortex-256.png",
+        "gameplay/effects/vortex-256.webp",
+        "gameplay/effects/vortex-512.png",
+        "gameplay/effects/vortex-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        139,
+        942,
+        884
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/purple-vortex.png"
+      }
+    },
+    {
+      "id": "effects/impact",
+      "master": "masters/effects/impact.png",
+      "exports": [
+        "gameplay/effects/impact-128.png",
+        "gameplay/effects/impact-128.webp",
+        "gameplay/effects/impact-256.png",
+        "gameplay/effects/impact-256.webp",
+        "gameplay/effects/impact-512.png",
+        "gameplay/effects/impact-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        134,
+        942,
+        889
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/flower-explosion.png"
+      }
+    },
+    {
+      "id": "rewards/gift",
+      "master": "masters/rewards/gift.png",
+      "exports": [
+        "gameplay/rewards/gift-128.png",
+        "gameplay/rewards/gift-128.webp",
+        "gameplay/rewards/gift-256.png",
+        "gameplay/rewards/gift-256.webp",
+        "gameplay/rewards/gift-512.png",
+        "gameplay/rewards/gift-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        64,
+        962,
+        960
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "locked/puff-trails-brand/v1/masters/icons/gift.png"
+      }
+    },
+    {
+      "id": "rewards/bottle",
+      "master": "masters/rewards/bottle.png",
+      "exports": [
+        "gameplay/rewards/bottle-128.png",
+        "gameplay/rewards/bottle-128.webp",
+        "gameplay/rewards/bottle-256.png",
+        "gameplay/rewards/bottle-256.webp",
+        "gameplay/rewards/bottle-512.png",
+        "gameplay/rewards/bottle-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        207,
+        82,
+        817,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png"
+      }
+    },
+    {
+      "id": "rewards/bundle",
+      "master": "masters/rewards/bundle.png",
+      "exports": [
+        "gameplay/rewards/bundle-128.png",
+        "gameplay/rewards/bundle-128.webp",
+        "gameplay/rewards/bundle-256.png",
+        "gameplay/rewards/bundle-256.webp",
+        "gameplay/rewards/bundle-512.png",
+        "gameplay/rewards/bundle-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        138,
+        96,
+        886,
+        928
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-07-economy/v1/coins/masters/packs/coin-bag.png"
+      }
+    },
+    {
+      "id": "rewards/ticket",
+      "master": "masters/rewards/ticket.png",
+      "exports": [
+        "gameplay/rewards/ticket-128.png",
+        "gameplay/rewards/ticket-128.webp",
+        "gameplay/rewards/ticket-256.png",
+        "gameplay/rewards/ticket-256.webp",
+        "gameplay/rewards/ticket-512.png",
+        "gameplay/rewards/ticket-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        196,
+        942,
+        827
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/icons/ticket.png"
+      }
+    },
+    {
+      "id": "components/hotbar",
+      "master": "masters/components/hotbar.png",
+      "exports": [
+        "gameplay/components/hotbar-128.png",
+        "gameplay/components/hotbar-128.webp",
+        "gameplay/components/hotbar-256.png",
+        "gameplay/components/hotbar-256.webp",
+        "gameplay/components/hotbar-512.png",
+        "gameplay/components/hotbar-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        382,
+        942,
+        642
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/ui/hotbar.png"
+      }
+    },
+    {
+      "id": "components/locked-rainbow",
+      "master": "masters/components/locked-rainbow.png",
+      "exports": [
+        "gameplay/components/locked-rainbow-128.png",
+        "gameplay/components/locked-rainbow-128.webp",
+        "gameplay/components/locked-rainbow-256.png",
+        "gameplay/components/locked-rainbow-256.webp",
+        "gameplay/components/locked-rainbow-512.png",
+        "gameplay/components/locked-rainbow-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        134,
+        952,
+        890
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Desaturated locked-state derivative",
+        "source_asset": "rainbow-friend/front"
+      }
+    },
+    {
+      "id": "ui-states/default",
+      "master": "masters/ui-states/default.png",
+      "exports": [
+        "gameplay/ui-states/default-128.png",
+        "gameplay/ui-states/default-128.webp",
+        "gameplay/ui-states/default-256.png",
+        "gameplay/ui-states/default-256.webp",
+        "gameplay/ui-states/default-512.png",
+        "gameplay/ui-states/default-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "rainbow-friend/front",
+          "components/quantity-badge"
+        ]
+      }
+    },
+    {
+      "id": "ui-states/selected",
+      "master": "masters/ui-states/selected.png",
+      "exports": [
+        "gameplay/ui-states/selected-128.png",
+        "gameplay/ui-states/selected-128.webp",
+        "gameplay/ui-states/selected-256.png",
+        "gameplay/ui-states/selected-256.webp",
+        "gameplay/ui-states/selected-512.png",
+        "gameplay/ui-states/selected-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        128,
+        136,
+        896,
+        888
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "rainbow-friend/front",
+          "components/selection-frame",
+          "components/quantity-badge"
+        ]
+      }
+    },
+    {
+      "id": "ui-states/locked",
+      "master": "masters/ui-states/locked.png",
+      "exports": [
+        "gameplay/ui-states/locked-128.png",
+        "gameplay/ui-states/locked-128.webp",
+        "gameplay/ui-states/locked-256.png",
+        "gameplay/ui-states/locked-256.webp",
+        "gameplay/ui-states/locked-512.png",
+        "gameplay/ui-states/locked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "components/locked-rainbow",
+          "components/lock"
+        ]
+      }
+    },
+    {
+      "id": "ui-states/empty",
+      "master": "masters/ui-states/empty.png",
+      "exports": [
+        "gameplay/ui-states/empty-128.png",
+        "gameplay/ui-states/empty-128.webp",
+        "gameplay/ui-states/empty-256.png",
+        "gameplay/ui-states/empty-256.webp",
+        "gameplay/ui-states/empty-512.png",
+        "gameplay/ui-states/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "components/plus"
+        ]
+      }
+    },
+    {
+      "id": "ui-states/earned",
+      "master": "masters/ui-states/earned.png",
+      "exports": [
+        "gameplay/ui-states/earned-128.png",
+        "gameplay/ui-states/earned-128.webp",
+        "gameplay/ui-states/earned-256.png",
+        "gameplay/ui-states/earned-256.webp",
+        "gameplay/ui-states/earned-512.png",
+        "gameplay/ui-states/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        128,
+        136,
+        896,
+        888
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "rainbow-friend/front",
+          "components/selection-frame",
+          "components/earned-tag"
+        ]
+      }
+    },
+    {
+      "id": "ui-states/quantity",
+      "master": "masters/ui-states/quantity.png",
+      "exports": [
+        "gameplay/ui-states/quantity-128.png",
+        "gameplay/ui-states/quantity-128.webp",
+        "gameplay/ui-states/quantity-256.png",
+        "gameplay/ui-states/quantity-256.webp",
+        "gameplay/ui-states/quantity-512.png",
+        "gameplay/ui-states/quantity-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "rainbow-friend/front",
+          "components/quantity-badge"
+        ]
+      }
+    },
+    {
+      "id": "components/empty-slot",
+      "master": "masters/components/empty-slot.png",
+      "exports": [
+        "gameplay/components/empty-slot-128.png",
+        "gameplay/components/empty-slot-128.webp",
+        "gameplay/components/empty-slot-256.png",
+        "gameplay/components/empty-slot-256.webp",
+        "gameplay/components/empty-slot-512.png",
+        "gameplay/components/empty-slot-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/inventory-slot",
+          "components/plus"
+        ]
+      }
+    },
+    {
+      "id": "feedback/idle",
+      "master": "masters/feedback/idle.png",
+      "exports": [
+        "gameplay/feedback/idle-128.png",
+        "gameplay/feedback/idle-128.webp",
+        "gameplay/feedback/idle-256.png",
+        "gameplay/feedback/idle-256.webp",
+        "gameplay/feedback/idle-512.png",
+        "gameplay/feedback/idle-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        187,
+        233,
+        837,
+        791
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "rainbow-friend/front"
+        ]
+      }
+    },
+    {
+      "id": "feedback/pickup",
+      "master": "masters/feedback/pickup.png",
+      "exports": [
+        "gameplay/feedback/pickup-128.png",
+        "gameplay/feedback/pickup-128.webp",
+        "gameplay/feedback/pickup-256.png",
+        "gameplay/feedback/pickup-256.webp",
+        "gameplay/feedback/pickup-512.png",
+        "gameplay/feedback/pickup-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        233,
+        942,
+        791
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/sparkles",
+          "rainbow-friend/front"
+        ]
+      }
+    },
+    {
+      "id": "feedback/use-start",
+      "master": "masters/feedback/use-start.png",
+      "exports": [
+        "gameplay/feedback/use-start-128.png",
+        "gameplay/feedback/use-start-128.webp",
+        "gameplay/feedback/use-start-256.png",
+        "gameplay/feedback/use-start-256.webp",
+        "gameplay/feedback/use-start-512.png",
+        "gameplay/feedback/use-start-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        140,
+        942,
+        885
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/vortex"
+        ]
+      }
+    },
+    {
+      "id": "feedback/active",
+      "master": "masters/feedback/active.png",
+      "exports": [
+        "gameplay/feedback/active-128.png",
+        "gameplay/feedback/active-128.webp",
+        "gameplay/feedback/active-256.png",
+        "gameplay/feedback/active-256.webp",
+        "gameplay/feedback/active-512.png",
+        "gameplay/feedback/active-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/orbit",
+          "rainbow-friend/front"
+        ]
+      }
+    },
+    {
+      "id": "feedback/impact",
+      "master": "masters/feedback/impact.png",
+      "exports": [
+        "gameplay/feedback/impact-128.png",
+        "gameplay/feedback/impact-128.webp",
+        "gameplay/feedback/impact-256.png",
+        "gameplay/feedback/impact-256.webp",
+        "gameplay/feedback/impact-512.png",
+        "gameplay/feedback/impact-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        134,
+        942,
+        889
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/impact"
+        ]
+      }
+    },
+    {
+      "id": "feedback/cooldown",
+      "master": "masters/feedback/cooldown.png",
+      "exports": [
+        "gameplay/feedback/cooldown-128.png",
+        "gameplay/feedback/cooldown-128.webp",
+        "gameplay/feedback/cooldown-256.png",
+        "gameplay/feedback/cooldown-256.webp",
+        "gameplay/feedback/cooldown-512.png",
+        "gameplay/feedback/cooldown-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        140,
+        942,
+        885
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/vortex"
+        ]
+      }
+    },
+    {
+      "id": "ui/hotbar",
+      "master": "masters/ui/hotbar.png",
+      "exports": [
+        "gameplay/ui/hotbar-128.png",
+        "gameplay/ui/hotbar-128.webp",
+        "gameplay/ui/hotbar-256.png",
+        "gameplay/ui/hotbar-256.webp",
+        "gameplay/ui/hotbar-512.png",
+        "gameplay/ui/hotbar-512.webp"
+      ],
+      "dimensions": [
+        1600,
+        500
+      ],
+      "alpha_bounds": [
+        125,
+        98,
+        1485,
+        402
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition preserving individual booster sprites",
+        "quantities": "Runtime"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "3d10e1b9f73e993e897639dbcda914490acbe5e75ec4966ac37ab619081cc988",
+      "bytes": 8025
+    },
+    {
+      "path": "gameplay/components/earned-tag-128.png",
+      "sha256": "1595db29d7ef4cf5fb17533400681c53abf825c912b2b3f0177f2a66b69f6fb6",
+      "bytes": 13284
+    },
+    {
+      "path": "gameplay/components/earned-tag-128.webp",
+      "sha256": "58a23a936789d3de217ca9a8e57dafb1e9b330d7be688cfe5b901d74cfc0faa7",
+      "bytes": 10492
+    },
+    {
+      "path": "gameplay/components/earned-tag-256.png",
+      "sha256": "cbe1b1e9a7ce8f973e794944bd2c2130902ddd33b2668cc8e20bea9d945b3e1a",
+      "bytes": 42631
+    },
+    {
+      "path": "gameplay/components/earned-tag-256.webp",
+      "sha256": "36fd8c96004a701e20e97994c3faf4bb1bb377e028d50a478e4918914a7b4f0f",
+      "bytes": 31546
+    },
+    {
+      "path": "gameplay/components/earned-tag-512.png",
+      "sha256": "d02771d93acc2a349c531944f7361ba551bade52ea51270eee92540a06523398",
+      "bytes": 142943
+    },
+    {
+      "path": "gameplay/components/earned-tag-512.webp",
+      "sha256": "72d8052136cd1bd7a2d658279a84edfc2bcedc19aebd5e062348fefe10eb0cde",
+      "bytes": 100772
+    },
+    {
+      "path": "gameplay/components/empty-slot-128.png",
+      "sha256": "a54d2623f18a3bab7c47ae748bb00b74abc874ff2ff785216b8b606a2fc906ab",
+      "bytes": 15669
+    },
+    {
+      "path": "gameplay/components/empty-slot-128.webp",
+      "sha256": "f18fe26dfa24f7d27077fef2f4e9cf1ef913f3374dda0dd08af83d9a550de8ef",
+      "bytes": 11484
+    },
+    {
+      "path": "gameplay/components/empty-slot-256.png",
+      "sha256": "a8e89908bd7199e86cc5842eb72bb3f277878d5140f1a519bae31e8a0f52f46c",
+      "bytes": 49444
+    },
+    {
+      "path": "gameplay/components/empty-slot-256.webp",
+      "sha256": "fd40fdc2fe08f1881a03f71314d53ad5fd22f6fc02ed4f172f4f8433d41cc4f4",
+      "bytes": 33402
+    },
+    {
+      "path": "gameplay/components/empty-slot-512.png",
+      "sha256": "52c817db63f00514f691c15ecbf3e3358aa0b64832e1bc9460cabef850dd602c",
+      "bytes": 173143
+    },
+    {
+      "path": "gameplay/components/empty-slot-512.webp",
+      "sha256": "ac3f318234bb1e7603708d68cbcff0ad5eb87b72a7c857bd0d3d32f6b2ad6780",
+      "bytes": 114260
+    },
+    {
+      "path": "gameplay/components/hotbar-128.png",
+      "sha256": "5faebd256b79833469f42e223bc16e0785b4b75cbeeda43b44ec3df73cb3e3dd",
+      "bytes": 6885
+    },
+    {
+      "path": "gameplay/components/hotbar-128.webp",
+      "sha256": "8b3c2ba72643e8019ea3bc7c3eef42ca75f97abefb420043d458522b80dafb7e",
+      "bytes": 5116
+    },
+    {
+      "path": "gameplay/components/hotbar-256.png",
+      "sha256": "9c563f346f999f5b4b79fcf6726d5a9a745016e5dd99c0aecebcc55117566d99",
+      "bytes": 22148
+    },
+    {
+      "path": "gameplay/components/hotbar-256.webp",
+      "sha256": "4d05208fb56a2ba200cc01d38bf0cec6bf6e2a35413a05dd09e9b4bafb5924b1",
+      "bytes": 15218
+    },
+    {
+      "path": "gameplay/components/hotbar-512.png",
+      "sha256": "97a72e4f90e411398c1e03b697fca7331be151fdc8f63fe89b9675704de86d3a",
+      "bytes": 73956
+    },
+    {
+      "path": "gameplay/components/hotbar-512.webp",
+      "sha256": "63a9e0b0c4c067dc5e0218aa48789c00b36fbb202db64b060f1e42653e60a879",
+      "bytes": 48316
+    },
+    {
+      "path": "gameplay/components/inventory-slot-128.png",
+      "sha256": "73c21122ad1b6b59d089149681f1db130ed09ef5516d7c6a6517a0a712b60cd3",
+      "bytes": 13975
+    },
+    {
+      "path": "gameplay/components/inventory-slot-128.webp",
+      "sha256": "e20f0cee10447196fa2885fc4af173e70555d0599c63f505b55ee0d0e998ff16",
+      "bytes": 9710
+    },
+    {
+      "path": "gameplay/components/inventory-slot-256.png",
+      "sha256": "6f923d5140d6cba9b132aaed92021da22e163fb4b325350cda11f94daa05faad",
+      "bytes": 44353
+    },
+    {
+      "path": "gameplay/components/inventory-slot-256.webp",
+      "sha256": "280d7d0a8dff3b0fd52cf0aac83367f5a1eb60431bd85d2d34fcfe13917c3873",
+      "bytes": 29126
+    },
+    {
+      "path": "gameplay/components/inventory-slot-512.png",
+      "sha256": "b89aabbe910c10dfaa19c0425e901db59cf50028c60fd0314ee9a3052b9328ff",
+      "bytes": 156370
+    },
+    {
+      "path": "gameplay/components/inventory-slot-512.webp",
+      "sha256": "46baa4b5c62cc84270a97bae91ef656939fbb5de7d20292236824c9bf984f2b5",
+      "bytes": 100762
+    },
+    {
+      "path": "gameplay/components/lock-128.png",
+      "sha256": "4a7c92c38757bad67327c9b4f6b2a5406c3d623ca3110df6b243f6bcfa95eccf",
+      "bytes": 17205
+    },
+    {
+      "path": "gameplay/components/lock-128.webp",
+      "sha256": "87cb0bfa64ee6c19434a00930abe2b4175389c0e60762f73fd9373f0a2174c8d",
+      "bytes": 13026
+    },
+    {
+      "path": "gameplay/components/lock-256.png",
+      "sha256": "e5a9246a272491f880762cb5fdd043ebe5e8bad1d717e55b9e3c232bc5f2abc4",
+      "bytes": 51242
+    },
+    {
+      "path": "gameplay/components/lock-256.webp",
+      "sha256": "0f0237014f48c13c1e12bb6ad85eda604f0d41d4329a04b888da5406ce9a52f2",
+      "bytes": 36244
+    },
+    {
+      "path": "gameplay/components/lock-512.png",
+      "sha256": "a6e6a8346ad6dbb9319ffea809548c80213f27f5e10cbcccf1d8931b2ae2f4ea",
+      "bytes": 171598
+    },
+    {
+      "path": "gameplay/components/lock-512.webp",
+      "sha256": "0b926f5da28dc90be74827f0fd237e11469104aeaf04e0e71ac836d5e4ce3713",
+      "bytes": 114550
+    },
+    {
+      "path": "gameplay/components/locked-rainbow-128.png",
+      "sha256": "d2dc4319355f89f9b0f6bbbd51ebd96e32c4f1264ea02ad3c37345208f86d9af",
+      "bytes": 15313
+    },
+    {
+      "path": "gameplay/components/locked-rainbow-128.webp",
+      "sha256": "f0749b970baa0ee46f31e3f4a8577c1e5c236169fe6a4acea967ea54922dba65",
+      "bytes": 10314
+    },
+    {
+      "path": "gameplay/components/locked-rainbow-256.png",
+      "sha256": "8eb570251fe3685ce484e868a7fa9f5801c0a99b7af1fa59def8ca82130468c1",
+      "bytes": 44021
+    },
+    {
+      "path": "gameplay/components/locked-rainbow-256.webp",
+      "sha256": "1de4fe56dcedc62ca2f6ed8f9230284f6aa7c81b9b99398692c14e3d083b32e2",
+      "bytes": 27250
+    },
+    {
+      "path": "gameplay/components/locked-rainbow-512.png",
+      "sha256": "371110712d8744bdfe66abba69b36f56b6573f88aa8c2a806ceb8c08f0a4ad6c",
+      "bytes": 133461
+    },
+    {
+      "path": "gameplay/components/locked-rainbow-512.webp",
+      "sha256": "b64f3e154344bfe251941c0a27263376fa74b6febb8791ea339d60f91f3528cd",
+      "bytes": 81238
+    },
+    {
+      "path": "gameplay/components/plus-128.png",
+      "sha256": "273e258235249db2dd62da2dcd2bf475e189c854636a35f22251687db60f0661",
+      "bytes": 18859
+    },
+    {
+      "path": "gameplay/components/plus-128.webp",
+      "sha256": "febb085c76bcddc57d1413c5159db8b59f88691dbf8026fc3ba341d7f90816f2",
+      "bytes": 14530
+    },
+    {
+      "path": "gameplay/components/plus-256.png",
+      "sha256": "e30174ea04243939712737f3a7911f7f5ebee97e338356e9c6e763120d660d8f",
+      "bytes": 58672
+    },
+    {
+      "path": "gameplay/components/plus-256.webp",
+      "sha256": "1eb4958482f83a4b9ee977e02e11ce02133d73a03444bedaf973c9c4dd4ac194",
+      "bytes": 41884
+    },
+    {
+      "path": "gameplay/components/plus-512.png",
+      "sha256": "cf080c80aa90b5187296f01867c3fa9b7c3d8d53a5b634dc26d5927db0bbaade",
+      "bytes": 192105
+    },
+    {
+      "path": "gameplay/components/plus-512.webp",
+      "sha256": "1f4f0caa028ed4d1d921b001446c343c27ac304a959d6719c1b8e17df1981564",
+      "bytes": 128916
+    },
+    {
+      "path": "gameplay/components/quantity-badge-128.png",
+      "sha256": "5815358407467acf4a80a9e4d2d7fc7b77970f4fe6b5b949a3d4749dbc98aa89",
+      "bytes": 7779
+    },
+    {
+      "path": "gameplay/components/quantity-badge-128.webp",
+      "sha256": "b6d749fdbfe5dfd3548931627ffec0aa83c88316f14dfd470752cb86f05a1cad",
+      "bytes": 5716
+    },
+    {
+      "path": "gameplay/components/quantity-badge-256.png",
+      "sha256": "3175d4af18f6039ca33f26e64b47d0ad2ef4416a19627bdd7f5625cef3137030",
+      "bytes": 24392
+    },
+    {
+      "path": "gameplay/components/quantity-badge-256.webp",
+      "sha256": "c2dde1ff9a2b03bb3896e3f813c97c82b2dc88b1c23f1657fc82df53178453d5",
+      "bytes": 16198
+    },
+    {
+      "path": "gameplay/components/quantity-badge-512.png",
+      "sha256": "f37529cc9756f727e0b93a2d0231164ee3b946b4a64e48d08c3b015a85fc845d",
+      "bytes": 81454
+    },
+    {
+      "path": "gameplay/components/quantity-badge-512.webp",
+      "sha256": "1ed18d7b720e6e618a7cb97808d48c5c7054ca79c744993ce7a2cfe615fb5fe0",
+      "bytes": 52116
+    },
+    {
+      "path": "gameplay/components/selection-frame-128.png",
+      "sha256": "5fcf37712b43202805857d3644ef5acb5c1f0ddf052f454c3380dc968bed7aac",
+      "bytes": 10966
+    },
+    {
+      "path": "gameplay/components/selection-frame-128.webp",
+      "sha256": "1219f4aeeb1328708f3239b20a9b14f24d915ad39ddd182808725d9c124e62a7",
+      "bytes": 8818
+    },
+    {
+      "path": "gameplay/components/selection-frame-256.png",
+      "sha256": "d602e1d8f2268ca5e6b42f28078e7b29489ef257565b56d911247e800f2409dc",
+      "bytes": 36079
+    },
+    {
+      "path": "gameplay/components/selection-frame-256.webp",
+      "sha256": "c51b194b27744dcb019885714b78b66f5ca4fafde77485eab6c3de9689f9013b",
+      "bytes": 27054
+    },
+    {
+      "path": "gameplay/components/selection-frame-512.png",
+      "sha256": "b6016f7e7bb20300926b4d8a141494c4325d6d0f418c43cc58e26a7b9923dbb2",
+      "bytes": 119528
+    },
+    {
+      "path": "gameplay/components/selection-frame-512.webp",
+      "sha256": "c25fcf5c1877fa1ce5478169f6fee2b714ab44e4c78e753e9d82c9210bb728e8",
+      "bytes": 86552
+    },
+    {
+      "path": "gameplay/cozy-save/back-128.png",
+      "sha256": "4c29bb25976e69d6fbaec6ab367d301340578fd4b4f42a22da3c1baf2cd4ffe8",
+      "bytes": 13545
+    },
+    {
+      "path": "gameplay/cozy-save/back-128.webp",
+      "sha256": "dc8e8823fdee4f8d0e8f79cbc1e3924612741a8b7a15e8dffa22f64437188980",
+      "bytes": 10306
+    },
+    {
+      "path": "gameplay/cozy-save/back-256.png",
+      "sha256": "5595cb9dd764bc1d41fad7c5d5428cea10dba3382b2000f96c65e39061c637c6",
+      "bytes": 44939
+    },
+    {
+      "path": "gameplay/cozy-save/back-256.webp",
+      "sha256": "b3a1f8fdd349ba4d780697f2ae88232107fa30dca7b1cd94aeecc4ba24eb73a6",
+      "bytes": 31932
+    },
+    {
+      "path": "gameplay/cozy-save/back-512.png",
+      "sha256": "6510424ef34a2b1a606b98b46224490e124ebe4fb21bc9583d82b525986e9230",
+      "bytes": 153329
+    },
+    {
+      "path": "gameplay/cozy-save/back-512.webp",
+      "sha256": "8dd37dd58d0640f36f8b623f9f2ce629cc9a813ad09d2b08ad1b2b367900e181",
+      "bytes": 108892
+    },
+    {
+      "path": "gameplay/cozy-save/front-128.png",
+      "sha256": "517d610f5c5924583ecd48b7e4db29578e48cf2e264f4732aaac9ea6ab6f3ddd",
+      "bytes": 16388
+    },
+    {
+      "path": "gameplay/cozy-save/front-128.webp",
+      "sha256": "6174c388e9b1924301c1ed025eda0027d04106b9a4f87e286b1652e3d02f2e6a",
+      "bytes": 12446
+    },
+    {
+      "path": "gameplay/cozy-save/front-256.png",
+      "sha256": "40f39c9fdfbad2c250bed60480879b172a9e521c4bd7bae92dae4fc07c19bd6d",
+      "bytes": 50276
+    },
+    {
+      "path": "gameplay/cozy-save/front-256.webp",
+      "sha256": "7051ad77f82c5739283f0fe89b1525e1bc43d9f540d60be7f690a78f688471a6",
+      "bytes": 35132
+    },
+    {
+      "path": "gameplay/cozy-save/front-512.png",
+      "sha256": "87ecf4d709713d962fdffb4f3bab528a23c72fe2401eef4aaf5f1a7c43aea8b2",
+      "bytes": 160019
+    },
+    {
+      "path": "gameplay/cozy-save/front-512.webp",
+      "sha256": "7469e78565da493b346519b9b207fba6818c31c9414ae3fee386ab812b045f06",
+      "bytes": 111254
+    },
+    {
+      "path": "gameplay/cozy-save/rear-three-quarter-128.png",
+      "sha256": "7680b1f5e5ac7696ac141637011cea40467846a6a991b9f299a126c20e59449b",
+      "bytes": 20165
+    },
+    {
+      "path": "gameplay/cozy-save/rear-three-quarter-128.webp",
+      "sha256": "9f3763bb78488f58a21f3dad84ecfbe8959117a517097485df452d95939c7499",
+      "bytes": 15018
+    },
+    {
+      "path": "gameplay/cozy-save/rear-three-quarter-256.png",
+      "sha256": "0a8e5be1861500c7d59ac413d4ea9dacff2ce17582bd9486ba7bc48641ce78bb",
+      "bytes": 62315
+    },
+    {
+      "path": "gameplay/cozy-save/rear-three-quarter-256.webp",
+      "sha256": "377615655b4d9f476dc0a9598444a3337db0f15168e946729d05b176636adb23",
+      "bytes": 43988
+    },
+    {
+      "path": "gameplay/cozy-save/rear-three-quarter-512.png",
+      "sha256": "95b2fd8786a9cc4cb6d6421ef2088297fedb4bf450bdca3480665a6ad9b67447",
+      "bytes": 212812
+    },
+    {
+      "path": "gameplay/cozy-save/rear-three-quarter-512.webp",
+      "sha256": "95e7aed85f99665a5ffc70a3393e47251389a6bff8382f44d8fbaf391a940c77",
+      "bytes": 146192
+    },
+    {
+      "path": "gameplay/cozy-save/side-128.png",
+      "sha256": "e268ee0eb342ee1cbfefa152fb7caf2cbaf86cbb2ef46b0cb17f41574edd9962",
+      "bytes": 17552
+    },
+    {
+      "path": "gameplay/cozy-save/side-128.webp",
+      "sha256": "05ccccb636eb52bafb4728fc3150b8a0027d0ea08e8f5a22afef4bc62b4800fa",
+      "bytes": 13760
+    },
+    {
+      "path": "gameplay/cozy-save/side-256.png",
+      "sha256": "7f21fc137c03678ddb53dd1ff5f967739488788da460f0d6344b5e5fc9fdc37e",
+      "bytes": 55025
+    },
+    {
+      "path": "gameplay/cozy-save/side-256.webp",
+      "sha256": "73c955aa4598273ef01962c9e17d4ec922c296979074b747397aae3f660943c0",
+      "bytes": 40138
+    },
+    {
+      "path": "gameplay/cozy-save/side-512.png",
+      "sha256": "116f39c9f39996e84db29c22be7863a3baf2d879055ec547bf1bd025cbdfcd8f",
+      "bytes": 184610
+    },
+    {
+      "path": "gameplay/cozy-save/side-512.webp",
+      "sha256": "a95ab435bada03232e14768b5ec5184d60d319f1ec181e161d83fd568c950c4d",
+      "bytes": 130586
+    },
+    {
+      "path": "gameplay/cozy-save/three-quarter-128.png",
+      "sha256": "c8382398655156ad1594e0f8a55327da44cfb16f089e363cb10f942d0c3d8235",
+      "bytes": 20804
+    },
+    {
+      "path": "gameplay/cozy-save/three-quarter-128.webp",
+      "sha256": "8b6b6ed9c7f4db5b2ed0c75faa13c78e88c378eb20a0227640b2ca53e6b94a5f",
+      "bytes": 15910
+    },
+    {
+      "path": "gameplay/cozy-save/three-quarter-256.png",
+      "sha256": "d3d01f71c7140cc1f750d493b2632010caad3539dfc62f9b8cb3620e27ef39a8",
+      "bytes": 64601
+    },
+    {
+      "path": "gameplay/cozy-save/three-quarter-256.webp",
+      "sha256": "6645548a2f1fd70ade026a2ba74b005af9bcd542c2cb802da38dd0fc7122114a",
+      "bytes": 45556
+    },
+    {
+      "path": "gameplay/cozy-save/three-quarter-512.png",
+      "sha256": "968ed0cf1189441aa44132d82312d043cc77bccfb840aa05816722c512e8fa7e",
+      "bytes": 217954
+    },
+    {
+      "path": "gameplay/cozy-save/three-quarter-512.webp",
+      "sha256": "0facb87942a005894cf64528b5af13781734dc3ed2ae854faefc84cdc4859188",
+      "bytes": 154676
+    },
+    {
+      "path": "gameplay/cozy-save/top-128.png",
+      "sha256": "c56e7a86814a00662afcf3a902db07e84541fcc56c08535c080380f0208fb008",
+      "bytes": 10814
+    },
+    {
+      "path": "gameplay/cozy-save/top-128.webp",
+      "sha256": "cdf7be6127a358d6ea31cb22f178245259f5570bf20f26907d2d6b05adbdff96",
+      "bytes": 8774
+    },
+    {
+      "path": "gameplay/cozy-save/top-256.png",
+      "sha256": "0a836bd05d3729e1b3435199916f23cb4832b1b089b622cf692ab1f93223babe",
+      "bytes": 33156
+    },
+    {
+      "path": "gameplay/cozy-save/top-256.webp",
+      "sha256": "169faa434b48427caf3cc209a3c77c1e5a03447b438bf6ecb9a0f1a7b58765d5",
+      "bytes": 24152
+    },
+    {
+      "path": "gameplay/cozy-save/top-512.png",
+      "sha256": "a5fbce8ae050acea962eae0d3983146e2651c1c75cb31363cb9e9a508259b276",
+      "bytes": 105052
+    },
+    {
+      "path": "gameplay/cozy-save/top-512.webp",
+      "sha256": "4614718722a78e60d8e46b929a582fc573263697b355b0f54de887b16044fd1b",
+      "bytes": 74424
+    },
+    {
+      "path": "gameplay/effects/impact-128.png",
+      "sha256": "9820b71d24839aa3f9f1aca1e6b0d0d31c4f560926a266fdeaa71b85d6cbc159",
+      "bytes": 19357
+    },
+    {
+      "path": "gameplay/effects/impact-128.webp",
+      "sha256": "163351d127c408f015c0cb34dd90531a10f4c9b0bec17fcc42a034b0733b2736",
+      "bytes": 15734
+    },
+    {
+      "path": "gameplay/effects/impact-256.png",
+      "sha256": "793eb3f16883253453856efdbd67c83222935b3d691cf7a0bc4aab2e04fd887c",
+      "bytes": 61132
+    },
+    {
+      "path": "gameplay/effects/impact-256.webp",
+      "sha256": "7f10d9751f8d59b691b6f55f21c68d79a8af9937724de1d5816f3aaf0854b33f",
+      "bytes": 45672
+    },
+    {
+      "path": "gameplay/effects/impact-512.png",
+      "sha256": "dedb0d06b0adf56ee8c476230e8fd428054abf9d275e246502902279c264f03a",
+      "bytes": 202352
+    },
+    {
+      "path": "gameplay/effects/impact-512.webp",
+      "sha256": "96de975793938c6fbd6ce8fbe41e7e0fd9008c217568c36ae4121232ab8de891",
+      "bytes": 147468
+    },
+    {
+      "path": "gameplay/effects/orbit-128.png",
+      "sha256": "805872f2ad6fcb2a33dd6bfc5a78438168b0344a9def6ccc89fc29b035c39f96",
+      "bytes": 16370
+    },
+    {
+      "path": "gameplay/effects/orbit-128.webp",
+      "sha256": "8d7a86ec771f76af34ede9bf836519b0690079cbc08b7def43fcbf2d97cfd319",
+      "bytes": 14422
+    },
+    {
+      "path": "gameplay/effects/orbit-256.png",
+      "sha256": "200764bcb55151402a59d93734367a6821a6d0231292b177b626b4f1ccb3ac87",
+      "bytes": 55632
+    },
+    {
+      "path": "gameplay/effects/orbit-256.webp",
+      "sha256": "0efbe56296a93f91c5ad444114f8add825107d46bb445851fc5a7f59ad232e08",
+      "bytes": 44794
+    },
+    {
+      "path": "gameplay/effects/orbit-512.png",
+      "sha256": "126f70ef995334a65217c9585954608efe1cf1e1110464c2b45a73711d0d6895",
+      "bytes": 196475
+    },
+    {
+      "path": "gameplay/effects/orbit-512.webp",
+      "sha256": "77adb87379730e2ba3432c8cb99dca264f46ff1e354946c1aa384ebe131eb04d",
+      "bytes": 149178
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.png",
+      "sha256": "99c7ade8686ae647c72ba8ccf89944bc7e359c254d861b30b4bf258ba5b224de",
+      "bytes": 7735
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.webp",
+      "sha256": "94069650f8f3c50d70045271ac7501121deafaff9e96e4c03588d14daee6a51c",
+      "bytes": 6550
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.png",
+      "sha256": "521a8e4c3c8c466c5b6426f0421770ec9283ba0bf343d717aa23c92e2faa1878",
+      "bytes": 25736
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.webp",
+      "sha256": "d2252ad9020db5e52e7fbf61a4e74a79a904c6617ac266a1bc6c8f9201d7d018",
+      "bytes": 22586
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.png",
+      "sha256": "f8d4042b5b041fe02f160936bc07101c764ecbe30b1cfbec1b8a371877f51a92",
+      "bytes": 87717
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.webp",
+      "sha256": "7991ce5a0f57a158970784b92213789317b3c7aff03ccc1f086f746e92872864",
+      "bytes": 74306
+    },
+    {
+      "path": "gameplay/effects/vortex-128.png",
+      "sha256": "263f9c133b9ff69c9a87a07174b45ffb43fda756f7f94e03f145acfd3fd468ed",
+      "bytes": 20365
+    },
+    {
+      "path": "gameplay/effects/vortex-128.webp",
+      "sha256": "8860c96a8035c58fa0c33ae341359c9d98bae5919305e45a7fc5bde5fbc29bd6",
+      "bytes": 17560
+    },
+    {
+      "path": "gameplay/effects/vortex-256.png",
+      "sha256": "eb5ed2e0705ba4aeb91501e3c53d5c860de4451b5b83aeb409fb2fbc674f15ed",
+      "bytes": 70278
+    },
+    {
+      "path": "gameplay/effects/vortex-256.webp",
+      "sha256": "7973c4d47c01c78c17a4846aabb223bf3c3de051c4fc8e276e276e639df079b9",
+      "bytes": 54718
+    },
+    {
+      "path": "gameplay/effects/vortex-512.png",
+      "sha256": "f30459968b0475345f82d1302f7a378138955da608ef1456fc1896b1e3f119d9",
+      "bytes": 243187
+    },
+    {
+      "path": "gameplay/effects/vortex-512.webp",
+      "sha256": "f179ce009dfa22976480e99fb405436c62834538d8849b1522dec11796051d00",
+      "bytes": 181730
+    },
+    {
+      "path": "gameplay/feedback/active-128.png",
+      "sha256": "271d324c35c4738546d3ec60d2deadc477e31221b76a59dc7ece800a20c33cbf",
+      "bytes": 23124
+    },
+    {
+      "path": "gameplay/feedback/active-128.webp",
+      "sha256": "1cba5e888f2824db108a767df3a4a489b8a4bda75b2a247bcefbbdb402df3616",
+      "bytes": 19164
+    },
+    {
+      "path": "gameplay/feedback/active-256.png",
+      "sha256": "235772748e48d180e288eb36c239ca03ed5dc46d53be49354fddc1c917a98800",
+      "bytes": 79335
+    },
+    {
+      "path": "gameplay/feedback/active-256.webp",
+      "sha256": "59c26a451964b9201caba72a584358a0dfc8e74b60c3a9ca39f28e6af5fc39a7",
+      "bytes": 58942
+    },
+    {
+      "path": "gameplay/feedback/active-512.png",
+      "sha256": "ef9529d42981a29196107927a31f335204e30bb6a8830cd20b0503326e126891",
+      "bytes": 273828
+    },
+    {
+      "path": "gameplay/feedback/active-512.webp",
+      "sha256": "67cb4cdc1284bfe7061b265262c455bd934a1cf2399eea00589f1e781709eae3",
+      "bytes": 195670
+    },
+    {
+      "path": "gameplay/feedback/cooldown-128.png",
+      "sha256": "f0b81f6fa37108c9f7488a6185c8f165e48584d13d0b77803c1e254007a0f1d1",
+      "bytes": 20357
+    },
+    {
+      "path": "gameplay/feedback/cooldown-128.webp",
+      "sha256": "1b18780cee0c03c0c9edbb06e32f613d91e2786965553348da0bccd9aab6fd30",
+      "bytes": 17584
+    },
+    {
+      "path": "gameplay/feedback/cooldown-256.png",
+      "sha256": "a4fbd4614ead75a778d6caf91657dc650e3760b4909af92db9bb649a56d924fa",
+      "bytes": 70250
+    },
+    {
+      "path": "gameplay/feedback/cooldown-256.webp",
+      "sha256": "200a1a2a936036b405c2d566fec6f33c024a0672f208725c8d417b85ac2120c7",
+      "bytes": 54668
+    },
+    {
+      "path": "gameplay/feedback/cooldown-512.png",
+      "sha256": "76fd4a3a04f3e9a68eb19b10f2e9bdb03b4bffa912a0559bbac0a94a5ec8a8ec",
+      "bytes": 243574
+    },
+    {
+      "path": "gameplay/feedback/cooldown-512.webp",
+      "sha256": "4ff64846b8af62593f89351cad0a5753989c7d4db46f649cb3cb5f36a7335a75",
+      "bytes": 182188
+    },
+    {
+      "path": "gameplay/feedback/idle-128.png",
+      "sha256": "d28cc8b224424884a9c35d97ced6db670bb48b0633a3d615da03e92379ac2eee",
+      "bytes": 12528
+    },
+    {
+      "path": "gameplay/feedback/idle-128.webp",
+      "sha256": "df3efe65c97f5b9fe0fc8a0dc5c9c0842b892c460a2ed415124b9f5bd2450a4b",
+      "bytes": 9892
+    },
+    {
+      "path": "gameplay/feedback/idle-256.png",
+      "sha256": "406df5d489b840db637ae210265e3ae32a6c8360be69fca8cf95adbae28389a5",
+      "bytes": 39872
+    },
+    {
+      "path": "gameplay/feedback/idle-256.webp",
+      "sha256": "25dfb431d8b45be4b34eb07e738070bc19aea060fda7704a6b1cb1c45834312c",
+      "bytes": 28546
+    },
+    {
+      "path": "gameplay/feedback/idle-512.png",
+      "sha256": "438b5609b8ec92519c9f3e77c6326605ef640e5b73fd0d7f639b90f51ea23ca0",
+      "bytes": 130639
+    },
+    {
+      "path": "gameplay/feedback/idle-512.webp",
+      "sha256": "151d63c9327cb69b17af2bd3d4299b5bdd4727215d6cee97fdb91c69e82328ec",
+      "bytes": 89622
+    },
+    {
+      "path": "gameplay/feedback/impact-128.png",
+      "sha256": "9820b71d24839aa3f9f1aca1e6b0d0d31c4f560926a266fdeaa71b85d6cbc159",
+      "bytes": 19357
+    },
+    {
+      "path": "gameplay/feedback/impact-128.webp",
+      "sha256": "163351d127c408f015c0cb34dd90531a10f4c9b0bec17fcc42a034b0733b2736",
+      "bytes": 15734
+    },
+    {
+      "path": "gameplay/feedback/impact-256.png",
+      "sha256": "793eb3f16883253453856efdbd67c83222935b3d691cf7a0bc4aab2e04fd887c",
+      "bytes": 61132
+    },
+    {
+      "path": "gameplay/feedback/impact-256.webp",
+      "sha256": "7f10d9751f8d59b691b6f55f21c68d79a8af9937724de1d5816f3aaf0854b33f",
+      "bytes": 45672
+    },
+    {
+      "path": "gameplay/feedback/impact-512.png",
+      "sha256": "dedb0d06b0adf56ee8c476230e8fd428054abf9d275e246502902279c264f03a",
+      "bytes": 202352
+    },
+    {
+      "path": "gameplay/feedback/impact-512.webp",
+      "sha256": "96de975793938c6fbd6ce8fbe41e7e0fd9008c217568c36ae4121232ab8de891",
+      "bytes": 147468
+    },
+    {
+      "path": "gameplay/feedback/pickup-128.png",
+      "sha256": "151cb3adb0e69405ea679193ff2f824b92c88c1352b49ce0d0e742a63b6c6f80",
+      "bytes": 14380
+    },
+    {
+      "path": "gameplay/feedback/pickup-128.webp",
+      "sha256": "fb08f09dd1b30fa5a934cc959d338cd73d72c462b56676038366d7385bb22894",
+      "bytes": 11834
+    },
+    {
+      "path": "gameplay/feedback/pickup-256.png",
+      "sha256": "e5626ee3c449c7a18c63a8834ad9a93f07de2e6b04da419f74d64873dd68770d",
+      "bytes": 46706
+    },
+    {
+      "path": "gameplay/feedback/pickup-256.webp",
+      "sha256": "b4e4ea2fd84dd6d1c4d90d03122c6ae7a2807a2760e461f53d60d90ebae5912e",
+      "bytes": 34636
+    },
+    {
+      "path": "gameplay/feedback/pickup-512.png",
+      "sha256": "4b3416542f4e795175cf6b2637ab3c88894ae8fadbed90cbd01ef21f827d7a1d",
+      "bytes": 155123
+    },
+    {
+      "path": "gameplay/feedback/pickup-512.webp",
+      "sha256": "870f9c8b71c390ada71ba1de75af8aeee7a8b89b9e20ac93f2605a29b93c5a89",
+      "bytes": 109620
+    },
+    {
+      "path": "gameplay/feedback/use-start-128.png",
+      "sha256": "f0b81f6fa37108c9f7488a6185c8f165e48584d13d0b77803c1e254007a0f1d1",
+      "bytes": 20357
+    },
+    {
+      "path": "gameplay/feedback/use-start-128.webp",
+      "sha256": "1b18780cee0c03c0c9edbb06e32f613d91e2786965553348da0bccd9aab6fd30",
+      "bytes": 17584
+    },
+    {
+      "path": "gameplay/feedback/use-start-256.png",
+      "sha256": "a4fbd4614ead75a778d6caf91657dc650e3760b4909af92db9bb649a56d924fa",
+      "bytes": 70250
+    },
+    {
+      "path": "gameplay/feedback/use-start-256.webp",
+      "sha256": "200a1a2a936036b405c2d566fec6f33c024a0672f208725c8d417b85ac2120c7",
+      "bytes": 54668
+    },
+    {
+      "path": "gameplay/feedback/use-start-512.png",
+      "sha256": "76fd4a3a04f3e9a68eb19b10f2e9bdb03b4bffa912a0559bbac0a94a5ec8a8ec",
+      "bytes": 243574
+    },
+    {
+      "path": "gameplay/feedback/use-start-512.webp",
+      "sha256": "4ff64846b8af62593f89351cad0a5753989c7d4db46f649cb3cb5f36a7335a75",
+      "bytes": 182188
+    },
+    {
+      "path": "gameplay/precision-trail/back-128.png",
+      "sha256": "948ad27372b84646c8fb8a3d48e69ff818fe4e88e8741c48077ea24371c18f40",
+      "bytes": 20902
+    },
+    {
+      "path": "gameplay/precision-trail/back-128.webp",
+      "sha256": "48e366169bc88e63d8c3bab71fa548152e79737b8ef8a4d877e29b5fcf3a6b6e",
+      "bytes": 15960
+    },
+    {
+      "path": "gameplay/precision-trail/back-256.png",
+      "sha256": "c499ac95a1cb213baf654c6245047bffec9d35f2cd032bf0105b85c887b8f0c2",
+      "bytes": 71225
+    },
+    {
+      "path": "gameplay/precision-trail/back-256.webp",
+      "sha256": "10ab2b8cb6fb06d31eb73c93150a90b84297f7f1c01ed235cdac68db4fa1026a",
+      "bytes": 51312
+    },
+    {
+      "path": "gameplay/precision-trail/back-512.png",
+      "sha256": "d76fad362333f99077953f58c8ea4db28d7ef37fb4e14c174627a85fd3f60bc6",
+      "bytes": 258235
+    },
+    {
+      "path": "gameplay/precision-trail/back-512.webp",
+      "sha256": "cac414f1ff47a568f606fa29a9d6ee8706e109bb89b5789a555b4658e74c1d64",
+      "bytes": 182408
+    },
+    {
+      "path": "gameplay/precision-trail/front-128.png",
+      "sha256": "cfb57ee97001a60c20a4b0cd8d7b08fbd5c16b4766432ef7c7a43ecbca38ca4b",
+      "bytes": 21403
+    },
+    {
+      "path": "gameplay/precision-trail/front-128.webp",
+      "sha256": "11c9f5a5dace3dddb4a9ebbf3161f371e526d4ece9c886dd591bb9e4eb281749",
+      "bytes": 16030
+    },
+    {
+      "path": "gameplay/precision-trail/front-256.png",
+      "sha256": "c7524ae1ddefeb3a74d9a7df2ed9fab6033202b22d65c383626863573c7ebd3a",
+      "bytes": 67816
+    },
+    {
+      "path": "gameplay/precision-trail/front-256.webp",
+      "sha256": "6a28861c547453ce7fd955d0f57a56de0f8380f00a20aa2157cd56804e3cc93b",
+      "bytes": 47868
+    },
+    {
+      "path": "gameplay/precision-trail/front-512.png",
+      "sha256": "def7292ed2e3a7192614c8d0dc94e9e565808fdc8a43a208230ff9b7fb961375",
+      "bytes": 240305
+    },
+    {
+      "path": "gameplay/precision-trail/front-512.webp",
+      "sha256": "544fbab2dfe570983b03d6650aa82386ddaf36fd737922767276a54b62cde597",
+      "bytes": 161800
+    },
+    {
+      "path": "gameplay/precision-trail/rear-three-quarter-128.png",
+      "sha256": "b52c991e8a29a3b40346362a902c60900a33cf1997703e9f5b93750314e9a829",
+      "bytes": 16906
+    },
+    {
+      "path": "gameplay/precision-trail/rear-three-quarter-128.webp",
+      "sha256": "7bfee53da6d6ea878394760e06c6a93a5b12bc4570834bd91c34b3f6a0a5a897",
+      "bytes": 12540
+    },
+    {
+      "path": "gameplay/precision-trail/rear-three-quarter-256.png",
+      "sha256": "deab31da6d8d4f889917ca819452b1ed0e62385da9b95c75cf92989514b1fc75",
+      "bytes": 57574
+    },
+    {
+      "path": "gameplay/precision-trail/rear-three-quarter-256.webp",
+      "sha256": "6cc9e8acadbf5aa1d7325bec066f4c2d77f7a698e1dfb6d2c8f0dda04429f397",
+      "bytes": 40552
+    },
+    {
+      "path": "gameplay/precision-trail/rear-three-quarter-512.png",
+      "sha256": "2c0d5c16d2a4e703bc4ef2a1d29412d49396e6eff93d2b80f87d23e444ecb740",
+      "bytes": 216840
+    },
+    {
+      "path": "gameplay/precision-trail/rear-three-quarter-512.webp",
+      "sha256": "22d077457a105b8d34f1518532bf5136b8907c30d506ebfda2742f2d0e9ca14c",
+      "bytes": 146262
+    },
+    {
+      "path": "gameplay/precision-trail/side-128.png",
+      "sha256": "7a9a4385b4c1171a46c80af07c3c751410be47363468ef90698948c97a680003",
+      "bytes": 20576
+    },
+    {
+      "path": "gameplay/precision-trail/side-128.webp",
+      "sha256": "29c46b06441ffbf54e85f78b531f90782ad7fdcceb013e10dabd7e215a488b67",
+      "bytes": 15818
+    },
+    {
+      "path": "gameplay/precision-trail/side-256.png",
+      "sha256": "132be1c7dc2e9c9277b9d34b9677d241dc6de6517b0a0b1efd33b70194ec0202",
+      "bytes": 69533
+    },
+    {
+      "path": "gameplay/precision-trail/side-256.webp",
+      "sha256": "64d790ef31b736873e98ae6674ead813292855b7b87d8050c84d2e6806327797",
+      "bytes": 49926
+    },
+    {
+      "path": "gameplay/precision-trail/side-512.png",
+      "sha256": "2bdf7c7209163f897b6485b873448a22ced92883ee22b3a6c8c572fd139a8364",
+      "bytes": 256464
+    },
+    {
+      "path": "gameplay/precision-trail/side-512.webp",
+      "sha256": "9f437110670354b3c161e00cfe133b91e041596d41b4b35db2d7307e813fad5c",
+      "bytes": 175290
+    },
+    {
+      "path": "gameplay/precision-trail/three-quarter-128.png",
+      "sha256": "f1070b60019c4455ace360b518fadd95454279c47479dac04699e875cf899605",
+      "bytes": 23326
+    },
+    {
+      "path": "gameplay/precision-trail/three-quarter-128.webp",
+      "sha256": "3115529c53af5a91de3f36fbbefc0523ee4f771aacfad42229fb8cf3f540f623",
+      "bytes": 17436
+    },
+    {
+      "path": "gameplay/precision-trail/three-quarter-256.png",
+      "sha256": "7ab620d2607968d2345ca26ed73ba0568d62e85822b162774c624fee03a493a1",
+      "bytes": 77278
+    },
+    {
+      "path": "gameplay/precision-trail/three-quarter-256.webp",
+      "sha256": "fde8d00bbb8a12213aa6351b7cf69217070eaf0256db274b39fcbfeac31c42c5",
+      "bytes": 55254
+    },
+    {
+      "path": "gameplay/precision-trail/three-quarter-512.png",
+      "sha256": "969dd4c49bbdde622183ec5c6f9db77aeea3392aadc2491e948fcb6a6f8a476b",
+      "bytes": 286387
+    },
+    {
+      "path": "gameplay/precision-trail/three-quarter-512.webp",
+      "sha256": "b3dd79377c40b482d2d107c7897d5b0f775d4e2b130b205ebd1a0faa35f3fca1",
+      "bytes": 197998
+    },
+    {
+      "path": "gameplay/precision-trail/top-128.png",
+      "sha256": "b6c169f4d477e8458e433450d13d51eea4bdd3785536ebffa0c5aa3014729022",
+      "bytes": 12303
+    },
+    {
+      "path": "gameplay/precision-trail/top-128.webp",
+      "sha256": "0f831e6868a86f01910012860e70928fd31fa1031c47ed8c0929dc3485e4929e",
+      "bytes": 9834
+    },
+    {
+      "path": "gameplay/precision-trail/top-256.png",
+      "sha256": "1716139f4b182aa967201b40fe172674f5cf0a09f7c3d14c7a0cbd603c1ce5b8",
+      "bytes": 41378
+    },
+    {
+      "path": "gameplay/precision-trail/top-256.webp",
+      "sha256": "7eecfadf7d4cc9cdc523559ca1728f3a399b5e80f5d3a0e53d51971a79c9decc",
+      "bytes": 30706
+    },
+    {
+      "path": "gameplay/precision-trail/top-512.png",
+      "sha256": "3d2578b16e91db867edce8243c909068153b0e302effbefa1a25226bde6202db",
+      "bytes": 148483
+    },
+    {
+      "path": "gameplay/precision-trail/top-512.webp",
+      "sha256": "013831892187057bd30e55de5a2b95a3a4f904d182ede29b0c5505045403b1e5",
+      "bytes": 106528
+    },
+    {
+      "path": "gameplay/rainbow-friend/back-128.png",
+      "sha256": "a671803b12071220fb7a6f5447afc4ce29676b503351c6219a2de73d24adf474",
+      "bytes": 19652
+    },
+    {
+      "path": "gameplay/rainbow-friend/back-128.webp",
+      "sha256": "e746d7121c697129f9a835a334a5c4e1be2ad8ce721c6875427cdfcfdf428f9c",
+      "bytes": 14426
+    },
+    {
+      "path": "gameplay/rainbow-friend/back-256.png",
+      "sha256": "aac7b4db35b9b5ebdad8b3aabec6402b512909526df818200cff5d0052823a97",
+      "bytes": 62047
+    },
+    {
+      "path": "gameplay/rainbow-friend/back-256.webp",
+      "sha256": "fb1fc306f30ed0b569490c8f4ec9a95226047c9d4c69517a0afa3b1040b5d6ce",
+      "bytes": 42932
+    },
+    {
+      "path": "gameplay/rainbow-friend/back-512.png",
+      "sha256": "f7cc1cc252dcbf899e891696d98feae2f052b359ecd4218f40abebdbd34a5e49",
+      "bytes": 209768
+    },
+    {
+      "path": "gameplay/rainbow-friend/back-512.webp",
+      "sha256": "520fcda4d33d2b68f804a6aa096b81afec5fd0daa011bfdb9493c226ce718628",
+      "bytes": 142994
+    },
+    {
+      "path": "gameplay/rainbow-friend/front-128.png",
+      "sha256": "67aba444ae87f8288cb37ecb6da71c1f0d5ed466e285e47278f85c88c7ecf14b",
+      "bytes": 20439
+    },
+    {
+      "path": "gameplay/rainbow-friend/front-128.webp",
+      "sha256": "cd18cd9480960798848b24749822d4834b5274f7af9edb2322776201b70da2c4",
+      "bytes": 15466
+    },
+    {
+      "path": "gameplay/rainbow-friend/front-256.png",
+      "sha256": "fc140dc6674e5fa90ec991e5788fc671316197ff9f188f34f20d11c743e803f8",
+      "bytes": 64379
+    },
+    {
+      "path": "gameplay/rainbow-friend/front-256.webp",
+      "sha256": "246f9248928bdbf992688c11ee63a290fe50406eaeace1df67c2b64015b2bdb1",
+      "bytes": 45098
+    },
+    {
+      "path": "gameplay/rainbow-friend/front-512.png",
+      "sha256": "b5856f51f09b6a9289d9f66be4820414dc22e34f335cf0ecc499e72ab31a2351",
+      "bytes": 212564
+    },
+    {
+      "path": "gameplay/rainbow-friend/front-512.webp",
+      "sha256": "58bdc23a995d10d55ef7ffd17e1de609af8beae891f782b4187fc03638fda416",
+      "bytes": 142938
+    },
+    {
+      "path": "gameplay/rainbow-friend/rear-three-quarter-128.png",
+      "sha256": "484fd5b9c3681e9008e1390fc5d3a5607a1f2a66cb38f6156aca4657574d54df",
+      "bytes": 20483
+    },
+    {
+      "path": "gameplay/rainbow-friend/rear-three-quarter-128.webp",
+      "sha256": "362330cc8525bcb3d2d583bb32561dde32c1993a510145e5117052a590b72c41",
+      "bytes": 15466
+    },
+    {
+      "path": "gameplay/rainbow-friend/rear-three-quarter-256.png",
+      "sha256": "907ef683994ae04f2ab2cc77c96b5dbb96a470e4e1d138569ee5c82af4c49a01",
+      "bytes": 65887
+    },
+    {
+      "path": "gameplay/rainbow-friend/rear-three-quarter-256.webp",
+      "sha256": "e26d011be4dfb12164fd6575d1765fb213bcf6ebe6d82fadf75b5fc42c3a3829",
+      "bytes": 46366
+    },
+    {
+      "path": "gameplay/rainbow-friend/rear-three-quarter-512.png",
+      "sha256": "c95c6392fbd8effd1d96a154b9504c8c65197b53ebe925a63f56404b4267fece",
+      "bytes": 230191
+    },
+    {
+      "path": "gameplay/rainbow-friend/rear-three-quarter-512.webp",
+      "sha256": "fc1d4072ceb8c6d7bae63bdb560a53ace6a0d101480d9f4360364faf6f55a654",
+      "bytes": 160712
+    },
+    {
+      "path": "gameplay/rainbow-friend/side-128.png",
+      "sha256": "632602addf9f557bc23b57bec991f370be715a502c47b3a3932956640762e184",
+      "bytes": 16347
+    },
+    {
+      "path": "gameplay/rainbow-friend/side-128.webp",
+      "sha256": "16cfc7eafa823d03051227474aac725c733cc74379ae378d4392bebde178f714",
+      "bytes": 12346
+    },
+    {
+      "path": "gameplay/rainbow-friend/side-256.png",
+      "sha256": "00fb3200ff8e9f8b18245cc1755f4734d1d69819ed1fa282c7bcd6566bc3d057",
+      "bytes": 50512
+    },
+    {
+      "path": "gameplay/rainbow-friend/side-256.webp",
+      "sha256": "f23e3dcbf2ba2fe4af52ecaf6d78dd5e0b1d959c533c49bae5f4304c5009af73",
+      "bytes": 34912
+    },
+    {
+      "path": "gameplay/rainbow-friend/side-512.png",
+      "sha256": "133c999e1d5248ca5a79087b83e4957626eee0b330cdc6a6bb7c5a0eb7481724",
+      "bytes": 168732
+    },
+    {
+      "path": "gameplay/rainbow-friend/side-512.webp",
+      "sha256": "739a728611a2bf4a77c73e0f2a1477af2b7ea5fb30b79de3cbd9f3eea7b20e3a",
+      "bytes": 110092
+    },
+    {
+      "path": "gameplay/rainbow-friend/three-quarter-128.png",
+      "sha256": "830ac904ad628402b121b0d33b7b6d3afff244d54dc45c9b2a405b1a78bc4c60",
+      "bytes": 21534
+    },
+    {
+      "path": "gameplay/rainbow-friend/three-quarter-128.webp",
+      "sha256": "f28329b656722e1c5eff8853dff8b3d24933cf7df7fed352f42d65219e6f1adf",
+      "bytes": 16046
+    },
+    {
+      "path": "gameplay/rainbow-friend/three-quarter-256.png",
+      "sha256": "2f08202d6200d36866cebec1b22da0611982d8594bd5c998e86ebe37bda06fda",
+      "bytes": 68184
+    },
+    {
+      "path": "gameplay/rainbow-friend/three-quarter-256.webp",
+      "sha256": "fd769ace8d48ed2cd2444a7151f09dcbce80ccb28d12b25b8dc279575bc95f85",
+      "bytes": 46874
+    },
+    {
+      "path": "gameplay/rainbow-friend/three-quarter-512.png",
+      "sha256": "8cb2d31511e02d8c805326f99e84a9534c6f47c75266770082377b136d20b0f1",
+      "bytes": 232184
+    },
+    {
+      "path": "gameplay/rainbow-friend/three-quarter-512.webp",
+      "sha256": "a8d24e70c2ebaafca0f0b8dfadc95f15bc029ee1a39a3aa2429c29ec93960e39",
+      "bytes": 158664
+    },
+    {
+      "path": "gameplay/rainbow-friend/top-128.png",
+      "sha256": "61882475bee8095ae46e3574e7c682905f87ef03d483f5a6bf81a9601dff342f",
+      "bytes": 17042
+    },
+    {
+      "path": "gameplay/rainbow-friend/top-128.webp",
+      "sha256": "4673177eca67048a5ff414b715f6dc21ba1a07046864bbd1bf7efb06e7cdaeb3",
+      "bytes": 12978
+    },
+    {
+      "path": "gameplay/rainbow-friend/top-256.png",
+      "sha256": "ad860b4e8a86657ac5e3b853ccf4e34eac0a740103ff13b68592d7451343ac49",
+      "bytes": 54419
+    },
+    {
+      "path": "gameplay/rainbow-friend/top-256.webp",
+      "sha256": "88477ffb7b160ca1e31a46b8c3433b11d1df6d696d0a5c882f405ce7955b516f",
+      "bytes": 38042
+    },
+    {
+      "path": "gameplay/rainbow-friend/top-512.png",
+      "sha256": "8478929d8646aefbe157cd8e77526245290d1f3257efee8f325b7922784cba6f",
+      "bytes": 191016
+    },
+    {
+      "path": "gameplay/rainbow-friend/top-512.webp",
+      "sha256": "2399a6ad1951017cff6c0746782d3a80ccc781454ce561d30163d172689f3c6c",
+      "bytes": 130038
+    },
+    {
+      "path": "gameplay/rewards/bottle-128.png",
+      "sha256": "243e571721c9de8d65326030dc9fbd5e4a50b9fff9595d001f50c0d335b10101",
+      "bytes": 16890
+    },
+    {
+      "path": "gameplay/rewards/bottle-128.webp",
+      "sha256": "6f62f6ba55f9552626e662ab48f2e1ad64ba91803db1d7efb79e1d7fa94b8e15",
+      "bytes": 13630
+    },
+    {
+      "path": "gameplay/rewards/bottle-256.png",
+      "sha256": "71d92e8af83251646762aff93ce3f6cb0ad86063710f7b03080c82235abff23c",
+      "bytes": 54163
+    },
+    {
+      "path": "gameplay/rewards/bottle-256.webp",
+      "sha256": "37fe72b48823af3f0100015df6603b898b4bd7bcba458162e8dff0ab7f476d30",
+      "bytes": 39270
+    },
+    {
+      "path": "gameplay/rewards/bottle-512.png",
+      "sha256": "735842d0cb8686dff36344925788850d8aba305f91d71936f32cafc7569464c4",
+      "bytes": 178947
+    },
+    {
+      "path": "gameplay/rewards/bottle-512.webp",
+      "sha256": "47dacee3eadabda0090792de4c2c7cb1f84c384f840e04469a42c589f79a94f4",
+      "bytes": 123722
+    },
+    {
+      "path": "gameplay/rewards/bundle-128.png",
+      "sha256": "50c358860b09c5ad230f5260d97f957855231839672f33e6674145d72bec8507",
+      "bytes": 19613
+    },
+    {
+      "path": "gameplay/rewards/bundle-128.webp",
+      "sha256": "1727bac418047dcf6f122be562ae549394b6fb41779f5fff09504448e0f89599",
+      "bytes": 15552
+    },
+    {
+      "path": "gameplay/rewards/bundle-256.png",
+      "sha256": "2c5f9dc6c0fe3d785b23291f47ba590d9dd63cc3e683268fae0b8b5843133d5a",
+      "bytes": 60570
+    },
+    {
+      "path": "gameplay/rewards/bundle-256.webp",
+      "sha256": "f44e02d512b27094cd5eaf5179ba1808b2effac97eeab1c550390a34da7071c8",
+      "bytes": 44242
+    },
+    {
+      "path": "gameplay/rewards/bundle-512.png",
+      "sha256": "e472b30f3a00c6ed7958dbd06894420dd45994c799ad465f44e0bca218395956",
+      "bytes": 199384
+    },
+    {
+      "path": "gameplay/rewards/bundle-512.webp",
+      "sha256": "9a2b3efe94db5d6b62b7572179bd15f30ce2eb28172235ceddbfee6ce21b57e1",
+      "bytes": 139350
+    },
+    {
+      "path": "gameplay/rewards/gift-128.png",
+      "sha256": "48e1539b2d7e4e77c6fdd0239db06d75c7c6ccec08884ce06ad77b90fac7de8b",
+      "bytes": 25185
+    },
+    {
+      "path": "gameplay/rewards/gift-128.webp",
+      "sha256": "c7a358704c529a66d8db3eff1556850195005f1255956b2fbcb7772c0570e701",
+      "bytes": 20044
+    },
+    {
+      "path": "gameplay/rewards/gift-256.png",
+      "sha256": "262f1ec2005c336eca563681222795b56faa0286a6dff89e0b830c9566edfd2e",
+      "bytes": 78032
+    },
+    {
+      "path": "gameplay/rewards/gift-256.webp",
+      "sha256": "d204d6fce9e3e16deb9759ff85043101ca347110602ccc6f2cf2c54026366110",
+      "bytes": 56710
+    },
+    {
+      "path": "gameplay/rewards/gift-512.png",
+      "sha256": "cbf1df2195acdd3e7f6ae9273086cbb2862a8d005544cd08b0c6449cd0ee6ca4",
+      "bytes": 253110
+    },
+    {
+      "path": "gameplay/rewards/gift-512.webp",
+      "sha256": "a88ebaf80182ca5cc4a310564bc6456f1160b6b64c5089361939a5e56381daf2",
+      "bytes": 175680
+    },
+    {
+      "path": "gameplay/rewards/mystery-cube-128.png",
+      "sha256": "98178995430b8423e078efc9692953a1466be6b2f4042146046fe20e49815e1c",
+      "bytes": 20644
+    },
+    {
+      "path": "gameplay/rewards/mystery-cube-128.webp",
+      "sha256": "9da6727c677c52d9afacd044bac468f166629d07cded9b6ed575cb4ccadee92f",
+      "bytes": 16864
+    },
+    {
+      "path": "gameplay/rewards/mystery-cube-256.png",
+      "sha256": "70beef56965a4161025b4fedb9d096fb90148cbb3e36416e66c2cce9d8ffffa9",
+      "bytes": 64804
+    },
+    {
+      "path": "gameplay/rewards/mystery-cube-256.webp",
+      "sha256": "d5b49f73802f13c3e3604a7f0949c9c504bd4678159f9d17fad1a7456621dd82",
+      "bytes": 49050
+    },
+    {
+      "path": "gameplay/rewards/mystery-cube-512.png",
+      "sha256": "8fab736e4c427db2d732aa5a70869dbbd9caef0191368bd95850f1249a37ccdb",
+      "bytes": 215390
+    },
+    {
+      "path": "gameplay/rewards/mystery-cube-512.webp",
+      "sha256": "69479ec11c3ef24136f5ba49b21562c82e6943859520d00b77b432f38cf0e673",
+      "bytes": 155448
+    },
+    {
+      "path": "gameplay/rewards/ticket-128.png",
+      "sha256": "130dde7ef040dc05e57bcffd3080a16d218a11ae8e63709e1eb9d5c6e4b4e6d1",
+      "bytes": 15838
+    },
+    {
+      "path": "gameplay/rewards/ticket-128.webp",
+      "sha256": "ee3545ceb0695c614f86ce65e7db77cf652747e8f318957c9309cd446a6387cc",
+      "bytes": 12792
+    },
+    {
+      "path": "gameplay/rewards/ticket-256.png",
+      "sha256": "cdff60736c1757205fa8c195ce17f6a9553a791f937acbb4b48987a9ef547e45",
+      "bytes": 48514
+    },
+    {
+      "path": "gameplay/rewards/ticket-256.webp",
+      "sha256": "432aefc01d96c1b26f2d6d0295199988c7a5c8584217069995a290ffc2f1811b",
+      "bytes": 35962
+    },
+    {
+      "path": "gameplay/rewards/ticket-512.png",
+      "sha256": "1dd8d1deb8863dfe903df0915ccfb782f13badeb8a577b12f2b6e8737c5a2cef",
+      "bytes": 156848
+    },
+    {
+      "path": "gameplay/rewards/ticket-512.webp",
+      "sha256": "d62228e7961c62352ce94378f65e4812a7e113c90a5c3132601e8d312c8fd970",
+      "bytes": 109206
+    },
+    {
+      "path": "gameplay/soft-burst/back-128.png",
+      "sha256": "b7ea12eb0956524caff24b1d56018b172c29af6b91afac03d36351003c97b98c",
+      "bytes": 17878
+    },
+    {
+      "path": "gameplay/soft-burst/back-128.webp",
+      "sha256": "33321717652bfc1d99ecd8a64d247f3c8de1d8b298ddd1f4451a7354164c4ea1",
+      "bytes": 13418
+    },
+    {
+      "path": "gameplay/soft-burst/back-256.png",
+      "sha256": "b97b3d0b8d50d5d9f5512e8653be1ffcadd7925079a677ea0e63ab52f560cd6c",
+      "bytes": 60702
+    },
+    {
+      "path": "gameplay/soft-burst/back-256.webp",
+      "sha256": "2a0f59ed6825a5f4b8b3a584d9128abea9b6c83ee5aeb91c146041da1b78159f",
+      "bytes": 42744
+    },
+    {
+      "path": "gameplay/soft-burst/back-512.png",
+      "sha256": "255643425674c1f7724e14a7f6a907023623411e98281bb6f26445d523c1eec3",
+      "bytes": 230070
+    },
+    {
+      "path": "gameplay/soft-burst/back-512.webp",
+      "sha256": "931fe66124b7a3c9942793eb22727b262d79599e215c4fa14fa7f318f31d27f6",
+      "bytes": 157804
+    },
+    {
+      "path": "gameplay/soft-burst/front-128.png",
+      "sha256": "7a24c05fcc178b4dc6dba4005440a23d67c3df985affc07719cd96e6175b9d59",
+      "bytes": 17500
+    },
+    {
+      "path": "gameplay/soft-burst/front-128.webp",
+      "sha256": "ea14f29d99b60f831aacd92a9ab9d619928a0d3a14a670a591570f67f0828efc",
+      "bytes": 13654
+    },
+    {
+      "path": "gameplay/soft-burst/front-256.png",
+      "sha256": "4327fb4615ad1fe57fd1f13dd2406cc7e4dccf930557cd963d5defe50d8c069b",
+      "bytes": 55086
+    },
+    {
+      "path": "gameplay/soft-burst/front-256.webp",
+      "sha256": "189b302750e5e66d6db14e24a1e0fa66dd90cf88230babf0c208d53333364653",
+      "bytes": 39600
+    },
+    {
+      "path": "gameplay/soft-burst/front-512.png",
+      "sha256": "25f0e0346b79a44441d0b56838bad65518a0c54195edcb0edcf9c2778afa2ed7",
+      "bytes": 188063
+    },
+    {
+      "path": "gameplay/soft-burst/front-512.webp",
+      "sha256": "9bf36fc581e81117a3c277d2ddadec196060dc5bca4a471920e186a3d66c36dd",
+      "bytes": 131932
+    },
+    {
+      "path": "gameplay/soft-burst/rear-three-quarter-128.png",
+      "sha256": "cdc0b9f797ac9a43af0b6010d4db1adbd582df3ebba702fe2fff0dc3a389be29",
+      "bytes": 18158
+    },
+    {
+      "path": "gameplay/soft-burst/rear-three-quarter-128.webp",
+      "sha256": "993aa99ac722eaf2f8639c4335458906044dfd6b7057f4507838838811b1ca70",
+      "bytes": 13286
+    },
+    {
+      "path": "gameplay/soft-burst/rear-three-quarter-256.png",
+      "sha256": "e24d21c5934250a402988e70188f82365a157cabf7086811ee2edaaad0d93773",
+      "bytes": 62535
+    },
+    {
+      "path": "gameplay/soft-burst/rear-three-quarter-256.webp",
+      "sha256": "c71c3624c3e6755030a66a2f6ddcaa79738ca67129ab06619e31527d9617951e",
+      "bytes": 43302
+    },
+    {
+      "path": "gameplay/soft-burst/rear-three-quarter-512.png",
+      "sha256": "c36994f4ab83b3dfcb516f9f599a2de64e6c2f07fe2d151128e548626af50b9c",
+      "bytes": 234185
+    },
+    {
+      "path": "gameplay/soft-burst/rear-three-quarter-512.webp",
+      "sha256": "7c3ad94f8d4997300605e887ca027b7b84ea8bbb354bb261318497e7af365445",
+      "bytes": 158190
+    },
+    {
+      "path": "gameplay/soft-burst/side-128.png",
+      "sha256": "10b4c550354e00911a3c22bdc6e8349c84e65460dd7bd05a19a64cc596ded910",
+      "bytes": 18575
+    },
+    {
+      "path": "gameplay/soft-burst/side-128.webp",
+      "sha256": "5e3d9a944cbbf24a5ea935a86663a181cf28886b13d9bb8bb8a0b5267edd0e04",
+      "bytes": 14276
+    },
+    {
+      "path": "gameplay/soft-burst/side-256.png",
+      "sha256": "219a85bbbab90e707369e26a156cc59a7ec2bc0285eadca32877874cded743b3",
+      "bytes": 61891
+    },
+    {
+      "path": "gameplay/soft-burst/side-256.webp",
+      "sha256": "6946dc08bcfd5b818473190580a52694451fac3a35b7266e0d18c10c3184dbf8",
+      "bytes": 44236
+    },
+    {
+      "path": "gameplay/soft-burst/side-512.png",
+      "sha256": "b5ae967096ad136621f3d1170cb77279da31852e908347b778715a3e0723b677",
+      "bytes": 224997
+    },
+    {
+      "path": "gameplay/soft-burst/side-512.webp",
+      "sha256": "d80141232366c291414c27402970de7dfa2aec094bd3a0a952d8fa2d847d9f2e",
+      "bytes": 154132
+    },
+    {
+      "path": "gameplay/soft-burst/three-quarter-128.png",
+      "sha256": "9a4a384cd234625938f7c717f889c9d0cda9b8bfabac85aa699ad565493de9f2",
+      "bytes": 18246
+    },
+    {
+      "path": "gameplay/soft-burst/three-quarter-128.webp",
+      "sha256": "d87eeb9d35450ad090871f8e9474e9018310577f531985cd8563f6edc312dd72",
+      "bytes": 14420
+    },
+    {
+      "path": "gameplay/soft-burst/three-quarter-256.png",
+      "sha256": "f5d2580083461f2e08580ee9958bd478d07db056724e9d27be8ff174a178c390",
+      "bytes": 58850
+    },
+    {
+      "path": "gameplay/soft-burst/three-quarter-256.webp",
+      "sha256": "46eeba5f89fd7b15ac28e5dbf4ca649f2765d1273be1aa7649b8ce2969c53807",
+      "bytes": 43318
+    },
+    {
+      "path": "gameplay/soft-burst/three-quarter-512.png",
+      "sha256": "de08bbe2f309a47a76e782e4ef77892c459071d59af61c1d08b068b2799abb40",
+      "bytes": 210806
+    },
+    {
+      "path": "gameplay/soft-burst/three-quarter-512.webp",
+      "sha256": "af91db890ef971e8b6f0f2d357284b59580654db23df7758727c4f0df01c8cf9",
+      "bytes": 148822
+    },
+    {
+      "path": "gameplay/soft-burst/top-128.png",
+      "sha256": "726a4e449c770eee135ce6956da0e9ab4639a5d5a9e9deedc3f0c1f6c4008486",
+      "bytes": 14313
+    },
+    {
+      "path": "gameplay/soft-burst/top-128.webp",
+      "sha256": "d13a2b8cb08985f98943f94a0d0c97aa863ff774659e30a14f1b6975815968b3",
+      "bytes": 10604
+    },
+    {
+      "path": "gameplay/soft-burst/top-256.png",
+      "sha256": "a8e333cf975d4b3dc37e777c2596f34a5a4a9d825f4978ba48c589b7ca1d4497",
+      "bytes": 49589
+    },
+    {
+      "path": "gameplay/soft-burst/top-256.webp",
+      "sha256": "1b7fe5b2a6ad3fcd65e38acda147bd23a0daee5f8492b1c332cef3761c69bc41",
+      "bytes": 34410
+    },
+    {
+      "path": "gameplay/soft-burst/top-512.png",
+      "sha256": "5a105d31762a959b56d2dbfbc80ef980839f4af3d4bcbb7446f758732a07acd2",
+      "bytes": 187814
+    },
+    {
+      "path": "gameplay/soft-burst/top-512.webp",
+      "sha256": "75d4adb86a7d75ded18debdc07021b8d2bf28abde01f6b1fca430f888d5746a4",
+      "bytes": 125728
+    },
+    {
+      "path": "gameplay/ui/hotbar-128.png",
+      "sha256": "3fc8ecf00783f80a16bcda576628f1463e319f4b744b5bce8bb11dbea8fab484",
+      "bytes": 7843
+    },
+    {
+      "path": "gameplay/ui/hotbar-128.webp",
+      "sha256": "4d9565ac5ed3659a028e64146b529fc558c373625f314bae10586e7149561685",
+      "bytes": 7476
+    },
+    {
+      "path": "gameplay/ui/hotbar-256.png",
+      "sha256": "cd4f5b375088736728da4b5529d239ac99b9aff2c08144804481ecb2df0a71ae",
+      "bytes": 24312
+    },
+    {
+      "path": "gameplay/ui/hotbar-256.webp",
+      "sha256": "a9a6f65738cf381844288703718d4944a38149315f33e760213425a2aa2eeb4d",
+      "bytes": 20950
+    },
+    {
+      "path": "gameplay/ui/hotbar-512.png",
+      "sha256": "f2faa2dc0ddd8584d6624924f266cd779d0d37d83279c716485b07012bfe39e1",
+      "bytes": 70909
+    },
+    {
+      "path": "gameplay/ui/hotbar-512.webp",
+      "sha256": "a3d8085b6f87561255f26fb92c648404515405b6db5ce110fe36a1a87dabe03f",
+      "bytes": 56164
+    },
+    {
+      "path": "gameplay/ui-states/default-128.png",
+      "sha256": "b87306e4b8f5b1e5010d4f743e478689202c5291b3a29626a93d94e6eaa9c5e1",
+      "bytes": 20515
+    },
+    {
+      "path": "gameplay/ui-states/default-128.webp",
+      "sha256": "29dd9883c19c3e72d46d15ea28b3b65775467ad35d5f83d99172a21e6fd842dc",
+      "bytes": 15380
+    },
+    {
+      "path": "gameplay/ui-states/default-256.png",
+      "sha256": "44e1d4936391307080579fd45b5cb71eb746997f5ac4b5e7c0f697c17d09b454",
+      "bytes": 65464
+    },
+    {
+      "path": "gameplay/ui-states/default-256.webp",
+      "sha256": "5c54fe1ac7a049295367f33c04e79b90f483e2764786048be2d23a5bae23cb75",
+      "bytes": 45642
+    },
+    {
+      "path": "gameplay/ui-states/default-512.png",
+      "sha256": "49dafaa6ee46fa7239ef2361ce8193692c32321d933b2f5351dabee488249221",
+      "bytes": 218038
+    },
+    {
+      "path": "gameplay/ui-states/default-512.webp",
+      "sha256": "9164b6b28dd69565cf2dbf0004447a111da17c6388ac6e56167a3698ce2a4083",
+      "bytes": 146678
+    },
+    {
+      "path": "gameplay/ui-states/earned-128.png",
+      "sha256": "fdbe32c79c924200eb3ff86494471a2dd71820d9c87aa9d1067ad50bdb6f3471",
+      "bytes": 21369
+    },
+    {
+      "path": "gameplay/ui-states/earned-128.webp",
+      "sha256": "87e5273011a9ad9da0c279459bef286a5c63fbb56002e7de3b8df5b253bff4e0",
+      "bytes": 16820
+    },
+    {
+      "path": "gameplay/ui-states/earned-256.png",
+      "sha256": "273f0ab39f485be977df0721be80d1145de3edbfe0f16ae8e7363e2617311291",
+      "bytes": 70198
+    },
+    {
+      "path": "gameplay/ui-states/earned-256.webp",
+      "sha256": "fe0924a9beb90dd57dcfa1ececd93bceb4299481c05036e3e08306461da621d8",
+      "bytes": 50828
+    },
+    {
+      "path": "gameplay/ui-states/earned-512.png",
+      "sha256": "cb4a50ae800e6958e17101da40fa841c2d847b60256b8020102785935d36496d",
+      "bytes": 236512
+    },
+    {
+      "path": "gameplay/ui-states/earned-512.webp",
+      "sha256": "fe5aeb46dd9847370333700fe98cc11ab8bfc8c4bd1a34cdef64cdaf9b798e83",
+      "bytes": 165882
+    },
+    {
+      "path": "gameplay/ui-states/empty-128.png",
+      "sha256": "a54d2623f18a3bab7c47ae748bb00b74abc874ff2ff785216b8b606a2fc906ab",
+      "bytes": 15669
+    },
+    {
+      "path": "gameplay/ui-states/empty-128.webp",
+      "sha256": "f18fe26dfa24f7d27077fef2f4e9cf1ef913f3374dda0dd08af83d9a550de8ef",
+      "bytes": 11484
+    },
+    {
+      "path": "gameplay/ui-states/empty-256.png",
+      "sha256": "a8e89908bd7199e86cc5842eb72bb3f277878d5140f1a519bae31e8a0f52f46c",
+      "bytes": 49444
+    },
+    {
+      "path": "gameplay/ui-states/empty-256.webp",
+      "sha256": "fd40fdc2fe08f1881a03f71314d53ad5fd22f6fc02ed4f172f4f8433d41cc4f4",
+      "bytes": 33402
+    },
+    {
+      "path": "gameplay/ui-states/empty-512.png",
+      "sha256": "52c817db63f00514f691c15ecbf3e3358aa0b64832e1bc9460cabef850dd602c",
+      "bytes": 173143
+    },
+    {
+      "path": "gameplay/ui-states/empty-512.webp",
+      "sha256": "ac3f318234bb1e7603708d68cbcff0ad5eb87b72a7c857bd0d3d32f6b2ad6780",
+      "bytes": 114260
+    },
+    {
+      "path": "gameplay/ui-states/locked-128.png",
+      "sha256": "50033b67edd6c33b0b6cc8eb76f5a999ca38cab941072bf22f50d8049b32ae8b",
+      "bytes": 18893
+    },
+    {
+      "path": "gameplay/ui-states/locked-128.webp",
+      "sha256": "4defc17db7d3938f9bee43f41aff2bdc70b3e48f848844a2f153a3da7cc0158b",
+      "bytes": 14072
+    },
+    {
+      "path": "gameplay/ui-states/locked-256.png",
+      "sha256": "430f0a87b82e0a19fac2e3990ec2328c07312efaa556d89a7455cb2192d7d425",
+      "bytes": 58641
+    },
+    {
+      "path": "gameplay/ui-states/locked-256.webp",
+      "sha256": "e60af0a7052abaeb6bb5df76e9aa77b22fb1896582a265e82cd2e68bc70eaff2",
+      "bytes": 39742
+    },
+    {
+      "path": "gameplay/ui-states/locked-512.png",
+      "sha256": "e573d3b3ef5640b13fa662c0e1e754627deb466752f721c1d304b6f9d3620ff9",
+      "bytes": 189194
+    },
+    {
+      "path": "gameplay/ui-states/locked-512.webp",
+      "sha256": "9c3c9d6bb7af9c9aa6457febffab8c1bbdc1c6282f195f183fcecafb4289236e",
+      "bytes": 125394
+    },
+    {
+      "path": "gameplay/ui-states/quantity-128.png",
+      "sha256": "b87306e4b8f5b1e5010d4f743e478689202c5291b3a29626a93d94e6eaa9c5e1",
+      "bytes": 20515
+    },
+    {
+      "path": "gameplay/ui-states/quantity-128.webp",
+      "sha256": "29dd9883c19c3e72d46d15ea28b3b65775467ad35d5f83d99172a21e6fd842dc",
+      "bytes": 15380
+    },
+    {
+      "path": "gameplay/ui-states/quantity-256.png",
+      "sha256": "44e1d4936391307080579fd45b5cb71eb746997f5ac4b5e7c0f697c17d09b454",
+      "bytes": 65464
+    },
+    {
+      "path": "gameplay/ui-states/quantity-256.webp",
+      "sha256": "5c54fe1ac7a049295367f33c04e79b90f483e2764786048be2d23a5bae23cb75",
+      "bytes": 45642
+    },
+    {
+      "path": "gameplay/ui-states/quantity-512.png",
+      "sha256": "49dafaa6ee46fa7239ef2361ce8193692c32321d933b2f5351dabee488249221",
+      "bytes": 218038
+    },
+    {
+      "path": "gameplay/ui-states/quantity-512.webp",
+      "sha256": "9164b6b28dd69565cf2dbf0004447a111da17c6388ac6e56167a3698ce2a4083",
+      "bytes": 146678
+    },
+    {
+      "path": "gameplay/ui-states/selected-128.png",
+      "sha256": "ad27eba2300d4052e6a4317974ceeda2ed3b8083dc91aa029f07eed68dc3a8dd",
+      "bytes": 21284
+    },
+    {
+      "path": "gameplay/ui-states/selected-128.webp",
+      "sha256": "7b894a12868073d9f950286e0714dcb5d936c3930e87a2ed7114fe0e4bb4e945",
+      "bytes": 16442
+    },
+    {
+      "path": "gameplay/ui-states/selected-256.png",
+      "sha256": "1ac85c995581dbe4096c3cc8e97ff9a6c659581aaf9b89d2d32e0a8135f7691a",
+      "bytes": 69833
+    },
+    {
+      "path": "gameplay/ui-states/selected-256.webp",
+      "sha256": "20ceb9aaa12212c16039f2e4bc0cfa30a4f3e858f9f71df93be4eed53ac5c036",
+      "bytes": 49704
+    },
+    {
+      "path": "gameplay/ui-states/selected-512.png",
+      "sha256": "333d7d7f3fa54daff5bcf356cdacbfa0a35fd35ee642b75b1b8219e578969ebe",
+      "bytes": 234792
+    },
+    {
+      "path": "gameplay/ui-states/selected-512.webp",
+      "sha256": "bb78876684e72bb256504f720da2aae2af9e74c0e8063b6a5c42ba2f44e7c90f",
+      "bytes": 162890
+    },
+    {
+      "path": "generation.json",
+      "sha256": "202a389e265a1267ccc091c9f1dbcd10a6c3cb1a728dc9c4d803140fb81534d8",
+      "bytes": 43388
+    },
+    {
+      "path": "masters/components/earned-tag.png",
+      "sha256": "b3fd363c52b6f8f201d71c14e820cafced809b4aca33b60052eb3175f99f3f2d",
+      "bytes": 493058
+    },
+    {
+      "path": "masters/components/empty-slot.png",
+      "sha256": "da2ee0dcc9c94d2c28f9353f907cad1c960c68ab3f448b59696ccb49767923b2",
+      "bytes": 564554
+    },
+    {
+      "path": "masters/components/hotbar.png",
+      "sha256": "5a639eaadcf46093ade9cece99661b7cfd98c0b0a767d649c1c97ade7dca399f",
+      "bytes": 261058
+    },
+    {
+      "path": "masters/components/inventory-slot.png",
+      "sha256": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058",
+      "bytes": 517754
+    },
+    {
+      "path": "masters/components/lock.png",
+      "sha256": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+      "bytes": 623386
+    },
+    {
+      "path": "masters/components/locked-rainbow.png",
+      "sha256": "43b82cb15295145974bc3f153aa80cced57b8d72373a6cb9abdd8e9bcb4cffec",
+      "bytes": 411080
+    },
+    {
+      "path": "masters/components/plus.png",
+      "sha256": "a53938e39a18ab5e0582f2f003e710687703baf8aa73a658e97f450ca0929852",
+      "bytes": 668046
+    },
+    {
+      "path": "masters/components/quantity-badge.png",
+      "sha256": "dba7b420b061b224611e80f5134a16f898325dbf1345813c38507e4a95613117",
+      "bytes": 272498
+    },
+    {
+      "path": "masters/components/selection-frame.png",
+      "sha256": "c58708640d344b190ed41447e0975afc027e108f954a6cac11531f597283396e",
+      "bytes": 344940
+    },
+    {
+      "path": "masters/cozy-save/back.png",
+      "sha256": "d08fd4d9705a83ca97ce7ed0da25118143df35f58926213315b3bee844431f3d",
+      "bytes": 547153
+    },
+    {
+      "path": "masters/cozy-save/front.png",
+      "sha256": "f35ab216ec440cc05ae42a44fdeb6d64a3abcab474fb2e6d40879d0675048fd3",
+      "bytes": 553087
+    },
+    {
+      "path": "masters/cozy-save/rear-three-quarter.png",
+      "sha256": "a133762ada59790ec593249bb2757f426ae931fad4f29bb77c7e50770689efe8",
+      "bytes": 762530
+    },
+    {
+      "path": "masters/cozy-save/side.png",
+      "sha256": "b1a8021f36bc5bf3a8e1f331c74323ef46c77ff024922cc39d6fb7b4ae6efc34",
+      "bytes": 633106
+    },
+    {
+      "path": "masters/cozy-save/three-quarter.png",
+      "sha256": "d13e3313dea64833e613df13eb99dfe77127275e19ed178c69c762cf0e4ba320",
+      "bytes": 770831
+    },
+    {
+      "path": "masters/cozy-save/top.png",
+      "sha256": "75802de789e36b9c101abaacf9e82cc7bb486a85e3137c4a7b3b0a9741d0adf9",
+      "bytes": 349138
+    },
+    {
+      "path": "masters/effects/impact.png",
+      "sha256": "ace2d6e318f460edaf36e2153d02d16f65c3dfc06e177de97dc0e197abaccc3b",
+      "bytes": 716712
+    },
+    {
+      "path": "masters/effects/orbit.png",
+      "sha256": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+      "bytes": 705866
+    },
+    {
+      "path": "masters/effects/sparkles.png",
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "bytes": 291978
+    },
+    {
+      "path": "masters/effects/vortex.png",
+      "sha256": "c48ad29602daf1316cd02d38ffe9e2ddfb6d661e28ba11597c1cf8625dd6ac9b",
+      "bytes": 868663
+    },
+    {
+      "path": "masters/feedback/active.png",
+      "sha256": "0e5cc0e3cdbfa167f577614234c629abd06f0ac5e9b3c5b9af8860dd54a07a6c",
+      "bytes": 973257
+    },
+    {
+      "path": "masters/feedback/cooldown.png",
+      "sha256": "f70b8f7af5741bb3c3051d060d4650b2bf870efa43e897c6d5f1cd3e7928654c",
+      "bytes": 868664
+    },
+    {
+      "path": "masters/feedback/idle.png",
+      "sha256": "ce01a90876852647eb8b86f7886466e3970eefce2581a635de2384d34a140892",
+      "bytes": 448634
+    },
+    {
+      "path": "masters/feedback/impact.png",
+      "sha256": "ace2d6e318f460edaf36e2153d02d16f65c3dfc06e177de97dc0e197abaccc3b",
+      "bytes": 716712
+    },
+    {
+      "path": "masters/feedback/pickup.png",
+      "sha256": "9bb2c0cbedd6da704488cc9ee2b0eda65247cb3238c4e7284c2e0f62c7b47e2b",
+      "bytes": 532059
+    },
+    {
+      "path": "masters/feedback/use-start.png",
+      "sha256": "f70b8f7af5741bb3c3051d060d4650b2bf870efa43e897c6d5f1cd3e7928654c",
+      "bytes": 868664
+    },
+    {
+      "path": "masters/precision-trail/back.png",
+      "sha256": "4975d8a33410271bebccbdab4658377c512843ba199c098fa6d53d5cb5c0c142",
+      "bytes": 940259
+    },
+    {
+      "path": "masters/precision-trail/front.png",
+      "sha256": "ae7b32c28c7e85f40a4833a64d0b54f10e0d273027f450cfa424dbc8f1296be6",
+      "bytes": 898699
+    },
+    {
+      "path": "masters/precision-trail/rear-three-quarter.png",
+      "sha256": "583195796636580e57d5e08b6e790116e0429e748213647e170b917431b0c6dd",
+      "bytes": 798091
+    },
+    {
+      "path": "masters/precision-trail/side.png",
+      "sha256": "2c9603a0bed22a41bd68f633369f40f2e0da33dd7e45a80ac848105cd839349b",
+      "bytes": 937054
+    },
+    {
+      "path": "masters/precision-trail/three-quarter.png",
+      "sha256": "59998fc4b15656c339b5806f953e82ecb16587d5bdb1f99aa9341ca79c311216",
+      "bytes": 1068750
+    },
+    {
+      "path": "masters/precision-trail/top.png",
+      "sha256": "1ba85e89072d6ecaa5dea1eae45422ba55b69d811c14c6544762781b0e0f1085",
+      "bytes": 517224
+    },
+    {
+      "path": "masters/rainbow-friend/back.png",
+      "sha256": "1a81898520e86cee11b4d61a673bf42ae323b5d4ec9aeb7448682ee878740e6c",
+      "bytes": 739527
+    },
+    {
+      "path": "masters/rainbow-friend/front.png",
+      "sha256": "3aa37697e9c611361449dc77449f032a6481913bfb57a13d5a696745f16a80c4",
+      "bytes": 728612
+    },
+    {
+      "path": "masters/rainbow-friend/rear-three-quarter.png",
+      "sha256": "804fd75c451be0b94c1b004a3e82979bdd8ce48933e95d8bd3697af35cbd1b9f",
+      "bytes": 795619
+    },
+    {
+      "path": "masters/rainbow-friend/side.png",
+      "sha256": "6bba294111c797572e36441b60922e014b7e222ddee281a4739ec4a9fb83b208",
+      "bytes": 585698
+    },
+    {
+      "path": "masters/rainbow-friend/three-quarter.png",
+      "sha256": "c893c423d3274bd0da10688b474b29d15593886c4b6175d6e253bc7525ff0f5a",
+      "bytes": 799209
+    },
+    {
+      "path": "masters/rainbow-friend/top.png",
+      "sha256": "61a53d3003c30bafa066110043d4cb143554d7520aa98e421eb5e028542d5636",
+      "bytes": 674273
+    },
+    {
+      "path": "masters/rewards/bottle.png",
+      "sha256": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+      "bytes": 606140
+    },
+    {
+      "path": "masters/rewards/bundle.png",
+      "sha256": "b3b419c1856ae8272135c22127de0723913dd9b32b45e49da260a8811e01f167",
+      "bytes": 678607
+    },
+    {
+      "path": "masters/rewards/gift.png",
+      "sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+      "bytes": 788328
+    },
+    {
+      "path": "masters/rewards/mystery-cube.png",
+      "sha256": "4952380bb9caca9bc2c23765ccee1f1fb584bb089951cf994ee244878fb442ab",
+      "bytes": 720797
+    },
+    {
+      "path": "masters/rewards/ticket.png",
+      "sha256": "9aaaf11f37bacc279bb8b6b2c07ae6d115523d0aeae2d1eaec459446a8694326",
+      "bytes": 536164
+    },
+    {
+      "path": "masters/soft-burst/back.png",
+      "sha256": "8d2de5d10a2c3948e1b6c4f59c6194201f8c2497080a3d3f95fbdb6fd7213839",
+      "bytes": 871793
+    },
+    {
+      "path": "masters/soft-burst/front.png",
+      "sha256": "fbc85663b7f73f966e7f4793830a0a4a96fd3cf7e1b355e532d3b106d1f28ba9",
+      "bytes": 678841
+    },
+    {
+      "path": "masters/soft-burst/rear-three-quarter.png",
+      "sha256": "aee4a79ce7eb944a6513cd762520d6c8b73625b8e62944b32c574ee507577518",
+      "bytes": 907621
+    },
+    {
+      "path": "masters/soft-burst/side.png",
+      "sha256": "b4183bd44f276a97817c8cff51e0504e9ae93663abc7badc1063ed1c5553cefb",
+      "bytes": 813451
+    },
+    {
+      "path": "masters/soft-burst/three-quarter.png",
+      "sha256": "c1b82ff198df56ff2ab3ffa485363b5b4c518b5f734fd4948bd96975f96482d1",
+      "bytes": 774015
+    },
+    {
+      "path": "masters/soft-burst/top.png",
+      "sha256": "c5b798057eed1a2bb438e8a53c95ae27a01c8e48feadc2c2067ae0bb585bdede",
+      "bytes": 684855
+    },
+    {
+      "path": "masters/ui/hotbar.png",
+      "sha256": "014d77a3c3247172e8cf2ba268b803945581f14e5e1e9a5c7b8e913ab0558142",
+      "bytes": 453299
+    },
+    {
+      "path": "masters/ui-states/default.png",
+      "sha256": "db0238714e919e0f8c7bd32138e21569e68dfb4af34358205b664974a12e9dfc",
+      "bytes": 732579
+    },
+    {
+      "path": "masters/ui-states/earned.png",
+      "sha256": "c935131bd680d4ca0fd885a34c11ef75d357b0efcbc52f3f790a88bb5743dd15",
+      "bytes": 788762
+    },
+    {
+      "path": "masters/ui-states/empty.png",
+      "sha256": "da2ee0dcc9c94d2c28f9353f907cad1c960c68ab3f448b59696ccb49767923b2",
+      "bytes": 564554
+    },
+    {
+      "path": "masters/ui-states/locked.png",
+      "sha256": "b97ae735e4cc743125216f9da4f6cd3d181b4e80f43fb06aa36543870fd54fcc",
+      "bytes": 613165
+    },
+    {
+      "path": "masters/ui-states/quantity.png",
+      "sha256": "db0238714e919e0f8c7bd32138e21569e68dfb4af34358205b664974a12e9dfc",
+      "bytes": 732579
+    },
+    {
+      "path": "masters/ui-states/selected.png",
+      "sha256": "0261a5a3811da42ad766eb08d4ded461c3ae7ada2fbfa97c7580e656c045c13a",
+      "bytes": 780671
+    },
+    {
+      "path": "preview.html",
+      "sha256": "4eb588785d0331d125e3b40674ddb1b7739039ffecc46c8590407401a7408d47",
+      "bytes": 5267
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "b3092beed3f03081cde18295cb81cf4a094cdf0e18e72ac331d4a8fe8ade995a",
+      "bytes": 351164
+    },
+    {
+      "path": "previews/components.jpg",
+      "sha256": "7a4461ca37e02cd4956d694b0d9475da988b6143f737c75efcc2c1f36b973c9e",
+      "bytes": 65457
+    },
+    {
+      "path": "previews/cozy-save.jpg",
+      "sha256": "1d87b15730981168c7ad10ea788246f92aa821e593995546cd1fd12fa90552a1",
+      "bytes": 50793
+    },
+    {
+      "path": "previews/effects.jpg",
+      "sha256": "ef62c9ca49ebb57ac0f5f7374425eb0c9ae0286e70db94abda28ab33be49dd96",
+      "bytes": 31203
+    },
+    {
+      "path": "previews/feedback.jpg",
+      "sha256": "7a73c11a9bdbb2d4edc7d6b11f60de00f68ffd8d7dc1b3a747d40917fc7177cb",
+      "bytes": 54282
+    },
+    {
+      "path": "previews/precision-trail.jpg",
+      "sha256": "9e341268764be041fe17e8ee06916bb511c7311f5c2f0decb2d7191ab0473135",
+      "bytes": 57022
+    },
+    {
+      "path": "previews/rainbow-friend.jpg",
+      "sha256": "81cd212bdfa9202df6406953e58e5b0d1e1109e0be0275c12f08c3680b83cebe",
+      "bytes": 53793
+    },
+    {
+      "path": "previews/rewards.jpg",
+      "sha256": "0f5c4acd6bc132d06cd4237a737634a2d06a02cc05a15abcf6503c43503599bf",
+      "bytes": 49945
+    },
+    {
+      "path": "previews/soft-burst.jpg",
+      "sha256": "4c5af1f7da5266a7a64456d103f0dd08379406e6db352412474477ee1954139a",
+      "bytes": 50144
+    },
+    {
+      "path": "previews/ui-states.jpg",
+      "sha256": "1ed715e14329fb1cede0cdcf796313e126e14e6a75efd8ebcd3661fafc87af00",
+      "bytes": 58054
+    },
+    {
+      "path": "previews/ui.jpg",
+      "sha256": "88e9c76e194a0fe890a9377cd7e12dcf62d630fde7ab13acd48a1b28b58e902e",
+      "bytes": 9245
+    },
+    {
+      "path": "qa.json",
+      "sha256": "cfc6d1f12eac97588a3102ef12e6d3e60de7a4f46896a9e02f8eef4e8441c633",
+      "bytes": 135
+    },
+    {
+      "path": "references/Puff Trails Booster Design System-6.png",
+      "sha256": "050b765a1eab2c8bef80c52e6ea9d8c45234fc6f2b43acb048e29b84a2c45602",
+      "bytes": 2353472
+    }
+  ]
+}
