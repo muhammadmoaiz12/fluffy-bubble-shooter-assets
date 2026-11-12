@@ -1,0 +1,503 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Starburst Cannon Evolution Board-6.png",
+      "sha256": "29c9b4665d2c1f858712e4a89c3b8138745314893e0215d81dfae3e30b24ac46"
+    },
+    {
+      "path": "references/Puff Trails Starburst Cannon Evolution Board-5.png",
+      "sha256": "40d1cf8f1978eae0c45b990df6970791fe2a956cb267d21613805cc893be4a6a"
+    },
+    {
+      "path": "references/Puff Trails Cannon Collection Reference Board-1.png",
+      "sha256": "cbdc01b46e9cf864a682889ab8c86915d4f82f382b1ae0a0888bb26136cfa8a3"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/front.png": "88331f70b37ed9e4ad553ba63d2854bbc7385c7e7c7621a73b305c00d64bedab",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/left.png": "7cb35b60ba6d25e10ec7bfda14c5ca5270dcce53b0c979cda3b8e5b68a2b59bd",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/right.png": "8526690f03a062317326ef6ab18b6073d5c2e3e0d7156cf0e7c31039598a7772",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-back.png": "fcb8d649d2d87e38c1545fce959691ef3f45ac97a94904aa789401134802f486",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/back.png": "6b55eb1dcdf925cf9aae2dd0e6d0bed15a650fc10b69abc1ce0438f38e087e85",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/top.png": "7edfaccdb4ea6ea39d7143d878491393b4e33300483442c45358482cb09c692d",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/bottom.png": "948ce252bcbf24f8c5634a3a0062a2a893c639a1596b76c68d4ea48ef6d47eb6",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/effects/star-projectile.png": "109571665d04e5dae8b6d7e63464b37866a00983f8a53e81c0f2f0d4e6647cee",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/effects/star-trail.png": "69507a9df6f27316485d39c07a9d68887d373c2bbe4feb38d82f55255354249a",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/effects/aim-dot.png": "84b72894f1c0c605a8f07c478d2b7a91dbb5901c3c4b043a5ad2a1241c4cd004",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058"
+  },
+  "records": {
+    "tier-05/views/top": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/top",
+      "tier": 5,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Precise camera correction for ONE Starburst Cannon Tier 5 top-view sprite. Image1 is the APPROVED ORIGINAL OVERHEAD CAMERA AND ANATOMY: camera sees the plush crown/top of head, clouds, barrel and wings, NOT its face. Image2 is the approved upgraded tier's ornament reference. Recreate image1 camera and top silhouette while adding ALL tier decorations from image2. Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. CRITICAL: ABSOLUTELY NO EYES, NO MOUTH, NO CHEEKS, NO FACE AT LOWER EDGE OR ANYWHERE. Those front surfaces are hidden below the overhead silhouette. The entire visible central body is uninterrupted lavender plush fur/cloud swirls. Keep the gold STAR-SHAPED barrel opening and galaxy core visible from above, never make it round. Preserve upgraded wings, crowns/halo, ribbons and crystals as appropriate. Full sprite centered, no clipping of top halo or wings. Genuine transparent background, no panel, floor, text, front view or extra character.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/review-corrections/tier-05--views--top.png",
+      "revision_reason": "Corrected overhead view: no front face",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-46403f09-9df3-4edd-9fc0-cf1148994d16.png"
+    },
+    "tier-02/views/right": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/right",
+      "tier": 2,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Right-side profile, face points screen-left, show other side geometry. Upgrade details: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-dbccf867-a4fd-46e4-a633-d8b7be2dc5cc.png"
+    },
+    "tier-03/views/front": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/front",
+      "tier": 3,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly front facing, symmetric face visible; retain all tier ornaments. Upgrade details: Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d58b19b4-d732-4f4b-bd24-4ae9e4e133aa.png"
+    },
+    "tier-04/views/back": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/back",
+      "tier": 4,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Upgrade details: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7bbcd4db-513f-4ed4-9e48-503ff12ea833.png"
+    },
+    "tier-02/views/three-quarter-back": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/three-quarter-back",
+      "tier": 2,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Upgrade details: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba9dfca4-2b21-4192-852a-e0a68c9c9e9d.png"
+    },
+    "tier-02/views/three-quarter-front": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/three-quarter-front",
+      "tier": 2,
+      "description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/refs/tier-02-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+    },
+    "tier-05/views/back": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/back",
+      "tier": 5,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Upgrade details: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-929c5540-cccf-402c-8cc7-12994abd4519.png"
+    },
+    "tier-05/views/three-quarter-front": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/three-quarter-front",
+      "tier": 5,
+      "description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/refs/tier-05-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+    },
+    "tier-03/views/back": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/back",
+      "tier": 3,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Precise camera correction for ONE Tier 3 Cosmic Starburst cannon BACK VIEW. Image1 is the approved original straight-back camera and anatomy. Image2 is upgraded tier hero, ornament reference only. Show rear purple plush head, ornate back star plate, cloud clusters, tier3 white-and-gold wings and ribbon/trim from hero. The cannon barrel points AWAY from viewer. At top only its SOLID GOLD BACK RIM and purple outer cylindrical barrel with small printed gold stars are visible. Absolutely NO glowing galaxy opening, NO bright star-shaped mouth facing viewer, NO front face, no eyes/mouth. Retain star outline on far barrel exterior rim, but energy aperture points forward away and is invisible. Follow image1 rear orientation exactly. Centered isolated sprite with generous margins, transparent background, no text or floor.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/review-corrections/tier-03--views--back.png",
+      "revision_reason": "Rear muzzle orientation corrected",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-59b1b3a4-15ce-4aba-aa33-c60ac400ad5c.png"
+    },
+    "tier-04/views/top": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/top",
+      "tier": 4,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Precise camera correction for ONE Starburst Cannon Tier 4 top-view sprite. Image1 is the APPROVED ORIGINAL OVERHEAD CAMERA AND ANATOMY: camera sees the plush crown/top of head, clouds, barrel and wings, NOT its face. Image2 is the approved upgraded tier's ornament reference. Recreate image1 camera and top silhouette while adding ALL tier decorations from image2. Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. CRITICAL: ABSOLUTELY NO EYES, NO MOUTH, NO CHEEKS, NO FACE AT LOWER EDGE OR ANYWHERE. Those front surfaces are hidden below the overhead silhouette. The entire visible central body is uninterrupted lavender plush fur/cloud swirls. Keep the gold STAR-SHAPED barrel opening and galaxy core visible from above, never make it round. Preserve upgraded wings, crowns/halo, ribbons and crystals as appropriate. Full sprite centered, no clipping of top halo or wings. Genuine transparent background, no panel, floor, text, front view or extra character.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/review-corrections/tier-04--views--top.png",
+      "revision_reason": "Corrected overhead view: no front face",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-bcb49e82-5410-4a4e-a305-49317a867400.png"
+    },
+    "tier-02/views/bottom": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/bottom",
+      "tier": 2,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Upgrade details: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-9f09ec23-3d33-486a-ac09-dfb000cb364c.png"
+    },
+    "tier-03/views/bottom": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/bottom",
+      "tier": 3,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Upgrade details: Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8c6a3cfb-6d5b-4f66-b192-83354af375e4.png"
+    },
+    "tier-04/views/three-quarter-back": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/three-quarter-back",
+      "tier": 4,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Upgrade details: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-cebc6b2f-e6f3-4320-b74e-9c915021d76b.png"
+    },
+    "tier-05/views/front": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/front",
+      "tier": 5,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly front facing, symmetric face visible; retain all tier ornaments. Upgrade details: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b35a100f-1807-4e7f-8d16-c2a993ad6959.png"
+    },
+    "tier-05/views/bottom": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/bottom",
+      "tier": 5,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Upgrade details: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d5fccca0-3ac7-4b27-bc7e-5db323656ef2.png"
+    },
+    "tier-04/views/right": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/right",
+      "tier": 4,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Right-side profile, face points screen-left, show other side geometry. Upgrade details: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0a3a4796-b289-481f-9331-e49aeccf8fef.png"
+    },
+    "tier-04/views/bottom": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/bottom",
+      "tier": 4,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Upgrade details: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-59c292a7-7e2d-4fc0-a174-af6cbab339a3.png"
+    },
+    "tier-02/views/back": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/back",
+      "tier": 2,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Upgrade details: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-48ceba36-2689-4be7-9e70-be9f51f936e4.png"
+    },
+    "tier-05/views/three-quarter-back": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/three-quarter-back",
+      "tier": 5,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Upgrade details: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d12d34f2-d203-4067-ab87-21a3e9ad660d.png"
+    },
+    "tier-03/views/three-quarter-front": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/three-quarter-front",
+      "tier": 3,
+      "description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/refs/tier-03-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+    },
+    "tier-04/views/front": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/front",
+      "tier": 4,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly front facing, symmetric face visible; retain all tier ornaments. Upgrade details: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-67e8e926-a174-4e61-91f2-ca4c785a4ade.png"
+    },
+    "tier-03/views/left": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/left",
+      "tier": 3,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Left-side profile, face points screen-right, show side geometry and left wing. Upgrade details: Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-52b9325d-8744-43c0-b948-24e3ab9ad135.png"
+    },
+    "tier-05/views/right": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/right",
+      "tier": 5,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Right-side profile, face points screen-left, show other side geometry. Upgrade details: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6524d34f-c664-4940-8916-01ba25a87a6a.png"
+    },
+    "tier-03/views/top": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/top",
+      "tier": 3,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Precise camera correction for ONE Starburst Cannon Tier 3 top-view sprite. Image1 is the APPROVED ORIGINAL OVERHEAD CAMERA AND ANATOMY: camera sees the plush crown/top of head, clouds, barrel and wings, NOT its face. Image2 is the approved upgraded tier's ornament reference. Recreate image1 camera and top silhouette while adding ALL tier decorations from image2. Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. CRITICAL: ABSOLUTELY NO EYES, NO MOUTH, NO CHEEKS, NO FACE AT LOWER EDGE OR ANYWHERE. Those front surfaces are hidden below the overhead silhouette. The entire visible central body is uninterrupted lavender plush fur/cloud swirls. Keep the gold STAR-SHAPED barrel opening and galaxy core visible from above, never make it round. Preserve upgraded wings, crowns/halo, ribbons and crystals as appropriate. Full sprite centered, no clipping of top halo or wings. Genuine transparent background, no panel, floor, text, front view or extra character.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/review-corrections/tier-03--views--top.png",
+      "revision_reason": "Corrected overhead view: no front face",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-42609ca9-0f99-4499-a822-f0093ae26035.png"
+    },
+    "tier-02/views/left": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/left",
+      "tier": 2,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Left-side profile, face points screen-right, show side geometry and left wing. Upgrade details: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-544b37ee-c5ae-4bb8-8a52-dae0b7d78c4c.png"
+    },
+    "components/wing-pair": {
+      "id": "components/wing-pair",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1226e1a5-50b0-442e-9ef6-eca36718773c.png",
+      "prompt": "Isolate/reconstruct a single modular upgrade component from this approved tierhero reference. Only a matched left/right pair of layered white plush feather wings with shiny gold tips and curved gold edging. Separate wings with empty transparent gap; no cannon or body. Match exact Puff Trails material, colors and ornament style. Transparent background, centered with ample margins, no text or scenery. Do NOT render the whole cannon.",
+      "description": "Only a matched left/right pair of layered white plush feather wings with shiny gold tips and curved gold edging. Separate wings with empty transparent gap; no cannon or body.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ]
+    },
+    "components/star-halo": {
+      "id": "components/star-halo",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-5a5b10f1-2c0c-4004-92be-840a1e9cfcea.png",
+      "prompt": "Isolate/reconstruct a single modular upgrade component from this approved tierhero reference. Only the golden floating star halo/crown from the upgraded cannon: delicate elliptical gold ring with small gold and pink star jewels. No cannon, no body, no face, no wings. Match exact Puff Trails material, colors and ornament style. Transparent background, centered with ample margins, no text or scenery. Do NOT render the whole cannon.",
+      "description": "Only the golden floating star halo/crown from the upgraded cannon: delicate elliptical gold ring with small gold and pink star jewels. No cannon, no body, no face, no wings.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ]
+    },
+    "tier-04/views/left": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/left",
+      "tier": 4,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Left-side profile, face points screen-right, show side geometry and left wing. Upgrade details: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8f7fa383-5abc-4bb1-b152-2cb5aebb8bf3.png"
+    },
+    "tier-02/views/top": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/top",
+      "tier": 2,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Precise camera correction for ONE Starburst Cannon Tier 2 top-view sprite. Image1 is the APPROVED ORIGINAL OVERHEAD CAMERA AND ANATOMY: camera sees the plush crown/top of head, clouds, barrel and wings, NOT its face. Image2 is the approved upgraded tier's ornament reference. Recreate image1 camera and top silhouette while adding ALL tier decorations from image2. Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. CRITICAL: ABSOLUTELY NO EYES, NO MOUTH, NO CHEEKS, NO FACE AT LOWER EDGE OR ANYWHERE. Those front surfaces are hidden below the overhead silhouette. The entire visible central body is uninterrupted lavender plush fur/cloud swirls. Keep the gold STAR-SHAPED barrel opening and galaxy core visible from above, never make it round. Preserve upgraded wings, crowns/halo, ribbons and crystals as appropriate. Full sprite centered, no clipping of top halo or wings. Genuine transparent background, no panel, floor, text, front view or extra character.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/review-corrections/tier-02--views--top.png",
+      "revision_reason": "Corrected overhead view: no front face",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-72a9e27f-0f7f-43d5-a7b3-7f66ce2b5caf.png"
+    },
+    "tier-04/views/three-quarter-front": {
+      "family": "starburst-cannon",
+      "id": "tier-04/views/three-quarter-front",
+      "tier": 4,
+      "description": "Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/starburst-cannon/refs/tier-04-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Nova Starburst: full layered white-and-gold wings, flowing gold-trimmed ribbons and star gems, suspended star halo. Preserve STAR-SHAPED barrel. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b25cb504-fa62-4877-9e69-3100e3a7b6ac.png"
+    },
+    "tier-03/views/three-quarter-back": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/three-quarter-back",
+      "tier": 3,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Upgrade details: Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1e7e7fe5-71a6-458a-bce1-a3863de92079.png"
+    },
+    "tier-03/views/right": {
+      "family": "starburst-cannon",
+      "id": "tier-03/views/right",
+      "tier": 3,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-95be1178-97e7-456e-9510-c531b98180f8.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Right-side profile, face points screen-left, show other side geometry. Upgrade details: Cosmic Starburst: add elegant white-and-gold winglets, cloud swirls, glowing star core; preserve STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ff654d6a-4836-4cf1-96c5-ba9a5221c07a.png"
+    },
+    "tier-05/views/left": {
+      "family": "starburst-cannon",
+      "id": "tier-05/views/left",
+      "tier": 5,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6ab399ce-68d7-4f4b-8dc2-286d9c5db095.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Left-side profile, face points screen-right, show side geometry and left wing. Upgrade details: Galactic Starburst: majestic full wings, delicate star halo/crown, prismatic crystal clusters around base and star-framed glowing muzzle, ornate gold base; preserve the original face and STAR-SHAPED barrel. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-beb55ff1-2040-473f-ab7b-4f432314ce26.png"
+    },
+    "tier-02/views/front": {
+      "family": "starburst-cannon",
+      "id": "tier-02/views/front",
+      "tier": 2,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb4d60b-c4c6-40c8-8f94-193899b01e34.png"
+      ],
+      "prompt": "Create ONE production cannon turnaround asset. Image1 is ORIGINAL cannon anatomy/motifs and reference camera; Image2 is the APPROVED upgraded tier hero whose features must all carry over. Requested view: Exactly front facing, symmetric face visible; retain all tier ornaments. Upgrade details: Luminous Starburst: thicker gold STAR-SHAPED muzzle rim, subtle star embroidery and brighter core. Keep compact original body. Preserve same purple plush body, star-shaped gold barrel opening (NEVER round), eye/face identity wherever visible, tier-specific wings/crown/crystals/ribbons/base. Change only camera angle. Back views must have NO face even if first reference is ambiguous. Centered full body, margins around every ornament, true transparent background, soft consistent upper-left lighting, no ground, text, panels or extra objects.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-641b9f65-bd34-4a3d-af09-330fadf8cf47.png"
+    }
+  }
+}

@@ -291,3 +291,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![moonlight-cannon](stages/stage-07-cannon-upgrades/v1/moonlight-cannon/evolution.jpg)
 <!-- cannon-upgrades-moonlight-cannon:end -->
+
+
+<!-- cannon-upgrades-starburst-cannon:start -->
+### Cannon upgrades · Starburst Cannon
+
+[Every individual asset and preview](stages/stage-07-cannon-upgrades/v1/starburst-cannon/README.md) · 83 masters · 498 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![starburst-cannon](stages/stage-07-cannon-upgrades/v1/starburst-cannon/evolution.jpg)
+<!-- cannon-upgrades-starburst-cannon:end -->
