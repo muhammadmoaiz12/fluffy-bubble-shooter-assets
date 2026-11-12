@@ -325,3 +325,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![Achievement section boards](stages/stage-08-achievements/v1/overview.jpg)
 <!-- stage-08-achievements:end -->
+
+
+<!-- stage-09-daily-rewards:start -->
+## Daily Rewards & Missions
+
+[Browse all nine sheets and individual components](stages/stage-09-daily-rewards/v1/README.md) · **38 masters** · **228 PNG/WebP exports**. Only two missing components generated; existing reward artwork reused unchanged. Includes 33 original asset references and 36 compositions.
+
+![Daily reward component sheets](stages/stage-09-daily-rewards/v1/overview.jpg)
+<!-- stage-09-daily-rewards:end -->

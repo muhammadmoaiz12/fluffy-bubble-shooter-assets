@@ -1,0 +1,2633 @@
+{
+  "version": 1,
+  "asset_count": 38,
+  "export_count": 228,
+  "new_art_count": 2,
+  "composition_count": 36,
+  "reused_count": 33,
+  "assets": [
+    {
+      "id": "components/calendar-card",
+      "master": "masters/components/calendar-card.png",
+      "exports": [
+        "gameplay/components/calendar-card-128.png",
+        "gameplay/components/calendar-card-128.webp",
+        "gameplay/components/calendar-card-256.png",
+        "gameplay/components/calendar-card-256.webp",
+        "gameplay/components/calendar-card-512.png",
+        "gameplay/components/calendar-card-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "New missing component generated with built-in image tool",
+        "prompt": "Use case stylized-concept. One standalone empty hanging daily gift calendar card for Puff Trails, matching card shape in supplied Daily Rewards board. Vertical rounded pennant with gently pointed bottom, thick pearly lavender rim, opaque pale lavender inset, blank glossy deep purple pill header at top, single small gold hanging loop at top center. Front-on symmetric. Empty center and empty header: no text, no day numbers, no currency, no stars, no character, no reward icon. Entire object visible with 10 percent margins. Rounded plush-inspired glossy enamel game UI, cream and lavender highlights, warm gold hardware. Genuine transparent RGBA outside card, opaque card interior; no background, no haze, no floor, no rope connecting to another card. One reusable empty component only.",
+        "generated_sha256": "38d0c7c3d0a3fbf31b7b9289bff58529d4299bdfa486524f9ffc05bdd5d8db23",
+        "source_references": [
+          "/Users/mac/Projects/Testing gpt project/boards/currencies and upgrads/Puff Trails Daily Rewards Board.png"
+        ]
+      }
+    },
+    {
+      "id": "components/reward-pedestal",
+      "master": "masters/components/reward-pedestal.png",
+      "exports": [
+        "gameplay/components/reward-pedestal-128.png",
+        "gameplay/components/reward-pedestal-128.webp",
+        "gameplay/components/reward-pedestal-256.png",
+        "gameplay/components/reward-pedestal-256.webp",
+        "gameplay/components/reward-pedestal-512.png",
+        "gameplay/components/reward-pedestal-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        293,
+        952,
+        730
+      ],
+      "provenance": {
+        "origin": "New missing component generated with built-in image tool",
+        "prompt": "One standalone EMPTY reward display pedestal for Puff Trails daily rewards. Reference lowerrewardpodiums in supplied board. Low wide round plinth viewed slightly from above, glossy violet enamel side, warmgold double rim aroundtopandbottom, opaque pale lavender top surface. Tiny raised simple rounded five-point gold star on front rim, same simple goldstar style inboard. No reward on top, no currency or gift, no text, no numbers, no backing card. Entire pedestal clean visible, 12percentclear margin. Soft premium 3D toy game style, preserve violet/gold palette. TransparentRGBA outside, fullyopaque inside. No floorplane no glowhaze no exteriorbackground shadow. Single reusable empty pedestal only.",
+        "generated_sha256": "79b0e79f61e9b23f43c5ade65f7e09d3b4981061e24bf4c39848d338086ab000",
+        "source_references": [
+          "/Users/mac/Projects/Testing gpt project/boards/currencies and upgrads/Puff Trails Daily Rewards Board.png"
+        ]
+      }
+    },
+    {
+      "id": "buttons/claim",
+      "master": "masters/buttons/claim.png",
+      "exports": [
+        "gameplay/buttons/claim-128.png",
+        "gameplay/buttons/claim-128.webp",
+        "gameplay/buttons/claim-256.png",
+        "gameplay/buttons/claim-256.webp",
+        "gameplay/buttons/claim-512.png",
+        "gameplay/buttons/claim-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        405,
+        952,
+        619
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "gold-button"
+        ],
+        "runtime_text": "Claim"
+      }
+    },
+    {
+      "id": "buttons/go",
+      "master": "masters/buttons/go.png",
+      "exports": [
+        "gameplay/buttons/go-128.png",
+        "gameplay/buttons/go-128.webp",
+        "gameplay/buttons/go-256.png",
+        "gameplay/buttons/go-256.webp",
+        "gameplay/buttons/go-512.png",
+        "gameplay/buttons/go-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        402,
+        952,
+        623
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "blue-button"
+        ],
+        "runtime_text": "Go"
+      }
+    },
+    {
+      "id": "gray-button",
+      "master": "masters/gray-button.png",
+      "exports": [
+        "gameplay/gray-button-128.png",
+        "gameplay/gray-button-128.webp",
+        "gameplay/gray-button-256.png",
+        "gameplay/gray-button-256.webp",
+        "gameplay/gray-button-512.png",
+        "gameplay/gray-button-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        401,
+        952,
+        622
+      ],
+      "provenance": {
+        "origin": "Desaturated disabled state derived from approved blue button",
+        "components": [
+          "blue-button"
+        ]
+      }
+    },
+    {
+      "id": "buttons/claimed",
+      "master": "masters/buttons/claimed.png",
+      "exports": [
+        "gameplay/buttons/claimed-128.png",
+        "gameplay/buttons/claimed-128.webp",
+        "gameplay/buttons/claimed-256.png",
+        "gameplay/buttons/claimed-256.webp",
+        "gameplay/buttons/claimed-512.png",
+        "gameplay/buttons/claimed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        402,
+        952,
+        623
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "gray-button",
+          "check"
+        ],
+        "runtime_text": "Claimed"
+      }
+    },
+    {
+      "id": "buttons/pending",
+      "master": "masters/buttons/pending.png",
+      "exports": [
+        "gameplay/buttons/pending-128.png",
+        "gameplay/buttons/pending-128.webp",
+        "gameplay/buttons/pending-256.png",
+        "gameplay/buttons/pending-256.webp",
+        "gameplay/buttons/pending-512.png",
+        "gameplay/buttons/pending-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        402,
+        952,
+        623
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "blue-button",
+          "pending"
+        ],
+        "runtime_text": "Pending"
+      }
+    },
+    {
+      "id": "calendar/day-01",
+      "master": "masters/calendar/day-01.png",
+      "exports": [
+        "gameplay/calendar/day-01-128.png",
+        "gameplay/calendar/day-01-128.webp",
+        "gameplay/calendar/day-01-256.png",
+        "gameplay/calendar/day-01-256.webp",
+        "gameplay/calendar/day-01-512.png",
+        "gameplay/calendar/day-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "coins"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/day-02",
+      "master": "masters/calendar/day-02.png",
+      "exports": [
+        "gameplay/calendar/day-02-128.png",
+        "gameplay/calendar/day-02-128.webp",
+        "gameplay/calendar/day-02-256.png",
+        "gameplay/calendar/day-02-256.webp",
+        "gameplay/calendar/day-02-512.png",
+        "gameplay/calendar/day-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "coins"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/day-03",
+      "master": "masters/calendar/day-03.png",
+      "exports": [
+        "gameplay/calendar/day-03-128.png",
+        "gameplay/calendar/day-03-128.webp",
+        "gameplay/calendar/day-03-256.png",
+        "gameplay/calendar/day-03-256.webp",
+        "gameplay/calendar/day-03-512.png",
+        "gameplay/calendar/day-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "precision"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/day-04",
+      "master": "masters/calendar/day-04.png",
+      "exports": [
+        "gameplay/calendar/day-04-128.png",
+        "gameplay/calendar/day-04-128.webp",
+        "gameplay/calendar/day-04-256.png",
+        "gameplay/calendar/day-04-256.webp",
+        "gameplay/calendar/day-04-512.png",
+        "gameplay/calendar/day-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "coins"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/day-05",
+      "master": "masters/calendar/day-05.png",
+      "exports": [
+        "gameplay/calendar/day-05-128.png",
+        "gameplay/calendar/day-05-128.webp",
+        "gameplay/calendar/day-05-256.png",
+        "gameplay/calendar/day-05-256.webp",
+        "gameplay/calendar/day-05-512.png",
+        "gameplay/calendar/day-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "rainbow"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/day-06",
+      "master": "masters/calendar/day-06.png",
+      "exports": [
+        "gameplay/calendar/day-06-128.png",
+        "gameplay/calendar/day-06-128.webp",
+        "gameplay/calendar/day-06-256.png",
+        "gameplay/calendar/day-06-256.webp",
+        "gameplay/calendar/day-06-512.png",
+        "gameplay/calendar/day-06-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "coins"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/day-07",
+      "master": "masters/calendar/day-07.png",
+      "exports": [
+        "gameplay/calendar/day-07-128.png",
+        "gameplay/calendar/day-07-128.webp",
+        "gameplay/calendar/day-07-256.png",
+        "gameplay/calendar/day-07-256.webp",
+        "gameplay/calendar/day-07-512.png",
+        "gameplay/calendar/day-07-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "gift"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/claimed",
+      "master": "masters/calendar/claimed.png",
+      "exports": [
+        "gameplay/calendar/claimed-128.png",
+        "gameplay/calendar/claimed-128.webp",
+        "gameplay/calendar/claimed-256.png",
+        "gameplay/calendar/claimed-256.webp",
+        "gameplay/calendar/claimed-512.png",
+        "gameplay/calendar/claimed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "check"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/locked",
+      "master": "masters/calendar/locked.png",
+      "exports": [
+        "gameplay/calendar/locked-128.png",
+        "gameplay/calendar/locked-128.webp",
+        "gameplay/calendar/locked-256.png",
+        "gameplay/calendar/locked-256.webp",
+        "gameplay/calendar/locked-512.png",
+        "gameplay/calendar/locked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "lock"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/pending",
+      "master": "masters/calendar/pending.png",
+      "exports": [
+        "gameplay/calendar/pending-128.png",
+        "gameplay/calendar/pending-128.webp",
+        "gameplay/calendar/pending-256.png",
+        "gameplay/calendar/pending-256.webp",
+        "gameplay/calendar/pending-512.png",
+        "gameplay/calendar/pending-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        248,
+        72,
+        775,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/calendar-card",
+          "pending"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "calendar/available",
+      "master": "masters/calendar/available.png",
+      "exports": [
+        "gameplay/calendar/available-128.png",
+        "gameplay/calendar/available-128.webp",
+        "gameplay/calendar/available-256.png",
+        "gameplay/calendar/available-256.webp",
+        "gameplay/calendar/available-512.png",
+        "gameplay/calendar/available-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        72,
+        941,
+        952
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "orbit",
+          "components/calendar-card",
+          "gift"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "streak/milestone-01",
+      "master": "masters/streak/milestone-01.png",
+      "exports": [
+        "gameplay/streak/milestone-01-128.png",
+        "gameplay/streak/milestone-01-128.webp",
+        "gameplay/streak/milestone-01-256.png",
+        "gameplay/streak/milestone-01-256.webp",
+        "gameplay/streak/milestone-01-512.png",
+        "gameplay/streak/milestone-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        224,
+        855,
+        950
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "coins"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "streak/milestone-02",
+      "master": "masters/streak/milestone-02.png",
+      "exports": [
+        "gameplay/streak/milestone-02-128.png",
+        "gameplay/streak/milestone-02-128.webp",
+        "gameplay/streak/milestone-02-256.png",
+        "gameplay/streak/milestone-02-256.webp",
+        "gameplay/streak/milestone-02-512.png",
+        "gameplay/streak/milestone-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        178,
+        855,
+        950
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "precision"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "streak/milestone-03",
+      "master": "masters/streak/milestone-03.png",
+      "exports": [
+        "gameplay/streak/milestone-03-128.png",
+        "gameplay/streak/milestone-03-128.webp",
+        "gameplay/streak/milestone-03-256.png",
+        "gameplay/streak/milestone-03-256.webp",
+        "gameplay/streak/milestone-03-512.png",
+        "gameplay/streak/milestone-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        240,
+        855,
+        950
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "chest-wooden"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "streak/milestone-04",
+      "master": "masters/streak/milestone-04.png",
+      "exports": [
+        "gameplay/streak/milestone-04-128.png",
+        "gameplay/streak/milestone-04-128.webp",
+        "gameplay/streak/milestone-04-256.png",
+        "gameplay/streak/milestone-04-256.webp",
+        "gameplay/streak/milestone-04-512.png",
+        "gameplay/streak/milestone-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        229,
+        855,
+        950
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "chest-silver"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "streak/milestone-05",
+      "master": "masters/streak/milestone-05.png",
+      "exports": [
+        "gameplay/streak/milestone-05-128.png",
+        "gameplay/streak/milestone-05-128.webp",
+        "gameplay/streak/milestone-05-256.png",
+        "gameplay/streak/milestone-05-256.webp",
+        "gameplay/streak/milestone-05-512.png",
+        "gameplay/streak/milestone-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        238,
+        855,
+        950
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "chest-golden"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "streak/milestone-06",
+      "master": "masters/streak/milestone-06.png",
+      "exports": [
+        "gameplay/streak/milestone-06-128.png",
+        "gameplay/streak/milestone-06-128.webp",
+        "gameplay/streak/milestone-06-256.png",
+        "gameplay/streak/milestone-06-256.webp",
+        "gameplay/streak/milestone-06-512.png",
+        "gameplay/streak/milestone-06-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        186,
+        855,
+        950
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "chest-premium"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "flow/daily-login",
+      "master": "masters/flow/daily-login.png",
+      "exports": [
+        "gameplay/flow/daily-login-128.png",
+        "gameplay/flow/daily-login-128.webp",
+        "gameplay/flow/daily-login-256.png",
+        "gameplay/flow/daily-login-256.webp",
+        "gameplay/flow/daily-login-512.png",
+        "gameplay/flow/daily-login-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "card",
+          "calendar"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "flow/daily-challenge",
+      "master": "masters/flow/daily-challenge.png",
+      "exports": [
+        "gameplay/flow/daily-challenge-128.png",
+        "gameplay/flow/daily-challenge-128.webp",
+        "gameplay/flow/daily-challenge-256.png",
+        "gameplay/flow/daily-challenge-256.webp",
+        "gameplay/flow/daily-challenge-512.png",
+        "gameplay/flow/daily-challenge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "card",
+          "precision"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "flow/weekly-missions",
+      "master": "masters/flow/weekly-missions.png",
+      "exports": [
+        "gameplay/flow/weekly-missions-128.png",
+        "gameplay/flow/weekly-missions-128.webp",
+        "gameplay/flow/weekly-missions-256.png",
+        "gameplay/flow/weekly-missions-256.webp",
+        "gameplay/flow/weekly-missions-512.png",
+        "gameplay/flow/weekly-missions-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "card",
+          "calendar"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "flow/gentle-streak",
+      "master": "masters/flow/gentle-streak.png",
+      "exports": [
+        "gameplay/flow/gentle-streak-128.png",
+        "gameplay/flow/gentle-streak-128.webp",
+        "gameplay/flow/gentle-streak-256.png",
+        "gameplay/flow/gentle-streak-256.webp",
+        "gameplay/flow/gentle-streak-512.png",
+        "gameplay/flow/gentle-streak-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "card",
+          "flame"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "flow/welcome-back",
+      "master": "masters/flow/welcome-back.png",
+      "exports": [
+        "gameplay/flow/welcome-back-128.png",
+        "gameplay/flow/welcome-back-128.webp",
+        "gameplay/flow/welcome-back-256.png",
+        "gameplay/flow/welcome-back-256.webp",
+        "gameplay/flow/welcome-back-512.png",
+        "gameplay/flow/welcome-back-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        142,
+        889,
+        883
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "card",
+          "gift"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "ui/mission-row-blank",
+      "master": "masters/ui/mission-row-blank.png",
+      "exports": [
+        "gameplay/ui/mission-row-blank-128.png",
+        "gameplay/ui/mission-row-blank-128.webp",
+        "gameplay/ui/mission-row-blank-256.png",
+        "gameplay/ui/mission-row-blank-256.webp",
+        "gameplay/ui/mission-row-blank-512.png",
+        "gameplay/ui/mission-row-blank-512.webp"
+      ],
+      "dimensions": [
+        1536,
+        440
+      ],
+      "alpha_bounds": [
+        43,
+        70,
+        1493,
+        370
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "card"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "missions/available",
+      "master": "masters/missions/available.png",
+      "exports": [
+        "gameplay/missions/available-128.png",
+        "gameplay/missions/available-128.webp",
+        "gameplay/missions/available-256.png",
+        "gameplay/missions/available-256.webp",
+        "gameplay/missions/available-512.png",
+        "gameplay/missions/available-512.webp"
+      ],
+      "dimensions": [
+        1536,
+        440
+      ],
+      "alpha_bounds": [
+        43,
+        70,
+        1493,
+        370
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "ui/mission-row-blank",
+          "precision",
+          "track",
+          "fill",
+          "buttons/go"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "missions/completed",
+      "master": "masters/missions/completed.png",
+      "exports": [
+        "gameplay/missions/completed-128.png",
+        "gameplay/missions/completed-128.webp",
+        "gameplay/missions/completed-256.png",
+        "gameplay/missions/completed-256.webp",
+        "gameplay/missions/completed-512.png",
+        "gameplay/missions/completed-512.webp"
+      ],
+      "dimensions": [
+        1536,
+        440
+      ],
+      "alpha_bounds": [
+        43,
+        70,
+        1493,
+        370
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "ui/mission-row-blank",
+          "rosybuns",
+          "track",
+          "fill",
+          "buttons/claim"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "missions/claimed",
+      "master": "masters/missions/claimed.png",
+      "exports": [
+        "gameplay/missions/claimed-128.png",
+        "gameplay/missions/claimed-128.webp",
+        "gameplay/missions/claimed-256.png",
+        "gameplay/missions/claimed-256.webp",
+        "gameplay/missions/claimed-512.png",
+        "gameplay/missions/claimed-512.webp"
+      ],
+      "dimensions": [
+        1536,
+        440
+      ],
+      "alpha_bounds": [
+        43,
+        70,
+        1493,
+        370
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "ui/mission-row-blank",
+          "flag",
+          "track",
+          "fill",
+          "buttons/claimed"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "missions/pending",
+      "master": "masters/missions/pending.png",
+      "exports": [
+        "gameplay/missions/pending-128.png",
+        "gameplay/missions/pending-128.webp",
+        "gameplay/missions/pending-256.png",
+        "gameplay/missions/pending-256.webp",
+        "gameplay/missions/pending-512.png",
+        "gameplay/missions/pending-512.webp"
+      ],
+      "dimensions": [
+        1536,
+        440
+      ],
+      "alpha_bounds": [
+        43,
+        70,
+        1493,
+        370
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "ui/mission-row-blank",
+          "calendar",
+          "track",
+          "fill",
+          "buttons/pending"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "weekly/reward-display",
+      "master": "masters/weekly/reward-display.png",
+      "exports": [
+        "gameplay/weekly/reward-display-128.png",
+        "gameplay/weekly/reward-display-128.webp",
+        "gameplay/weekly/reward-display-256.png",
+        "gameplay/weekly/reward-display-256.webp",
+        "gameplay/weekly/reward-display-512.png",
+        "gameplay/weekly/reward-display-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        170,
+        148,
+        855,
+        960
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "chest-premium"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "comeback/reward-bundle",
+      "master": "masters/comeback/reward-bundle.png",
+      "exports": [
+        "gameplay/comeback/reward-bundle-128.png",
+        "gameplay/comeback/reward-bundle-128.webp",
+        "gameplay/comeback/reward-bundle-256.png",
+        "gameplay/comeback/reward-bundle-256.webp",
+        "gameplay/comeback/reward-bundle-512.png",
+        "gameplay/comeback/reward-bundle-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        120,
+        172,
+        910,
+        955
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "components/reward-pedestal",
+          "gift",
+          "coins",
+          "precision"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "comeback/welcome-portrait",
+      "master": "masters/comeback/welcome-portrait.png",
+      "exports": [
+        "gameplay/comeback/welcome-portrait-128.png",
+        "gameplay/comeback/welcome-portrait-128.webp",
+        "gameplay/comeback/welcome-portrait-256.png",
+        "gameplay/comeback/welcome-portrait-256.webp",
+        "gameplay/comeback/welcome-portrait-512.png",
+        "gameplay/comeback/welcome-portrait-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        180,
+        162,
+        895,
+        904
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "plumplets",
+          "gift"
+        ],
+        "runtime_text": null
+      }
+    },
+    {
+      "id": "progress/half",
+      "master": "masters/progress/half.png",
+      "exports": [
+        "gameplay/progress/half-128.png",
+        "gameplay/progress/half-128.webp",
+        "gameplay/progress/half-256.png",
+        "gameplay/progress/half-256.webp",
+        "gameplay/progress/half-512.png",
+        "gameplay/progress/half-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        62,
+        444,
+        962,
+        579
+      ],
+      "provenance": {
+        "origin": "Composition reusing original artwork without repainting",
+        "components": [
+          "track",
+          "fill"
+        ],
+        "runtime_text": null
+      }
+    }
+  ],
+  "reused": [
+    {
+      "id": "coins",
+      "source_repository_path": "stages/stage-07-economy/v1/coins/masters/packs/small-stack.png",
+      "sha256": "e8d430badcb45855562bb228d4ec30a61ab305118988af08f3f8f91307d95fdc",
+      "master": "../../stage-07-economy/v1/coins/masters/packs/small-stack.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "stars",
+      "source_repository_path": "stages/stage-07-economy/v1/stars/masters/states/earned.png",
+      "sha256": "6f7b85e1ad7130ef1fe32c80a2939b11cdff482d89a755ddfa926db46de6f993",
+      "master": "../../stage-07-economy/v1/stars/masters/states/earned.png",
+      "status": "catalog-only"
+    },
+    {
+      "id": "gem",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/gem.png",
+      "sha256": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d",
+      "master": "../../../locked/puff-trails-brand/v1/masters/icons/gem.png",
+      "status": "catalog-only"
+    },
+    {
+      "id": "energy",
+      "source_repository_path": "stages/stage-07-economy/v1/cannon-energy/masters/front/full.png",
+      "sha256": "c5982c9f649fdaa267c05488d7b9473b8474f59d58b077cbd846252bd03effbb",
+      "master": "../../stage-07-economy/v1/cannon-energy/masters/front/full.png",
+      "status": "catalog-only"
+    },
+    {
+      "id": "precision",
+      "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/precision-trail/front.png",
+      "sha256": "ae7b32c28c7e85f40a4833a64d0b54f10e0d273027f450cfa424dbc8f1296be6",
+      "master": "../../stage-07-economy/v1/booster-inventory/masters/precision-trail/front.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "rainbow",
+      "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/rainbow-friend/front.png",
+      "sha256": "3aa37697e9c611361449dc77449f032a6481913bfb57a13d5a696745f16a80c4",
+      "master": "../../stage-07-economy/v1/booster-inventory/masters/rainbow-friend/front.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "burst",
+      "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/soft-burst/front.png",
+      "sha256": "fbc85663b7f73f966e7f4793830a0a4a96fd3cf7e1b355e532d3b106d1f28ba9",
+      "master": "../../stage-07-economy/v1/booster-inventory/masters/soft-burst/front.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "gift",
+      "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/rewards/gift.png",
+      "sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+      "master": "../../stage-07-economy/v1/booster-inventory/masters/rewards/gift.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "key",
+      "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/world-key.png",
+      "sha256": "6d8f5db21825e4315bb06f6b8242ab4bd13aa726453e3a50c5faf50a532c402c",
+      "master": "../../stage-06-obstacles-mission-objects/v1/masters/collectibles/world-key.png",
+      "status": "catalog-only"
+    },
+    {
+      "id": "ticket",
+      "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/rewards/ticket.png",
+      "sha256": "9aaaf11f37bacc279bb8b6b2c07ae6d115523d0aeae2d1eaec459446a8694326",
+      "master": "../../stage-07-economy/v1/booster-inventory/masters/rewards/ticket.png",
+      "status": "catalog-only"
+    },
+    {
+      "id": "calendar",
+      "source_repository_path": "stages/stage-08-achievements/v1/achievement-badges/masters/emblems/level-streak.png",
+      "sha256": "59145f0ac250c08d7684c473548298ab5fc75ad69fd7a1a2338b65e2a3dc14ea",
+      "master": "../../stage-08-achievements/v1/achievement-badges/masters/emblems/level-streak.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "flame",
+      "source_repository_path": "stages/stage-08-achievements/v1/achievement-badges/masters/emblems/combo-master.png",
+      "sha256": "a7d96ad20c5447afb826223eafcd8fc35dda0d4162464bf29db1f2af976b5855",
+      "master": "../../stage-08-achievements/v1/achievement-badges/masters/emblems/combo-master.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "check",
+      "source_repository_path": "stages/stage-08-achievements/v1/ui-components/masters/icons/check.png",
+      "sha256": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+      "master": "../../stage-08-achievements/v1/ui-components/masters/icons/check.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "pending",
+      "source_repository_path": "stages/stage-08-achievements/v1/badge-states/masters/claim/pending.png",
+      "sha256": "50eaebf59b6fa87434422d2157d1bc5974e97a648142e57387e88a4b78d7d4e3",
+      "master": "../../stage-08-achievements/v1/badge-states/masters/claim/pending.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "lock",
+      "source_repository_path": "stages/stage-07-economy/v1/stars/masters/components/lock.png",
+      "sha256": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+      "master": "../../stage-07-economy/v1/stars/masters/components/lock.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "track",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+      "sha256": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f",
+      "master": "../../../locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "fill",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+      "sha256": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a",
+      "master": "../../../locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "blue-button",
+      "source_repository_path": "stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-blank.png",
+      "sha256": "7ed8b16f65171db76da6554bb66c4d2d5418a16b84d087d13194f253e801698b",
+      "master": "../../stage-08-achievements/v1/ui-components/masters/buttons/view-progress-blank.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "gold-button",
+      "source_repository_path": "stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-blank.png",
+      "sha256": "38e980c90fa81b54a2000e58dd787f6053bb625e24e0c988b4d435e219271f76",
+      "master": "../../stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-blank.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "card",
+      "source_repository_path": "stages/stage-08-achievements/v1/ui-components/masters/components/card.png",
+      "sha256": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058",
+      "master": "../../stage-08-achievements/v1/ui-components/masters/components/card.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "ribbon",
+      "source_repository_path": "stages/stage-08-achievements/v1/ui-components/masters/components/category-tab.png",
+      "sha256": "3307e10941a9015c35e9d658560e27e79bbd450a02d360b938af364f5c545c8d",
+      "master": "../../stage-08-achievements/v1/ui-components/masters/components/category-tab.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "star-icon",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "master": "../../../locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "sparkles",
+      "source_repository_path": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png",
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "master": "../../stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "orbit",
+      "source_repository_path": "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png",
+      "sha256": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+      "master": "../../stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "rosybuns",
+      "source_repository_path": "locked/rosybuns/v1/masters/core/medium.png",
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "master": "../../../locked/rosybuns/v1/masters/core/medium.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "plumplets",
+      "source_repository_path": "locked/twirlpuffs/v1/masters/core/medium.png",
+      "sha256": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+      "master": "../../../locked/twirlpuffs/v1/masters/core/medium.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "flag",
+      "source_repository_path": "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/castle-pieces/flag.png",
+      "sha256": "307d5f8d90bd0ce43591fd44dd1881deab0a1c392723b04da371b73b0458ec3c",
+      "master": "../../stage-05-worlds-levels/v1/sugarstar-skies/masters/castle-pieces/flag.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "logo",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/logos/main.png",
+      "sha256": "574b659cd0cf471831088d3483817f041033b3db79caa68d1f6995a20819d53a",
+      "master": "../../../locked/puff-trails-brand/v1/masters/logos/main.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "chest-wooden",
+      "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/wooden/closed.png",
+      "sha256": "b20d15a658534ab379dee0895fd64f89ffe515d4d0a47ce40e305674903f6c0c",
+      "master": "../../stage-07-economy/v1/reward-chests/masters/wooden/closed.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "chest-silver",
+      "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/silver/closed.png",
+      "sha256": "08e1ed857a9be2bd4320cb95e4d2f78972ac8963d59f1d149e99b541246cb65d",
+      "master": "../../stage-07-economy/v1/reward-chests/masters/silver/closed.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "chest-golden",
+      "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/golden/closed.png",
+      "sha256": "e39107b1ef868803899c4b6048543166fcf0b751448731920195a2b72299be01",
+      "master": "../../stage-07-economy/v1/reward-chests/masters/golden/closed.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "chest-rainbow",
+      "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/rainbow/closed.png",
+      "sha256": "9ba60df18560ac616e873db72eb7c3f5ee5c1800c52cbe28f3dce0b28eefa673",
+      "master": "../../stage-07-economy/v1/reward-chests/masters/rainbow/closed.png",
+      "status": "existing-art"
+    },
+    {
+      "id": "chest-premium",
+      "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/premium/closed.png",
+      "sha256": "459dbd9a0cd8f97d070204105b2945cb191886038cacb826aff11dd378bd163f",
+      "master": "../../stage-07-economy/v1/reward-chests/masters/premium/closed.png",
+      "status": "existing-art"
+    }
+  ],
+  "sheets": [
+    {
+      "id": "daily-calendar",
+      "title": "Daily Gift Calendar",
+      "path": "sheets/daily-calendar.png",
+      "items": [
+        "calendar/day-01",
+        "calendar/day-02",
+        "calendar/day-03",
+        "calendar/day-04",
+        "calendar/day-05",
+        "calendar/day-06",
+        "calendar/day-07"
+      ]
+    },
+    {
+      "id": "daily-challenges",
+      "title": "Daily Challenges",
+      "path": "sheets/daily-challenges.png",
+      "items": [
+        "missions/available",
+        "missions/completed",
+        "missions/claimed",
+        "missions/pending"
+      ]
+    },
+    {
+      "id": "gentle-streaks",
+      "title": "Gentle Streak Milestones",
+      "path": "sheets/gentle-streaks.png",
+      "items": [
+        "streak/milestone-01",
+        "streak/milestone-02",
+        "streak/milestone-03",
+        "streak/milestone-04",
+        "streak/milestone-05",
+        "streak/milestone-06"
+      ]
+    },
+    {
+      "id": "weekly-missions",
+      "title": "Weekly Missions",
+      "path": "sheets/weekly-missions.png",
+      "items": [
+        "missions/available",
+        "missions/completed",
+        "missions/pending",
+        "weekly/reward-display"
+      ]
+    },
+    {
+      "id": "welcome-back",
+      "title": "Welcome Back",
+      "path": "sheets/welcome-back.png",
+      "items": [
+        "comeback/welcome-portrait",
+        "comeback/reward-bundle",
+        "buttons/claim",
+        "buttons/pending"
+      ]
+    },
+    {
+      "id": "reward-flow",
+      "title": "Daily Reward Flow",
+      "path": "sheets/reward-flow.png",
+      "items": [
+        "flow/daily-login",
+        "flow/daily-challenge",
+        "flow/weekly-missions",
+        "flow/gentle-streak",
+        "flow/welcome-back"
+      ]
+    },
+    {
+      "id": "reward-chests",
+      "title": "Reusable Reward Chests",
+      "path": "sheets/reward-chests.png",
+      "items": [
+        "chest-wooden",
+        "chest-silver",
+        "chest-golden",
+        "chest-rainbow",
+        "chest-premium"
+      ]
+    },
+    {
+      "id": "reward-items",
+      "title": "Reusable Item Catalog",
+      "path": "sheets/reward-items.png",
+      "items": [
+        "coins",
+        "gift",
+        "precision",
+        "rainbow",
+        "burst",
+        "stars",
+        "energy",
+        "gem",
+        "key",
+        "ticket"
+      ]
+    },
+    {
+      "id": "components-states",
+      "title": "UI Components & States",
+      "path": "sheets/components-states.png",
+      "items": [
+        "components/calendar-card",
+        "components/reward-pedestal",
+        "calendar/available",
+        "calendar/claimed",
+        "calendar/locked",
+        "calendar/pending",
+        "buttons/claim",
+        "buttons/go",
+        "buttons/claimed",
+        "buttons/pending",
+        "ui/mission-row-blank",
+        "progress/half"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "d65f919926d3358d1ec8e4c6153fd93f4a929299a75cae55e5347eb850f6c317"
+    },
+    {
+      "path": "gameplay/buttons/claim-128.png",
+      "sha256": "15ce3f2958f7a15e4aceff01087518367e36dc949c57b232f8add964c259a696"
+    },
+    {
+      "path": "gameplay/buttons/claim-128.webp",
+      "sha256": "e95e04707185aa68786197369cb01a484a1f19b97aa1f54f50713a9b516db5f4"
+    },
+    {
+      "path": "gameplay/buttons/claim-256.png",
+      "sha256": "9b1653c04b530d4e95c31ef0df0abf052e2898c7cd92183a7536c6265b3946e3"
+    },
+    {
+      "path": "gameplay/buttons/claim-256.webp",
+      "sha256": "387c997005d0d4244d3b87ee843d031fe0f665ea1b64891ecfd0259ddd30def7"
+    },
+    {
+      "path": "gameplay/buttons/claim-512.png",
+      "sha256": "8bb77d106ef5a067c630e6ddb7e966ffcf67e927d35390da700d27578999462c"
+    },
+    {
+      "path": "gameplay/buttons/claim-512.webp",
+      "sha256": "d8192adb172f6f630ae094aa0eb94b4a7ee3f0a47807a831712322d9788bf7f9"
+    },
+    {
+      "path": "gameplay/buttons/claimed-128.png",
+      "sha256": "f469ec4e1bcb447d2b8d8b21bbea8892f9ddf51f35b61e2055038c0e8fdd49f3"
+    },
+    {
+      "path": "gameplay/buttons/claimed-128.webp",
+      "sha256": "2ea8d05b7eb18d4d47090e2e59b617b912207af6173487e6460c8f4fd7c89ca0"
+    },
+    {
+      "path": "gameplay/buttons/claimed-256.png",
+      "sha256": "b6cb6439c80b8a75de69803bc244027940f437cc58c6dc95a9ef328f9ec3a30b"
+    },
+    {
+      "path": "gameplay/buttons/claimed-256.webp",
+      "sha256": "23a34585f5b41eed062aaa50038316ac227719a52fdc2059852d4f2d5ef29803"
+    },
+    {
+      "path": "gameplay/buttons/claimed-512.png",
+      "sha256": "56b70a2e5d3ea32fb335c9f1d2459b7a9457c9d0263d5f19abbbd72c6c78fca5"
+    },
+    {
+      "path": "gameplay/buttons/claimed-512.webp",
+      "sha256": "c34ecb0d8f63d707e9ddd813dbcad72d32c6535dbc7c762887cecda92445ae2b"
+    },
+    {
+      "path": "gameplay/buttons/go-128.png",
+      "sha256": "3b79c2c01e6ddc57c769e53e144bb65897ba155794188ece50ad829b973fb06b"
+    },
+    {
+      "path": "gameplay/buttons/go-128.webp",
+      "sha256": "77747255ac5c89bf5776c1484a9d510283e3038fff81ec8a599cc5cb9b00191c"
+    },
+    {
+      "path": "gameplay/buttons/go-256.png",
+      "sha256": "f80c63fd713760a66e9ea89a1866a7a5c0c2304e9484f0d5e1ed10c3a1895842"
+    },
+    {
+      "path": "gameplay/buttons/go-256.webp",
+      "sha256": "d64cbefcd0721ce6f0d91ba2d4d2b158a4122e295348a376cbd039536cf0a924"
+    },
+    {
+      "path": "gameplay/buttons/go-512.png",
+      "sha256": "5d383068ed4bab58ecde54916a04b6356c84e8cd7e08b2072d1a26003a460586"
+    },
+    {
+      "path": "gameplay/buttons/go-512.webp",
+      "sha256": "009408810aef9b1102cc9e9d95e490e73a7a589aad52d847a75f78348ee86d5f"
+    },
+    {
+      "path": "gameplay/buttons/pending-128.png",
+      "sha256": "f3ffe466331ae10ef232a4cbd9a5235e1e9801988f752b99ea4acc8646a0e4d6"
+    },
+    {
+      "path": "gameplay/buttons/pending-128.webp",
+      "sha256": "2b3782a2998b538fa51174f7dff393ba6e64e2b41f0b213f3d4fc380b48c0477"
+    },
+    {
+      "path": "gameplay/buttons/pending-256.png",
+      "sha256": "31ea921abde456b3646d8fb42fcfe093c407e5e77a93d45410a018f8e821d5e7"
+    },
+    {
+      "path": "gameplay/buttons/pending-256.webp",
+      "sha256": "64af9c93235c7fce9ae9b30cd648f6f709f108ebb904eedac0885502b8d1fe63"
+    },
+    {
+      "path": "gameplay/buttons/pending-512.png",
+      "sha256": "d60a34a126af7d735059bd7d7feef1c33f0b7fd4bd31b38f3a3a375f9ac3f0b4"
+    },
+    {
+      "path": "gameplay/buttons/pending-512.webp",
+      "sha256": "aca9fa266c32d346ac161c7cf724555d63394c2d035126b1a36569d6bf878db4"
+    },
+    {
+      "path": "gameplay/calendar/available-128.png",
+      "sha256": "de6d423cf7d47d160efccd79557f8a0a9da6b5127cb2194dc6730ef88d2c9f99"
+    },
+    {
+      "path": "gameplay/calendar/available-128.webp",
+      "sha256": "0617ffb6f5467760c14f72b9a20972340f9d1866a62fb8e96d472ec7116d4f66"
+    },
+    {
+      "path": "gameplay/calendar/available-256.png",
+      "sha256": "57ebb9c863d86de3cdc50ddafd45b42eef6728902e3bdc2f93c5f6b0dabdf0a6"
+    },
+    {
+      "path": "gameplay/calendar/available-256.webp",
+      "sha256": "8a04a7ef92a24a86eaaf7e3ec8c080e91b211787bd64405d05633f9e6e75e1ea"
+    },
+    {
+      "path": "gameplay/calendar/available-512.png",
+      "sha256": "2b5f43ff2bfdec43cf4eb0783a4a734d460f403a6f23abdb46d9892c650c69e2"
+    },
+    {
+      "path": "gameplay/calendar/available-512.webp",
+      "sha256": "30e2b724f797d0a14bf0dd90e8919aeb4c3a5bbd285513584b348934b2f213c1"
+    },
+    {
+      "path": "gameplay/calendar/claimed-128.png",
+      "sha256": "bd07ea7dca36ff97afcb1f532473d1fb08d659702e255346db147494b38a07ed"
+    },
+    {
+      "path": "gameplay/calendar/claimed-128.webp",
+      "sha256": "5c6b39df2d70cfe263bf2088cc369dcc2b086ca3d1891cfa493f634b477ee0d9"
+    },
+    {
+      "path": "gameplay/calendar/claimed-256.png",
+      "sha256": "2317c6ba2e3b33e60240deba68cf046839574378c9a58daf8374f1f34be8583c"
+    },
+    {
+      "path": "gameplay/calendar/claimed-256.webp",
+      "sha256": "e899795a5bbe8200a69e07fcdb27d505a29246c34ab70b6bc1285a36b9881e26"
+    },
+    {
+      "path": "gameplay/calendar/claimed-512.png",
+      "sha256": "67130e91041c86e98849a6a57b72ed1d44763e4f86b17f8d9947ae96c1c427bb"
+    },
+    {
+      "path": "gameplay/calendar/claimed-512.webp",
+      "sha256": "02fc80e211c6a3fef48cf2dd5a2ad4f7b8935df2034b576f81f8e81cdbe1a4fb"
+    },
+    {
+      "path": "gameplay/calendar/day-01-128.png",
+      "sha256": "6962f077da47c5f4541741141a038892f26b637117bbfcfe707bf29b45fafa4c"
+    },
+    {
+      "path": "gameplay/calendar/day-01-128.webp",
+      "sha256": "499ec41b668d38efe904b54a5d84efecdc650720ae90051eccf426d17c311727"
+    },
+    {
+      "path": "gameplay/calendar/day-01-256.png",
+      "sha256": "2466f74f2696778be2bf6cd7e661272aff26dbe78fa8436a0f586dd50b23a16d"
+    },
+    {
+      "path": "gameplay/calendar/day-01-256.webp",
+      "sha256": "4e41a68226d270cb781f1a994c2d7fab59f412d70417af84dad4cd95159e2476"
+    },
+    {
+      "path": "gameplay/calendar/day-01-512.png",
+      "sha256": "4e345ccddcb4d7b72a7b42b3b371c56045b2c78f1a0d1079788d9d540853bf3e"
+    },
+    {
+      "path": "gameplay/calendar/day-01-512.webp",
+      "sha256": "1282d67a7aa2fe0219935767b9b96d5fb00ec412dbce769acb3b669fbbd2a1d0"
+    },
+    {
+      "path": "gameplay/calendar/day-02-128.png",
+      "sha256": "6962f077da47c5f4541741141a038892f26b637117bbfcfe707bf29b45fafa4c"
+    },
+    {
+      "path": "gameplay/calendar/day-02-128.webp",
+      "sha256": "499ec41b668d38efe904b54a5d84efecdc650720ae90051eccf426d17c311727"
+    },
+    {
+      "path": "gameplay/calendar/day-02-256.png",
+      "sha256": "2466f74f2696778be2bf6cd7e661272aff26dbe78fa8436a0f586dd50b23a16d"
+    },
+    {
+      "path": "gameplay/calendar/day-02-256.webp",
+      "sha256": "4e41a68226d270cb781f1a994c2d7fab59f412d70417af84dad4cd95159e2476"
+    },
+    {
+      "path": "gameplay/calendar/day-02-512.png",
+      "sha256": "4e345ccddcb4d7b72a7b42b3b371c56045b2c78f1a0d1079788d9d540853bf3e"
+    },
+    {
+      "path": "gameplay/calendar/day-02-512.webp",
+      "sha256": "1282d67a7aa2fe0219935767b9b96d5fb00ec412dbce769acb3b669fbbd2a1d0"
+    },
+    {
+      "path": "gameplay/calendar/day-03-128.png",
+      "sha256": "6e3b4e6f6c5ad0a4cc9dae55c44de34c4ed45ae844b5307ac77d0e94e1983be1"
+    },
+    {
+      "path": "gameplay/calendar/day-03-128.webp",
+      "sha256": "e12affd1d12c806283344c9b89ec78452e09ecbc4a2b6a65601851977b9df054"
+    },
+    {
+      "path": "gameplay/calendar/day-03-256.png",
+      "sha256": "48a74cdb5f2d7c44d868b619b1799c625595096742b40c0ac5f0b6aa8e13cea2"
+    },
+    {
+      "path": "gameplay/calendar/day-03-256.webp",
+      "sha256": "9b7bae1cd5161c51169e94cbda24724da59a84f5205d59e9f32c07d191fa0cf5"
+    },
+    {
+      "path": "gameplay/calendar/day-03-512.png",
+      "sha256": "12ce7ee66462c71515b90bca37e315517165152ed2b97d9924c4b23154971278"
+    },
+    {
+      "path": "gameplay/calendar/day-03-512.webp",
+      "sha256": "224afcc60b4a09fbda3f022a469522e54ee5ecd445406f84fa89b7e7314a4b78"
+    },
+    {
+      "path": "gameplay/calendar/day-04-128.png",
+      "sha256": "6962f077da47c5f4541741141a038892f26b637117bbfcfe707bf29b45fafa4c"
+    },
+    {
+      "path": "gameplay/calendar/day-04-128.webp",
+      "sha256": "499ec41b668d38efe904b54a5d84efecdc650720ae90051eccf426d17c311727"
+    },
+    {
+      "path": "gameplay/calendar/day-04-256.png",
+      "sha256": "2466f74f2696778be2bf6cd7e661272aff26dbe78fa8436a0f586dd50b23a16d"
+    },
+    {
+      "path": "gameplay/calendar/day-04-256.webp",
+      "sha256": "4e41a68226d270cb781f1a994c2d7fab59f412d70417af84dad4cd95159e2476"
+    },
+    {
+      "path": "gameplay/calendar/day-04-512.png",
+      "sha256": "4e345ccddcb4d7b72a7b42b3b371c56045b2c78f1a0d1079788d9d540853bf3e"
+    },
+    {
+      "path": "gameplay/calendar/day-04-512.webp",
+      "sha256": "1282d67a7aa2fe0219935767b9b96d5fb00ec412dbce769acb3b669fbbd2a1d0"
+    },
+    {
+      "path": "gameplay/calendar/day-05-128.png",
+      "sha256": "2f6e6590e11dc62e826db1554516a3c0a1c9e96c1821c6a21a274c2e27187156"
+    },
+    {
+      "path": "gameplay/calendar/day-05-128.webp",
+      "sha256": "da2b834b077916fb02722618096e70f95394bddad7a8cf3a8d6d5bda3bdfbae6"
+    },
+    {
+      "path": "gameplay/calendar/day-05-256.png",
+      "sha256": "e0c3f6edef747207747ff8fce2aaf894005e3aaf0fa22a9f3f276b7164ef1ecb"
+    },
+    {
+      "path": "gameplay/calendar/day-05-256.webp",
+      "sha256": "3b9ec4ef66a4ea2ddcfbff71d2d1a5941236a34d2a4ff160e4eb6ed5a34f7bba"
+    },
+    {
+      "path": "gameplay/calendar/day-05-512.png",
+      "sha256": "9f5e4e86fcef8e5ebb68d407ccc5d13ab8fc133927ff51daa148d78351e626de"
+    },
+    {
+      "path": "gameplay/calendar/day-05-512.webp",
+      "sha256": "258267641dd9701951b999d03d75bb3303c144c7c6a9a1cd1eee1530528fbfd0"
+    },
+    {
+      "path": "gameplay/calendar/day-06-128.png",
+      "sha256": "6962f077da47c5f4541741141a038892f26b637117bbfcfe707bf29b45fafa4c"
+    },
+    {
+      "path": "gameplay/calendar/day-06-128.webp",
+      "sha256": "499ec41b668d38efe904b54a5d84efecdc650720ae90051eccf426d17c311727"
+    },
+    {
+      "path": "gameplay/calendar/day-06-256.png",
+      "sha256": "2466f74f2696778be2bf6cd7e661272aff26dbe78fa8436a0f586dd50b23a16d"
+    },
+    {
+      "path": "gameplay/calendar/day-06-256.webp",
+      "sha256": "4e41a68226d270cb781f1a994c2d7fab59f412d70417af84dad4cd95159e2476"
+    },
+    {
+      "path": "gameplay/calendar/day-06-512.png",
+      "sha256": "4e345ccddcb4d7b72a7b42b3b371c56045b2c78f1a0d1079788d9d540853bf3e"
+    },
+    {
+      "path": "gameplay/calendar/day-06-512.webp",
+      "sha256": "1282d67a7aa2fe0219935767b9b96d5fb00ec412dbce769acb3b669fbbd2a1d0"
+    },
+    {
+      "path": "gameplay/calendar/day-07-128.png",
+      "sha256": "395e9aa92f1f45ddb3cb696656920d0ccbb718335aceaa1efda8ca6a241fbee0"
+    },
+    {
+      "path": "gameplay/calendar/day-07-128.webp",
+      "sha256": "c4676fe67fd80d3d02ea15191ff6f5d20d4c780c0b7b05eba6470960f36a54dc"
+    },
+    {
+      "path": "gameplay/calendar/day-07-256.png",
+      "sha256": "ec084bfd2050339afeaa929394972c833910c42c9ff59060f38e7fd89c83a24f"
+    },
+    {
+      "path": "gameplay/calendar/day-07-256.webp",
+      "sha256": "8ed629551461a0de85570977e80f917f2fd074dd87856dca496be3aed32527f8"
+    },
+    {
+      "path": "gameplay/calendar/day-07-512.png",
+      "sha256": "6536503adf2698ae4a0822d8ee4d2df882462c926a549b0f8cd7ae110afc6aab"
+    },
+    {
+      "path": "gameplay/calendar/day-07-512.webp",
+      "sha256": "7331c182f0ff30b16d62109219e233d886f452fdae29add6412d0a074f856e33"
+    },
+    {
+      "path": "gameplay/calendar/locked-128.png",
+      "sha256": "f6ade6f8726037caab902e90084b5096f90eaa9c381da7460bd1e59fbbc9e5c0"
+    },
+    {
+      "path": "gameplay/calendar/locked-128.webp",
+      "sha256": "767f6363927535f53557f66b78476ae5fd93ccaafc99396c3070dddc01a7db62"
+    },
+    {
+      "path": "gameplay/calendar/locked-256.png",
+      "sha256": "16a8ddc54d673661cac379a0e7770bcce28758ce918381db07f5f39bc4151d9b"
+    },
+    {
+      "path": "gameplay/calendar/locked-256.webp",
+      "sha256": "6d70b82ca38d8d1139807fecd08eba3169b3234d106cf6155099c3818173f9df"
+    },
+    {
+      "path": "gameplay/calendar/locked-512.png",
+      "sha256": "2c39877889a80549332fee2810656d4f10197807a9d1af3203b5b3d5a74b6f38"
+    },
+    {
+      "path": "gameplay/calendar/locked-512.webp",
+      "sha256": "e8f40473cda120113b0ce9349e841eac445f57d5afb75d13128751a572af07b6"
+    },
+    {
+      "path": "gameplay/calendar/pending-128.png",
+      "sha256": "b7738f3dec26530bb858cfdde99d12760ec9d7524b7cafac1e701f20ca53ca1d"
+    },
+    {
+      "path": "gameplay/calendar/pending-128.webp",
+      "sha256": "f57b568de1f20850926a3261474217f11ea0fa53c08063d7721815c5473fc301"
+    },
+    {
+      "path": "gameplay/calendar/pending-256.png",
+      "sha256": "3aa0e47254f4e5b107a0127fc5ec9e36147ec84f4b64f15682f8e0d879953d8b"
+    },
+    {
+      "path": "gameplay/calendar/pending-256.webp",
+      "sha256": "124225b87855bbd7d9c63867f0c450faffa79cab02a83af1fa7e1bb2f6fbbac0"
+    },
+    {
+      "path": "gameplay/calendar/pending-512.png",
+      "sha256": "8064e1feefc7d9d9f6a851111275379dc0a585fbbeec0df860dfd3099e23c62b"
+    },
+    {
+      "path": "gameplay/calendar/pending-512.webp",
+      "sha256": "5d8bcff3c93d34b99835fcf709c242d9df3d017d004bdf2bf3f917fd49ccc5cd"
+    },
+    {
+      "path": "gameplay/comeback/reward-bundle-128.png",
+      "sha256": "93c8768289530ed982e9fdccfacdcdb55b81f857cffc7362bac8249de0a9c5bc"
+    },
+    {
+      "path": "gameplay/comeback/reward-bundle-128.webp",
+      "sha256": "500595c503e59763765ff0f3f7d4693b008008104503fa2bd51bfe969596b107"
+    },
+    {
+      "path": "gameplay/comeback/reward-bundle-256.png",
+      "sha256": "2df805ccee9ac3ad1e7bd50835863efdc46a7b92bf324351435ae35e15ef7df1"
+    },
+    {
+      "path": "gameplay/comeback/reward-bundle-256.webp",
+      "sha256": "9969441ef01f29aae0347fe0e9bdfbeee12511e2edf8303bfdae91ea16ca25b0"
+    },
+    {
+      "path": "gameplay/comeback/reward-bundle-512.png",
+      "sha256": "982ae01b8a0ba7a94e4a8c1f9ae516bc37c74e95d6998b6ac55011699895d31f"
+    },
+    {
+      "path": "gameplay/comeback/reward-bundle-512.webp",
+      "sha256": "0d44ba8e6ca69654f5aec93a93eff3a15f66da6843a6e1d64c96c0f8daecac52"
+    },
+    {
+      "path": "gameplay/comeback/welcome-portrait-128.png",
+      "sha256": "e687a31ab1c0135886213798b1fb6b0f0cf7b81267941ae67bb9fb21b405ee68"
+    },
+    {
+      "path": "gameplay/comeback/welcome-portrait-128.webp",
+      "sha256": "758f36a66444600fb862f0704afc208c07f8cec6eda7a21dfd6dcaf487baf15b"
+    },
+    {
+      "path": "gameplay/comeback/welcome-portrait-256.png",
+      "sha256": "3e195bcf3b9e9cba1367ef1a7002aff09cf4a77bdb14dfda61a299067dcabefa"
+    },
+    {
+      "path": "gameplay/comeback/welcome-portrait-256.webp",
+      "sha256": "46c469b4f28476ce900a058a941acf4ea14474fb90601bbcfd2cc83c4919fbcf"
+    },
+    {
+      "path": "gameplay/comeback/welcome-portrait-512.png",
+      "sha256": "8d450029d029438f1b4a053b851bae4682cad33fb612767e6bb689b143373512"
+    },
+    {
+      "path": "gameplay/comeback/welcome-portrait-512.webp",
+      "sha256": "b8c285bb362c53ee0c3c48adc8562b389c57ef3b6cf0ed39b704ac77443f0de3"
+    },
+    {
+      "path": "gameplay/components/calendar-card-128.png",
+      "sha256": "0ea88ac448871d56e217a5c0bc42a8854e922a341af4fcf7e472c6c037b433be"
+    },
+    {
+      "path": "gameplay/components/calendar-card-128.webp",
+      "sha256": "182ec31595bd2e47c9c9e143eded71b2fe49f258a313c47569437d5a18069b7b"
+    },
+    {
+      "path": "gameplay/components/calendar-card-256.png",
+      "sha256": "b17648ec3b4a36cb9e0c09f2af5dd97616255c07420f87408945a09618137ddc"
+    },
+    {
+      "path": "gameplay/components/calendar-card-256.webp",
+      "sha256": "f355cd31bdfc8fc6b19a72c8739454d1f3e401828f952a266c5f6cd4fd1d0999"
+    },
+    {
+      "path": "gameplay/components/calendar-card-512.png",
+      "sha256": "7dadaa75806225d8f99fbdd88fac89c8a8ebcf323d5e4dff0355d4a58db0a2de"
+    },
+    {
+      "path": "gameplay/components/calendar-card-512.webp",
+      "sha256": "30b942db78ba2f54bb0ba239d565e76399dcfd669e692baa04c888e923f4ebc6"
+    },
+    {
+      "path": "gameplay/components/reward-pedestal-128.png",
+      "sha256": "ea214d4e341b2dc0416ec1230ef6bcb44798beedc50184e1cf3b55bcff4c6cff"
+    },
+    {
+      "path": "gameplay/components/reward-pedestal-128.webp",
+      "sha256": "fbf49e18dacd1d9c45dc0f9e2b3b596c4f9cb2866731289a4ad2da8fc6802d65"
+    },
+    {
+      "path": "gameplay/components/reward-pedestal-256.png",
+      "sha256": "c4a2971dc9e6e6815e45f9bc477b0b8147c1a513890da7cdf4ed0dc4e2d01f42"
+    },
+    {
+      "path": "gameplay/components/reward-pedestal-256.webp",
+      "sha256": "780b99655db4807c4d54d6a2e22f2453bb81bbd2e55f48ed4d2d2b1fb000f8cb"
+    },
+    {
+      "path": "gameplay/components/reward-pedestal-512.png",
+      "sha256": "7e7629e564d05e22047b505e47ed6843379e2f12aebdcf7525959062915352f8"
+    },
+    {
+      "path": "gameplay/components/reward-pedestal-512.webp",
+      "sha256": "c0b8ad8eb59c5bbbb0045b1aa40c4eef0bb77218e9d58ead00fc8d9c6e6a19e5"
+    },
+    {
+      "path": "gameplay/flow/daily-challenge-128.png",
+      "sha256": "440ce215fdb812b6ca1a888c69f2c1d6729688877a5b13ec6c0bf0302b9f32fb"
+    },
+    {
+      "path": "gameplay/flow/daily-challenge-128.webp",
+      "sha256": "0462daca722d83e56481a785d2b065c6d49d11ceac0b3b2a8294e3d14b1eef18"
+    },
+    {
+      "path": "gameplay/flow/daily-challenge-256.png",
+      "sha256": "253f71ccbef603579f5a42e80902028ed2bdbe3f75a660526b7dd1a63a0ad021"
+    },
+    {
+      "path": "gameplay/flow/daily-challenge-256.webp",
+      "sha256": "5572afc0f2b084cc4150ef278bd220a62fcf2983cd478f92a2e86441951919c6"
+    },
+    {
+      "path": "gameplay/flow/daily-challenge-512.png",
+      "sha256": "7239b3a1120eb9e8b3bddef4a49c4e90cdfd7baddc573be5ecdf5c997e0be25c"
+    },
+    {
+      "path": "gameplay/flow/daily-challenge-512.webp",
+      "sha256": "40294afcc5f1b3810e212bd536ac0e4f22f118fc05ebe918826fada547b582b8"
+    },
+    {
+      "path": "gameplay/flow/daily-login-128.png",
+      "sha256": "0f1af191cad49051706dafb3c1b349fec3ff7b7b81cafa384b52682972468724"
+    },
+    {
+      "path": "gameplay/flow/daily-login-128.webp",
+      "sha256": "008c689a72fe334ed05417130cea15e1b07ab2228dbe3a7c1047ead8b4ebec96"
+    },
+    {
+      "path": "gameplay/flow/daily-login-256.png",
+      "sha256": "613a64cf2cdb2ddc92f35aa07aae2c9f42ee5b736855155ed9142ce54a0149b6"
+    },
+    {
+      "path": "gameplay/flow/daily-login-256.webp",
+      "sha256": "226bc11e7324743bec751cdee80b25d7db339658a7e8cddb85a41024337ba96e"
+    },
+    {
+      "path": "gameplay/flow/daily-login-512.png",
+      "sha256": "2c67d794cfc18565f995bf37182d6bb83c75bba8dd9ce701b973ae74979f0217"
+    },
+    {
+      "path": "gameplay/flow/daily-login-512.webp",
+      "sha256": "be317f0f594b110f5419b07173e2e34b3eef0a2412cf6e6fef7c9be1412becb9"
+    },
+    {
+      "path": "gameplay/flow/gentle-streak-128.png",
+      "sha256": "f1a17fb9f4cb857c591f3169a35df85da50eb6d09f388ef5a307db31a7f4aaad"
+    },
+    {
+      "path": "gameplay/flow/gentle-streak-128.webp",
+      "sha256": "487d1f0422d726aaaeaefcfeff2ef52ec5cb3347b93c482a0c88f6e8ebff91de"
+    },
+    {
+      "path": "gameplay/flow/gentle-streak-256.png",
+      "sha256": "f96846e393f72bd62a60185995ac2a57e37d39ca2104a4c3a28247f76bd4c3b5"
+    },
+    {
+      "path": "gameplay/flow/gentle-streak-256.webp",
+      "sha256": "ad08ba36a9c459716d159edba9a605773f7c628577452fc3d1f20cd9f1230784"
+    },
+    {
+      "path": "gameplay/flow/gentle-streak-512.png",
+      "sha256": "5057a444f413db7f700ae81f2c9abf7ba788aa856db30c2eff71319174589abd"
+    },
+    {
+      "path": "gameplay/flow/gentle-streak-512.webp",
+      "sha256": "839021fefa71de6f14cf9a8b5cbcb2f25d6d6cfa081227445c735883fad4b807"
+    },
+    {
+      "path": "gameplay/flow/weekly-missions-128.png",
+      "sha256": "0f1af191cad49051706dafb3c1b349fec3ff7b7b81cafa384b52682972468724"
+    },
+    {
+      "path": "gameplay/flow/weekly-missions-128.webp",
+      "sha256": "008c689a72fe334ed05417130cea15e1b07ab2228dbe3a7c1047ead8b4ebec96"
+    },
+    {
+      "path": "gameplay/flow/weekly-missions-256.png",
+      "sha256": "613a64cf2cdb2ddc92f35aa07aae2c9f42ee5b736855155ed9142ce54a0149b6"
+    },
+    {
+      "path": "gameplay/flow/weekly-missions-256.webp",
+      "sha256": "226bc11e7324743bec751cdee80b25d7db339658a7e8cddb85a41024337ba96e"
+    },
+    {
+      "path": "gameplay/flow/weekly-missions-512.png",
+      "sha256": "2c67d794cfc18565f995bf37182d6bb83c75bba8dd9ce701b973ae74979f0217"
+    },
+    {
+      "path": "gameplay/flow/weekly-missions-512.webp",
+      "sha256": "be317f0f594b110f5419b07173e2e34b3eef0a2412cf6e6fef7c9be1412becb9"
+    },
+    {
+      "path": "gameplay/flow/welcome-back-128.png",
+      "sha256": "b8f99725a887cbb74ada01bb8999e1ecb24318df89bac04ae994343ab5a8dae5"
+    },
+    {
+      "path": "gameplay/flow/welcome-back-128.webp",
+      "sha256": "846337a10d21361529eb861a54c9fd5de31b47fbda44b2a6c076bb2c5d366cac"
+    },
+    {
+      "path": "gameplay/flow/welcome-back-256.png",
+      "sha256": "745243567a539df47d93bda511b0c38886edb83c6da534e2a80b4455f96b7b39"
+    },
+    {
+      "path": "gameplay/flow/welcome-back-256.webp",
+      "sha256": "5f28c805dfb175fb4f29a2c3f3fe45b841c2f8aae75be7499ddf7440daba6aa1"
+    },
+    {
+      "path": "gameplay/flow/welcome-back-512.png",
+      "sha256": "d597f33e900aa961d2f593be5f13450cbdd9f9e39e8f2bf352c4bbd2e67ea28e"
+    },
+    {
+      "path": "gameplay/flow/welcome-back-512.webp",
+      "sha256": "c5d800e62e291d584f8955f971417f2de454f53a59a1517a2920e89a88af4b34"
+    },
+    {
+      "path": "gameplay/gray-button-128.png",
+      "sha256": "4703c52c3f87850621be8c4272c280c46e79e15f300c0f1ab6daf80711d08704"
+    },
+    {
+      "path": "gameplay/gray-button-128.webp",
+      "sha256": "487aa7b00fb9393d55616cf1127f6c22922606ed3b920410970131412a6e4cfd"
+    },
+    {
+      "path": "gameplay/gray-button-256.png",
+      "sha256": "83a698b4c5b3a75ba1641b5321d12db7585f73c764357a3a823c05e9b7f3048c"
+    },
+    {
+      "path": "gameplay/gray-button-256.webp",
+      "sha256": "e6b49d7b1654885b32989cef5de72433d8b92298d14620402b0e1a03621f960c"
+    },
+    {
+      "path": "gameplay/gray-button-512.png",
+      "sha256": "045f8db1a4502ce30076e7630ca92069322c6aed13ebf8dec0ea7708d90d0e92"
+    },
+    {
+      "path": "gameplay/gray-button-512.webp",
+      "sha256": "a98f7a6fb3064f8af323be61a72f425e9cd86a604b540546d1abeff141c2bfe0"
+    },
+    {
+      "path": "gameplay/missions/available-128.png",
+      "sha256": "3ffb58d9ea3f45a63ed29769c6cbb21bddfcf305a7c1cc201c83ad39d1c67b85"
+    },
+    {
+      "path": "gameplay/missions/available-128.webp",
+      "sha256": "b8d85b30ce97fb0a54feca62fe5bebdbf1684606557bcd51b3259cbbec81be56"
+    },
+    {
+      "path": "gameplay/missions/available-256.png",
+      "sha256": "b56b1e21094b1c155eb6fca3b685926c70873e0fbb64d71e155526212d9c89de"
+    },
+    {
+      "path": "gameplay/missions/available-256.webp",
+      "sha256": "4d8a4da11bb26ab6fbd7f396b3c8d9f2060121e4a7e69ac7c9ed4eb9fe206f53"
+    },
+    {
+      "path": "gameplay/missions/available-512.png",
+      "sha256": "15bce3b83a61358b73082e30aed4c5e912780112e45f4e058824bfad2373e01c"
+    },
+    {
+      "path": "gameplay/missions/available-512.webp",
+      "sha256": "1d833be1d8abcd1f8bef55cf69186af3075d152ef0c58ddbcc87a5046f930668"
+    },
+    {
+      "path": "gameplay/missions/claimed-128.png",
+      "sha256": "17ca94f0f05eb08bc9c96bfdec138f8e30e5be40fabb7593dca8975902abe24b"
+    },
+    {
+      "path": "gameplay/missions/claimed-128.webp",
+      "sha256": "3b8c234e23edf6e08118cd57208f528a8d161a9b6818c1372ab0e83c2a010e8a"
+    },
+    {
+      "path": "gameplay/missions/claimed-256.png",
+      "sha256": "f38d4b39548d00eafc38d69775d0b2625e3722cf4de7cdb20f86fe108cf9bf71"
+    },
+    {
+      "path": "gameplay/missions/claimed-256.webp",
+      "sha256": "055f8dd50e8b52bee28b335eadde67ac9e3976d43d7b083e0a567f9ae8af87db"
+    },
+    {
+      "path": "gameplay/missions/claimed-512.png",
+      "sha256": "6b921c3e8a7c2a2521c71e9364f8bde775d73483f60abc5cde6ab3ad55d29135"
+    },
+    {
+      "path": "gameplay/missions/claimed-512.webp",
+      "sha256": "d464e7acd95c0034dcbed582d8a100e34acd43f54485b2a2b02ad26f85558ee0"
+    },
+    {
+      "path": "gameplay/missions/completed-128.png",
+      "sha256": "32ca53b28cb57945b7e6881f736d60df4d66d70fd25f257795346082b97f4931"
+    },
+    {
+      "path": "gameplay/missions/completed-128.webp",
+      "sha256": "de447334d403ab0b6513a79e086b25b556507e9b75fb03e478e7ef9c2a887c55"
+    },
+    {
+      "path": "gameplay/missions/completed-256.png",
+      "sha256": "a8a1b5434d00853f8932aba32136fa0f5e6725cfab09f7d904cf68e4fdd93498"
+    },
+    {
+      "path": "gameplay/missions/completed-256.webp",
+      "sha256": "f9b6992b8a1d476aaa60baed25e880745da3424ade51f576a7fc43c6269865c4"
+    },
+    {
+      "path": "gameplay/missions/completed-512.png",
+      "sha256": "0bbf796823ad25cdb71c76a98a82e63df1a757158c4e134026c7847cca3a7841"
+    },
+    {
+      "path": "gameplay/missions/completed-512.webp",
+      "sha256": "7a91d7815b520b6cf30bcfa1d7ae9146e09ad98b3923b4f010c839fae6be2380"
+    },
+    {
+      "path": "gameplay/missions/pending-128.png",
+      "sha256": "18cc105b4df57d7c439a171b84481bcde68d1aa56d9f2fbb82f7f2af02ca2e0f"
+    },
+    {
+      "path": "gameplay/missions/pending-128.webp",
+      "sha256": "3827be9b7ad606aee6efbf7fdf618ad89af88cf5c22dcf93bf0bf20314e64c00"
+    },
+    {
+      "path": "gameplay/missions/pending-256.png",
+      "sha256": "54cde170a6ea13ce8837a7af58bf44dbf31041c3f22e4b085648a7578302dfbc"
+    },
+    {
+      "path": "gameplay/missions/pending-256.webp",
+      "sha256": "c12aec664ad7b2494f06947f264077a2dcbc106c3217b049bb8dbf63171b55a1"
+    },
+    {
+      "path": "gameplay/missions/pending-512.png",
+      "sha256": "712c080db515688f9f3b37d83444037a7536d20ae8ffdd02cd6b01e73f488dca"
+    },
+    {
+      "path": "gameplay/missions/pending-512.webp",
+      "sha256": "36d61b16b8b4f34d8589361b5bf65b59b3ca3429678f6a99726edfb0fd640f6d"
+    },
+    {
+      "path": "gameplay/progress/half-128.png",
+      "sha256": "005df49aea4dd753ef8d6fee148f785deaa424ef37917873aeaaea9e0c336a19"
+    },
+    {
+      "path": "gameplay/progress/half-128.webp",
+      "sha256": "a08a22db6c990671afaae45fd42114ba1e4e2dbf20a6f50f7b6f994399919708"
+    },
+    {
+      "path": "gameplay/progress/half-256.png",
+      "sha256": "465e2c1439265c05c3b3aae2ec4864e7ba2d311c392d547e69acbdb3f4971054"
+    },
+    {
+      "path": "gameplay/progress/half-256.webp",
+      "sha256": "6cb335f69454a533642e2414568f8e13aab9e32eb036f3a7c9571461146cbd59"
+    },
+    {
+      "path": "gameplay/progress/half-512.png",
+      "sha256": "7deb36a3d0c45c27ea04db4634c0e376e59783813d4e8aa970c0a32f490f1783"
+    },
+    {
+      "path": "gameplay/progress/half-512.webp",
+      "sha256": "4da5ab9b54b0c29399d52c566aedd8ec575b3da1f6196e063975b084a9d197d6"
+    },
+    {
+      "path": "gameplay/streak/milestone-01-128.png",
+      "sha256": "16a952a5c970aa943649a68739a34cf55d79d1e2363153a49571815d180f5bdd"
+    },
+    {
+      "path": "gameplay/streak/milestone-01-128.webp",
+      "sha256": "4d12ef0df922e7484e336589fbe2f1efe7aa5360456a53e2e6066efb279686c6"
+    },
+    {
+      "path": "gameplay/streak/milestone-01-256.png",
+      "sha256": "91fd3f9fb8ca79cb6fa87f63dc2191a703d462fd1df2549685bba2fbd4c92994"
+    },
+    {
+      "path": "gameplay/streak/milestone-01-256.webp",
+      "sha256": "22e63456740419f79ebfd23edf51a6f0d86dcc5f08a0034e91e2ea3534af9f84"
+    },
+    {
+      "path": "gameplay/streak/milestone-01-512.png",
+      "sha256": "ce1f86985473664d7b9daea738950fd9054981f7407640120e73ba2ac771360f"
+    },
+    {
+      "path": "gameplay/streak/milestone-01-512.webp",
+      "sha256": "b63fe86fa3373f510bdb5feec5157066a8b447c81ecf36a54f31c061a43d6e53"
+    },
+    {
+      "path": "gameplay/streak/milestone-02-128.png",
+      "sha256": "e5a2e1445b6b272eb29a7e36bc7838316683542e3d1caac661ad80acbcb5bb91"
+    },
+    {
+      "path": "gameplay/streak/milestone-02-128.webp",
+      "sha256": "f090187ca3b6cb0f02d6c950e33f0d648e24f388bf36b0c68f6a596b407f055a"
+    },
+    {
+      "path": "gameplay/streak/milestone-02-256.png",
+      "sha256": "84610e0bd0b550f054e0e6554eaa504fab5f210578a4567151ae035459e1c0a8"
+    },
+    {
+      "path": "gameplay/streak/milestone-02-256.webp",
+      "sha256": "d25d976a694c22a2cb732edb7cb99116f09d6ed46308686a931b33961ae9a023"
+    },
+    {
+      "path": "gameplay/streak/milestone-02-512.png",
+      "sha256": "6a2d49d6de29197167e4e6dbad7ce73858cbdfb5b492524c3b5ed97663070f99"
+    },
+    {
+      "path": "gameplay/streak/milestone-02-512.webp",
+      "sha256": "abf13ffb87b9445d0510dea706e7a34e16e94116555e27681f89d705644275e3"
+    },
+    {
+      "path": "gameplay/streak/milestone-03-128.png",
+      "sha256": "dcd3feef6af154e47be0feed36d1ba67581121133859d3b5f5c94411abfdcb47"
+    },
+    {
+      "path": "gameplay/streak/milestone-03-128.webp",
+      "sha256": "8038c9c5356a98256b8612fd95e056f9ef3bfbd6f34682971c5d8b5e779073b1"
+    },
+    {
+      "path": "gameplay/streak/milestone-03-256.png",
+      "sha256": "ffdd637268f5cf86a08b869ee5fb48080f65b4d316385b5cb467783ba0decc40"
+    },
+    {
+      "path": "gameplay/streak/milestone-03-256.webp",
+      "sha256": "b8f40185c38eaea0c0f7e9d925d216f9dc25b8813fe135d1de09de56f6cebf96"
+    },
+    {
+      "path": "gameplay/streak/milestone-03-512.png",
+      "sha256": "ad61c197f2d0979a8d288f22921d9b83a14cd0d8adae3c52b1ff656b95038225"
+    },
+    {
+      "path": "gameplay/streak/milestone-03-512.webp",
+      "sha256": "997c1d3af335b6504b56243dc0c2529cb7baff305b2ab2e6e0ec074d27baefed"
+    },
+    {
+      "path": "gameplay/streak/milestone-04-128.png",
+      "sha256": "cb31f146357dcd6aa6879d58559696cb719a6aa91947d10ac86236ab1d5315b7"
+    },
+    {
+      "path": "gameplay/streak/milestone-04-128.webp",
+      "sha256": "1b1b3de2ef1b6f91cf4a4b4d1c045eb40e2f2c6f474045a5d69fe77197b7cc54"
+    },
+    {
+      "path": "gameplay/streak/milestone-04-256.png",
+      "sha256": "bf7f58cd504066baab9e322f13285317d3f8eb71d79f7a92aa4caf63fc749bde"
+    },
+    {
+      "path": "gameplay/streak/milestone-04-256.webp",
+      "sha256": "82d9e454a5fffc0f160873f3a0144ad92017da48cee019ac01728cb8eaab2dac"
+    },
+    {
+      "path": "gameplay/streak/milestone-04-512.png",
+      "sha256": "153ad29b1ef440b012298d430d708317276f990c07c7a00549753b5d5638d6ed"
+    },
+    {
+      "path": "gameplay/streak/milestone-04-512.webp",
+      "sha256": "93adadb30272346eb60f909675292c95aa5fda7a71a277733810e30ca7dde917"
+    },
+    {
+      "path": "gameplay/streak/milestone-05-128.png",
+      "sha256": "7bd03239a0d4a1b3b39620e9042440e655003d64ef4e39a32999d3237e4cd0d0"
+    },
+    {
+      "path": "gameplay/streak/milestone-05-128.webp",
+      "sha256": "d683d95e25e5ec9f729380f15edd8d61b40d72b8afb2d74a1e0edb7a108bc4a6"
+    },
+    {
+      "path": "gameplay/streak/milestone-05-256.png",
+      "sha256": "5aa3b90e67a2df3fa8d04ecbd15c99e54a4590fba1b6edaca9e94380ed4755cd"
+    },
+    {
+      "path": "gameplay/streak/milestone-05-256.webp",
+      "sha256": "14c0a864aa30e1e5622c578746cc113a170cde888c0e05866e81da07a1143d23"
+    },
+    {
+      "path": "gameplay/streak/milestone-05-512.png",
+      "sha256": "7d1be1b1c15b6769afd4f11ccca756d495a718670a1216aed2dc23f204ed0802"
+    },
+    {
+      "path": "gameplay/streak/milestone-05-512.webp",
+      "sha256": "f8dda9ef70c11a31336a3abdb77f94afd535d310242b9770c18638a171aeca4a"
+    },
+    {
+      "path": "gameplay/streak/milestone-06-128.png",
+      "sha256": "4b4310fcbfed1053fd55eaa0de2fcf86ae3a2d8639fa2ccc5984eb23197397b2"
+    },
+    {
+      "path": "gameplay/streak/milestone-06-128.webp",
+      "sha256": "6219ae06e573c6ef869c50f0ba25b0607655c0129f2db5fc91debfcb61b531e9"
+    },
+    {
+      "path": "gameplay/streak/milestone-06-256.png",
+      "sha256": "221d3a4a89f73575fa6dce417e233022b195a06cf23fe59b014389fab95f73a2"
+    },
+    {
+      "path": "gameplay/streak/milestone-06-256.webp",
+      "sha256": "6b18a541e1c3f5dbb6ca6da7ef582d4f19d64059a277fda6a77aa1aab9960ca9"
+    },
+    {
+      "path": "gameplay/streak/milestone-06-512.png",
+      "sha256": "88590e815150d5a4cf536cac3900db0042ae453abd03ebc9799c10a0f49cb023"
+    },
+    {
+      "path": "gameplay/streak/milestone-06-512.webp",
+      "sha256": "71874268e075116cd95b36d56cb10bc09b370074174b7f33c18f2e2486cb066a"
+    },
+    {
+      "path": "gameplay/ui/mission-row-blank-128.png",
+      "sha256": "49c70ee2481aaec3ee7f24e373b52f7c20abfdc2d0037367555be764b6ffeb93"
+    },
+    {
+      "path": "gameplay/ui/mission-row-blank-128.webp",
+      "sha256": "3260c5d96b8edfd7d73dbfda0bb2c909f07445e3b5dff2719f05408dafe080a1"
+    },
+    {
+      "path": "gameplay/ui/mission-row-blank-256.png",
+      "sha256": "c7c3f1020364fd4f01ed3017ef4c56a085f134f9a397e993306733db321f96e3"
+    },
+    {
+      "path": "gameplay/ui/mission-row-blank-256.webp",
+      "sha256": "d0d2e9f360fdd0fa454523f8a0b2252fd41a4433479e74545f9c53dc884c2ecf"
+    },
+    {
+      "path": "gameplay/ui/mission-row-blank-512.png",
+      "sha256": "74c0a704af9d6b4ca5220628ccee00e88b5706bf202d3bf4dffe191d1e4e1ee8"
+    },
+    {
+      "path": "gameplay/ui/mission-row-blank-512.webp",
+      "sha256": "c8eb1cb2eb6f7f2f011c119e98d6e85a4175ca6a3fd3fa7f8b06d923e62b14ac"
+    },
+    {
+      "path": "gameplay/weekly/reward-display-128.png",
+      "sha256": "943ea7f90dc2b2ec10143ff17d3b0184dd36a8a8943878f494e43b61ffe123a8"
+    },
+    {
+      "path": "gameplay/weekly/reward-display-128.webp",
+      "sha256": "910c818f89e8baff809212415d66b9f7b008c2cdd3f37135ce14ef8048af7775"
+    },
+    {
+      "path": "gameplay/weekly/reward-display-256.png",
+      "sha256": "261ca5ce5d55a29e27a53c5e6706ea91a6f78dd1bf5b79183b243ada3b83f020"
+    },
+    {
+      "path": "gameplay/weekly/reward-display-256.webp",
+      "sha256": "bf1d2423886cf206ee90cb0557a42254bbff6fb856ff833bce9af32b013ba049"
+    },
+    {
+      "path": "gameplay/weekly/reward-display-512.png",
+      "sha256": "6849d1954438fac79fa3e18fbeab3364f0e02676b0882782b4ef8389837826dd"
+    },
+    {
+      "path": "gameplay/weekly/reward-display-512.webp",
+      "sha256": "430c9579405fd30da113a880730457a116d5d1a74196feb994e8afdbefa3aa39"
+    },
+    {
+      "path": "generation.json",
+      "sha256": "9b8cde9048c36f3dfd7bff67ec85e8405860fbd9538e0a1e496ebb4351f651c8"
+    },
+    {
+      "path": "masters/buttons/claim.png",
+      "sha256": "d91afa6e311777784eaa31f3d96984ec2b15b77bcca0d6e21b3c8fa994bbb02d"
+    },
+    {
+      "path": "masters/buttons/claimed.png",
+      "sha256": "7a6d7f0e30d296eebcdf7fa4162f122b8093289f6478ebc2fd0d44b5fd540cb8"
+    },
+    {
+      "path": "masters/buttons/go.png",
+      "sha256": "f8064aa475fcb2a4519ee5d20ad260d3c8032a4af0e96cce164b381d13109613"
+    },
+    {
+      "path": "masters/buttons/pending.png",
+      "sha256": "5fcbaf5d5e59d9993aad63108b8598821a9c997d71dfbea7b633c218c47e2416"
+    },
+    {
+      "path": "masters/calendar/available.png",
+      "sha256": "602313add88e93e8a6ea3bf1437f4d50cb5f5547a58cae325352221104ddef1c"
+    },
+    {
+      "path": "masters/calendar/claimed.png",
+      "sha256": "66dedf56d30c935f1e7db0c434057f2da17ef38724003515d87a9bb1c687a0a9"
+    },
+    {
+      "path": "masters/calendar/day-01.png",
+      "sha256": "8ec551c8c5e54dfcaba908a9ea749977e4f5e5e73361df050b785967ea895741"
+    },
+    {
+      "path": "masters/calendar/day-02.png",
+      "sha256": "8ec551c8c5e54dfcaba908a9ea749977e4f5e5e73361df050b785967ea895741"
+    },
+    {
+      "path": "masters/calendar/day-03.png",
+      "sha256": "5550eae68dfe227a402c78305c54c4c7073a2c1fb3d971d11a4083863aeaa06b"
+    },
+    {
+      "path": "masters/calendar/day-04.png",
+      "sha256": "8ec551c8c5e54dfcaba908a9ea749977e4f5e5e73361df050b785967ea895741"
+    },
+    {
+      "path": "masters/calendar/day-05.png",
+      "sha256": "aca71f8e3d24ae96bb0a6c969dcce59065d942b77c8c7db575a1fa8df6656f62"
+    },
+    {
+      "path": "masters/calendar/day-06.png",
+      "sha256": "8ec551c8c5e54dfcaba908a9ea749977e4f5e5e73361df050b785967ea895741"
+    },
+    {
+      "path": "masters/calendar/day-07.png",
+      "sha256": "ce10ef55c958b7e461fe63e27d1a9573a1a5d4ced49d25fc16276e9d95f9d79a"
+    },
+    {
+      "path": "masters/calendar/locked.png",
+      "sha256": "2d51b69d3cfb5848970d01994336c79f0ce9c516cdfbec9096e720e317bcffed"
+    },
+    {
+      "path": "masters/calendar/pending.png",
+      "sha256": "c414420a90f349fe0fcf9995fe8da911de2e42f594e224955d8380af72015df8"
+    },
+    {
+      "path": "masters/comeback/reward-bundle.png",
+      "sha256": "827fd0fa29c906b1090788645cf90f8324a5c811119ac16c63fc7df0f2f71abb"
+    },
+    {
+      "path": "masters/comeback/welcome-portrait.png",
+      "sha256": "0c15f272de5139887c2ba41cf72996d9d7151097198dc9964b8f91b28f98e2cf"
+    },
+    {
+      "path": "masters/components/calendar-card.png",
+      "sha256": "12359158b0d4213ea8fca32f8d9b0cc0e723101db92d1b157bb5c57055344fc1"
+    },
+    {
+      "path": "masters/components/reward-pedestal.png",
+      "sha256": "4a92c7d271f96a3d7c58a4b2e33ae1c8cc6a94959430b92907c18576b1b57efa"
+    },
+    {
+      "path": "masters/flow/daily-challenge.png",
+      "sha256": "bad42b99ae9c8184001a19b0922c14bda7a08cc1b6977e067c614c7baaa96d09"
+    },
+    {
+      "path": "masters/flow/daily-login.png",
+      "sha256": "cc91d9b988bb519bbaf05919de0955709518737c5c3e328673ee0188dc08f71f"
+    },
+    {
+      "path": "masters/flow/gentle-streak.png",
+      "sha256": "3f8cff633515a109aa5381467beca30955a103c68c17c6389f51fdd545e7b8b8"
+    },
+    {
+      "path": "masters/flow/weekly-missions.png",
+      "sha256": "cc91d9b988bb519bbaf05919de0955709518737c5c3e328673ee0188dc08f71f"
+    },
+    {
+      "path": "masters/flow/welcome-back.png",
+      "sha256": "e7995e3c9c12ff20d824d7716702062ee3d72bb35353b49cef5398fee691e762"
+    },
+    {
+      "path": "masters/gray-button.png",
+      "sha256": "8443e221c509eb44e129c1e8441f8851412e11d2aeb37edb1e1e6b3c7695d4cf"
+    },
+    {
+      "path": "masters/missions/available.png",
+      "sha256": "a45ae7fd54e98cea60b374217eb2df24d37b3a6f9d332ca3b71a9dec132eddbb"
+    },
+    {
+      "path": "masters/missions/claimed.png",
+      "sha256": "319dcb928df3179f281896a7d3f138484c1e4359b8e980717f81467531a20003"
+    },
+    {
+      "path": "masters/missions/completed.png",
+      "sha256": "c4c4c2db4980870a31f9a324baf39e74ac38527d60b1a853f5a70c60e9ce747c"
+    },
+    {
+      "path": "masters/missions/pending.png",
+      "sha256": "57bc7044c5e0f43a3a2ab7a51543a46d245fad3a513cc8591139f5fb5e2f22b2"
+    },
+    {
+      "path": "masters/progress/half.png",
+      "sha256": "3cce920763d431f499e334562b98ace89d9b50ed7100de10e9436688a8a8722b"
+    },
+    {
+      "path": "masters/streak/milestone-01.png",
+      "sha256": "086211416efe926c1454002ec850c09fce846de849bb135089676b3160504b2e"
+    },
+    {
+      "path": "masters/streak/milestone-02.png",
+      "sha256": "164de3d51e5d676a8cffa4920073c3412f599bfbbbd98265ed0bbe4d4c91b38a"
+    },
+    {
+      "path": "masters/streak/milestone-03.png",
+      "sha256": "a18a367e313bba9f0037c27d7b13a47189efe84f62ef4eb77c5dfad7a6fc9f7a"
+    },
+    {
+      "path": "masters/streak/milestone-04.png",
+      "sha256": "cecc5453b7d927aa34b080b63f458c55b81e2bc92216c7ccef8cafa4d6b5147a"
+    },
+    {
+      "path": "masters/streak/milestone-05.png",
+      "sha256": "1b11c2326bb925d4a23d27fd72a7bebf579aa8d65ed7b0672530ab09774a7fc2"
+    },
+    {
+      "path": "masters/streak/milestone-06.png",
+      "sha256": "10abeb2962cd500e1db83e5e90e2c49353d4b27c34116fd5345e16b4b907886b"
+    },
+    {
+      "path": "masters/ui/mission-row-blank.png",
+      "sha256": "47da6ee7652283f29e2e4de56354e77addc59082a633a1f236af1ef18811cfe4"
+    },
+    {
+      "path": "masters/weekly/reward-display.png",
+      "sha256": "35ba2a9cd812a00f8961c50015c4cf9b278523ea8c4045070344ea9855ef3368"
+    },
+    {
+      "path": "overview.jpg",
+      "sha256": "475d16274c9827d70a867cb410de209dd22c6955e205b8c8425474abbbcd90d1"
+    },
+    {
+      "path": "references/original-daily-rewards-board.png",
+      "sha256": "8031d883dfdd01292182649c5c565c2b37e12f9d2b2b061992839e61ede7b673"
+    },
+    {
+      "path": "sheets/components-states.png",
+      "sha256": "79d391df2fd99a21277b708a8bad40e138fc294a98c69409ff48d6697a85be24"
+    },
+    {
+      "path": "sheets/daily-calendar.png",
+      "sha256": "b9c52fb561599024304e8220cf20093243cb5a226e6dd73d733317c14412a9fd"
+    },
+    {
+      "path": "sheets/daily-challenges.png",
+      "sha256": "65edab5e6db80a2cb3ce9368bc57a28bc3b27fd3b9586f21ab6597b5dbcaf274"
+    },
+    {
+      "path": "sheets/gentle-streaks.png",
+      "sha256": "733fb09beaa9fd71c49625baa34f44658184057962600f615885ae6002303e87"
+    },
+    {
+      "path": "sheets/reward-chests.png",
+      "sha256": "5e48d19d5989f8b93ade1072001fbdc07c265ccb3db53246c4affa1cd38d95a3"
+    },
+    {
+      "path": "sheets/reward-flow.png",
+      "sha256": "0090774e560689b5d5fcf3084dc7eccbc8612a459ba54d98d752a1fe22d4717a"
+    },
+    {
+      "path": "sheets/reward-items.png",
+      "sha256": "5c5f58a1789538a6a15093821b553cd6c6d634fad8f509d15d5d0e97b5ca250a"
+    },
+    {
+      "path": "sheets/weekly-missions.png",
+      "sha256": "5ec648b3bb153aa60df6237c646956f6e5acf13e5887cb40ef0cdc23699ceb66"
+    },
+    {
+      "path": "sheets/welcome-back.png",
+      "sha256": "e235dfdcbb084cb13b9f1f2b6e2a9b28fe081da275407c5dbd09588e811c6ffe"
+    }
+  ]
+}
