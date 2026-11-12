@@ -1,0 +1,501 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Moonlight Cannon Evolution Board-3.png",
+      "sha256": "b0dda05cd67e28a6afa10415763dcbfe52570013855c980165dd7325fed6fe1e"
+    },
+    {
+      "path": "references/Puff Trails Cannon Collection Reference Board-1.png",
+      "sha256": "cbdc01b46e9cf864a682889ab8c86915d4f82f382b1ae0a0888bb26136cfa8a3"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/front.png": "56ec14736691707e2209131d9f7b203d609f17ae3e9ac4d8660249182338b36e",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/left.png": "650d093ac00f28562b8a66db08a56440c6e4f313abbd233ddfdaf1f08beaa692",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/right.png": "e668ed24ad27438121fc3d5493046a8786dac0058c21d741386008244ecea2d2",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-back.png": "d5d2dbb22f7c491bbc203235b40631e24f30513947a166db635cd31a293cd0a6",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/back.png": "fa57fb6b0a555e2ffa111ffd28b7006ba102b9f43450f6b0741335fe7e38bf96",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/top.png": "3b476e56bd02c3b52f6347a6774b5fd06bbd85b60dd4c785c1e8c21e3f570f3f",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/bottom.png": "458f5746d9a893fe2caae2d06ae1a556b7ad1ea75c4659a9bef72c1b1cd189be",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/effects/projectile.png": "79b08cecaabed506ca87e6c798e08ce7c622315744ac207fa85b255a7044535e",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/effects/trail.png": "7fcc1b22c19de37de76ea41f1c47639cbb439001de21744e8194f2dd308426c4",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/effects/aim-dot.png": "9a524038a273f4085125097b0624b225c6728308d0d97da388a4e45204059621",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058"
+  },
+  "records": {
+    "tier-05/views/top": {
+      "id": "tier-05/views/top",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--top.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's top angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-e732ba33-37a1-404a-beb6-ba07d829c890.png",
+      "sha256": "cc4218ec73e606e88fa79307e6e7e1fa94dd76936f8d8386c65deefef267a752"
+    },
+    "tier-02/views/right": {
+      "id": "tier-02/views/right",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--right.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's right angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-3359a17a-50b9-4454-aa50-a3bf47d2aa08.png",
+      "sha256": "a26d000f6c275af7f44d8d320745c76097b980e89c1a46aed99695b158410c82"
+    },
+    "tier-03/views/front": {
+      "id": "tier-03/views/front",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--front.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's front angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-8e1a3451-3d8f-451b-afa1-198ebff4dd7c.png",
+      "sha256": "fe4463d34e3993e228cd6c98af5f6156435ccbbfb59cf257417b3c9aacd06a4c"
+    },
+    "tier-04/views/back": {
+      "id": "tier-04/views/back",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-81c352ea-5a44-4546-bf4a-4ce9004830f0.png",
+      "sha256": "018779fb1114817db136e5cfc5697bf0e5e1ed235cbc9f4a7dcb3eeb964b7630"
+    },
+    "tier-02/views/three-quarter-back": {
+      "id": "tier-02/views/three-quarter-back",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--three-quarter-back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's three-quarter-back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-4cec5a63-859e-4099-8d09-92293c0500dc.png",
+      "sha256": "f6d3a0116b52c272ffd9d17b2f673114bbda9b2c3700b6dd25e1ffcd1609c36f"
+    },
+    "tier-02/views/three-quarter-front": {
+      "id": "tier-02/views/three-quarter-front",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--three-quarter-front.png",
+      "prompt": "Use case: identity-preserve game asset upgrade. Image 1 is the LOCKED original Moonlight Cannon identity and camera angle; image 2 is upgrade ornament reference only. Create ONE full cannon, tier 2 Lunar Curl, at exactly image 1's three-quarter-front angle. Preserve the original fluffy lavender round body, white face patch, eye shape and joyful mouth, paws, cylindrical navy purple galaxy barrel with ROUND gold muzzle rim, gold crescent forehead crest, gold curled side medallions, star pendants and base silhouette. Upgrade: Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not redesign face or convert to another cannon. Premium detailed plush fur, glossy enamel and gold consistent with image 1. No text, labels, UI, floor or scenery. Genuine transparent background, full object unclipped with generous margins, soft studio upper-left light.",
+      "description": "Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/refs/tier-02-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png",
+      "sha256": "97b59a9f24a0cab27ae3222ea38030f327b0c93e7f1e75ef796bea85a638f1e3"
+    },
+    "tier-05/views/back": {
+      "id": "tier-05/views/back",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-848d3f5d-2b17-4742-89d5-166be031c116.png",
+      "sha256": "80fa7e77288737f8b7c286f218b866ee63fbed9bb47b97274271c86f0e3e6fdd"
+    },
+    "tier-05/views/three-quarter-front": {
+      "id": "tier-05/views/three-quarter-front",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--three-quarter-front.png",
+      "prompt": "Use case: identity-preserve game asset upgrade. Image 1 is the LOCKED original Moonlight Cannon identity and camera angle; image 2 is upgrade ornament reference only. Create ONE full cannon, tier 5 Lunar Sovereign, at exactly image 1's three-quarter-front angle. Preserve the original fluffy lavender round body, white face patch, eye shape and joyful mouth, paws, cylindrical navy purple galaxy barrel with ROUND gold muzzle rim, gold crescent forehead crest, gold curled side medallions, star pendants and base silhouette. Upgrade: Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not redesign face or convert to another cannon. Premium detailed plush fur, glossy enamel and gold consistent with image 1. No text, labels, UI, floor or scenery. Genuine transparent background, full object unclipped with generous margins, soft studio upper-left light.",
+      "description": "Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/refs/tier-05-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png",
+      "sha256": "57fec90442062dfd73941bb4f1bf604c2a25edc98091c0abd790c833bee1cf07"
+    },
+    "tier-03/views/back": {
+      "id": "tier-03/views/back",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-517fe247-06ef-4eb8-8c57-f9a0fbee222e.png",
+      "sha256": "cc7f5d5f9cb098a40477645588bb4f5945859c355262b92275d880c0f05bed6a"
+    },
+    "tier-04/views/top": {
+      "id": "tier-04/views/top",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--top.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's top angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-7f96291a-2cde-407a-a219-996f8e177c4d.png",
+      "sha256": "cb7840b99c7049f563131f9b3f4cbfa53d836d0c94a044a267a0ac46328a540b"
+    },
+    "tier-02/views/bottom": {
+      "id": "tier-02/views/bottom",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--bottom.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's bottom angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-ca974dca-f7aa-4d31-b3e9-608fa38b4690.png",
+      "sha256": "baa509811715f583a5d317a1308d692421436ed2df0a0403ff890dc02250f8b0"
+    },
+    "tier-03/views/bottom": {
+      "id": "tier-03/views/bottom",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--bottom.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's bottom angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-c7cdcb80-c7d1-4127-a6f8-01d2ef933f88.png",
+      "sha256": "8327f03d2db5bef6b0485edfac8d525c8940294546006d0cace7408230d0fa4e"
+    },
+    "tier-04/views/three-quarter-back": {
+      "id": "tier-04/views/three-quarter-back",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--three-quarter-back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's three-quarter-back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-48a36878-a555-4cf1-9abc-5e4b3ff8d5e4.png",
+      "sha256": "75ea8efd58ccf26b8434fd87ed890838a51c5dbea3606028528ae19a9ddbfd0e"
+    },
+    "tier-05/views/front": {
+      "id": "tier-05/views/front",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--front.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's front angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-54dfc410-767c-49fa-8015-8be177ef7600.png",
+      "sha256": "c6397a2d689237e45b1e5e9d4a2e2802b62bfb88bda740af0d0cde23aac48560"
+    },
+    "tier-05/views/bottom": {
+      "id": "tier-05/views/bottom",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--bottom.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's bottom angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-60429bbb-bfdb-48b5-a190-6076d2164104.png",
+      "sha256": "872a23f117a8f23eeeda82ab1195cfcbb34e6673f32c3dfc5898839d8c4d72fe"
+    },
+    "tier-04/views/right": {
+      "id": "tier-04/views/right",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--right.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's right angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-81bc52cd-225e-4609-b741-eccb3593c55d.png",
+      "sha256": "6321399fa286b8ad5741eac87ec8f2a90ba6ceb7bf7e6fe930cb2ca6b2494579"
+    },
+    "tier-04/views/bottom": {
+      "id": "tier-04/views/bottom",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--bottom.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's bottom angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "UNDERSIDE view: circular dark purple base plate faces viewer, gold ring and small clouds around outer edge. No face or upright body, no side/front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-4a106fbd-f902-414e-ad16-e3ba8cdbd483.png",
+      "sha256": "8286476648e2e1c28321fcef49236ad3fd5e7ca5e206f43f6bb93d4fa58d116c"
+    },
+    "tier-02/views/back": {
+      "id": "tier-02/views/back",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict BACK view, symmetric navy moon-and-stars rear panel and cloud curls, no eyes, face or paws facing viewer.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-e41f8960-4eda-4429-963e-3ca225825bee.png",
+      "sha256": "413c3cb53b8e4d8f9e9810c457b16862c8337ac10746e32d1926a9449548832c"
+    },
+    "tier-05/views/three-quarter-back": {
+      "id": "tier-05/views/three-quarter-back",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--three-quarter-back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's three-quarter-back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-f04c736b-8942-4a25-876c-18fe126962b7.png",
+      "sha256": "8211f4b3c253f09a0c0627a2e790535d77f7bb26f7d4454622c3a54698924fe0"
+    },
+    "tier-03/views/three-quarter-front": {
+      "id": "tier-03/views/three-quarter-front",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--three-quarter-front.png",
+      "prompt": "Use case: identity-preserve game asset upgrade. Image 1 is the LOCKED original Moonlight Cannon identity and camera angle; image 2 is upgrade ornament reference only. Create ONE full cannon, tier 3 Night Bloom, at exactly image 1's three-quarter-front angle. Preserve the original fluffy lavender round body, white face patch, eye shape and joyful mouth, paws, cylindrical navy purple galaxy barrel with ROUND gold muzzle rim, gold crescent forehead crest, gold curled side medallions, star pendants and base silhouette. Upgrade: Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not redesign face or convert to another cannon. Premium detailed plush fur, glossy enamel and gold consistent with image 1. No text, labels, UI, floor or scenery. Genuine transparent background, full object unclipped with generous margins, soft studio upper-left light.",
+      "description": "Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/refs/tier-03-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png",
+      "sha256": "32e91ba6f52ebffea184a442dcc0db9c08b1981170ef599b53e06dee973c67ee"
+    },
+    "tier-04/views/front": {
+      "id": "tier-04/views/front",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--front.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's front angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-ff28f718-83d1-4732-98e8-fb438c9cb251.png",
+      "sha256": "83c26f6d45e14dfb1288e43117c5671be5def18fea8c46834709a1468d448500"
+    },
+    "tier-03/views/left": {
+      "id": "tier-03/views/left",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--left.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's left angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-39fb1173-47fa-4de6-9988-763424d2442f.png",
+      "sha256": "c49805b6bde11e56ff8847fe3bb0b7f1f96bc0984ab36946ff0dd084f6121280"
+    },
+    "tier-05/views/right": {
+      "id": "tier-05/views/right",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--right.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's right angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-87a810e5-6586-4cab-bb58-8c342eb6cdde.png",
+      "sha256": "4dfb6268b65d6c68511a08f1201393349ea6494b58307293f22932167924241a"
+    },
+    "tier-03/views/top": {
+      "id": "tier-03/views/top",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--top.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's top angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-7d4b9b89-cf17-41b7-9fe5-8706c557b77e.png",
+      "sha256": "c15422279b94ffe4773fbe927bed058a760938a5788bca90496b4e2b01a571ee"
+    },
+    "tier-02/views/left": {
+      "id": "tier-02/views/left",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--left.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's left angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-f788194e-dace-4a52-b174-68243a08d8d4.png",
+      "sha256": "80d1a35c650dbe5efc4261106bad53f01a400fc5b7193f0dbaf1f9c4b6462d71"
+    },
+    "tier-04/views/left": {
+      "id": "tier-04/views/left",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--left.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 4 approved upgraded appearance. Generate ONE tier 4 cannon at IMAGE1's left angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-dba12e96-5379-465b-bccc-ffcbd3ad397c.png",
+      "sha256": "ce989b0263fb71577cee7250132067c767c8ec9bfd365230e47e8d4844d87a55"
+    },
+    "components/crescent-crest": {
+      "id": "components/crescent-crest",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/components--crescent-crest.png",
+      "prompt": "ONE isolated glossy gold crescent moon crest matching the reference. Smooth thick polished gold crescent open toward upper-right, softly rounded 3D edge, pale gold highlights and orange-gold shaded edge. No backing plaque, no cannon, no face, no other objects. Puff Trails approved magical plush-game style. Genuine transparent alpha background, no text, labels, tile, panel or floor, centered with full margins.",
+      "description": "ONE isolated glossy gold crescent moon crest matching the reference. Smooth thick polished gold crescent open toward upper-right, softly rounded 3D edge, pale gold highlights and orange-gold shaded edge. No backing plaque, no cannon, no face, no other objects.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/refs/crescent-crest.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-6611b65a-abfb-4f40-af6a-e15dbe9d92fd.png",
+      "sha256": "e3a43de3f4b113c39b11f7211657008b34aed3737092adcf60a3d41aa89b7f84"
+    },
+    "effects/moon-orbit": {
+      "id": "effects/moon-orbit",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/effects--moon-orbit.png",
+      "prompt": "ONLY a standalone magic VFX layer: two luminous golden elliptical orbital trails tilted diagonally, tiny white/gold star sparkles and subtle lavender glow. Transparent empty center. No cannon, no moon object, no character, no solid object or background. Puff Trails approved magical plush-game style. Genuine transparent alpha background, no text, labels, tile, panel or floor, centered with full margins.",
+      "description": "ONLY a standalone magic VFX layer: two luminous golden elliptical orbital trails tilted diagonally, tiny white/gold star sparkles and subtle lavender glow. Transparent empty center. No cannon, no moon object, no character, no solid object or background.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/refs/moon-orbit.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-32f272ef-5082-492f-8456-b8ab0e907880.png",
+      "sha256": "ad4edd4dd981bdb45f26a4d89d1c9fa8724a98f41c79535707a5e9d7950cfc75"
+    },
+    "tier-02/views/top": {
+      "id": "tier-02/views/top",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--top.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's top angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "TOP view matching original image1: looking downward over cloud curls/body and circular barrel mouth, no front face, no upright front view.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-e69f99f0-fb62-400e-8a98-84a2586230ed.png",
+      "sha256": "5e6c02c450d9066816e04b7433fb1f319c11254322856105a8c5f801394d917b"
+    },
+    "tier-04/views/three-quarter-front": {
+      "id": "tier-04/views/three-quarter-front",
+      "tier": 4,
+      "name": "Starlit Herald",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-04--views--three-quarter-front.png",
+      "prompt": "Use case: identity-preserve game asset upgrade. Image 1 is the LOCKED original Moonlight Cannon identity and camera angle; image 2 is upgrade ornament reference only. Create ONE full cannon, tier 4 Starlit Herald, at exactly image 1's three-quarter-front angle. Preserve the original fluffy lavender round body, white face patch, eye shape and joyful mouth, paws, cylindrical navy purple galaxy barrel with ROUND gold muzzle rim, gold crescent forehead crest, gold curled side medallions, star pendants and base silhouette. Upgrade: Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel. Do not redesign face or convert to another cannon. Premium detailed plush fur, glossy enamel and gold consistent with image 1. No text, labels, UI, floor or scenery. Genuine transparent background, full object unclipped with generous margins, soft studio upper-left light.",
+      "description": "Add regal white/lavender feather wings with gold edges on both sides, richer midnight starfield panels, ornate gold swirls and small orbiting star details. Keep the original moon cannon face and barrel.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/refs/tier-04-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0f70b68f-2537-4de0-8099-4e2fa08e2e6f.png",
+      "sha256": "ee434bdef6cc5c4c41650bb25ccbaf1290e63ac3bd6a53218a8315aaa319799e"
+    },
+    "tier-03/views/three-quarter-back": {
+      "id": "tier-03/views/three-quarter-back",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--three-quarter-back.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's three-quarter-back angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Rear three-quarter view matching image1: broad navy moon-and-stars back, no front face visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-8d0f5613-5e36-49d0-bf91-52147f2960f8.png",
+      "sha256": "05d2ac7fdbfdb8bb995b2189e75353c74c0e78a7837816c3df9606f4467ea2be"
+    },
+    "tier-03/views/right": {
+      "id": "tier-03/views/right",
+      "tier": 3,
+      "name": "Night Bloom",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-03--views--right.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 3 approved upgraded appearance. Generate ONE tier 3 cannon at IMAGE1's right angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add a more prominent gold crescent crest, richer midnight navy starfield panels, brighter cyan crescent accents on side medallions and extra hanging small gold star charms. Small refined feather accents only, no giant wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "RIGHT SIDE profile matching original image1: cannon face points LEFT in the image; opposite side ornaments visible.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-63997661-ca94-4117-87c5-946b02f153ad.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-f6bccf75-1bd5-4a1c-b0f0-de2f2e3e52a6.png",
+      "sha256": "28faa006dadc098dbb60b2989766f72f356b97cbc3aad840c4fa0415d92b1078"
+    },
+    "tier-05/views/left": {
+      "id": "tier-05/views/left",
+      "tier": 5,
+      "name": "Lunar Sovereign",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-05--views--left.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 5 approved upgraded appearance. Generate ONE tier 5 cannon at IMAGE1's left angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Ultimate upgrade: a large luminous GOLD CRESCENT MOON rising behind the body, white-lavender wings with gold edges, elegant gold orbital halo loops, a few small prismatic crystal accents at the ornate base, bright gold/cyan magical highlights. Original face and crescent-themed round cannon remain recognizable. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "LEFT SIDE profile matching original image1: cannon face points RIGHT in the image, only profile visible; do not render three-quarter front.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-0b2841ad-f128-4958-97ac-644013d3d3c8.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-16630c73-e557-4eed-a27e-4c5a8896dee8.png",
+      "sha256": "6bf898c73556a72d3f133d6878a79fff9485fa98bc814351de69815b8239cbb8"
+    },
+    "tier-02/views/front": {
+      "id": "tier-02/views/front",
+      "tier": 2,
+      "name": "Lunar Curl",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/moonlight-cannon/renders/tier-02--views--front.png",
+      "prompt": "Identity-preserving game cannon turnaround. TWO references: IMAGE1 defines the exact camera angle and locked original Moonlight Cannon shape; IMAGE2 defines the SAME cannon's tier 2 approved upgraded appearance. Generate ONE tier 2 cannon at IMAGE1's front angle, carrying ALL upgrade details from image2 coherently around it. Camera instruction: Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered. Preserve lavender plush body, white facial patch only on front, navy moon/star panels, ROUND gold-rimmed purple galaxy muzzle, gold curled ear medallions/star pendants, original base. Keep tier ornaments from image2, including Add richer layered lavender-white cloud curls and polished gold swirl trim. Keep the original crescent crest and hanging gold star charms. Modest upgrade only, no wings or giant moon. Do not simplify or redesign original identity. Physically rotate ornaments with the body; no duplicate face on back or bottom. High quality plush fur, gold/enamel, consistent soft light, isolated transparent alpha background, no floor, shadows on a panel, text or labels. Full complete object with generous margin around wings, crescent and charm tips.",
+      "description": "Strict front-facing symmetrical orthographic view, original view1 camera. Face visible centered.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-a0c4274a-ef0a-42aa-ad21-24bdeefc96f5.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-8c889288-5508-4dd2-9398-7abe5c03fbec.png",
+      "sha256": "347765ac067f2581fd32c151ffba9c04905d8e333c2366c71b25d5baa51f1c14"
+    }
+  }
+}

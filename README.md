@@ -282,3 +282,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![cloud-sling](stages/stage-07-cannon-upgrades/v1/cloud-sling/evolution.jpg)
 <!-- cannon-upgrades-cloud-sling:end -->
+
+
+<!-- cannon-upgrades-moonlight-cannon:start -->
+### Cannon upgrades · Moonlight Cannon
+
+[Every individual asset and preview](stages/stage-07-cannon-upgrades/v1/moonlight-cannon/README.md) · 83 masters · 498 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![moonlight-cannon](stages/stage-07-cannon-upgrades/v1/moonlight-cannon/evolution.jpg)
+<!-- cannon-upgrades-moonlight-cannon:end -->
