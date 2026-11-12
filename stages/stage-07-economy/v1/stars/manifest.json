@@ -1,0 +1,2005 @@
+{
+  "pack": "stars",
+  "assets": [
+    {
+      "id": "variants/reward",
+      "master": "masters/variants/reward.png",
+      "exports": [
+        "gameplay/variants/reward-128.png",
+        "gameplay/variants/reward-128.webp",
+        "gameplay/variants/reward-256.png",
+        "gameplay/variants/reward-256.webp",
+        "gameplay/variants/reward-512.png",
+        "gameplay/variants/reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        186,
+        952,
+        838
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Plush golden five-point star with small golden jeweled crown on top and symmetrical purple wings, no face. Match Reward Star. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "539dbb80ca86972a934b9a53c61e27c3dcd4ce8a3b42e19841d8566de495604e"
+      }
+    },
+    {
+      "id": "views/top",
+      "master": "masters/views/top.png",
+      "exports": [
+        "gameplay/views/top-128.png",
+        "gameplay/views/top-128.webp",
+        "gameplay/views/top-256.png",
+        "gameplay/views/top-256.webp",
+        "gameplay/views/top-512.png",
+        "gameplay/views/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        276,
+        952,
+        747
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Reconstruct exact crop: wide horizontally foreshortened plush gold star with visible seam, no face, transparent background, preserve camera angle and silhouette.",
+        "generated_sha256": "3c32d1c47f5a95b91d36e2536ae8574eb3dba0bc1500a56b8e464ae2fbbd7ccd"
+      }
+    },
+    {
+      "id": "views/bottom",
+      "master": "masters/views/bottom.png",
+      "exports": [
+        "gameplay/views/bottom-128.png",
+        "gameplay/views/bottom-128.webp",
+        "gameplay/views/bottom-256.png",
+        "gameplay/views/bottom-256.webp",
+        "gameplay/views/bottom-512.png",
+        "gameplay/views/bottom-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        170,
+        952,
+        853
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, view from below, underside plush star with no face. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "c71cb63af4980b99130167f563dbc17b949dfbf546cd4b2907a58e0f55d0e913"
+      }
+    },
+    {
+      "id": "variants/premium",
+      "master": "masters/variants/premium.png",
+      "exports": [
+        "gameplay/variants/premium-128.png",
+        "gameplay/variants/premium-128.webp",
+        "gameplay/variants/premium-256.png",
+        "gameplay/variants/premium-256.webp",
+        "gameplay/variants/premium-512.png",
+        "gameplay/variants/premium-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        93,
+        952,
+        930
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Faceted iridescent rainbow five-point crystal star with pink rim and subtle glow. Match Premium Glow. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "95e95bc9fbb6c639b64926ed1532128455bd56f4d96467cfe449893880b9adb2"
+      }
+    },
+    {
+      "id": "views/three-quarter",
+      "master": "masters/views/three-quarter.png",
+      "exports": [
+        "gameplay/views/three-quarter-128.png",
+        "gameplay/views/three-quarter-128.webp",
+        "gameplay/views/three-quarter-256.png",
+        "gameplay/views/three-quarter-256.webp",
+        "gameplay/views/three-quarter-512.png",
+        "gameplay/views/three-quarter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        117,
+        106,
+        907,
+        917
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, 45 degree three-quarter view, cute face on front. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "95b2d2a52275fbf721dd9c5b22229170e2875b18084ab8f20f5f23e600a93e6e"
+      }
+    },
+    {
+      "id": "variants/default",
+      "master": "masters/variants/default.png",
+      "exports": [
+        "gameplay/variants/default-128.png",
+        "gameplay/variants/default-128.webp",
+        "gameplay/variants/default-256.png",
+        "gameplay/variants/default-256.webp",
+        "gameplay/variants/default-512.png",
+        "gameplay/variants/default-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        76,
+        111,
+        948,
+        913
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Faceless golden yellow plush five-point star, front facing, match Default Star core. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "f79f1f1dbcb7884bafad364341e3317b585a023affdd4f061ff8110f006e3cdd"
+      }
+    },
+    {
+      "id": "views/front",
+      "master": "masters/views/front.png",
+      "exports": [
+        "gameplay/views/front-128.png",
+        "gameplay/views/front-128.webp",
+        "gameplay/views/front-256.png",
+        "gameplay/views/front-256.webp",
+        "gameplay/views/front-512.png",
+        "gameplay/views/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        125,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, front facing, cute black eyes smiling mouth and pink cheeks. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "b9ac2a2c2578869504cb6ff5ffdf8b4e5927e6fa91afb0997dec48c74297d426"
+      }
+    },
+    {
+      "id": "views/side",
+      "master": "masters/views/side.png",
+      "exports": [
+        "gameplay/views/side-128.png",
+        "gameplay/views/side-128.webp",
+        "gameplay/views/side-256.png",
+        "gameplay/views/side-256.webp",
+        "gameplay/views/side-512.png",
+        "gameplay/views/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        342,
+        72,
+        682,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, exactly edge-on narrow profile, no front face visible. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+        "generated_sha256": "88a183215ea88b87cc2f56319d40ff5064c3da6113ec6d9f5df7d8c832ab1e1a"
+      }
+    },
+    {
+      "id": "components/empty-star",
+      "master": "masters/components/empty-star.png",
+      "exports": [
+        "gameplay/components/empty-star-128.png",
+        "gameplay/components/empty-star-128.webp",
+        "gameplay/components/empty-star-256.png",
+        "gameplay/components/empty-star-256.webp",
+        "gameplay/components/empty-star-512.png",
+        "gameplay/components/empty-star-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        85,
+        962,
+        939
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "locked/puff-trails-brand/v1/masters/icons/star-empty.png"
+      }
+    },
+    {
+      "id": "components/rating-star",
+      "master": "masters/components/rating-star.png",
+      "exports": [
+        "gameplay/components/rating-star-128.png",
+        "gameplay/components/rating-star-128.webp",
+        "gameplay/components/rating-star-256.png",
+        "gameplay/components/rating-star-256.webp",
+        "gameplay/components/rating-star-512.png",
+        "gameplay/components/rating-star-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        79,
+        962,
+        944
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      }
+    },
+    {
+      "id": "components/lock",
+      "master": "masters/components/lock.png",
+      "exports": [
+        "gameplay/components/lock-128.png",
+        "gameplay/components/lock-128.webp",
+        "gameplay/components/lock-256.png",
+        "gameplay/components/lock-256.webp",
+        "gameplay/components/lock-512.png",
+        "gameplay/components/lock-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        165,
+        82,
+        858,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-adventure-map/v1/masters/icons/lock.png"
+      }
+    },
+    {
+      "id": "components/wings",
+      "master": "masters/components/wings.png",
+      "exports": [
+        "gameplay/components/wings-128.png",
+        "gameplay/components/wings-128.webp",
+        "gameplay/components/wings-256.png",
+        "gameplay/components/wings-256.webp",
+        "gameplay/components/wings-512.png",
+        "gameplay/components/wings-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        355,
+        952,
+        668
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-07-economy/v1/coins/masters/components/white-wings.png"
+      }
+    },
+    {
+      "id": "components/counter",
+      "master": "masters/components/counter.png",
+      "exports": [
+        "gameplay/components/counter-128.png",
+        "gameplay/components/counter-128.webp",
+        "gameplay/components/counter-256.png",
+        "gameplay/components/counter-256.webp",
+        "gameplay/components/counter-512.png",
+        "gameplay/components/counter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        442,
+        942,
+        582
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/ui/purple-meter.png"
+      }
+    },
+    {
+      "id": "components/fill",
+      "master": "masters/components/fill.png",
+      "exports": [
+        "gameplay/components/fill-128.png",
+        "gameplay/components/fill-128.webp",
+        "gameplay/components/fill-256.png",
+        "gameplay/components/fill-256.webp",
+        "gameplay/components/fill-512.png",
+        "gameplay/components/fill-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        422,
+        942,
+        602
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/ui/gold-meter.png"
+      }
+    },
+    {
+      "id": "components/token",
+      "master": "masters/components/token.png",
+      "exports": [
+        "gameplay/components/token-128.png",
+        "gameplay/components/token-128.webp",
+        "gameplay/components/token-256.png",
+        "gameplay/components/token-256.webp",
+        "gameplay/components/token-512.png",
+        "gameplay/components/token-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        112,
+        106,
+        912,
+        917
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-07-economy/v1/coins/masters/views/front.png"
+      }
+    },
+    {
+      "id": "effects/highlight",
+      "master": "masters/effects/highlight.png",
+      "exports": [
+        "gameplay/effects/highlight-128.png",
+        "gameplay/effects/highlight-128.webp",
+        "gameplay/effects/highlight-256.png",
+        "gameplay/effects/highlight-256.webp",
+        "gameplay/effects/highlight-512.png",
+        "gameplay/effects/highlight-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png"
+      }
+    },
+    {
+      "id": "effects/sparkles",
+      "master": "masters/effects/sparkles.png",
+      "exports": [
+        "gameplay/effects/sparkles-128.png",
+        "gameplay/effects/sparkles-128.webp",
+        "gameplay/effects/sparkles-256.png",
+        "gameplay/effects/sparkles-256.webp",
+        "gameplay/effects/sparkles-512.png",
+        "gameplay/effects/sparkles-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        391,
+        942,
+        633
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png"
+      }
+    },
+    {
+      "id": "ratings/1-stars",
+      "master": "masters/ratings/1-stars.png",
+      "exports": [
+        "gameplay/ratings/1-stars-128.png",
+        "gameplay/ratings/1-stars-128.webp",
+        "gameplay/ratings/1-stars-256.png",
+        "gameplay/ratings/1-stars-256.webp",
+        "gameplay/ratings/1-stars-512.png",
+        "gameplay/ratings/1-stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        70,
+        378,
+        950,
+        647
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/rating-star",
+          "components/empty-star",
+          "components/empty-star"
+        ]
+      }
+    },
+    {
+      "id": "ratings/2-stars",
+      "master": "masters/ratings/2-stars.png",
+      "exports": [
+        "gameplay/ratings/2-stars-128.png",
+        "gameplay/ratings/2-stars-128.webp",
+        "gameplay/ratings/2-stars-256.png",
+        "gameplay/ratings/2-stars-256.webp",
+        "gameplay/ratings/2-stars-512.png",
+        "gameplay/ratings/2-stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        70,
+        378,
+        950,
+        647
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/rating-star",
+          "components/rating-star",
+          "components/empty-star"
+        ]
+      }
+    },
+    {
+      "id": "ratings/3-stars",
+      "master": "masters/ratings/3-stars.png",
+      "exports": [
+        "gameplay/ratings/3-stars-128.png",
+        "gameplay/ratings/3-stars-128.webp",
+        "gameplay/ratings/3-stars-256.png",
+        "gameplay/ratings/3-stars-256.webp",
+        "gameplay/ratings/3-stars-512.png",
+        "gameplay/ratings/3-stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        70,
+        378,
+        950,
+        647
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/rating-star",
+          "components/rating-star",
+          "components/rating-star"
+        ]
+      }
+    },
+    {
+      "id": "states/earned",
+      "master": "masters/states/earned.png",
+      "exports": [
+        "gameplay/states/earned-128.png",
+        "gameplay/states/earned-128.webp",
+        "gameplay/states/earned-256.png",
+        "gameplay/states/earned-256.webp",
+        "gameplay/states/earned-512.png",
+        "gameplay/states/earned-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        190,
+        862,
+        834
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "variants/default"
+        ]
+      }
+    },
+    {
+      "id": "states/highlighted",
+      "master": "masters/states/highlighted.png",
+      "exports": [
+        "gameplay/states/highlighted-128.png",
+        "gameplay/states/highlighted-128.webp",
+        "gameplay/states/highlighted-256.png",
+        "gameplay/states/highlighted-256.webp",
+        "gameplay/states/highlighted-512.png",
+        "gameplay/states/highlighted-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/highlight",
+          "variants/default"
+        ]
+      }
+    },
+    {
+      "id": "states/locked",
+      "master": "masters/states/locked.png",
+      "exports": [
+        "gameplay/states/locked-128.png",
+        "gameplay/states/locked-128.webp",
+        "gameplay/states/locked-256.png",
+        "gameplay/states/locked-256.webp",
+        "gameplay/states/locked-512.png",
+        "gameplay/states/locked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        180,
+        862,
+        843
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/empty-star",
+          "components/lock"
+        ]
+      }
+    },
+    {
+      "id": "states/empty",
+      "master": "masters/states/empty.png",
+      "exports": [
+        "gameplay/states/empty-128.png",
+        "gameplay/states/empty-128.webp",
+        "gameplay/states/empty-256.png",
+        "gameplay/states/empty-256.webp",
+        "gameplay/states/empty-512.png",
+        "gameplay/states/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        180,
+        862,
+        843
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/empty-star"
+        ]
+      }
+    },
+    {
+      "id": "states/empty-highlighted",
+      "master": "masters/states/empty-highlighted.png",
+      "exports": [
+        "gameplay/states/empty-highlighted-128.png",
+        "gameplay/states/empty-highlighted-128.webp",
+        "gameplay/states/empty-highlighted-256.png",
+        "gameplay/states/empty-highlighted-256.webp",
+        "gameplay/states/empty-highlighted-512.png",
+        "gameplay/states/empty-highlighted-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "effects/highlight",
+          "components/empty-star"
+        ]
+      }
+    },
+    {
+      "id": "ui/counter",
+      "master": "masters/ui/counter.png",
+      "exports": [
+        "gameplay/ui/counter-128.png",
+        "gameplay/ui/counter-128.webp",
+        "gameplay/ui/counter-256.png",
+        "gameplay/ui/counter-256.webp",
+        "gameplay/ui/counter-512.png",
+        "gameplay/ui/counter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        40,
+        387,
+        942,
+        637
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/counter",
+          "components/rating-star"
+        ]
+      }
+    },
+    {
+      "id": "ui/progress-bar",
+      "master": "masters/ui/progress-bar.png",
+      "exports": [
+        "gameplay/ui/progress-bar-128.png",
+        "gameplay/ui/progress-bar-128.webp",
+        "gameplay/ui/progress-bar-256.png",
+        "gameplay/ui/progress-bar-256.webp",
+        "gameplay/ui/progress-bar-512.png",
+        "gameplay/ui/progress-bar-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        40,
+        387,
+        942,
+        637
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/counter",
+          "components/fill",
+          "components/rating-star"
+        ]
+      }
+    },
+    {
+      "id": "ui/achievement-badge",
+      "master": "masters/ui/achievement-badge.png",
+      "exports": [
+        "gameplay/ui/achievement-badge-128.png",
+        "gameplay/ui/achievement-badge-128.webp",
+        "gameplay/ui/achievement-badge-256.png",
+        "gameplay/ui/achievement-badge-256.webp",
+        "gameplay/ui/achievement-badge-512.png",
+        "gameplay/ui/achievement-badge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        262,
+        952,
+        761
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Composition",
+        "components": [
+          "components/wings",
+          "components/rating-star"
+        ]
+      }
+    },
+    {
+      "id": "ui/star-token",
+      "master": "masters/ui/star-token.png",
+      "exports": [
+        "gameplay/ui/star-token-128.png",
+        "gameplay/ui/star-token-128.webp",
+        "gameplay/ui/star-token-256.png",
+        "gameplay/ui/star-token-256.webp",
+        "gameplay/ui/star-token-512.png",
+        "gameplay/ui/star-token-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        112,
+        106,
+        912,
+        917
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Reused coin token within pack",
+        "source_asset": "components/token"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f508c2d1683421364175eb18127d5936900f7c3e8ee572d4b23de9e153974ce5",
+      "bytes": 4393
+    },
+    {
+      "path": "gameplay/components/counter-128.png",
+      "sha256": "47c38279a7c068e91b48b1450a3c3c5a3e6b1619d1829ded1bd3c511b050835a",
+      "bytes": 3909
+    },
+    {
+      "path": "gameplay/components/counter-128.webp",
+      "sha256": "56403db8e6f3d4926b596d9e1aa6937888d491e78e2df7ef5a7dc04e861d378e",
+      "bytes": 3116
+    },
+    {
+      "path": "gameplay/components/counter-256.png",
+      "sha256": "99eb96a18fe986d80672ae56b3cce4ac01aece43c79a6d7e961bfe0207efcf9b",
+      "bytes": 12835
+    },
+    {
+      "path": "gameplay/components/counter-256.webp",
+      "sha256": "563ccf29e76659743249cafdb5b8a563325fbdef18bd8a583c538a1fcb6dcc09",
+      "bytes": 9098
+    },
+    {
+      "path": "gameplay/components/counter-512.png",
+      "sha256": "25a15c13a80d7c4404672b07e6829838cb8d9d16bef390a72b701bf5422e1a72",
+      "bytes": 41857
+    },
+    {
+      "path": "gameplay/components/counter-512.webp",
+      "sha256": "92a176bf21c38d9727cda7a31678e63d2933b3bef883644c63708b2a48ba8f47",
+      "bytes": 27510
+    },
+    {
+      "path": "gameplay/components/empty-star-128.png",
+      "sha256": "170f04ffdff6d1cc57042f88b5c9f085248259eed7f8e07fb9d439b869b64516",
+      "bytes": 17104
+    },
+    {
+      "path": "gameplay/components/empty-star-128.webp",
+      "sha256": "49e370676898a4cbaf37da593ace3db2fb240c76418a7671fd3d638cfee6a1df",
+      "bytes": 11968
+    },
+    {
+      "path": "gameplay/components/empty-star-256.png",
+      "sha256": "c97dcdc32cf25e9698354630bb38cb28c5eff5b26628bc20d0a8a23f540e3c89",
+      "bytes": 52037
+    },
+    {
+      "path": "gameplay/components/empty-star-256.webp",
+      "sha256": "8e4f2e7c3503d8c081bd6d75a2aab40d37597249e0d45d810590fbac7379d711",
+      "bytes": 33804
+    },
+    {
+      "path": "gameplay/components/empty-star-512.png",
+      "sha256": "1ec093f300ea80ec98a7153122536fb43e5960865601428b72c2b923c75caab4",
+      "bytes": 177030
+    },
+    {
+      "path": "gameplay/components/empty-star-512.webp",
+      "sha256": "b64c8010fa1fed801a4c8ebe50afda89ef76cf6629b3285738e48b928a2fbfab",
+      "bytes": 114162
+    },
+    {
+      "path": "gameplay/components/fill-128.png",
+      "sha256": "ae16868e9d91baa535838826a302bb4040e87a89a51d4a074c072e38e221380a",
+      "bytes": 5526
+    },
+    {
+      "path": "gameplay/components/fill-128.webp",
+      "sha256": "3463a180b742a269e5221c3b5ab56a54c40c0586dfa2d46fa2ca6a88857601c8",
+      "bytes": 4404
+    },
+    {
+      "path": "gameplay/components/fill-256.png",
+      "sha256": "534037cfc173e815279fe777aa34c51125988336b6b89ac32146f7c200ac7358",
+      "bytes": 17335
+    },
+    {
+      "path": "gameplay/components/fill-256.webp",
+      "sha256": "be22605014ec451eaf7e96d60950e4e5e6b4f484fa1d35e4e5d22d1788f7fe48",
+      "bytes": 12998
+    },
+    {
+      "path": "gameplay/components/fill-512.png",
+      "sha256": "f9bc73a04c0ae893904786b17745ba75e941e2a2c7a55bd6caa5a1b74278f653",
+      "bytes": 55871
+    },
+    {
+      "path": "gameplay/components/fill-512.webp",
+      "sha256": "7444c8ac2c4271917b982d02590458c2123fff2788725c724755ce97dfcc3a60",
+      "bytes": 39376
+    },
+    {
+      "path": "gameplay/components/lock-128.png",
+      "sha256": "4a7c92c38757bad67327c9b4f6b2a5406c3d623ca3110df6b243f6bcfa95eccf",
+      "bytes": 17205
+    },
+    {
+      "path": "gameplay/components/lock-128.webp",
+      "sha256": "87cb0bfa64ee6c19434a00930abe2b4175389c0e60762f73fd9373f0a2174c8d",
+      "bytes": 13026
+    },
+    {
+      "path": "gameplay/components/lock-256.png",
+      "sha256": "e5a9246a272491f880762cb5fdd043ebe5e8bad1d717e55b9e3c232bc5f2abc4",
+      "bytes": 51242
+    },
+    {
+      "path": "gameplay/components/lock-256.webp",
+      "sha256": "0f0237014f48c13c1e12bb6ad85eda604f0d41d4329a04b888da5406ce9a52f2",
+      "bytes": 36244
+    },
+    {
+      "path": "gameplay/components/lock-512.png",
+      "sha256": "a6e6a8346ad6dbb9319ffea809548c80213f27f5e10cbcccf1d8931b2ae2f4ea",
+      "bytes": 171598
+    },
+    {
+      "path": "gameplay/components/lock-512.webp",
+      "sha256": "0b926f5da28dc90be74827f0fd237e11469104aeaf04e0e71ac836d5e4ce3713",
+      "bytes": 114550
+    },
+    {
+      "path": "gameplay/components/rating-star-128.png",
+      "sha256": "38e3b56ec0ef1adfc6f500880ee46711c7116d3f3162ab100783e7e4b51fbf5b",
+      "bytes": 16010
+    },
+    {
+      "path": "gameplay/components/rating-star-128.webp",
+      "sha256": "4a98f3014e6e2fd651619e755b67b02f7f0723eb3eb96a36a5c87c65d4a57675",
+      "bytes": 11532
+    },
+    {
+      "path": "gameplay/components/rating-star-256.png",
+      "sha256": "4ad951698c6b098ebbe1dd633e99fe3dcd7116d8d2e1451bff35f4df058b245b",
+      "bytes": 49709
+    },
+    {
+      "path": "gameplay/components/rating-star-256.webp",
+      "sha256": "a95bc2a2ebf83e1aeff0a9bd4ab40a443d9600ba9bf3f1b6ca3e39acdad8c67f",
+      "bytes": 32628
+    },
+    {
+      "path": "gameplay/components/rating-star-512.png",
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736",
+      "bytes": 169778
+    },
+    {
+      "path": "gameplay/components/rating-star-512.webp",
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e",
+      "bytes": 107632
+    },
+    {
+      "path": "gameplay/components/token-128.png",
+      "sha256": "b5d0cc0ea38630849fb59c04f95aa4c3867a5b8c20197a669e608389b9fae380",
+      "bytes": 19883
+    },
+    {
+      "path": "gameplay/components/token-128.webp",
+      "sha256": "9cb40178eef5177125cf5c5f91d1dd0a4f5b7097a9203223ac33b28e4005fa57",
+      "bytes": 15406
+    },
+    {
+      "path": "gameplay/components/token-256.png",
+      "sha256": "2056ef76ca9e6161409e329a338a5d7f150dfdfa5ebd79ceda4d01028f2bede3",
+      "bytes": 63745
+    },
+    {
+      "path": "gameplay/components/token-256.webp",
+      "sha256": "f1200b2f93630ef1a461e04ab2592d5160c16d87d762d6bf1244169442291d8b",
+      "bytes": 45452
+    },
+    {
+      "path": "gameplay/components/token-512.png",
+      "sha256": "7e471586e0f578e0da90a3ae2fac341082fab2748861c9de4aef0640f7c1fd20",
+      "bytes": 225380
+    },
+    {
+      "path": "gameplay/components/token-512.webp",
+      "sha256": "7bc5300433980d783bd3eee56c088152b70d82e35b7b336c2d7cc10ed53a8ff1",
+      "bytes": 159026
+    },
+    {
+      "path": "gameplay/components/wings-128.png",
+      "sha256": "e75e0149252ac82574546afba02d05e4762ee1dd63312b93ed745b4a9f00977f",
+      "bytes": 8759
+    },
+    {
+      "path": "gameplay/components/wings-128.webp",
+      "sha256": "87336008db9f663fcbd6a0f051deb13d3bdc302aa1d48682c0cdb9879ec3c38e",
+      "bytes": 7434
+    },
+    {
+      "path": "gameplay/components/wings-256.png",
+      "sha256": "87b9e9070540f1c585da8db26b4a96a4ee535cee9e43c54da189a3a0b56b8e52",
+      "bytes": 27225
+    },
+    {
+      "path": "gameplay/components/wings-256.webp",
+      "sha256": "7c4c237b3e2f6ab129c7c4adfa2670cf6a1ad06686c703fdd78a91474bed59fa",
+      "bytes": 20902
+    },
+    {
+      "path": "gameplay/components/wings-512.png",
+      "sha256": "59124c1736824c2cc2109a6581120000f9addc1498b10bdb519f4c9ee8338e7d",
+      "bytes": 89347
+    },
+    {
+      "path": "gameplay/components/wings-512.webp",
+      "sha256": "38de87928e275792f8409c3f1ff62b0a4958ffbd6af68257fcc27991fc30cbde",
+      "bytes": 66332
+    },
+    {
+      "path": "gameplay/effects/highlight-128.png",
+      "sha256": "805872f2ad6fcb2a33dd6bfc5a78438168b0344a9def6ccc89fc29b035c39f96",
+      "bytes": 16370
+    },
+    {
+      "path": "gameplay/effects/highlight-128.webp",
+      "sha256": "8d7a86ec771f76af34ede9bf836519b0690079cbc08b7def43fcbf2d97cfd319",
+      "bytes": 14422
+    },
+    {
+      "path": "gameplay/effects/highlight-256.png",
+      "sha256": "200764bcb55151402a59d93734367a6821a6d0231292b177b626b4f1ccb3ac87",
+      "bytes": 55632
+    },
+    {
+      "path": "gameplay/effects/highlight-256.webp",
+      "sha256": "0efbe56296a93f91c5ad444114f8add825107d46bb445851fc5a7f59ad232e08",
+      "bytes": 44794
+    },
+    {
+      "path": "gameplay/effects/highlight-512.png",
+      "sha256": "126f70ef995334a65217c9585954608efe1cf1e1110464c2b45a73711d0d6895",
+      "bytes": 196475
+    },
+    {
+      "path": "gameplay/effects/highlight-512.webp",
+      "sha256": "77adb87379730e2ba3432c8cb99dca264f46ff1e354946c1aa384ebe131eb04d",
+      "bytes": 149178
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.png",
+      "sha256": "99c7ade8686ae647c72ba8ccf89944bc7e359c254d861b30b4bf258ba5b224de",
+      "bytes": 7735
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.webp",
+      "sha256": "94069650f8f3c50d70045271ac7501121deafaff9e96e4c03588d14daee6a51c",
+      "bytes": 6550
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.png",
+      "sha256": "521a8e4c3c8c466c5b6426f0421770ec9283ba0bf343d717aa23c92e2faa1878",
+      "bytes": 25736
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.webp",
+      "sha256": "d2252ad9020db5e52e7fbf61a4e74a79a904c6617ac266a1bc6c8f9201d7d018",
+      "bytes": 22586
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.png",
+      "sha256": "f8d4042b5b041fe02f160936bc07101c764ecbe30b1cfbec1b8a371877f51a92",
+      "bytes": 87717
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.webp",
+      "sha256": "7991ce5a0f57a158970784b92213789317b3c7aff03ccc1f086f746e92872864",
+      "bytes": 74306
+    },
+    {
+      "path": "gameplay/ratings/1-stars-128.png",
+      "sha256": "dbd3870560ab1ec8d3872ffc6be267bc22abc6e18b1d9fe5a4c06eaa10d60f1d",
+      "bytes": 8357
+    },
+    {
+      "path": "gameplay/ratings/1-stars-128.webp",
+      "sha256": "8f6525ab45a1ca22c4efe4a3092dcae9be36ffc2148e565acce7cdbb58b0b73b",
+      "bytes": 7014
+    },
+    {
+      "path": "gameplay/ratings/1-stars-256.png",
+      "sha256": "e5101048ac97dbe1b3e04efab198a254dc4af611b65e27515520a5fa1fd4f4c3",
+      "bytes": 17091
+    },
+    {
+      "path": "gameplay/ratings/1-stars-256.webp",
+      "sha256": "6aaf7f112b9373e1029f7cc609a6cbeca5f851bbba74ae63f45b4becde581822",
+      "bytes": 17114
+    },
+    {
+      "path": "gameplay/ratings/1-stars-512.png",
+      "sha256": "17d36e880738f12593a73f1528df2d39951a8d2d26136947164e902878f3ee72",
+      "bytes": 52588
+    },
+    {
+      "path": "gameplay/ratings/1-stars-512.webp",
+      "sha256": "87fae73b2d764aa9fc62ebece8b49b3fbcdf6c1c70bfa459b5726e91a05eb357",
+      "bytes": 47604
+    },
+    {
+      "path": "gameplay/ratings/2-stars-128.png",
+      "sha256": "4a37eac9b0bf556e67e5c1cccb6d6e1810ddba42ca9c0ef5ba7ef52eab715848",
+      "bytes": 8008
+    },
+    {
+      "path": "gameplay/ratings/2-stars-128.webp",
+      "sha256": "dce7f43dbc563766194a0d4bf51bdea0755610aa46fd74205edb711055d63552",
+      "bytes": 6754
+    },
+    {
+      "path": "gameplay/ratings/2-stars-256.png",
+      "sha256": "a86bcaef9895f0511a1222c435c5b7064c9dca5e6efe614657f4b8403e3dec93",
+      "bytes": 17108
+    },
+    {
+      "path": "gameplay/ratings/2-stars-256.webp",
+      "sha256": "e496ba21933dc8ef1651ed64ef9ef688541850b53580317a2ae1d795916998c3",
+      "bytes": 15076
+    },
+    {
+      "path": "gameplay/ratings/2-stars-512.png",
+      "sha256": "070237f4439ad6ab4fca857aab1aa4e781aec9630e9cca898658b4a06cd81fc2",
+      "bytes": 52553
+    },
+    {
+      "path": "gameplay/ratings/2-stars-512.webp",
+      "sha256": "4f583099cba7b37132a4af73cfe65fe54867dc0721f4977e088bce65759a4b2e",
+      "bytes": 43332
+    },
+    {
+      "path": "gameplay/ratings/3-stars-128.png",
+      "sha256": "6c0418321f03fb9ad10db7c0bd132959d8465b9d6c94f587b31f3b8c4b4a5fde",
+      "bytes": 5442
+    },
+    {
+      "path": "gameplay/ratings/3-stars-128.webp",
+      "sha256": "3a33cf1427fdc7aa83b7f675b4611bc766403225b5bf1b01982817e36a677470",
+      "bytes": 4362
+    },
+    {
+      "path": "gameplay/ratings/3-stars-256.png",
+      "sha256": "ca75e2e6f5457b671cb9864dfa81217b2427deed9aafe7b83138d9fe298764d7",
+      "bytes": 8949
+    },
+    {
+      "path": "gameplay/ratings/3-stars-256.webp",
+      "sha256": "74ecd89e16c3cd09cb39caa8d107711ca367baa38f9c15dd958e8c08f8293528",
+      "bytes": 11272
+    },
+    {
+      "path": "gameplay/ratings/3-stars-512.png",
+      "sha256": "ddbf179e3e8c1840c119ad785b7e398f8c5a504143756e93a981c5b247133ca4",
+      "bytes": 28569
+    },
+    {
+      "path": "gameplay/ratings/3-stars-512.webp",
+      "sha256": "a46bd5fd5642d0fccda9c5dbf3d5ac32b18ddb081fac2d593275f516461ec3a1",
+      "bytes": 32454
+    },
+    {
+      "path": "gameplay/states/earned-128.png",
+      "sha256": "642d1090c0264a572155d77f7d096d106866548c40de1d10167c98c557dcc326",
+      "bytes": 12229
+    },
+    {
+      "path": "gameplay/states/earned-128.webp",
+      "sha256": "fbb22c5d4f7c0d4fd434ec57b7bd9ae7fdec1cd450699e989ebc2cb8455d2c06",
+      "bytes": 9298
+    },
+    {
+      "path": "gameplay/states/earned-256.png",
+      "sha256": "d83772fa7a86c71ad83bd5832637fbbca2bf0e61cf7ed8ecaf31e380eb216450",
+      "bytes": 41914
+    },
+    {
+      "path": "gameplay/states/earned-256.webp",
+      "sha256": "edf77958540429b7cde52a5c6c6048b0708ecf39ec66857df70c890668d96733",
+      "bytes": 29132
+    },
+    {
+      "path": "gameplay/states/earned-512.png",
+      "sha256": "fa2b96d1d38ccb3b5dedfb2653c0ebf551713fae448e98eedc2b3228a126021b",
+      "bytes": 152687
+    },
+    {
+      "path": "gameplay/states/earned-512.webp",
+      "sha256": "6116416444ee5ec9a86ee8efa240725628a4cb77f6940cceb2eef604ad81862c",
+      "bytes": 106534
+    },
+    {
+      "path": "gameplay/states/empty-128.png",
+      "sha256": "9225816f4eb3b0158a7000e94d4ffbf158f4c2ca3fd4048c7fb1390032af3c45",
+      "bytes": 11870
+    },
+    {
+      "path": "gameplay/states/empty-128.webp",
+      "sha256": "6dda786b03a1a6046abab4afd1880f3ba4e368a36cbb8559eafea13df0bcefa5",
+      "bytes": 8318
+    },
+    {
+      "path": "gameplay/states/empty-256.png",
+      "sha256": "1ac42aaa8ac4ff98724dd73e0ddf5609ce218f5c03a02ca46ded65b645eec0bb",
+      "bytes": 35425
+    },
+    {
+      "path": "gameplay/states/empty-256.webp",
+      "sha256": "8a030754ed6e11308a0610bc2bb7f443c0ec44c5966df4252ecde696e0fc6c23",
+      "bytes": 23016
+    },
+    {
+      "path": "gameplay/states/empty-512.png",
+      "sha256": "45db4171fe6c30bc48bdad2d63e06de21624a4ddfa5052718db330296f49353a",
+      "bytes": 116560
+    },
+    {
+      "path": "gameplay/states/empty-512.webp",
+      "sha256": "6dee797ac33ffcb98b103acc30e082c6e5bcb919068d95a582257519187fa3bf",
+      "bytes": 74330
+    },
+    {
+      "path": "gameplay/states/empty-highlighted-128.png",
+      "sha256": "6f67d50bcf6e089f5cc28af6c11e9c713ad83eba025cf1d222cb9da0377a2041",
+      "bytes": 20038
+    },
+    {
+      "path": "gameplay/states/empty-highlighted-128.webp",
+      "sha256": "8eaf92ba64678c31e791f0824fa2a55de4a730bad038815069f5fc755fb3968f",
+      "bytes": 16074
+    },
+    {
+      "path": "gameplay/states/empty-highlighted-256.png",
+      "sha256": "8abdcc5c733c6e8ae71b62aef4096dc15611cfd3c443efcecd144c161b947bdb",
+      "bytes": 67327
+    },
+    {
+      "path": "gameplay/states/empty-highlighted-256.webp",
+      "sha256": "33eebdf2a572db0ab879ce7109785e273c9ccba5d4c8278babbe429fbd54f93f",
+      "bytes": 48746
+    },
+    {
+      "path": "gameplay/states/empty-highlighted-512.png",
+      "sha256": "81f963c136c49dec28e848bd61e00df838927a3151e0f63c1bbd37bf184c5236",
+      "bytes": 236277
+    },
+    {
+      "path": "gameplay/states/empty-highlighted-512.webp",
+      "sha256": "c58743fba217c05ec8c6c2237a1f2a02d447f786f17a8f168b57d9740aba4dc2",
+      "bytes": 164564
+    },
+    {
+      "path": "gameplay/states/highlighted-128.png",
+      "sha256": "eb80d834a44440fc1bbdd0ee801d5f642bea744b73b323860352f7af08e3cd57",
+      "bytes": 21621
+    },
+    {
+      "path": "gameplay/states/highlighted-128.webp",
+      "sha256": "cf6eb1e3ccde326adeb86e1e2ebcd348365eb17b1f3f9404c1f74e7ae4936d37",
+      "bytes": 17262
+    },
+    {
+      "path": "gameplay/states/highlighted-256.png",
+      "sha256": "fef336352be2ea416002510dc4686e82301db301fc80a7ed8518523a442ce3d1",
+      "bytes": 75757
+    },
+    {
+      "path": "gameplay/states/highlighted-256.webp",
+      "sha256": "91f3774be4757a1f5bf069785c4bc4b6f575a4f2fd225757db8c2447575c54ee",
+      "bytes": 56828
+    },
+    {
+      "path": "gameplay/states/highlighted-512.png",
+      "sha256": "2c770ab2750eb2266bbe76e35367abc9e7e3db506d74def1d2e55780f25befb9",
+      "bytes": 275587
+    },
+    {
+      "path": "gameplay/states/highlighted-512.webp",
+      "sha256": "64b5ec6bd5fc2475cafb69dad3035b95f7eb6b972c530c958629489109515bf0",
+      "bytes": 201810
+    },
+    {
+      "path": "gameplay/states/locked-128.png",
+      "sha256": "a4454c70cccc95ca44ace878a4588ee72979fc3ade13524ea25ba6d300e7b2cd",
+      "bytes": 13197
+    },
+    {
+      "path": "gameplay/states/locked-128.webp",
+      "sha256": "ef0006855cab76190eb670c38d2fee548c9c8fc5c7126b60c44146cc8aff1766",
+      "bytes": 9736
+    },
+    {
+      "path": "gameplay/states/locked-256.png",
+      "sha256": "941c8f82d4409a9db7c44db2a83438f32d45b74bbf49b814e9c3d92876126829",
+      "bytes": 39461
+    },
+    {
+      "path": "gameplay/states/locked-256.webp",
+      "sha256": "e003af296db4c55014c1f98781c26508ceaae85d43828281044d751f67966eb2",
+      "bytes": 26586
+    },
+    {
+      "path": "gameplay/states/locked-512.png",
+      "sha256": "f409cce231ec49ac256f28051e998754ac14b43683db6d0857be33c98ee7d2f0",
+      "bytes": 127127
+    },
+    {
+      "path": "gameplay/states/locked-512.webp",
+      "sha256": "cb82125c7eacfd44fa6b9b5ad98f76b729db18e5520db9ae5939046f0004d194",
+      "bytes": 83560
+    },
+    {
+      "path": "gameplay/ui/achievement-badge-128.png",
+      "sha256": "59b264b30bd96b9b479c2fac2f8821b41ea02d8927dccf1e4f5c0f19c9d5acc5",
+      "bytes": 12003
+    },
+    {
+      "path": "gameplay/ui/achievement-badge-128.webp",
+      "sha256": "cbe10a6677934bfaa8a52e909cfcd1004cb4b1cde233215e4744df5f93b91a48",
+      "bytes": 9516
+    },
+    {
+      "path": "gameplay/ui/achievement-badge-256.png",
+      "sha256": "6efa126292cda5befa554f682c746947b8e3071ed5e2b3d7f96f1473283c712b",
+      "bytes": 37236
+    },
+    {
+      "path": "gameplay/ui/achievement-badge-256.webp",
+      "sha256": "9c0ecfd739f4796d2a325a49738766e6f7babe5628e93895edace3cb55ab5bc6",
+      "bytes": 26956
+    },
+    {
+      "path": "gameplay/ui/achievement-badge-512.png",
+      "sha256": "b0d205329c5a49b31d9e055870094cab41a984760abd866aec506e09d65a89fa",
+      "bytes": 123548
+    },
+    {
+      "path": "gameplay/ui/achievement-badge-512.webp",
+      "sha256": "13b2a7edc44429ef98b7067464cf61ed1cb7381a77a353876cd1eecc002da36e",
+      "bytes": 83998
+    },
+    {
+      "path": "gameplay/ui/counter-128.png",
+      "sha256": "19f93c357b728d73a21aae52be635215413b074755bc9278621a7d6bd3330a4e",
+      "bytes": 5214
+    },
+    {
+      "path": "gameplay/ui/counter-128.webp",
+      "sha256": "8d27eb4fbf55fb6f89c153da4fb08eebba5ba3423e69cc8ae5b363b611b57f9c",
+      "bytes": 4226
+    },
+    {
+      "path": "gameplay/ui/counter-256.png",
+      "sha256": "a0d9388f30b4bee6a52b603cd65d060b8d27a52f52eaa66acf4d3e77488b5813",
+      "bytes": 16511
+    },
+    {
+      "path": "gameplay/ui/counter-256.webp",
+      "sha256": "fe9f97c8861343f9eb9e8d4ba405aacbd8eed4445d07f2f2ee79b94fe057607e",
+      "bytes": 11858
+    },
+    {
+      "path": "gameplay/ui/counter-512.png",
+      "sha256": "4b4035e5f39396feacd1da97b70ff76cb76330ac0f568481287bbb5d69f75966",
+      "bytes": 52357
+    },
+    {
+      "path": "gameplay/ui/counter-512.webp",
+      "sha256": "7824fea439af26769d580608617635ea57869488b534638cdb42603731afae33",
+      "bytes": 35746
+    },
+    {
+      "path": "gameplay/ui/progress-bar-128.png",
+      "sha256": "e43a4c5e4e44b0809990c853b3c40e6d3427e7d1ebce36ca12d43e3d92ff8951",
+      "bytes": 5458
+    },
+    {
+      "path": "gameplay/ui/progress-bar-128.webp",
+      "sha256": "d9fd16ac97f2b357dc5874e4c6d1b3e6587ba5c55365734f5bce25c3809bdd6e",
+      "bytes": 4532
+    },
+    {
+      "path": "gameplay/ui/progress-bar-256.png",
+      "sha256": "9333930487fb5937766d0b086e94ae396814a616ae2849c13f42d79d21c5820c",
+      "bytes": 17433
+    },
+    {
+      "path": "gameplay/ui/progress-bar-256.webp",
+      "sha256": "a8c2aba20bd98d53192837208616d3b275caa73c35b3638b259f5321a4707d3d",
+      "bytes": 13246
+    },
+    {
+      "path": "gameplay/ui/progress-bar-512.png",
+      "sha256": "8e12b23180cfaadf3e9240c8a8b563c646d070de9073f314faddf95c216284d5",
+      "bytes": 55394
+    },
+    {
+      "path": "gameplay/ui/progress-bar-512.webp",
+      "sha256": "9d06fd605c5bfee2a05403bd241f48c5db059dc45d1fea59560c442a25cd578f",
+      "bytes": 38706
+    },
+    {
+      "path": "gameplay/ui/star-token-128.png",
+      "sha256": "b5d0cc0ea38630849fb59c04f95aa4c3867a5b8c20197a669e608389b9fae380",
+      "bytes": 19883
+    },
+    {
+      "path": "gameplay/ui/star-token-128.webp",
+      "sha256": "9cb40178eef5177125cf5c5f91d1dd0a4f5b7097a9203223ac33b28e4005fa57",
+      "bytes": 15406
+    },
+    {
+      "path": "gameplay/ui/star-token-256.png",
+      "sha256": "2056ef76ca9e6161409e329a338a5d7f150dfdfa5ebd79ceda4d01028f2bede3",
+      "bytes": 63745
+    },
+    {
+      "path": "gameplay/ui/star-token-256.webp",
+      "sha256": "f1200b2f93630ef1a461e04ab2592d5160c16d87d762d6bf1244169442291d8b",
+      "bytes": 45452
+    },
+    {
+      "path": "gameplay/ui/star-token-512.png",
+      "sha256": "7e471586e0f578e0da90a3ae2fac341082fab2748861c9de4aef0640f7c1fd20",
+      "bytes": 225380
+    },
+    {
+      "path": "gameplay/ui/star-token-512.webp",
+      "sha256": "7bc5300433980d783bd3eee56c088152b70d82e35b7b336c2d7cc10ed53a8ff1",
+      "bytes": 159026
+    },
+    {
+      "path": "gameplay/variants/default-128.png",
+      "sha256": "4bc3405d5e3abf0185d0124419459359339fbd7b71529a0140f2a169def13b99",
+      "bytes": 17710
+    },
+    {
+      "path": "gameplay/variants/default-128.webp",
+      "sha256": "f68ad1693a0bbedbcc7fc53db09b86f2d75f8cbbc188e1c832f41d0ba3c0a420",
+      "bytes": 13286
+    },
+    {
+      "path": "gameplay/variants/default-256.png",
+      "sha256": "adaf2a13ed2907206a32b66979bb69298ad28099969bf89e7a09ac25a74fc430",
+      "bytes": 60840
+    },
+    {
+      "path": "gameplay/variants/default-256.webp",
+      "sha256": "2af1bb1d9606b78f59a2a11961cbe015c3bef0bdc6b56ad485efcdf040728d36",
+      "bytes": 42844
+    },
+    {
+      "path": "gameplay/variants/default-512.png",
+      "sha256": "ce400496dc5a48ce9c7988b747d375f5448dc126bc48233e25bd6271995089bc",
+      "bytes": 224522
+    },
+    {
+      "path": "gameplay/variants/default-512.webp",
+      "sha256": "bb6e779afe22a6855ad5c8fcf2bdcb2599550a4c3b4e1cb733eee26251785dd7",
+      "bytes": 158666
+    },
+    {
+      "path": "gameplay/variants/premium-128.png",
+      "sha256": "420c1866759fdf7df3af9edc5b52c705c487bf1fdd7bb0799661f344d18c5941",
+      "bytes": 24349
+    },
+    {
+      "path": "gameplay/variants/premium-128.webp",
+      "sha256": "0ef7c142550c338f2fd7c1af02050d9ded7ed7740f6df971a430e7db94a03a9f",
+      "bytes": 19944
+    },
+    {
+      "path": "gameplay/variants/premium-256.png",
+      "sha256": "49257649b5c6443f7f28a688a532f7a7e466faa4414e2759092a2aa8630ff4bd",
+      "bytes": 83783
+    },
+    {
+      "path": "gameplay/variants/premium-256.webp",
+      "sha256": "b193c884a54d47d99c94888ebc0cba8b176e8b64016a41e2ffc2f88303824761",
+      "bytes": 62910
+    },
+    {
+      "path": "gameplay/variants/premium-512.png",
+      "sha256": "8f480c6c3c7253947f49c9c507465c4d662e599caa6667f33fa139372ba4e89a",
+      "bytes": 291041
+    },
+    {
+      "path": "gameplay/variants/premium-512.webp",
+      "sha256": "dcc36742b2a9b269c24b1d8e10847a917b7940440c00affbefce45e136377b80",
+      "bytes": 209162
+    },
+    {
+      "path": "gameplay/variants/reward-128.png",
+      "sha256": "45f4bb09ab253c6ef3b4f4a9ae9b424942940d163251f88cd723b0a597f83ef0",
+      "bytes": 15259
+    },
+    {
+      "path": "gameplay/variants/reward-128.webp",
+      "sha256": "4f8263ff339aecee553adf7566c0f52784bb1cf014bae08c0cd21898599c876b",
+      "bytes": 12380
+    },
+    {
+      "path": "gameplay/variants/reward-256.png",
+      "sha256": "909b2c80b47b76a99161eeccc229972ee819865f6c7a5ee42d545ef595832b67",
+      "bytes": 50452
+    },
+    {
+      "path": "gameplay/variants/reward-256.webp",
+      "sha256": "ba14e7d674130bea4244ba222439e36698bc5cc014ad1ee615d2d2f1abb963f5",
+      "bytes": 37408
+    },
+    {
+      "path": "gameplay/variants/reward-512.png",
+      "sha256": "c0a9f92e1ec85fa04c8ab8dae8b74496dd663c5bf228b75160c509276e317798",
+      "bytes": 177066
+    },
+    {
+      "path": "gameplay/variants/reward-512.webp",
+      "sha256": "e5bc6859cb6242de13434e745af82fc0068dc625773b26193c3f313e9440925f",
+      "bytes": 126650
+    },
+    {
+      "path": "gameplay/views/bottom-128.png",
+      "sha256": "127972c75d93c5ee89e01dbd4e329f5962d3d3701996e4cd1c027495da0b48c0",
+      "bytes": 15484
+    },
+    {
+      "path": "gameplay/views/bottom-128.webp",
+      "sha256": "b652d911148f89d0477e44533481a562e35931d5f53082b2a28231406ed4bc12",
+      "bytes": 11840
+    },
+    {
+      "path": "gameplay/views/bottom-256.png",
+      "sha256": "2908732c23b1b971ecedb40eac48c4c0fa91a646740b6a558879edf91cea0451",
+      "bytes": 52600
+    },
+    {
+      "path": "gameplay/views/bottom-256.webp",
+      "sha256": "e9872245f3b3bdaf85701be4233b7cee287a6de2f52679e02d592deb620b4bec",
+      "bytes": 37942
+    },
+    {
+      "path": "gameplay/views/bottom-512.png",
+      "sha256": "6d50045044674893d0dc03b7731237967c766dc4beec67156b41c002e774d70b",
+      "bytes": 193310
+    },
+    {
+      "path": "gameplay/views/bottom-512.webp",
+      "sha256": "0b0a09de7e90ccf5078475b81af993d818c14f52ef4e4c9c6d7e4a01cf54b88b",
+      "bytes": 137748
+    },
+    {
+      "path": "gameplay/views/front-128.png",
+      "sha256": "8ad6a467964238bc9ba4084cd55f599943ff5d69d522c82892f51236df5d4534",
+      "bytes": 18338
+    },
+    {
+      "path": "gameplay/views/front-128.webp",
+      "sha256": "26153e50edc6cb8a829c646960b1d5c0b72442dadd89a43fdcdce2a42228ac07",
+      "bytes": 14240
+    },
+    {
+      "path": "gameplay/views/front-256.png",
+      "sha256": "f8247fa9b145439a3b7003d26992c84eeeb95accd84a9e6d41579d9e87f2b1ec",
+      "bytes": 62630
+    },
+    {
+      "path": "gameplay/views/front-256.webp",
+      "sha256": "f1b264d56f1b37b66d9aa98c1be49d5f830800de7684a6ea2f70daf9866ee899",
+      "bytes": 45640
+    },
+    {
+      "path": "gameplay/views/front-512.png",
+      "sha256": "40944323cdc88bec36d567984447e092ca4109fdd4dfc8ad963364dd20787377",
+      "bytes": 233028
+    },
+    {
+      "path": "gameplay/views/front-512.webp",
+      "sha256": "152b1a65313066befd1092d43f6fac4b6f6d4729b520093d8efc3928500618c4",
+      "bytes": 165810
+    },
+    {
+      "path": "gameplay/views/side-128.png",
+      "sha256": "ea07cbb729dfabc3602d8c5f8e2212255ea1a4b2dd7a08f2cf4252bfa9d942bb",
+      "bytes": 10464
+    },
+    {
+      "path": "gameplay/views/side-128.webp",
+      "sha256": "a4e8d17f2009df0ad1e1e9e4fe4e273969090e91e602772fa45c51d1c5e94f38",
+      "bytes": 7972
+    },
+    {
+      "path": "gameplay/views/side-256.png",
+      "sha256": "878d93abd87f35f364700e255e55f4cc7fd79026156860103c121af287900ca6",
+      "bytes": 35929
+    },
+    {
+      "path": "gameplay/views/side-256.webp",
+      "sha256": "a4386c4ce44a36aeb9a12196eb71e85b930c24079f3c4094a4732e1309e227c1",
+      "bytes": 24830
+    },
+    {
+      "path": "gameplay/views/side-512.png",
+      "sha256": "9bae36bccfc08589da467681c136db0388ba2ae6d01e003d83aa652adf380ebf",
+      "bytes": 131032
+    },
+    {
+      "path": "gameplay/views/side-512.webp",
+      "sha256": "a989518ff6590e3a8f1950992461ea45fce5e7094b95a2a89db089dea9246c9c",
+      "bytes": 86676
+    },
+    {
+      "path": "gameplay/views/three-quarter-128.png",
+      "sha256": "aa6ca6e20e53855d53c0813ed142b14bfb4918ef55aa9e13d6a80ceaef2572e4",
+      "bytes": 17666
+    },
+    {
+      "path": "gameplay/views/three-quarter-128.webp",
+      "sha256": "9affe5bda2f43751b8b607f75f05ee7ebd260f89eb40ea66565a01131ce5c16d",
+      "bytes": 13492
+    },
+    {
+      "path": "gameplay/views/three-quarter-256.png",
+      "sha256": "61c5ccf7ad53d7373e9ec229e73c1ee1ae1529af27b6b2b1cb62efd649953610",
+      "bytes": 60157
+    },
+    {
+      "path": "gameplay/views/three-quarter-256.webp",
+      "sha256": "0c872196e6e690bd2c5588f34b00419dd2fa53626b6c11318a9f51e24b998bca",
+      "bytes": 42954
+    },
+    {
+      "path": "gameplay/views/three-quarter-512.png",
+      "sha256": "cc569d424a3bbfcc40a66863fadcb3d3eb58e7375b8b74f06bc9e6145e74837a",
+      "bytes": 216628
+    },
+    {
+      "path": "gameplay/views/three-quarter-512.webp",
+      "sha256": "053322338deddb398d3bbef11eb48a41949470194715eac8745b44365767db6e",
+      "bytes": 149332
+    },
+    {
+      "path": "gameplay/views/top-128.png",
+      "sha256": "71f5714ca59ef520e038d5469256c4ec94ce281cdd5f2439a3a8daf857abc30f",
+      "bytes": 11830
+    },
+    {
+      "path": "gameplay/views/top-128.webp",
+      "sha256": "c91df2a83f97e3471ed8a1f64c750b0e93e1e9b8737f59ea03c52a5ef6d64a8f",
+      "bytes": 9484
+    },
+    {
+      "path": "gameplay/views/top-256.png",
+      "sha256": "c83c512054ce0c04d2ae833cb79ce5b2a94d4fb5bf283a2ccdd3ea3cfd0ea925",
+      "bytes": 40694
+    },
+    {
+      "path": "gameplay/views/top-256.webp",
+      "sha256": "61a2480180cc6d9804c4f407e22228114e58e5a33360b3fb37d77131e93d8129",
+      "bytes": 29734
+    },
+    {
+      "path": "gameplay/views/top-512.png",
+      "sha256": "9b5668061fa86bf20a1e180ad4f1912ffe3de824a8c1e9bc7edf97859ce50805",
+      "bytes": 148877
+    },
+    {
+      "path": "gameplay/views/top-512.webp",
+      "sha256": "29fe532240873d0000d92403de63bc16caa7f98bb56350f9651fa11595984218",
+      "bytes": 106202
+    },
+    {
+      "path": "generation.json",
+      "sha256": "7d621cbed9017835c0c608d62baf729d93dc185d71b78543cd05d5c484cb9920",
+      "bytes": 9158
+    },
+    {
+      "path": "masters/components/counter.png",
+      "sha256": "2794a6ba1b54d811a2b97e740d20d798db18dc29d9329c6d063e296304c4f4a4",
+      "bytes": 142054
+    },
+    {
+      "path": "masters/components/empty-star.png",
+      "sha256": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+      "bytes": 571694
+    },
+    {
+      "path": "masters/components/fill.png",
+      "sha256": "fc2a2ee6cab10cced75870cc0925a9af09a436d78626e691356dfdb3398cfa7c",
+      "bytes": 196440
+    },
+    {
+      "path": "masters/components/lock.png",
+      "sha256": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+      "bytes": 623386
+    },
+    {
+      "path": "masters/components/rating-star.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "bytes": 575235
+    },
+    {
+      "path": "masters/components/token.png",
+      "sha256": "2c679e07ba162c338c2669606d048c8897c75329652651b8a3b225ee4ca85eeb",
+      "bytes": 840264
+    },
+    {
+      "path": "masters/components/wings.png",
+      "sha256": "f0387c122f5b4c4de3850fa8cf873f53337b528165de6dad05eef5de83fc9d48",
+      "bytes": 316844
+    },
+    {
+      "path": "masters/effects/highlight.png",
+      "sha256": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+      "bytes": 705866
+    },
+    {
+      "path": "masters/effects/sparkles.png",
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "bytes": 291978
+    },
+    {
+      "path": "masters/ratings/1-stars.png",
+      "sha256": "32e202c4c303c8580849d0662d0b89b614f248e3ca89d0963de550b51e895c80",
+      "bytes": 161944
+    },
+    {
+      "path": "masters/ratings/2-stars.png",
+      "sha256": "c5726dec12a30cd137d97fb21d83a3ea76cb45b4b8b7d3d0a78113f833051d9e",
+      "bytes": 162035
+    },
+    {
+      "path": "masters/ratings/3-stars.png",
+      "sha256": "2a0bc82540bff3c10783d725167039bb6dae2bc94e681c24cda6876452563d32",
+      "bytes": 92025
+    },
+    {
+      "path": "masters/states/earned.png",
+      "sha256": "6f7b85e1ad7130ef1fe32c80a2939b11cdff482d89a755ddfa926db46de6f993",
+      "bytes": 570876
+    },
+    {
+      "path": "masters/states/empty-highlighted.png",
+      "sha256": "ff33f797430d855c8d81d9065bda2bf6e298e6d22633a7ac7c547b1b497b7dc9",
+      "bytes": 841158
+    },
+    {
+      "path": "masters/states/empty.png",
+      "sha256": "2f95620accf3be730fa9b203a9123aa6596a15a6441874624ed4880cd45096a9",
+      "bytes": 404084
+    },
+    {
+      "path": "masters/states/highlighted.png",
+      "sha256": "aa03281605d52e1895ade9360f9b5e2fcfb66274cb6065e961bbaf306ce3d838",
+      "bytes": 1017192
+    },
+    {
+      "path": "masters/states/locked.png",
+      "sha256": "3713f9d15ef0dbd52f40209c6af976cfbdef1f421d7f1e60f99b5ca5231177cd",
+      "bytes": 428275
+    },
+    {
+      "path": "masters/ui/achievement-badge.png",
+      "sha256": "ef1cf1f2b2f3a8d72232b948418070097266fa9ec0806cff02f705c0cbac00e1",
+      "bytes": 432547
+    },
+    {
+      "path": "masters/ui/counter.png",
+      "sha256": "0e4f3018e6726d2c6239822840676f740a3bd8967a3410778d63433833ccd7d7",
+      "bytes": 173160
+    },
+    {
+      "path": "masters/ui/progress-bar.png",
+      "sha256": "a0516fca40a63873baa6d6e054e3ad31e69bf517458326e89b8cc13505332dcc",
+      "bytes": 181101
+    },
+    {
+      "path": "masters/ui/star-token.png",
+      "sha256": "2c679e07ba162c338c2669606d048c8897c75329652651b8a3b225ee4ca85eeb",
+      "bytes": 840264
+    },
+    {
+      "path": "masters/variants/default.png",
+      "sha256": "675a3c9a6e074a8d02b769fd8356dc3e32e709a32c553f31f9082c0955849504",
+      "bytes": 817379
+    },
+    {
+      "path": "masters/variants/premium.png",
+      "sha256": "0f9ed1e6e365caedd613bc273b12d86d6f682036cb2a5d20f487ebcb697e5c6d",
+      "bytes": 1007005
+    },
+    {
+      "path": "masters/variants/reward.png",
+      "sha256": "fd3b361751feefaed41967c3bfd5300283082f6ac03a2a8d5d007bb706984f9c",
+      "bytes": 650110
+    },
+    {
+      "path": "masters/views/bottom.png",
+      "sha256": "ed35ad94b8ec20c4c833578462a816f070154b12c852cbd9db91b5e3f0d904d8",
+      "bytes": 716064
+    },
+    {
+      "path": "masters/views/front.png",
+      "sha256": "6101d5854313730042a7309ab5b326e49a2638d83d48e93755886cff319d0495",
+      "bytes": 879835
+    },
+    {
+      "path": "masters/views/side.png",
+      "sha256": "562effc27e758f69c9a355b34ea648d7d3d4bb96df72a18464d9aefe52eafd18",
+      "bytes": 491701
+    },
+    {
+      "path": "masters/views/three-quarter.png",
+      "sha256": "baaf07d58e505da730b0b1f2ed88c667095622c1dfe87e2fa6874ef5226ef0f4",
+      "bytes": 776421
+    },
+    {
+      "path": "masters/views/top.png",
+      "sha256": "78e48709a68ca57c64ebd539768a03ff17d0695a6ea1ec4662271e72de478293",
+      "bytes": 582950
+    },
+    {
+      "path": "preview.html",
+      "sha256": "44aac4cbeb00486944f9e3aa6de2b3edb5f3b0835775076b9e8451d362f20327",
+      "bytes": 2673
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "409a8a17bf2a9373d957983172a41316c280cabffc8cbba576b831fbb5718516",
+      "bytes": 154067
+    },
+    {
+      "path": "previews/components.jpg",
+      "sha256": "1c4e1212cef24e90fcff8b66d291dd111fa663f30ae052c38789579770f73f8f",
+      "bytes": 48654
+    },
+    {
+      "path": "previews/effects.jpg",
+      "sha256": "bb67944468ce18c80ef112a39fd2a7ea44987e89fcaa9dccbfc5ad89e066f724",
+      "bytes": 15556
+    },
+    {
+      "path": "previews/ratings.jpg",
+      "sha256": "b92626d4e6118a6d13d8173bf5fc141cf0ca53c5f71205a5c8da8208e42e2fb8",
+      "bytes": 18192
+    },
+    {
+      "path": "previews/states.jpg",
+      "sha256": "76f8940f344cbbb40e52d1fe01d6526665236073d9084edf289d1faaa98defff",
+      "bytes": 38663
+    },
+    {
+      "path": "previews/ui.jpg",
+      "sha256": "81a8458f5a6f8935207b9cd4f2726ec0c99d9dd07c05d592061b361a82acda8e",
+      "bytes": 25566
+    },
+    {
+      "path": "previews/variants.jpg",
+      "sha256": "4d33ec862aebde5c187955a9ce87cc2bdb7cd0b047998583e4b34f84b661e3d5",
+      "bytes": 26178
+    },
+    {
+      "path": "previews/views.jpg",
+      "sha256": "df36edd6dadc3c44da89b6f4cde87f4e45eddbf0780274d4030c2fe948bbef56",
+      "bytes": 38290
+    },
+    {
+      "path": "qa.json",
+      "sha256": "d174db38854ce245394925fbdc698ebc58701e4b9709d0243eedab130b3d7683",
+      "bytes": 135
+    },
+    {
+      "path": "references/Puff Trails Star Economy Design System-3.png",
+      "sha256": "68a5b63a4a44cd1fd206c155358923eedb19d7184d296e6d3d4a3c53231f0b3b",
+      "bytes": 2177499
+    },
+    {
+      "path": "references/Puff Trails Star Economy Design System.png",
+      "sha256": "68a5b63a4a44cd1fd206c155358923eedb19d7184d296e6d3d4a3c53231f0b3b",
+      "bytes": 2177499
+    }
+  ]
+}

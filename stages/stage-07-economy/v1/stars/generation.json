@@ -1,0 +1,74 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Puff Trails Star Economy Design System-3.png",
+      "sha256": "68a5b63a4a44cd1fd206c155358923eedb19d7184d296e6d3d4a3c53231f0b3b"
+    },
+    {
+      "path": "references/Puff Trails Star Economy Design System.png",
+      "sha256": "68a5b63a4a44cd1fd206c155358923eedb19d7184d296e6d3d4a3c53231f0b3b"
+    }
+  ],
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/star-empty.png": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "stages/stage-06-adventure-map/v1/masters/icons/lock.png": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+    "stages/stage-07-economy/v1/coins/masters/components/white-wings.png": "f0387c122f5b4c4de3850fa8cf873f53337b528165de6dad05eef5de83fc9d48",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/purple-meter.png": "2794a6ba1b54d811a2b97e740d20d798db18dc29d9329c6d063e296304c4f4a4",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/gold-meter.png": "fc2a2ee6cab10cced75870cc0925a9af09a436d78626e691356dfdb3398cfa7c",
+    "stages/stage-07-economy/v1/coins/masters/views/front.png": "2c679e07ba162c338c2669606d048c8897c75329652651b8a3b225ee4ca85eeb",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2"
+  },
+  "records": {
+    "variants/reward": {
+      "id": "variants/reward",
+      "description": "Plush golden five-point star with small golden jeweled crown on top and symmetrical purple wings, no face. Match Reward Star.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Plush golden five-point star with small golden jeweled crown on top and symmetrical purple wings, no face. Match Reward Star. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6eff2b55-d6e4-4647-b873-3410ceb06e9b.png"
+    },
+    "views/top": {
+      "id": "views/top",
+      "description": "Golden yellow plush five-point rounded star collectible, view from directly above looking down, horizontal foreshortened star profile, no face. Match Star Design View Angles row.",
+      "prompt": "Reconstruct exact crop: wide horizontally foreshortened plush gold star with visible seam, no face, transparent background, preserve camera angle and silhouette.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8ffad6f3-717e-4f7b-b719-428e0d656e0d.png"
+    },
+    "views/bottom": {
+      "id": "views/bottom",
+      "description": "Golden yellow plush five-point rounded star collectible, view from below, underside plush star with no face. Match Star Design View Angles row.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, view from below, underside plush star with no face. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-474ff9e8-d4fc-43e0-b4d9-6b2506a294ba.png"
+    },
+    "variants/premium": {
+      "id": "variants/premium",
+      "description": "Faceted iridescent rainbow five-point crystal star with pink rim and subtle glow. Match Premium Glow.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Faceted iridescent rainbow five-point crystal star with pink rim and subtle glow. Match Premium Glow. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-aec7ff46-45a6-4c24-9f0b-d4997dd02d02.png"
+    },
+    "views/three-quarter": {
+      "id": "views/three-quarter",
+      "description": "Golden yellow plush five-point rounded star collectible, 45 degree three-quarter view, cute face on front. Match Star Design View Angles row.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, 45 degree three-quarter view, cute face on front. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-3181bd4a-2e70-4319-b2fa-438c90dc2cbc.png"
+    },
+    "variants/default": {
+      "id": "variants/default",
+      "description": "Faceless golden yellow plush five-point star, front facing, match Default Star core.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Faceless golden yellow plush five-point star, front facing, match Default Star core. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-12831ecb-1481-4914-9751-8229a15cf464.png"
+    },
+    "views/front": {
+      "id": "views/front",
+      "description": "Golden yellow plush five-point rounded star collectible, front facing, cute black eyes smiling mouth and pink cheeks. Match Star Design View Angles row.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, front facing, cute black eyes smiling mouth and pink cheeks. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-6708dc68-e5b9-4497-8a90-5a973ed5ecf6.png"
+    },
+    "views/side": {
+      "id": "views/side",
+      "description": "Golden yellow plush five-point rounded star collectible, exactly edge-on narrow profile, no front face visible. Match Star Design View Angles row.",
+      "prompt": "Use case: stylized-concept. ONE isolated production game asset reconstructed from the supplied approved Puff Trails economy board. Subject: Golden yellow plush five-point rounded star collectible, exactly edge-on narrow profile, no front face visible. Match Star Design View Angles row. Reference board is the design authority. Match shape, palette, rounded plush/glossy 3D materials, motif and soft upper-left lighting. Transparent alpha background, centered with clear margins. No panel, floor, labels, numbers, text or unrelated characters. Preserve the design rather than inventing alternatives. No front face on rear or bottom views.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2abd5113-2e2a-4e17-b0e3-2eeba36c4b3f.png"
+    }
+  }
+}

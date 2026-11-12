@@ -228,3 +228,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![coins](stages/stage-07-economy/v1/coins/preview.jpg)
 <!-- economy-coins:end -->
+
+
+<!-- economy-stars:start -->
+### Economy · Stars
+
+[Every individual asset and preview](stages/stage-07-economy/v1/stars/README.md) · 29 masters · 174 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![stars](stages/stage-07-economy/v1/stars/preview.jpg)
+<!-- economy-stars:end -->
