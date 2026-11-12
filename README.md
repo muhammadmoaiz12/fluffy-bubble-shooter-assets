@@ -219,3 +219,12 @@ Approved world and locked character artwork reused; level ranges and progression
 
 Ten booster concepts with five state keys each, effects, UI, rewards, pack artwork and locked-character gameplay illustrations. Includes original board, provenance, manifest and individual previews. Quantities and gameplay mechanics remain configurable.
 <!-- stage6-boosters:end -->
+
+
+<!-- economy-coins:start -->
+### Economy · Coins
+
+[Every individual asset and preview](stages/stage-07-economy/v1/coins/README.md) · 36 masters · 216 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![coins](stages/stage-07-economy/v1/coins/preview.jpg)
+<!-- economy-coins:end -->

@@ -1,0 +1,118 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Puff Trails Coin Economy Design System-2.png",
+      "sha256": "502ff540d7be2b05d1f0a301870f6f371f48c2a0b364eb4e983aa6bb7ea92d94"
+    },
+    {
+      "path": "references/Puff Trails Coin Economy Design System.png",
+      "sha256": "502ff540d7be2b05d1f0a301870f6f371f48c2a0b364eb4e983aa6bb7ea92d94"
+    }
+  ],
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "stages/stage-06-adventure-map/v1/masters/rewards/chest-open.png": "9d12d3a1e2fceee9a7f5d928bcad6dc6acde719c2950ef0d09dbfffb2674a147",
+    "stages/stage-06-adventure-map/v1/masters/icons/check.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+    "stages/stage-06-power-ups-boosters/v1/masters/icons/plus.png": "a53938e39a18ab5e0582f2f003e710687703baf8aa73a658e97f450ca0929852",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/star-comet.png": "1bc911f2bca22b2cbeaf6bb13e778a03a22e1d70c6d683f0074c597f0ee42374",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/purple-meter.png": "2794a6ba1b54d811a2b97e740d20d798db18dc29d9329c6d063e296304c4f4a4",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/gold-meter.png": "fc2a2ee6cab10cced75870cc0925a9af09a436d78626e691356dfdb3398cfa7c",
+    "stages/stage-06-adventure-map/v1/masters/ui/play-button.png": "62021e710ac4ec21bba12ca59498c73ac40bf111ba0cb805b41f245b5d2d52e4"
+  },
+  "records": {
+    "packs/coin-bag": {
+      "id": "packs/coin-bag",
+      "description": "Plump purple drawstring coin bag, golden cord and gold star emblem, one gold star coin peeking from open top. No quantity label.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/packs--coin-bag.png",
+      "source_box": [
+        450,
+        496,
+        594,
+        635
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: Plump purple drawstring coin bag, golden cord and gold star emblem, one gold star coin peeking from open top. No quantity label. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b3841bf0-e295-4b1f-ab75-92de00337d45.png"
+    },
+    "views/top": {
+      "id": "views/top",
+      "description": "Same gold star coin lying flat, viewed obliquely from above, elliptical face and thick ridged edge visible.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/views--top.png",
+      "source_box": [
+        789,
+        235,
+        916,
+        372
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: Same gold star coin lying flat, viewed obliquely from above, elliptical face and thick ridged edge visible. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-813640a2-f34b-4dc3-b08f-2d6374871daa.png"
+    },
+    "views/three-quarter": {
+      "id": "views/three-quarter",
+      "description": "Same gold star coin at a 45-degree three-quarter angle; face and thick ridged right edge visible.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/views--three-quarter.png",
+      "source_box": [
+        552,
+        235,
+        684,
+        372
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: Same gold star coin at a 45-degree three-quarter angle; face and thick ridged right edge visible. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-466d0dad-30e5-4055-b324-cb4f10a7254d.png"
+    },
+    "components/white-wings": {
+      "id": "components/white-wings",
+      "description": "A symmetrical pair of small white plush feather wings with golden edging, separate left and right wings with clear space between. No chest, coin, star or other object.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/components--white-wings.png",
+      "source_box": [
+        785,
+        491,
+        973,
+        640
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: A symmetrical pair of small white plush feather wings with golden edging, separate left and right wings with clear space between. No chest, coin, star or other object. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d2c393f2-8d1a-4467-8a0e-32250f32996c.png"
+    },
+    "effects/collection-beam": {
+      "id": "effects/collection-beam",
+      "description": "A luminous golden circular ground ring with a vertical golden beam rising from center and tiny gold sparkles. Transparent magical collection VFX only, no ground or panel.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/effects--collection-beam.png",
+      "source_box": [
+        1046,
+        768,
+        1146,
+        905
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: A luminous golden circular ground ring with a vertical golden beam rising from center and tiny gold sparkles. Transparent magical collection VFX only, no ground or panel. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-64ec0bf7-7813-4032-97e0-091b8b4b1742.png"
+    },
+    "views/front": {
+      "id": "views/front",
+      "description": "Front-facing thick gold coin, raised rounded five-point gold star on face, orange recessed border, subtle soft plush edge.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/views--front.png",
+      "source_box": [
+        414,
+        235,
+        548,
+        372
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: Front-facing thick gold coin, raised rounded five-point gold star on face, orange recessed border, subtle soft plush edge. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-25e9a37d-8ff4-43ea-b405-ce7f3faecd20.png"
+    },
+    "views/side": {
+      "id": "views/side",
+      "description": "Same gold coin exactly edge-on, a narrow thick vertical gold ridged edge. No visible star face.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/coins-refs/views--side.png",
+      "source_box": [
+        691,
+        235,
+        783,
+        372
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE isolated production game asset, reconstructing the attached Puff Trails approved Coin Economy board reference. Subject: Same gold coin exactly edge-on, a narrow thick vertical gold ridged edge. No visible star face. Match the reference shape, palette, star emblem, rounded plush/glossy 3D material and soft upper-left light. Transparent background with genuine alpha, no panel, text, numbers, floor, labels or unrelated characters. Object centered with generous transparent margin, crisp detailed rendering. Preserve the design; this is not a redesign.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-f426f915-c421-43ae-ad4f-b7f4d4a7df50.png"
+    }
+  }
+}
