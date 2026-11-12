@@ -300,3 +300,19 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![starburst-cannon](stages/stage-07-cannon-upgrades/v1/starburst-cannon/evolution.jpg)
 <!-- cannon-upgrades-starburst-cannon:end -->
+
+
+<!-- cannon-upgrades-bloom-launcher:start -->
+### Cannon upgrades · Bloom Launcher
+
+[Every individual asset and preview](stages/stage-07-cannon-upgrades/v1/bloom-launcher/README.md) · 83 masters · 498 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![bloom-launcher](stages/stage-07-cannon-upgrades/v1/bloom-launcher/evolution.jpg)
+<!-- cannon-upgrades-bloom-launcher:end -->
+
+
+## Cannon upgrade collection
+
+[Browse all five cannon evolution families](stages/stage-07-cannon-upgrades/v1/README.md)
+
+![All 25 cannon tiers](stages/stage-07-cannon-upgrades/v1/collection-overview.jpg)

@@ -1,0 +1,541 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Puff Trails Cannon Collection Reference Board-1.png",
+      "sha256": "cbdc01b46e9cf864a682889ab8c86915d4f82f382b1ae0a0888bb26136cfa8a3"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/front.png": "7f3165ac20a8b78ad9eb56120a296deb9e2c1c38b7a1b1b6a1abd08952e2028c",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/left-side.png": "636e639d4385645d86381b073e0b74ea9670d93740e491792016249c5d7f866a",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/right-side.png": "ff2329ead4f576d42806c307b61cda0b39b6adc57d6055a1483ce13ce7c4ac5e",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-back.png": "a9f30a09903e458c40d32b8273d635453f03055531e4fd2bfec185229817f886",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/back.png": "0a7da4ec80ffbce7bf9511d34f4778d8cbb24ce0012c28f46518626c9f386f1e",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/top.png": "fc6c4af590d653a791c43674fb11bfa91b4d4572d26d7bfc991f08c47249809b",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/bottom.png": "6465a482a347122696909b9d0eff258572d3e4a05f3822a6a6f38ddac0f4b7d8",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/effects/bloom-shot.png": "6ead5a7a69e6df310307cec1c393c49d9b01fc05e02b712c3dffade0bfe6772b",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/effects/petal.png": "08ed7af9646f07b85aa279970077df594268c0578b6dbdc1263a89e2f4e2be84",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/effects/aim-dot.png": "bb8cabdcc808b7a999323a323bae9e0057f155d5c35b4ac403676d11dc6ba085",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058"
+  },
+  "records": {
+    "tier-05/views/top": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/top",
+      "tier": 5,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/top cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--top.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-84ea5d74-b525-4465-b585-c09117dade4d.png",
+      "sha256": "3cda169a1781a110017c527e4c38089f1ae2ddac135192969d4641c845e26da6"
+    },
+    "tier-02/views/right": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/right",
+      "tier": 2,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/right-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/right.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Right-side profile, face points screen-left, show other side geometry. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-3b77a3e4-8191-4794-a801-018d6059df07.png",
+      "sha256": "ed8f99da62c25df027c167e2c2541618eb1a16300ecd8aa71fa5e682b8394c07"
+    },
+    "tier-03/views/front": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/front",
+      "tier": 3,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/front.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Exactly front facing, symmetric face visible; retain all tier ornaments. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-2debb4a4-c21e-402e-b531-f4b8eade0a86.png",
+      "sha256": "7f5603b148cf496d400b121d67439f07e76bb1d5c968d6d95b215422ed15520c"
+    },
+    "tier-04/views/back": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/back",
+      "tier": 4,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/back cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-5a29143f-5034-43d2-8970-960593bdbcf2.png",
+      "sha256": "99de7e41577de8f0dd87532c1427b187c3ff83757e8fc4bd6223ea1a509437fd"
+    },
+    "tier-02/views/three-quarter-back": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/three-quarter-back",
+      "tier": 2,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/three-quarter-back.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-15378476-16a5-440a-8f07-4779ca0ec9f3.png",
+      "sha256": "2377212a059e35dba7612d7aaaca4a563790f5829fe554c2dd0dd5cb938f2009"
+    },
+    "tier-02/views/three-quarter-front": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/three-quarter-front",
+      "tier": 2,
+      "description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/refs/tier-02-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+    },
+    "tier-05/views/back": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/back",
+      "tier": 5,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/back cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-590a47a8-bf1f-4cf3-bbdd-38cb8ece8aef.png",
+      "sha256": "86e29b0b1d443f5757831184438df203cc6bb6e29c76f0c6e0ecb98518be13ec"
+    },
+    "tier-05/views/three-quarter-front": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/three-quarter-front",
+      "tier": 5,
+      "description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/refs/tier-05-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+    },
+    "tier-03/views/back": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/back",
+      "tier": 3,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/back.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d9d077c9-a79e-43de-8415-5fd9c17582ba.png",
+      "sha256": "88922c95eb601534413764ab83b89b498032d26b05111ca3f6fb58305232eaa8"
+    },
+    "tier-04/views/top": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/top",
+      "tier": 4,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/top cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--top.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-d8dad92c-6768-4088-8365-a1b1a7ca85e1.png",
+      "sha256": "cce6a8d77e0bd80060db638045fed3511310dd1de4b87d001f05f5d238558065"
+    },
+    "tier-02/views/bottom": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/bottom",
+      "tier": 2,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/bottom.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-4517cdeb-be41-484f-a95e-7937ac7cfab1.png",
+      "sha256": "f5df1fe647a2da681eb878ee65c646f2309b0fbdeeff19d5a22458620e7f5b22"
+    },
+    "tier-03/views/bottom": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/bottom",
+      "tier": 3,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/bottom.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-618232f8-3172-4c82-8929-dcff30d204a4.png",
+      "sha256": "7a00ddd09a573f776d8243c19dddbf29196cb08c80062e3fcdb3330565fcc58b"
+    },
+    "tier-04/views/three-quarter-back": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/three-quarter-back",
+      "tier": 4,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/three-quarter-back cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--three-quarter-back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-145eeb43-238e-4bdb-b621-3865bdac01ac.png",
+      "sha256": "4a4ed01de0ad69e7ca4ecee637eb3c5183022451caef8e4c65ec8a78192fb6a9"
+    },
+    "tier-05/views/front": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/front",
+      "tier": 5,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/front cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Exactly front facing, symmetric face visible; retain all tier ornaments. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--front.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-70d9fa7c-3238-4084-bdd7-beb88b5a6106.png",
+      "sha256": "b6af6cfcaefed2579d2404ce2a1b63b8a3c8ba1d5a6ef42585fdadea4403962c"
+    },
+    "tier-05/views/bottom": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/bottom",
+      "tier": 5,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/bottom cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--bottom.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-6ef09a15-482a-4962-bf70-55fed302bda3.png",
+      "sha256": "73097f591acf612ee7ef97430f81819cd72fb2a921d0ffdb3b27f6380070b6aa"
+    },
+    "tier-04/views/right": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/right",
+      "tier": 4,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/right-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/right cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Right-side profile, face points screen-left, show other side geometry. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--right.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-da178f7c-1e0a-490f-b996-8a8fb04e309a.png",
+      "sha256": "b8a299ed16d0cd2d5d718934cb391415c2986e1345f40cbc0cb4513d3c3b9ecc"
+    },
+    "tier-04/views/bottom": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/bottom",
+      "tier": 4,
+      "view": "bottom",
+      "description": "Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/bottom cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Strict underside looking up at circular base bottom, radial gold trim and family emblem, no face. Upgrade ornaments only seen around outer edge; NOT top or front. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--bottom.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-3100f422-8bbe-4737-b027-d5bf626ead66.png",
+      "sha256": "86dfb1ac522dbfa3a7f2ffb1cfd9422aca8cd087def4639a138dff55684e84c6"
+    },
+    "tier-02/views/back": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/back",
+      "tier": 2,
+      "view": "back",
+      "description": "Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/back.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Exactly rear view, symmetric back, no face, no eyes, no mouth. Barrel opening hidden on far side. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-ff07a7de-1342-4f9c-870d-759c1afb2291.png",
+      "sha256": "1cafa4c51e35136cffd11b408e20b8046a3d595dd1cdba0e7d9726e0d8c7926b"
+    },
+    "tier-05/views/three-quarter-back": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/three-quarter-back",
+      "tier": 5,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/three-quarter-back cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--three-quarter-back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-558c1b4f-1366-4ea6-b70f-bf8f0f47a3f8.png",
+      "sha256": "6b6f6f60b66080d6da7bb811b7d0eccc49a88a8f76ed102fa68fb93aeacdb82b"
+    },
+    "tier-03/views/three-quarter-front": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/three-quarter-front",
+      "tier": 3,
+      "description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/refs/tier-03-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+    },
+    "tier-04/views/front": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/front",
+      "tier": 4,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/front cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Exactly front facing, symmetric face visible; retain all tier ornaments. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--front.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-095bf8f2-9c22-4d6b-b6e5-e26c81887b7b.png",
+      "sha256": "7efc987b08d4defa87c7edef5b9ff2c43d911f016f8cb87a5cd7a61e69737169"
+    },
+    "tier-03/views/left": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/left",
+      "tier": 3,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/left-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/left.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Left-side profile, face points screen-right, show side geometry and left wing. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-e933f3fd-f7de-4201-9f36-808b2da933cf.png",
+      "sha256": "877405ff4d419a2b4b29a67a6c624691b7a1ab5b8aaf723c96b85660cc504788"
+    },
+    "tier-05/views/right": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/right",
+      "tier": 5,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/right-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/right cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Right-side profile, face points screen-left, show other side geometry. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--right.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-f54a143c-be17-4e96-8ced-a8e25bd02cd7.png",
+      "sha256": "63f7d6b733269463a2999c27b6745d25a08ef2cb8e629d45dcf92345c470482a"
+    },
+    "tier-03/views/top": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/top",
+      "tier": 3,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/top.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-c45306f1-92da-4224-9e89-2d6e87b5758b.png",
+      "sha256": "1042eaff0bc4be066229c4714de6e41952259a876d048d93c954c5d33deda802"
+    },
+    "tier-02/views/left": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/left",
+      "tier": 2,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/left-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/left.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Left-side profile, face points screen-right, show side geometry and left wing. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-61c42016-13a1-4076-ac01-999bec9f1ee7.png",
+      "sha256": "2e2d2aec4872aebd538984c4bd78bfe477e65dbc4edd9de312b9c9273bacd9e7"
+    },
+    "components/petal-wing-pair": {
+      "id": "components/petal-wing-pair",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-86366691-8ef8-446f-a670-a212410a17c5.png",
+      "prompt": "Isolate/reconstruct a single modular upgrade component from this approved tierhero reference. Only a symmetrical pair of botanical wing fans: swept-back green leaves edged in gold with layered pale pink/white petals. Clear gap between wings, no body, no cannon or face. Match exact Puff Trails material, colors and ornament style. Transparent background, centered with ample margins, no text or scenery. Do NOT render the whole cannon.",
+      "description": "Only a symmetrical pair of botanical wing fans: swept-back green leaves edged in gold with layered pale pink/white petals. Clear gap between wings, no body, no cannon or face.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ]
+    },
+    "tier-04/views/left": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/left",
+      "tier": 4,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/left-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 4 upgrade style and all added ornament shapes. Create ONE tier-04/views/left cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Left-side profile, face points screen-right, show side geometry and left wing. Upgrade details: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-04--views--left.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-f01fe5bd-6ebb-4de2-8944-04f8e8776bcd.png",
+      "sha256": "800f10b0ddef56ac3b6bbf757871f033f2c1cfc68d996dcb96800c98140c134d"
+    },
+    "tier-02/views/top": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/top",
+      "tier": 2,
+      "view": "top",
+      "description": "View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/top.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. View from high overhead looking directly down on crown, wings and barrel. Body foreshortened under top. Not an upright front view. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-bc4e9cc2-e62c-460d-9854-39f3d1bf603a.png",
+      "sha256": "17794eb0fdf935bb99ce18a5f67793bb7722fa20f4831e85878ee9c99cb2c5f5"
+    },
+    "components/flower-arch": {
+      "id": "components/flower-arch",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-cfd2b047-8c97-4382-aa26-615c75081799.png",
+      "prompt": "Isolate/reconstruct a single modular upgrade component from this approved tierhero reference. Only the flowering vine arch behind the upgraded Bloom cannon: curved green vine with pink and white blossoms and fine gold accents. Hollow transparent center, no body, no cannon, no face or barrel. Match exact Puff Trails material, colors and ornament style. Transparent background, centered with ample margins, no text or scenery. Do NOT render the whole cannon.",
+      "description": "Only the flowering vine arch behind the upgraded Bloom cannon: curved green vine with pink and white blossoms and fine gold accents. Hollow transparent center, no body, no cannon, no face or barrel.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ]
+    },
+    "tier-04/views/three-quarter-front": {
+      "family": "bloom-launcher",
+      "id": "tier-04/views/three-quarter-front",
+      "tier": 4,
+      "description": "Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/refs/tier-04-upgrade.png"
+      ],
+      "prompt": "Edit/reference-preserving game asset. Image 1 is the LOCKED original cannon identity and exact three-quarter-front camera. Image 2 is upgrade styling reference ONLY. Create one upgraded cannon: Bloom tier 4: abundant flowering vine crown and swept-back leaf fans like botanical wings; layered white/pink petal accents with gold edging, richer floral base. Preserve original blossom muzzle and face. Keep the original fluffy purple/cream body, eye shape, face, cheeks, paws, barrel silhouette and original design motifs. Add upgrade ornamentation without replacing the character. Clearly evolved but same cannon. Centered full object, premium detailed plush 3D, soft consistent light, genuine transparent background, no floor, panel, lettering, arrows, logo or other characters. Keep ample margins for all wings and ornaments.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7cc392f5-2610-4c59-af42-040b15bed4f2.png"
+    },
+    "tier-03/views/three-quarter-back": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/three-quarter-back",
+      "tier": 3,
+      "view": "three-quarter-back",
+      "description": "REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/three-quarter-back.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. REAR three-quarter view: broad back and one side, face completely hidden, star/flower barrel opening points away. Do not produce a front or side-front view. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-7fd7c21b-177f-46f5-9ffe-1aeacb24a651.png",
+      "sha256": "3b927bf75539a8520706ec34a4aed4b42cf85def680977cf771a128ef81db971"
+    },
+    "tier-03/views/right": {
+      "family": "bloom-launcher",
+      "id": "tier-03/views/right",
+      "tier": 3,
+      "view": "right",
+      "description": "Right-side profile, face points screen-left, show other side geometry.",
+      "upgrade_description": "Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/right-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ba0ea24c-e8c9-4578-a15a-9943c9c3f7b4.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-03/views/right.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Right-side profile, face points screen-left, show other side geometry. Bloom tier 3: add curling leafy vines along sides and elegant layered pink/white blossoms around gold base and crown. Keep original flower-shaped petal barrel and original face. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-901c221b-ecec-43e3-a646-f5dba07b582c.png",
+      "sha256": "a80f050c29d3f48fb3dfc5fcf568e4f911d10edcb8248f603930818697496a54"
+    },
+    "tier-05/views/left": {
+      "family": "bloom-launcher",
+      "id": "tier-05/views/left",
+      "tier": 5,
+      "view": "left",
+      "description": "Left-side profile, face points screen-right, show side geometry and left wing.",
+      "upgrade_description": "Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/left-side.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-68fe4251-32b2-4236-8410-595e24684445.png"
+      ],
+      "prompt": "Identity-preserving game cannon upgrade turnaround. IMAGE1 defines the camera view and LOCKED Bloom Launcher base identity. IMAGE2 defines the approved TIER 5 upgrade style and all added ornament shapes. Create ONE tier-05/views/left cannon by rotating image2 to image1's view while preserving original face shape, round lavender plush body, cream face patch, little paws, gold spiral side medallions, flower emblem and distinctive PINK FLOWER-PETAL SHAPED MUZZLE. Camera requirement: Left-side profile, face points screen-right, show side geometry and left wing. Upgrade details: Bloom tier 5: lavish botanical ascension with broad overlapping leaf-and-petal wing fans, flowering vine arch behind head, multi-layer blossom crown, ornate golden floral base and soft pink magic. Keep original fluffy body, face and pink petal-shaped barrel; no celestial star-shaped replacement muzzle. The barrel MUST remain flower-shaped pink petals around a purple glowing core; never a plain round or star-shaped muzzle. Preserve rich botanical leafy/petal wings and crown coherently from new hero. No front face on back or underside. Detailed soft plush fur, glossy gold and petals, soft studio light. Genuine transparent background, full object with ample margins, no clipping, no text, panel, labels, floor or background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-05--views--left.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-9fe4-7a90-a36c-aed2f7e5b0f9/exec-b0fe75bb-714a-4367-bad8-d89371757702.png",
+      "sha256": "4cf5ccb3006cd531c0833c86d778c5fc3b575fc4ed7f20249a0b8bbba7fe2bdb"
+    },
+    "tier-02/views/front": {
+      "family": "bloom-launcher",
+      "id": "tier-02/views/front",
+      "tier": 2,
+      "view": "front",
+      "description": "Exactly front facing, symmetric face visible; retain all tier ornaments.",
+      "upgrade_description": "Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-1a3a586f-a9f8-454b-865c-aaf12f88a95f.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/bloom-launcher/renders/tier-02/views/front.png",
+      "prompt": "Create ONE standalone Bloom Launcher upgraded cannon game sprite. Image1 is the original approved cannon's CAMERA/ANGLE and underlying identity authority. Image2 is the approved UPGRADE appearance for this tier; retain its exact flowers, leaves, gold vines, base flower, plush body, cream face, eye proportions and expressive smile. Re-render image2 in image1's camera, keeping all upgrade ornaments. Exactly front facing, symmetric face visible; retain all tier ornaments. Bloom tier 2: richer clustered pink and white blossoms on original floral crown, brighter gold edging and slightly fuller leaf base. Keep original flower-shaped pink petal muzzle. Camera1 takes precedence over any generic direction description. Preserve FLOWER-SHAPED PINK PETAL MUZZLE with dark purple/pink galaxy inside, never circular or star-shaped muzzle. No wings unless present in upgraded image2. Rear and bottom views have no face or eyes. Complete object, 10% clear margin, true transparent alpha background, no floor or cast floor shadow, text, panels, labels or unrelated elements.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-856163a9-dd6e-438e-83b3-a39ab81c2f55.png",
+      "sha256": "0b8ac200641a49abecae004b88260bca85e38a2c4e26e3d320ad8009ca0e29d5"
+    }
+  }
+}
