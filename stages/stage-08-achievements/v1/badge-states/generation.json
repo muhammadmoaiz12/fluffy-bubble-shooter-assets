@@ -1,0 +1,249 @@
+{
+  "section": "badge-states",
+  "built_in_image_generation": true,
+  "board": {
+    "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/section-board.png",
+    "prompt": "Assemble final section production board from every delivered individual master, preserving exact source artwork and canonical design system. Layout and labels only; no master assets changed.",
+    "source_references": [
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/states/locked.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/states/in-progress.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/states/completed.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/states/elite.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/claim/available.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/claim/pending.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/claim/claimed.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/components/lock.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/components/star.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/icons/check.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/components/track.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/components/fill.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/progress/example-half.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/effects/completion-ring.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/effects/sparkles.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/badge-states/masters/category/layers.png"
+    ],
+    "concept_board_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/section-board-concept.png",
+    "concept_prompt": "Create a polished standalone production concept SECTION BOARD for Puff Trails: 'Badge States & Upgrades'. Reference attached original overall board for glossy rounded purple enamel, warm gold rims, soft pastel lavender, tactile plush game UI. Landscape board, refined readable typography, no characters, no logos to redraw. Four large distinct badge designs across top: Locked (silver shield with padlock), In Progress (silver shield with gold star and partial violet arc), Completed (gold shield with gold star), Elite (gold winged star badge with pink crystal and crown). Below, show Claim feedback states as distinct smaller icons: Available (gold gift), Pending (lavender hourglass), Claimed (green check), Notification (gold exclamation). Bottom show separated UI construction: violet rounded progress track, magenta fill, gold star cap, thin gold completion ring, sparkle cluster. Use exact titles, no numeric progress, no gameplay promises, no reward amounts. Each icon spaced and completely visible. White/lavender soft cards, deep purple headings, gold accent. Header 'Puff Trails \u2022 Badge States & Upgrades', subtitle 'Visual states \u2022 Progress \u2022 Claim feedback'. This is an expanded section board, not a game screenshot. Keep gold star simple five-pointed, no currency redesign. Show states separate, not upgrade mechanics. No characters, no crown on character heads.",
+    "origin": "Deterministic final section-board assembly from delivered masters; initial AI concept archived",
+    "source_repository_paths": [
+      "stages/stage-08-achievements/v1/badge-states/masters/states/locked.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/states/in-progress.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/states/completed.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/states/elite.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/claim/available.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/claim/pending.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/claim/claimed.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/lock.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/star.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/icons/check.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/track.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/fill.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/progress/example-half.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/effects/completion-ring.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/effects/sparkles.png",
+      "stages/stage-08-achievements/v1/badge-states/masters/category/layers.png"
+    ],
+    "source_hashes": {
+      "stages/stage-08-achievements/v1/badge-states/masters/states/locked.png": "e8a36446f625713ae6535d93867663a35028b17fcf3d1fbdd05f40923d6a4728",
+      "stages/stage-08-achievements/v1/badge-states/masters/states/in-progress.png": "22755b9ceeb415c52d05063bc5cae00f680597e03f0362fe115ad521a3a9d94a",
+      "stages/stage-08-achievements/v1/badge-states/masters/states/completed.png": "e25a3ca2f6f47ef1cdca2fa7ebbac149d23c5335153e659a769dac6af04cde29",
+      "stages/stage-08-achievements/v1/badge-states/masters/states/elite.png": "4b948fb4827ea328e003eb1cfdfc60dfdffb36446011a5b19c312c6a7c7eeb20",
+      "stages/stage-08-achievements/v1/badge-states/masters/claim/available.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+      "stages/stage-08-achievements/v1/badge-states/masters/claim/pending.png": "50eaebf59b6fa87434422d2157d1bc5974e97a648142e57387e88a4b78d7d4e3",
+      "stages/stage-08-achievements/v1/badge-states/masters/claim/claimed.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/lock.png": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/star.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "stages/stage-08-achievements/v1/badge-states/masters/icons/check.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/track.png": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f",
+      "stages/stage-08-achievements/v1/badge-states/masters/components/fill.png": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a",
+      "stages/stage-08-achievements/v1/badge-states/masters/progress/example-half.png": "8e498f62e89327a0fc6b2a74e7753cf69540cdb6a0015b1f12f336f6011cdb19",
+      "stages/stage-08-achievements/v1/badge-states/masters/effects/completion-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+      "stages/stage-08-achievements/v1/badge-states/masters/effects/sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "stages/stage-08-achievements/v1/badge-states/masters/category/layers.png": "563e95d5998ca590b800b7cbae6a280e538202e3324b8e782f3541f306e928e0"
+    }
+  },
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/gift.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+    "stages/stage-06-adventure-map/v1/masters/icons/check.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+    "locked/puff-trails-brand/v1/masters/ui/progress-fill.png": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a",
+    "stages/stage-07-economy/v1/stars/masters/components/lock.png": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "locked/puff-trails-brand/v1/masters/ui/progress-track.png": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2"
+  },
+  "records": [
+    {
+      "id": "category/layers",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/category--layers.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; category/layers"
+    },
+    {
+      "id": "claim/available",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/gift.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/gift.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/gift.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "claim/claimed",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png",
+      "source_repository_path": "stages/stage-06-adventure-map/v1/masters/icons/check.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "claim/pending",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/claim--pending.png",
+      "prepared": true,
+      "prompt": "Use case: stylized-concept. Generate one isolated Puff Trails pending reward claim indicator matching supplied Badge States section board: a simple upright hourglass with rounded lavender-purple top and bottom caps, transparent clear glass waist, warm golden sand in upper and lower bulbs. Frontal view, balanced symmetric silhouette, smooth soft rounded 3D toy-like game material, readable at smallUI sizes. This represents pending claim, not time-freeze booster: NO snowflakes, no frost, no clock, no character, no text, no wings, no extra symbols. One hourglass centered with generous transparent margin, no floor, no shadow, no aura. Genuine transparent RGBA background; glass may have intentional gentle translucency while caps and gold sand are fully opaque.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/section-board.png"
+      ],
+      "origin": "AI generated standalone asset from section board",
+      "generated_sha256": "b237963b00576afc4978ead9e05abfc8392fdbf7971c2b21bd7c5eedc68a4402",
+      "postprocessing": "Disconnected alpha specks removed; nearopaque alpha normalized; centered880px in1024. Hourglass retains intentional glass alpha."
+    },
+    {
+      "id": "components/fill",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/lock",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/components/lock.png",
+      "source_repository_path": "stages/stage-07-economy/v1/stars/masters/components/lock.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/components/lock.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/star",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/track",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "effects/completion-ring",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png",
+      "source_repository_path": "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "effects/sparkles",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png",
+      "source_repository_path": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "icons/check",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png",
+      "source_repository_path": "stages/stage-06-adventure-map/v1/masters/icons/check.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "progress/example-half",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/progress--example-half.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; progress/example-half"
+    },
+    {
+      "id": "states/completed",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/states--completed.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; states/completed"
+    },
+    {
+      "id": "states/elite",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/states--elite.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; states/elite"
+    },
+    {
+      "id": "states/in-progress",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/states--in-progress.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; states/in-progress"
+    },
+    {
+      "id": "states/locked",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/badge-states/generated/states--locked.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/components/lock.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; states/locked"
+    }
+  ]
+}

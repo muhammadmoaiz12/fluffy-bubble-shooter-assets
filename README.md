@@ -316,3 +316,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 [Browse all five cannon evolution families](stages/stage-07-cannon-upgrades/v1/README.md)
 
 ![All 25 cannon tiers](stages/stage-07-cannon-upgrades/v1/collection-overview.jpg)
+
+
+<!-- stage-08-achievements:start -->
+## Achievements, Badges & Mastery
+
+[Browse all seven section boards and every individual asset](stages/stage-08-achievements/v1/README.md) · **191 masters** · **1146 PNG/WebP exports**. Original family, cannon and economy artwork preserved. Personal prestige is solo cosmetic progression.
+
+![Achievement section boards](stages/stage-08-achievements/v1/overview.jpg)
+<!-- stage-08-achievements:end -->

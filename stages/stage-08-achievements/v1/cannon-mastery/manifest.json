@@ -1,0 +1,2984 @@
+{
+  "schema_version": 1,
+  "section": "cannon-mastery",
+  "asset_count": 37,
+  "export_count": 222,
+  "assets": [
+    {
+      "id": "badges/bloom-launcher/grade-01",
+      "master": "masters/badges/bloom-launcher/grade-01.png",
+      "exports": [
+        "gameplay/badges/bloom-launcher/grade-01-128.png",
+        "gameplay/badges/bloom-launcher/grade-01-128.webp",
+        "gameplay/badges/bloom-launcher/grade-01-256.png",
+        "gameplay/badges/bloom-launcher/grade-01-256.webp",
+        "gameplay/badges/bloom-launcher/grade-01-512.png",
+        "gameplay/badges/bloom-launcher/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+        },
+        "input_sha256": "3033e99f214aa9ad529103369805ec0748f5c056de87a106a2d675184a9097ef"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/bloom-launcher/grade-02",
+      "master": "masters/badges/bloom-launcher/grade-02.png",
+      "exports": [
+        "gameplay/badges/bloom-launcher/grade-02-128.png",
+        "gameplay/badges/bloom-launcher/grade-02-128.webp",
+        "gameplay/badges/bloom-launcher/grade-02-256.png",
+        "gameplay/badges/bloom-launcher/grade-02-256.webp",
+        "gameplay/badges/bloom-launcher/grade-02-512.png",
+        "gameplay/badges/bloom-launcher/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+        },
+        "input_sha256": "3562b0ec3105b0fbcbb5f30ec74b5a7b0c7b81e7fe12ade0cdbefa4a79388155"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/bloom-launcher/grade-03",
+      "master": "masters/badges/bloom-launcher/grade-03.png",
+      "exports": [
+        "gameplay/badges/bloom-launcher/grade-03-128.png",
+        "gameplay/badges/bloom-launcher/grade-03-128.webp",
+        "gameplay/badges/bloom-launcher/grade-03-256.png",
+        "gameplay/badges/bloom-launcher/grade-03-256.webp",
+        "gameplay/badges/bloom-launcher/grade-03-512.png",
+        "gameplay/badges/bloom-launcher/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+        },
+        "input_sha256": "17d35cf931d5a2907ec4721ed1daf19bd5bd4b5efe7c8386dcf0ea3fdbb67f41"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/bloom-launcher/grade-04",
+      "master": "masters/badges/bloom-launcher/grade-04.png",
+      "exports": [
+        "gameplay/badges/bloom-launcher/grade-04-128.png",
+        "gameplay/badges/bloom-launcher/grade-04-128.webp",
+        "gameplay/badges/bloom-launcher/grade-04-256.png",
+        "gameplay/badges/bloom-launcher/grade-04-256.webp",
+        "gameplay/badges/bloom-launcher/grade-04-512.png",
+        "gameplay/badges/bloom-launcher/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+        },
+        "input_sha256": "c4037558c9789a316e63a26bf1b53c2be10a10d246966d697c99247ebd297f58"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/bloom-launcher/grade-05",
+      "master": "masters/badges/bloom-launcher/grade-05.png",
+      "exports": [
+        "gameplay/badges/bloom-launcher/grade-05-128.png",
+        "gameplay/badges/bloom-launcher/grade-05-128.webp",
+        "gameplay/badges/bloom-launcher/grade-05-256.png",
+        "gameplay/badges/bloom-launcher/grade-05-256.webp",
+        "gameplay/badges/bloom-launcher/grade-05-512.png",
+        "gameplay/badges/bloom-launcher/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+        },
+        "input_sha256": "2a0f6cfb6cc9cde08c3330816b8a22ee66ebb4a88ef3b2c8293f898b6f805af3"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/cloud-sling/grade-01",
+      "master": "masters/badges/cloud-sling/grade-01.png",
+      "exports": [
+        "gameplay/badges/cloud-sling/grade-01-128.png",
+        "gameplay/badges/cloud-sling/grade-01-128.webp",
+        "gameplay/badges/cloud-sling/grade-01-256.png",
+        "gameplay/badges/cloud-sling/grade-01-256.webp",
+        "gameplay/badges/cloud-sling/grade-01-512.png",
+        "gameplay/badges/cloud-sling/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+        },
+        "input_sha256": "6d90bb409100db1786deeafbd82759581788b6a718f75abef68a458637b2cc02"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/cloud-sling/grade-02",
+      "master": "masters/badges/cloud-sling/grade-02.png",
+      "exports": [
+        "gameplay/badges/cloud-sling/grade-02-128.png",
+        "gameplay/badges/cloud-sling/grade-02-128.webp",
+        "gameplay/badges/cloud-sling/grade-02-256.png",
+        "gameplay/badges/cloud-sling/grade-02-256.webp",
+        "gameplay/badges/cloud-sling/grade-02-512.png",
+        "gameplay/badges/cloud-sling/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+        },
+        "input_sha256": "d02113b6b3d39215469f88b441b16339fa0c26522d0e08a2bf65cc488f6b1d48"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/cloud-sling/grade-03",
+      "master": "masters/badges/cloud-sling/grade-03.png",
+      "exports": [
+        "gameplay/badges/cloud-sling/grade-03-128.png",
+        "gameplay/badges/cloud-sling/grade-03-128.webp",
+        "gameplay/badges/cloud-sling/grade-03-256.png",
+        "gameplay/badges/cloud-sling/grade-03-256.webp",
+        "gameplay/badges/cloud-sling/grade-03-512.png",
+        "gameplay/badges/cloud-sling/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+        },
+        "input_sha256": "928c8cea7982d3a813730555c22bc3d793268cfe530ef42aacbdae62569fb5de"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/cloud-sling/grade-04",
+      "master": "masters/badges/cloud-sling/grade-04.png",
+      "exports": [
+        "gameplay/badges/cloud-sling/grade-04-128.png",
+        "gameplay/badges/cloud-sling/grade-04-128.webp",
+        "gameplay/badges/cloud-sling/grade-04-256.png",
+        "gameplay/badges/cloud-sling/grade-04-256.webp",
+        "gameplay/badges/cloud-sling/grade-04-512.png",
+        "gameplay/badges/cloud-sling/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+        },
+        "input_sha256": "cb062a7a9077d68ae3a9c82d1cba97e483f34594bd0421398edc7e3875470583"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/cloud-sling/grade-05",
+      "master": "masters/badges/cloud-sling/grade-05.png",
+      "exports": [
+        "gameplay/badges/cloud-sling/grade-05-128.png",
+        "gameplay/badges/cloud-sling/grade-05-128.webp",
+        "gameplay/badges/cloud-sling/grade-05-256.png",
+        "gameplay/badges/cloud-sling/grade-05-256.webp",
+        "gameplay/badges/cloud-sling/grade-05-512.png",
+        "gameplay/badges/cloud-sling/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+        },
+        "input_sha256": "3ca3506afc912116add17812452b7fd8a66e43da54a7bd304a7515eb70d415e8"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-01",
+      "master": "masters/badges/moonlight-cannon/grade-01.png",
+      "exports": [
+        "gameplay/badges/moonlight-cannon/grade-01-128.png",
+        "gameplay/badges/moonlight-cannon/grade-01-128.webp",
+        "gameplay/badges/moonlight-cannon/grade-01-256.png",
+        "gameplay/badges/moonlight-cannon/grade-01-256.webp",
+        "gameplay/badges/moonlight-cannon/grade-01-512.png",
+        "gameplay/badges/moonlight-cannon/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+        },
+        "input_sha256": "729fde631a1163a434a9f521ae373973759b730de039382a27825852b715465c"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-02",
+      "master": "masters/badges/moonlight-cannon/grade-02.png",
+      "exports": [
+        "gameplay/badges/moonlight-cannon/grade-02-128.png",
+        "gameplay/badges/moonlight-cannon/grade-02-128.webp",
+        "gameplay/badges/moonlight-cannon/grade-02-256.png",
+        "gameplay/badges/moonlight-cannon/grade-02-256.webp",
+        "gameplay/badges/moonlight-cannon/grade-02-512.png",
+        "gameplay/badges/moonlight-cannon/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+        },
+        "input_sha256": "16f62c53999473a9ea4200d98bd8ad91d0615d7749b72e694619682095efae79"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-03",
+      "master": "masters/badges/moonlight-cannon/grade-03.png",
+      "exports": [
+        "gameplay/badges/moonlight-cannon/grade-03-128.png",
+        "gameplay/badges/moonlight-cannon/grade-03-128.webp",
+        "gameplay/badges/moonlight-cannon/grade-03-256.png",
+        "gameplay/badges/moonlight-cannon/grade-03-256.webp",
+        "gameplay/badges/moonlight-cannon/grade-03-512.png",
+        "gameplay/badges/moonlight-cannon/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+        },
+        "input_sha256": "6fe09bfddd1e772fd748e2154fb5570bbd6eee2af47aedd32cee692ce787fc8b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-04",
+      "master": "masters/badges/moonlight-cannon/grade-04.png",
+      "exports": [
+        "gameplay/badges/moonlight-cannon/grade-04-128.png",
+        "gameplay/badges/moonlight-cannon/grade-04-128.webp",
+        "gameplay/badges/moonlight-cannon/grade-04-256.png",
+        "gameplay/badges/moonlight-cannon/grade-04-256.webp",
+        "gameplay/badges/moonlight-cannon/grade-04-512.png",
+        "gameplay/badges/moonlight-cannon/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+        },
+        "input_sha256": "b95a885d9eb89176e7d944eb9b14edf7597318f85db777e583a6018d30b4ebdd"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-05",
+      "master": "masters/badges/moonlight-cannon/grade-05.png",
+      "exports": [
+        "gameplay/badges/moonlight-cannon/grade-05-128.png",
+        "gameplay/badges/moonlight-cannon/grade-05-128.webp",
+        "gameplay/badges/moonlight-cannon/grade-05-256.png",
+        "gameplay/badges/moonlight-cannon/grade-05-256.webp",
+        "gameplay/badges/moonlight-cannon/grade-05-512.png",
+        "gameplay/badges/moonlight-cannon/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+        },
+        "input_sha256": "5036ec0a60a95e23ce401e1e90425335226f02fa25386ca4341a20fc9dbc8aed"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-01",
+      "master": "masters/badges/rainbow-launcher/grade-01.png",
+      "exports": [
+        "gameplay/badges/rainbow-launcher/grade-01-128.png",
+        "gameplay/badges/rainbow-launcher/grade-01-128.webp",
+        "gameplay/badges/rainbow-launcher/grade-01-256.png",
+        "gameplay/badges/rainbow-launcher/grade-01-256.webp",
+        "gameplay/badges/rainbow-launcher/grade-01-512.png",
+        "gameplay/badges/rainbow-launcher/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+        },
+        "input_sha256": "4d269af09f70249288830a95fe6c813cdc5e199c5b819807f8f091e80d75583d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-02",
+      "master": "masters/badges/rainbow-launcher/grade-02.png",
+      "exports": [
+        "gameplay/badges/rainbow-launcher/grade-02-128.png",
+        "gameplay/badges/rainbow-launcher/grade-02-128.webp",
+        "gameplay/badges/rainbow-launcher/grade-02-256.png",
+        "gameplay/badges/rainbow-launcher/grade-02-256.webp",
+        "gameplay/badges/rainbow-launcher/grade-02-512.png",
+        "gameplay/badges/rainbow-launcher/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+        },
+        "input_sha256": "a2245b6ebf738e4a905517f6aca19be0602f0385372e2ef394b9a29b17954ed6"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-03",
+      "master": "masters/badges/rainbow-launcher/grade-03.png",
+      "exports": [
+        "gameplay/badges/rainbow-launcher/grade-03-128.png",
+        "gameplay/badges/rainbow-launcher/grade-03-128.webp",
+        "gameplay/badges/rainbow-launcher/grade-03-256.png",
+        "gameplay/badges/rainbow-launcher/grade-03-256.webp",
+        "gameplay/badges/rainbow-launcher/grade-03-512.png",
+        "gameplay/badges/rainbow-launcher/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+        },
+        "input_sha256": "958dbe19c28329e7a54c85cca0b53e9d81f264ede29ee0ea465ba6fd9332722a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-04",
+      "master": "masters/badges/rainbow-launcher/grade-04.png",
+      "exports": [
+        "gameplay/badges/rainbow-launcher/grade-04-128.png",
+        "gameplay/badges/rainbow-launcher/grade-04-128.webp",
+        "gameplay/badges/rainbow-launcher/grade-04-256.png",
+        "gameplay/badges/rainbow-launcher/grade-04-256.webp",
+        "gameplay/badges/rainbow-launcher/grade-04-512.png",
+        "gameplay/badges/rainbow-launcher/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+        },
+        "input_sha256": "3e8c3c6b6d426357d148b48a4fe2528455e6470e037102e3ec0784f6184dcf8a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-05",
+      "master": "masters/badges/rainbow-launcher/grade-05.png",
+      "exports": [
+        "gameplay/badges/rainbow-launcher/grade-05-128.png",
+        "gameplay/badges/rainbow-launcher/grade-05-128.webp",
+        "gameplay/badges/rainbow-launcher/grade-05-256.png",
+        "gameplay/badges/rainbow-launcher/grade-05-256.webp",
+        "gameplay/badges/rainbow-launcher/grade-05-512.png",
+        "gameplay/badges/rainbow-launcher/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+        },
+        "input_sha256": "34da845d9c5b8c6ba8d9324a48c22ea483519d8964b7faa03c63c0fc00fde92f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/starburst-cannon/grade-01",
+      "master": "masters/badges/starburst-cannon/grade-01.png",
+      "exports": [
+        "gameplay/badges/starburst-cannon/grade-01-128.png",
+        "gameplay/badges/starburst-cannon/grade-01-128.webp",
+        "gameplay/badges/starburst-cannon/grade-01-256.png",
+        "gameplay/badges/starburst-cannon/grade-01-256.webp",
+        "gameplay/badges/starburst-cannon/grade-01-512.png",
+        "gameplay/badges/starburst-cannon/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+        },
+        "input_sha256": "4ce83b59f2b25bde0c87a7f1dd15c202d4f22ff4645189f29636825a392e4b14"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/starburst-cannon/grade-02",
+      "master": "masters/badges/starburst-cannon/grade-02.png",
+      "exports": [
+        "gameplay/badges/starburst-cannon/grade-02-128.png",
+        "gameplay/badges/starburst-cannon/grade-02-128.webp",
+        "gameplay/badges/starburst-cannon/grade-02-256.png",
+        "gameplay/badges/starburst-cannon/grade-02-256.webp",
+        "gameplay/badges/starburst-cannon/grade-02-512.png",
+        "gameplay/badges/starburst-cannon/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+        },
+        "input_sha256": "220113789e68966cd303f276b582f190bde0a4e698e99d48526a7d23ea98f28a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/starburst-cannon/grade-03",
+      "master": "masters/badges/starburst-cannon/grade-03.png",
+      "exports": [
+        "gameplay/badges/starburst-cannon/grade-03-128.png",
+        "gameplay/badges/starburst-cannon/grade-03-128.webp",
+        "gameplay/badges/starburst-cannon/grade-03-256.png",
+        "gameplay/badges/starburst-cannon/grade-03-256.webp",
+        "gameplay/badges/starburst-cannon/grade-03-512.png",
+        "gameplay/badges/starburst-cannon/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+        },
+        "input_sha256": "09f443bcb7f844e454658709f04b394321e9aa0a3a16079f8f1014996ad7995b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/starburst-cannon/grade-04",
+      "master": "masters/badges/starburst-cannon/grade-04.png",
+      "exports": [
+        "gameplay/badges/starburst-cannon/grade-04-128.png",
+        "gameplay/badges/starburst-cannon/grade-04-128.webp",
+        "gameplay/badges/starburst-cannon/grade-04-256.png",
+        "gameplay/badges/starburst-cannon/grade-04-256.webp",
+        "gameplay/badges/starburst-cannon/grade-04-512.png",
+        "gameplay/badges/starburst-cannon/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+        },
+        "input_sha256": "b0bc22ad3d35b8be31a3b88062a537ab9f68e9cb093e29d492580a98acd7170a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/starburst-cannon/grade-05",
+      "master": "masters/badges/starburst-cannon/grade-05.png",
+      "exports": [
+        "gameplay/badges/starburst-cannon/grade-05-128.png",
+        "gameplay/badges/starburst-cannon/grade-05-128.webp",
+        "gameplay/badges/starburst-cannon/grade-05-256.png",
+        "gameplay/badges/starburst-cannon/grade-05-256.webp",
+        "gameplay/badges/starburst-cannon/grade-05-512.png",
+        "gameplay/badges/starburst-cannon/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+        },
+        "input_sha256": "6ef6df530e2f85c87e50c260bd915aeb2f6b4b413d69274c04ac16206763b06c"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "category/cannon-mastery",
+      "master": "masters/category/cannon-mastery.png",
+      "exports": [
+        "gameplay/category/cannon-mastery-128.png",
+        "gameplay/category/cannon-mastery-128.webp",
+        "gameplay/category/cannon-mastery-256.png",
+        "gameplay/category/cannon-mastery-256.webp",
+        "gameplay/category/cannon-mastery-512.png",
+        "gameplay/category/cannon-mastery-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+        },
+        "input_sha256": "4b4c749af99a2b7afc03d3238727e4ff2eef2ba41e05a78cafeb247ca941041c"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/star-emblem",
+      "master": "masters/components/star-emblem.png",
+      "exports": [
+        "gameplay/components/star-emblem-128.png",
+        "gameplay/components/star-emblem-128.webp",
+        "gameplay/components/star-emblem-256.png",
+        "gameplay/components/star-emblem-256.webp",
+        "gameplay/components/star-emblem-512.png",
+        "gameplay/components/star-emblem-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        79,
+        962,
+        944
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-01",
+      "master": "masters/grades/grade-01.png",
+      "exports": [
+        "gameplay/grades/grade-01-128.png",
+        "gameplay/grades/grade-01-128.webp",
+        "gameplay/grades/grade-01-256.png",
+        "gameplay/grades/grade-01-256.webp",
+        "gameplay/grades/grade-01-512.png",
+        "gameplay/grades/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+        },
+        "input_sha256": "b4c006074ed787e0c2b737019a187e03032f2317d46261c121723f866526318b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-02",
+      "master": "masters/grades/grade-02.png",
+      "exports": [
+        "gameplay/grades/grade-02-128.png",
+        "gameplay/grades/grade-02-128.webp",
+        "gameplay/grades/grade-02-256.png",
+        "gameplay/grades/grade-02-256.webp",
+        "gameplay/grades/grade-02-512.png",
+        "gameplay/grades/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+        },
+        "input_sha256": "c2ece6848f2d41dc9a1551ea930763f61f38cb85696f544fdeea397d69e4ef60"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-03",
+      "master": "masters/grades/grade-03.png",
+      "exports": [
+        "gameplay/grades/grade-03-128.png",
+        "gameplay/grades/grade-03-128.webp",
+        "gameplay/grades/grade-03-256.png",
+        "gameplay/grades/grade-03-256.webp",
+        "gameplay/grades/grade-03-512.png",
+        "gameplay/grades/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+        },
+        "input_sha256": "732300ee2cd8948a08577ff0fed1fefc2b4ff14ab8ce0529e3fae237da890da1"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-04",
+      "master": "masters/grades/grade-04.png",
+      "exports": [
+        "gameplay/grades/grade-04-128.png",
+        "gameplay/grades/grade-04-128.webp",
+        "gameplay/grades/grade-04-256.png",
+        "gameplay/grades/grade-04-256.webp",
+        "gameplay/grades/grade-04-512.png",
+        "gameplay/grades/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+        },
+        "input_sha256": "3011b54dcfac9fcf267c2f4023b920fb26396b17029436b4f7a17b73f60d02a0"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-05",
+      "master": "masters/grades/grade-05.png",
+      "exports": [
+        "gameplay/grades/grade-05-128.png",
+        "gameplay/grades/grade-05-128.webp",
+        "gameplay/grades/grade-05-256.png",
+        "gameplay/grades/grade-05-256.webp",
+        "gameplay/grades/grade-05-512.png",
+        "gameplay/grades/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+        },
+        "input_sha256": "d66d407307472ebaf756ae12fc1fe9a3098b1dde9f9ceae227c3720fa56693a2"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/bloom-launcher",
+      "master": "masters/portraits/bloom-launcher.png",
+      "exports": [
+        "gameplay/portraits/bloom-launcher-128.png",
+        "gameplay/portraits/bloom-launcher-128.webp",
+        "gameplay/portraits/bloom-launcher-256.png",
+        "gameplay/portraits/bloom-launcher-256.webp",
+        "gameplay/portraits/bloom-launcher-512.png",
+        "gameplay/portraits/bloom-launcher-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        74,
+        942,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/cloud-sling",
+      "master": "masters/portraits/cloud-sling.png",
+      "exports": [
+        "gameplay/portraits/cloud-sling-128.png",
+        "gameplay/portraits/cloud-sling-128.webp",
+        "gameplay/portraits/cloud-sling-256.png",
+        "gameplay/portraits/cloud-sling-256.webp",
+        "gameplay/portraits/cloud-sling-512.png",
+        "gameplay/portraits/cloud-sling-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        94,
+        62,
+        929,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/moonlight-cannon",
+      "master": "masters/portraits/moonlight-cannon.png",
+      "exports": [
+        "gameplay/portraits/moonlight-cannon-128.png",
+        "gameplay/portraits/moonlight-cannon-128.webp",
+        "gameplay/portraits/moonlight-cannon-256.png",
+        "gameplay/portraits/moonlight-cannon-256.webp",
+        "gameplay/portraits/moonlight-cannon-512.png",
+        "gameplay/portraits/moonlight-cannon-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        90,
+        942,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/rainbow-launcher",
+      "master": "masters/portraits/rainbow-launcher.png",
+      "exports": [
+        "gameplay/portraits/rainbow-launcher-128.png",
+        "gameplay/portraits/rainbow-launcher-128.webp",
+        "gameplay/portraits/rainbow-launcher-256.png",
+        "gameplay/portraits/rainbow-launcher-256.webp",
+        "gameplay/portraits/rainbow-launcher-512.png",
+        "gameplay/portraits/rainbow-launcher-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        91,
+        62,
+        933,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/starburst-cannon",
+      "master": "masters/portraits/starburst-cannon.png",
+      "exports": [
+        "gameplay/portraits/starburst-cannon-128.png",
+        "gameplay/portraits/starburst-cannon-128.webp",
+        "gameplay/portraits/starburst-cannon-256.png",
+        "gameplay/portraits/starburst-cannon-256.webp",
+        "gameplay/portraits/starburst-cannon-512.png",
+        "gameplay/portraits/starburst-cannon-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        98,
+        942,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    }
+  ],
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "e81e10e1c50ed45a4cd11bcbc8a359fc2d1f14da10222f34c543989080898a1f",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "0a57cf5519a4c7c897dab1e318d451cd41bacf8a5427e3e8fe3d0260c42932a9",
+      "bytes": 10218
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-01-128.png",
+      "sha256": "13be7e972dd406ae671dd67139185312dc117e3ffca099b54bd8e3b95f6c00e4",
+      "bytes": 24239
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-01-128.webp",
+      "sha256": "1b47e66e45ca3cb4abc7f2757dd80d79c6f93767208d3a5f04562c1f026f03e3",
+      "bytes": 18842
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-01-256.png",
+      "sha256": "947e711399c5b0b6ad5132fbb07bd2f9aa60c971fe11d35cdc63b421dc1da7a5",
+      "bytes": 77776
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-01-256.webp",
+      "sha256": "5f8fc28ee06271e98a2bda05b28bd47bcd6338d5ce92e7cbbeb689da9d40f47a",
+      "bytes": 56104
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-01-512.png",
+      "sha256": "7dadac545d26fe272f53a92b03baddfff4c120805f674d20b00b545f8d4e0f33",
+      "bytes": 263572
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-01-512.webp",
+      "sha256": "30b12f5e38ba06825fa4a24f0036650566a593bd1d2fe78b0470231a264af55b",
+      "bytes": 182012
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-02-128.png",
+      "sha256": "04ff11e71e0a0ea6e7b8f45a9770f9ef546323e187365f96b55b3f00529e4aab",
+      "bytes": 24125
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-02-128.webp",
+      "sha256": "e6a45672a751f4482f116cb76cc47ef52f9dd026a305978a93e0ef77ec301a7a",
+      "bytes": 17780
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-02-256.png",
+      "sha256": "1474c860957ede02857cb98f38c605d42793c8c0ee28b0cf69885d78aef02979",
+      "bytes": 77529
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-02-256.webp",
+      "sha256": "d8403a4a40b627df964621dd90d9a0c2f3c14429f0b4c6747f8dabaabe897e03",
+      "bytes": 53856
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-02-512.png",
+      "sha256": "70a9b9edb0d50ac2af0f0cfb9b00fdc6bc2de54529fce33741744348aa070352",
+      "bytes": 261574
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-02-512.webp",
+      "sha256": "e07cc6837b1022b4d141cd88649d79b8e25fc102145f7cf7a1faf8b9c3074e20",
+      "bytes": 176396
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-03-128.png",
+      "sha256": "6ab7bd6c17b59d30eee0474a9b7834b1110155d6d07d7e7f6dee1b9fa9b8121e",
+      "bytes": 25725
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-03-128.webp",
+      "sha256": "52c331be2bf8dd3622703749a60a11d734802f5e68f8facba5be29347b1258e3",
+      "bytes": 21530
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-03-256.png",
+      "sha256": "0e02e6d0ec55bcfbb350f9f81f857e599cd39c2807e4de6edac0e431a8f0292e",
+      "bytes": 84351
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-03-256.webp",
+      "sha256": "7cb51f9af14768507286b024df72ca85015a3ae053c534da11f0f4f866da8767",
+      "bytes": 64760
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-03-512.png",
+      "sha256": "2c95864446aa4ee1ad2d0cc2087365f607dda890225db8ac133138012cbd17df",
+      "bytes": 285096
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-03-512.webp",
+      "sha256": "bf2612744400c2c34f1ddd8a87ddd7828af4a9d7a273c1264a96682d9fbb5e8c",
+      "bytes": 204270
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-04-128.png",
+      "sha256": "cde0e84d13b50596e0043e87f149f8eb177a46b232e7d2f288728bb4e20bb133",
+      "bytes": 26779
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-04-128.webp",
+      "sha256": "686792abc6fb827e891a93fe9353ffb22389d6aa52e8a932024bb56eae3c9582",
+      "bytes": 21908
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-04-256.png",
+      "sha256": "0d1444cce057a3721e098505e5083ca32bc98d09f3ef7c8002c1478403168c01",
+      "bytes": 87525
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-04-256.webp",
+      "sha256": "990bfb5fe4e6195b258c64bad98d299aa785d5df4318b654e0ad2b953f2be8fa",
+      "bytes": 65424
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-04-512.png",
+      "sha256": "65f0a27a3256b0ef5198a82633ab648dcdddb1ecf53c2a59c02341b171ee8964",
+      "bytes": 294557
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-04-512.webp",
+      "sha256": "4a785ee3ea878a0ff60603de035cce3238d6057cf98118d3210a4b778bc15303",
+      "bytes": 212116
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-05-128.png",
+      "sha256": "280ff6a18a30b6ed3e4e60f44e11ebcfd51053412fa1c7c6ea74a152917ea8f8",
+      "bytes": 24668
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-05-128.webp",
+      "sha256": "ec21fc0d2545fe1b0b868d154ed6ca364c5a06aa3145bad0d8c07219584ef033",
+      "bytes": 21256
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-05-256.png",
+      "sha256": "403a93641cf5eb4ca0ecb87d6b73b49e8eea9e744be826420c165d20006ec16b",
+      "bytes": 81683
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-05-256.webp",
+      "sha256": "559b7c81e676b5a62f300b677e0d8a47cbe7099fcff0648f9d94c33147ec9548",
+      "bytes": 63758
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-05-512.png",
+      "sha256": "955c8357eb3a0d38d621494945750639029adb5c3f2165aef8b860f2765914f1",
+      "bytes": 272664
+    },
+    {
+      "path": "gameplay/badges/bloom-launcher/grade-05-512.webp",
+      "sha256": "0ebd4ccd245f551592bbfd31b2824bd27e138d6f47eb9ac3b137b92547f814f1",
+      "bytes": 201810
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-01-128.png",
+      "sha256": "391177885729bac0538a8d48162135d9d1aaabd8c4ccc29709674e3a57c96f82",
+      "bytes": 24013
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-01-128.webp",
+      "sha256": "a47abf5a2f85424d6ca602e29fdf0be8a1104e3b3ce3103281a866c7352b0963",
+      "bytes": 18234
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-01-256.png",
+      "sha256": "3ad281e57660ae30cc726fe00303ce6f9b9a13aac4f138f58caa851032604906",
+      "bytes": 75945
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-01-256.webp",
+      "sha256": "6848728a23459a8b743e872a8aa3acceb848a1e8ee06ad1a4b08a8ce37a31011",
+      "bytes": 53314
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-01-512.png",
+      "sha256": "499160835edec6002346b24d460374ec416cb396c0c393ecb6062eac0403d4b1",
+      "bytes": 253963
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-01-512.webp",
+      "sha256": "c3d0e2e0cb61ea5e933dbdcb59e27a0ee097251290cbd536eed85edbd870f258",
+      "bytes": 172384
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-02-128.png",
+      "sha256": "770b2fba3f66e32be48b3adcb27e241826f6bb7807bbbf07bb860aad413e3b0c",
+      "bytes": 23822
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-02-128.webp",
+      "sha256": "00ae5c7cf3cf240b1da70e6a31753d86c85022cf031c9dcf5149a1b4f93cb3d5",
+      "bytes": 17090
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-02-256.png",
+      "sha256": "557d4296c64f79628ba5ffea94b7fb505f34fe70f387d8e66af3394c718cd206",
+      "bytes": 75243
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-02-256.webp",
+      "sha256": "2eff061f6163512813b93e47265a0a648e6eec2a9fdc52ac16acf0a280bf97a3",
+      "bytes": 51010
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-02-512.png",
+      "sha256": "1e92a1ad626e77ec7e12be0618ae9e7f51784da3fd0962362eb3bbdbc836542d",
+      "bytes": 251027
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-02-512.webp",
+      "sha256": "dfccbb79f9841aec1dabe613584aa902b27a266de54a82f3e5cc1bbe444d62d5",
+      "bytes": 166212
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-03-128.png",
+      "sha256": "e2069d9879a80dfd77ff1ac009c2135cf41cf7ec3ae9dfb3ed9fe2df7b819419",
+      "bytes": 25470
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-03-128.webp",
+      "sha256": "880a3c59496572597ebd18b0aebb728fa8b87df9bf4688a335c23e908852970f",
+      "bytes": 20686
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-03-256.png",
+      "sha256": "b1bd01d66a5192a745df0dafe07ce5552b1023dba84bf99f726bb1d7bfbafaea",
+      "bytes": 82505
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-03-256.webp",
+      "sha256": "4e8258969316ed234478796fe5e9324376f58294cc32477fde7db3dc509bf9e3",
+      "bytes": 61894
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-03-512.png",
+      "sha256": "fc868ca11bd3cbc9c3649956b534a72c88fe5768751599100b6a4cdbaa6ad20b",
+      "bytes": 275778
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-03-512.webp",
+      "sha256": "df8065d3c7288bd07c7a494fcd8c890ea37ed4de53b77de2b8ae43ce15c4eac0",
+      "bytes": 194462
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-04-128.png",
+      "sha256": "fa95aafef19d6c8cbc8275b6f18c04e71cf1428f8223e08305b8a9d50d2eb25b",
+      "bytes": 26499
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-04-128.webp",
+      "sha256": "696e10ce8cb9426749de767576de3938a10d179533f7824aafe5f0d02497cc2d",
+      "bytes": 21234
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-04-256.png",
+      "sha256": "a099d042360329de3a5d94c2ab71538ec6501956461cec2a5362a46dd918e9b7",
+      "bytes": 85454
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-04-256.webp",
+      "sha256": "e66ac1176413f2def0848166d2c644e85a495ecc724baee6050cfd9054db296f",
+      "bytes": 62772
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-04-512.png",
+      "sha256": "86bd23f558f7e720b32c7acd64704163d16a492a271f3e5f0c08347a4377a21d",
+      "bytes": 285047
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-04-512.webp",
+      "sha256": "5e94cd86fcf227529810302c118806382ad767a374f9369e242a5d84bad97731",
+      "bytes": 200960
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-05-128.png",
+      "sha256": "a421e402052d48907832d4a7ba60b60f0d9b8c0edcdb96e71e09fc3b84350ae9",
+      "bytes": 24566
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-05-128.webp",
+      "sha256": "dc838d2c6e103b3dd9ea1035814d1ebdf3608b20c4a4be79135774d0abcd1cdb",
+      "bytes": 20908
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-05-256.png",
+      "sha256": "eaa4ae39b5aea5b3b1233b985ca338d4a0399a6f1ef8c337d2380da5b6c82307",
+      "bytes": 80537
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-05-256.webp",
+      "sha256": "1e23a2bb76e4c5139f5a6bede00d6efcf5027e29a93165cd35a6b62a5a2c1968",
+      "bytes": 61602
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-05-512.png",
+      "sha256": "1069f9332b0aaaf4d8c7b5fef7aa25844b4ed5ba38575532a454d8f946ba2d96",
+      "bytes": 266100
+    },
+    {
+      "path": "gameplay/badges/cloud-sling/grade-05-512.webp",
+      "sha256": "970d53a6deae3cf3bd136a8677f6deacb63781a136c18b6283a67cdc5d5b8f8b",
+      "bytes": 197444
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-01-128.png",
+      "sha256": "f0d1e3c4467ca7b1ee804bc092d44468f5cb8937a6ceb994f0e802b81eac90ae",
+      "bytes": 24948
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-01-128.webp",
+      "sha256": "7890a1764984d375c08e6a646b7b04bdae0e264ab02db6f463af323df800beb9",
+      "bytes": 19118
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-01-256.png",
+      "sha256": "d03b2a5829c8711e2183e95a5c15a4cb53e5b47c86f814b8bb89a9b4a3169f1d",
+      "bytes": 80427
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-01-256.webp",
+      "sha256": "3f127094cf812e4788551899eee5a3cd68202c61e2e9d4d98d8e576f1f1075d7",
+      "bytes": 57212
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-01-512.png",
+      "sha256": "38220ada7deea87bb2ed1eaf0c9c621b2beb444fd993e8e93771aff2b9d840ec",
+      "bytes": 273131
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-01-512.webp",
+      "sha256": "06aa565e446dd60a03f385bb532709e0bccb7a8972bc1f49b57da7754bea8518",
+      "bytes": 187546
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-02-128.png",
+      "sha256": "bb87d386f85b85f67b07708ce0171159ae991370aed32325741e5d6be9e02b0f",
+      "bytes": 24688
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-02-128.webp",
+      "sha256": "21dd8b8b386a0264cd4f8d04e75eb8e43256da8eb6a087912ded2d098b044483",
+      "bytes": 17902
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-02-256.png",
+      "sha256": "6b6a6ae5e691128a8f18c447d3ae85c31c280156b64bcbea83aecdd9ac0f9ac8",
+      "bytes": 79702
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-02-256.webp",
+      "sha256": "76ba7cd923eabde6aa82578607bc4e6a9b1a6ea7275dbd1b578d31a1c07fbe14",
+      "bytes": 54802
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-02-512.png",
+      "sha256": "f65baa7e06b70ea438329091cdf2963a20285f192bd71fb51dd5100f545d895f",
+      "bytes": 270124
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-02-512.webp",
+      "sha256": "e3886d6b03a005261aa56847f68bd4fd1a1faf0e968fb73c8ddaa13a960a804c",
+      "bytes": 181320
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-03-128.png",
+      "sha256": "a7478798757c914f9799b9ba7def691d4f43685ffac7caf2f5d5b66a9e66f105",
+      "bytes": 26335
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-03-128.webp",
+      "sha256": "b46c9dc45cbc8362427548034e02934bc63732d2a20a4073a97f5e5963b040e6",
+      "bytes": 21618
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-03-256.png",
+      "sha256": "1c72cd6701b9f19d893bc0408b25a0ed7a4458586bb79658f466955590d9411d",
+      "bytes": 86850
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-03-256.webp",
+      "sha256": "30df801d52bb0a3b568894d6ca5002b6091305b15cc22cd4aa63fda9b1db42df",
+      "bytes": 65912
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-03-512.png",
+      "sha256": "a22afb7be361e8ec9b21cffb78ad7bf47e1a672f113decdf880afbcfdb66007b",
+      "bytes": 294187
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-03-512.webp",
+      "sha256": "bf1f4537a9bdf9db1ad1779983e80508d73ba9e5c18abe98bf1a1d57731d20e5",
+      "bytes": 210856
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-04-128.png",
+      "sha256": "e386f4570c6b73db18c33649f34dcc0ddacff72dadc119a3be92348a5a44c028",
+      "bytes": 27301
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-04-128.webp",
+      "sha256": "a1c643f753d4d2e1a5d554785d54f47fe40730cad32d3f2d5bfd4a3410c0e0cf",
+      "bytes": 22074
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-04-256.png",
+      "sha256": "1129ec86535b039868f53dadbef08d36285c515aeb37ebaf1811e024915cc0d2",
+      "bytes": 89642
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-04-256.webp",
+      "sha256": "c5efee4712a59daf2d1ffabc21a022640d34214aad1847b0bf3d338a712810d5",
+      "bytes": 67244
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-04-512.png",
+      "sha256": "564c3f46275201e5069164896ddf0c2761b53862d172680966ac5b59f21771b4",
+      "bytes": 303145
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-04-512.webp",
+      "sha256": "47c14ceb3f6ca70e79835cac16903ffedf1178fe70063e64cb1e195c2aa1592c",
+      "bytes": 214664
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-05-128.png",
+      "sha256": "97b196b3b302a38fcc0fa8a007ea4d6ee6a41d76f6a37ca3f87fb9dada022379",
+      "bytes": 24953
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-05-128.webp",
+      "sha256": "0e9707d754971af515fe7b9ff4e2d2458fbc7bed60a45667db759533d0591341",
+      "bytes": 21348
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-05-256.png",
+      "sha256": "20af05a4831a5cb2e87dd265bb64089227d85e52ef057a797dd78a917e723b17",
+      "bytes": 83059
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-05-256.webp",
+      "sha256": "444d181ab8657a24c1cbbea3e2dc5eb708cb58e6be0096cea7a6d70c1a7a99e6",
+      "bytes": 64398
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-05-512.png",
+      "sha256": "9883a140a3764e30f769c7f9ef0d175ed4958add793e8ebcf749952532f38ec9",
+      "bytes": 278269
+    },
+    {
+      "path": "gameplay/badges/moonlight-cannon/grade-05-512.webp",
+      "sha256": "9e3e04647758c3d12df4acbc1d8d752a4f8a3db02cff537f56abea34a3ef5bcb",
+      "bytes": 206436
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-01-128.png",
+      "sha256": "abf6193353ab0dcb986f5610637dc0a11176fbe0c3a22ea4d267d71d46307e7f",
+      "bytes": 24372
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-01-128.webp",
+      "sha256": "3bb493c445c98ec8caf16d24a39dae7a0b3d341812eaeaa18d7dbaf05b351be7",
+      "bytes": 19018
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-01-256.png",
+      "sha256": "8f7b1aa44d3269afcc4bea186981043e6d5fe104e018bd252d49f4e65315931d",
+      "bytes": 78073
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-01-256.webp",
+      "sha256": "f5a38d98bd05aa9968b49b0af9f89f833cc85bc52075b7d7f8301f86474f84b6",
+      "bytes": 56370
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-01-512.png",
+      "sha256": "9135fb92dd84364bf85f60155e3988c607c109e9179f1d5642dc66d8a6200dae",
+      "bytes": 266412
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-01-512.webp",
+      "sha256": "dcb36eab1e86a43ecf75801332836d1c996f1f9d75945c386ce831b18705d438",
+      "bytes": 182866
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-02-128.png",
+      "sha256": "24886efe9f2a86f4f1b387a54a4e30d029596e9c5f5085f2f094a842644663aa",
+      "bytes": 24197
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-02-128.webp",
+      "sha256": "18468e9d159e826db3cf9687657da7616e51f9dfc51585df068f036705221fe1",
+      "bytes": 17982
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-02-256.png",
+      "sha256": "c598e13adaf2f2a38c8ad5dfbcd3354167729758f3d371b6c1ca4a5f437dda68",
+      "bytes": 77608
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-02-256.webp",
+      "sha256": "104adadcd37d54131c615064600fa22d7d229d71a0251023b5e4fe0fa5abde40",
+      "bytes": 53972
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-02-512.png",
+      "sha256": "ba609f8212f5526c1090190e26823b74b3781c684c4f7aa6f7972a977848148d",
+      "bytes": 263718
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-02-512.webp",
+      "sha256": "657695d5fac4bac5ca2d9d9229e4ea88a3bc2375fbc6231f8a502140540c8b4c",
+      "bytes": 177540
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-03-128.png",
+      "sha256": "17b5404a47344ad365900627df246b10e0ec6d3b5a075db83cc8bae779d33076",
+      "bytes": 25768
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-03-128.webp",
+      "sha256": "cae07c38052fa979ed61fd9befbd5ad247d0829ddcfacfde07b7b1c2ced71e1c",
+      "bytes": 21618
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-03-256.png",
+      "sha256": "0f9e29dfe9c698cbe8eb65e7549cb43802540d8bc4c1d6d4a5e7076717ec2e4c",
+      "bytes": 84354
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-03-256.webp",
+      "sha256": "0d3dd1f19c9062888bd9d2e7a604d18f6f161f9dc6dd49fbcd25fb52ac5ce3c0",
+      "bytes": 64728
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-03-512.png",
+      "sha256": "84cdae7286e4079467508415711aa56a57a2584d77e3e90092b1f325f9f55f00",
+      "bytes": 287159
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-03-512.webp",
+      "sha256": "404f7994fb875668cbe45bc1df87bc4f7afb253f97001447530943185b6edf8c",
+      "bytes": 208226
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-04-128.png",
+      "sha256": "9d7a932e55a927b0b121ce5a5ec3b93dbc08251790171c35f512d8fc2c746d60",
+      "bytes": 26791
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-04-128.webp",
+      "sha256": "651eb574fa991252a3f326c2defba3eb67213545488caaace78a5dec20382e85",
+      "bytes": 21890
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-04-256.png",
+      "sha256": "fbcee225b7b3158e2a03a00e94344977af10f78d8a9413f1a8571226dcbef931",
+      "bytes": 87479
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-04-256.webp",
+      "sha256": "05fdb89d877e39b7640ed392abc7711fe6c7b763d513b3baf1c14f0ea5dc14ce",
+      "bytes": 65478
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-04-512.png",
+      "sha256": "f18a2a10e7f409c72b725cb5829d241cee929d0fcda0facf63c642c341c79307",
+      "bytes": 296331
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-04-512.webp",
+      "sha256": "8192614d60f088dd90dd96883d0696ff260ea42ecc2291fc4e9a05c2d77a870f",
+      "bytes": 211644
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-05-128.png",
+      "sha256": "eb0ac98da2ac9f963e2b1190ac5eece33b9fa64163f1ca657ba5cc744b5467b4",
+      "bytes": 24668
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-05-128.webp",
+      "sha256": "986439a1d99e5d114c2484e4a4b3337292de44fbb54c4a824f95b2e7966cc3f8",
+      "bytes": 21314
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-05-256.png",
+      "sha256": "8650f9371a7e38922c4fd609a5bde452ab04c3e0ff7dfe964c5f8a06b7d2cb39",
+      "bytes": 81547
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-05-256.webp",
+      "sha256": "84a7ac92285ae8b2da40da54bf00947f24312ab15aca0d657e2db8d1c1f70fd1",
+      "bytes": 63240
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-05-512.png",
+      "sha256": "42815a40743dc170cc5f36ccdcfc008f6883b35aa42fe7effb4ba34aad4b3ce6",
+      "bytes": 272983
+    },
+    {
+      "path": "gameplay/badges/rainbow-launcher/grade-05-512.webp",
+      "sha256": "64d8ed20abade805c987a8dbd936c810a52e2e2ba416197d37c7fda26334c0eb",
+      "bytes": 201732
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-01-128.png",
+      "sha256": "4dffd82381f1fdcf9c088b3ecd9ed0a72f0c1f942547960b4b6be27ad36d5b7e",
+      "bytes": 24209
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-01-128.webp",
+      "sha256": "92643f20e93e78a638fa2e3ac76bf572c9afc0605a7f16125d043c357d7a48fe",
+      "bytes": 18976
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-01-256.png",
+      "sha256": "2b41e2201c3369f00e56fab4307c7eda98fbe462a29aa80b7867c1d9425e4deb",
+      "bytes": 77836
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-01-256.webp",
+      "sha256": "35dc871413cc4bf0b5c4788e2b6bded2916f54eec872335221cc6c79c640eada",
+      "bytes": 55910
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-01-512.png",
+      "sha256": "c39624b37e0c23a9225e8c590f58409a10654d9572f3c0b2075dea2446dfe609",
+      "bytes": 264251
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-01-512.webp",
+      "sha256": "613c4343b61391b93af2ae45390766953abf754b3da09fed05899ec6aba38dce",
+      "bytes": 181502
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-02-128.png",
+      "sha256": "3fb267feb663cd4b6afc9d6c2c7dbd1fd63dc39c99da81737daadf0ccc2626ad",
+      "bytes": 24057
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-02-128.webp",
+      "sha256": "2cfbe54044e6dfa46d7be59d650f69310960d0a1979cc14756041cdc8985e501",
+      "bytes": 17774
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-02-256.png",
+      "sha256": "bc04e0214fe26861e0024ee0df3bcaaad205623ff4089c0fe9df4161aa520bf4",
+      "bytes": 77297
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-02-256.webp",
+      "sha256": "6b58c113bbead7b340e49849b911184c7dd282baecd0946b876611a4bd41f33b",
+      "bytes": 53736
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-02-512.png",
+      "sha256": "3c3d8a925164cbe5d4e046d4e2faddcb613026b2d58bc51a6dd7cccc7fbf93eb",
+      "bytes": 261817
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-02-512.webp",
+      "sha256": "48b13b154fd1c2c537167cdaf9fb754b18f9564e6e5329bf8f53c2be4e0a1eb6",
+      "bytes": 176238
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-03-128.png",
+      "sha256": "32625a25bcffd2fda9f08e0727ff2b748584eb414ac3c71309cbc2f23e45d378",
+      "bytes": 25693
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-03-128.webp",
+      "sha256": "b7c62f627f0f9ee0f66ecb4edb58816c0c62ea6ff619e11d164e4a6b57e6ee39",
+      "bytes": 21364
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-03-256.png",
+      "sha256": "b9f4a3b475145b77fad73a471f938ee26ce26e69dc24c9dee5325bfd048e5571",
+      "bytes": 84292
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-03-256.webp",
+      "sha256": "2212b11ef25e75085336983558c35fff504831df8ac1dfa1fa4a51fc22b59db9",
+      "bytes": 64406
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-03-512.png",
+      "sha256": "76ca4fdd43dcd6fc1434e8138c7bf69727b32541f0de348bac2c39e28a6f7d15",
+      "bytes": 285434
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-03-512.webp",
+      "sha256": "0a61e0fd8c31822eeef46bbe642ca32625165db9ad158f45cd8f0a6be10528a9",
+      "bytes": 205976
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-04-128.png",
+      "sha256": "76eb918ab02cb2b766563c576baab0f5ae632a7e7757371aba4bace4f12391a3",
+      "bytes": 26699
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-04-128.webp",
+      "sha256": "3fc34ddba6d3416e50f717bf8eb6f3fb23e4ef88acecb7680033c96172e06c94",
+      "bytes": 21720
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-04-256.png",
+      "sha256": "4140ec7adf9407ac474066021cfe82ba848e9ef0c91b78f03d4878b05ca13320",
+      "bytes": 87376
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-04-256.webp",
+      "sha256": "b9c38befd4b59cb88462d6ea862f4ab24fe3ac3b35209b420e9d57044bee8b8d",
+      "bytes": 65394
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-04-512.png",
+      "sha256": "fc871dae3f57969e9dc6b04ff0db763d424a61a544d5e9bc771e9471b8f53922",
+      "bytes": 294801
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-04-512.webp",
+      "sha256": "5a304c5e5b31ae038e24492f5c26c5ada1fe5db2a2d8fa83f70b7776c240f0bb",
+      "bytes": 210892
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-05-128.png",
+      "sha256": "d85beb5d2398dc75c237fe293551fd0f0e98f3d4ffef828d9304ebc1cd4e6803",
+      "bytes": 24678
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-05-128.webp",
+      "sha256": "7a25be4450f230900bb5354c4ea614b44facec57bd7d915c2a8c9bbb9bab1474",
+      "bytes": 21266
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-05-256.png",
+      "sha256": "be5e40157aeab5894a6f38128fa1323ecc9b5dd5ee2e5855433a7bec4e5e1645",
+      "bytes": 81577
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-05-256.webp",
+      "sha256": "417ec65496ed9f434338d29312dea41b2446b548f7e48166eea87535853af948",
+      "bytes": 63640
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-05-512.png",
+      "sha256": "9acecb42e9eceab8b81bcfb5c779e5451ff68492135fb7778c6a28e601f162b5",
+      "bytes": 272801
+    },
+    {
+      "path": "gameplay/badges/starburst-cannon/grade-05-512.webp",
+      "sha256": "bdffdf2a4429bce41d2024db4f69c36a9f9520192e6c82624d7c3102b598bf98",
+      "bytes": 202452
+    },
+    {
+      "path": "gameplay/category/cannon-mastery-128.png",
+      "sha256": "8daa2f3d57f9ac1821be9b357d5f44b0d9ea1d8c5dd27bbc50fded85db14208d",
+      "bytes": 24580
+    },
+    {
+      "path": "gameplay/category/cannon-mastery-128.webp",
+      "sha256": "02cc56e95468f17f0a7e6e8fb40ae4d743cb36f8bba67637c071ef96f85a3dfa",
+      "bytes": 20910
+    },
+    {
+      "path": "gameplay/category/cannon-mastery-256.png",
+      "sha256": "2544426164e54d34fcd731b641e5dac8a0de2eec26efe3622ed320714a44b2da",
+      "bytes": 80676
+    },
+    {
+      "path": "gameplay/category/cannon-mastery-256.webp",
+      "sha256": "767f9508fa428c9ef549610dd5b94015c248d2a2c07378aba018aa69c45825af",
+      "bytes": 61894
+    },
+    {
+      "path": "gameplay/category/cannon-mastery-512.png",
+      "sha256": "94b264c8ed70f7139dd8f8af8bc87f5502026d4003d890645c8528b6f2c90c52",
+      "bytes": 266894
+    },
+    {
+      "path": "gameplay/category/cannon-mastery-512.webp",
+      "sha256": "eaf840eab293eb353c09d5f7056e8289b3b0dc7f87a93e3cf27106e23ecdcb5e",
+      "bytes": 197662
+    },
+    {
+      "path": "gameplay/components/star-emblem-128.png",
+      "sha256": "38e3b56ec0ef1adfc6f500880ee46711c7116d3f3162ab100783e7e4b51fbf5b",
+      "bytes": 16010
+    },
+    {
+      "path": "gameplay/components/star-emblem-128.webp",
+      "sha256": "4a98f3014e6e2fd651619e755b67b02f7f0723eb3eb96a36a5c87c65d4a57675",
+      "bytes": 11532
+    },
+    {
+      "path": "gameplay/components/star-emblem-256.png",
+      "sha256": "4ad951698c6b098ebbe1dd633e99fe3dcd7116d8d2e1451bff35f4df058b245b",
+      "bytes": 49709
+    },
+    {
+      "path": "gameplay/components/star-emblem-256.webp",
+      "sha256": "a95bc2a2ebf83e1aeff0a9bd4ab40a443d9600ba9bf3f1b6ca3e39acdad8c67f",
+      "bytes": 32628
+    },
+    {
+      "path": "gameplay/components/star-emblem-512.png",
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736",
+      "bytes": 169778
+    },
+    {
+      "path": "gameplay/components/star-emblem-512.webp",
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e",
+      "bytes": 107632
+    },
+    {
+      "path": "gameplay/grades/grade-01-128.png",
+      "sha256": "da1b611c860da6295345573fc45e1147c48ba20157956fb43b9db00dc761963b",
+      "bytes": 20990
+    },
+    {
+      "path": "gameplay/grades/grade-01-128.webp",
+      "sha256": "5b35579adbe11cf384f549629833726a93e0c96534c2ae38ab01723e65c67dc1",
+      "bytes": 15524
+    },
+    {
+      "path": "gameplay/grades/grade-01-256.png",
+      "sha256": "89eeedd944e312c9968020372536c94d4194952b40feee6889271fb191ebce55",
+      "bytes": 64836
+    },
+    {
+      "path": "gameplay/grades/grade-01-256.webp",
+      "sha256": "168c26dff6317b2a00a61a368b18a1ebab14aa7317e48a37694bf6bef037f60f",
+      "bytes": 44150
+    },
+    {
+      "path": "gameplay/grades/grade-01-512.png",
+      "sha256": "302e1797ef0cdb77a1d9064498ab65d5bde3c52b1603bec2062a98e145481d24",
+      "bytes": 216980
+    },
+    {
+      "path": "gameplay/grades/grade-01-512.webp",
+      "sha256": "9295ed641195caa850dba28596ddd31d150cb0831263067622eea39a2c295938",
+      "bytes": 144028
+    },
+    {
+      "path": "gameplay/grades/grade-02-128.png",
+      "sha256": "81b9c838959541f7a03fe86841a1d507bc6d2f1478eda72204c60b84652c6d0b",
+      "bytes": 21147
+    },
+    {
+      "path": "gameplay/grades/grade-02-128.webp",
+      "sha256": "ca9080dad60ced0983e3040c70219a43c891c67a1bb9b1f3e9b425858d8cfac5",
+      "bytes": 15062
+    },
+    {
+      "path": "gameplay/grades/grade-02-256.png",
+      "sha256": "00494ced92bc125f9419a759da9e84b9638177815936e14662241dc700b58fd6",
+      "bytes": 64966
+    },
+    {
+      "path": "gameplay/grades/grade-02-256.webp",
+      "sha256": "92c65cf2e80ef1b641816c72284f321c5b57880ad7418ad402ec414f1d1c54b1",
+      "bytes": 42884
+    },
+    {
+      "path": "gameplay/grades/grade-02-512.png",
+      "sha256": "e1cd04113af254a2f5d849cb1e789d271391b29551236a72782679611c4f9103",
+      "bytes": 216144
+    },
+    {
+      "path": "gameplay/grades/grade-02-512.webp",
+      "sha256": "6434db86e85f7a3beac33dba4bbd70e0ee762a72575eb84fba83dffc58d922ff",
+      "bytes": 138982
+    },
+    {
+      "path": "gameplay/grades/grade-03-128.png",
+      "sha256": "94d8bbfdd4f00ad1c65469831fbd6b7de0d2ee309cc099f1bed042feb273965d",
+      "bytes": 22975
+    },
+    {
+      "path": "gameplay/grades/grade-03-128.webp",
+      "sha256": "6ea11fdea3582fc3afadc71d43f95742c425dc57491b00cbd34d94d5995ad3f6",
+      "bytes": 18392
+    },
+    {
+      "path": "gameplay/grades/grade-03-256.png",
+      "sha256": "34729eaa591ae2e44044735a663fe8814519eb5fa34104c9c6f5fdaf614d78ce",
+      "bytes": 72691
+    },
+    {
+      "path": "gameplay/grades/grade-03-256.webp",
+      "sha256": "fff1390fdb698e647a145d31f30e64d73d34117b81d912d0f4f205b4edecbc91",
+      "bytes": 53374
+    },
+    {
+      "path": "gameplay/grades/grade-03-512.png",
+      "sha256": "5782ad1bed32b4fe6c829b03ad96c76d369f81a25a7ebf95895717edb1d29e42",
+      "bytes": 241001
+    },
+    {
+      "path": "gameplay/grades/grade-03-512.webp",
+      "sha256": "89ee5f2e96e479eb8b1c21291716824f39210d7824f13deec05bd8bcbcc50223",
+      "bytes": 166832
+    },
+    {
+      "path": "gameplay/grades/grade-04-128.png",
+      "sha256": "50343fdb43ea51d122bd651d4fd0d3c8b6880c6a534b11d6de5dd3c2a7fbe4fa",
+      "bytes": 24261
+    },
+    {
+      "path": "gameplay/grades/grade-04-128.webp",
+      "sha256": "ba682be8038f317edf8982ddc4c8ac9bdc23bbfc9bab96fc8de0dff24c536edd",
+      "bytes": 19268
+    },
+    {
+      "path": "gameplay/grades/grade-04-256.png",
+      "sha256": "07944967c14fb92cf0630acec25b50a00610421867fec852ab6675529a557939",
+      "bytes": 76439
+    },
+    {
+      "path": "gameplay/grades/grade-04-256.webp",
+      "sha256": "4877188c9635065859b16eea2d8b49905ef319f4b4c9a40aa4aca245d429be5d",
+      "bytes": 54648
+    },
+    {
+      "path": "gameplay/grades/grade-04-512.png",
+      "sha256": "3d1ccb041d274a9d5f228244d885da075523626bba54e1a218e5562d631bcd12",
+      "bytes": 252491
+    },
+    {
+      "path": "gameplay/grades/grade-04-512.webp",
+      "sha256": "abab0ad98922b90e0ad818af9f52f8483a42306c48e71959bb392372abca1016",
+      "bytes": 172290
+    },
+    {
+      "path": "gameplay/grades/grade-05-128.png",
+      "sha256": "8bad9e71bfb90ab5d26cb9a65adb026cdd3a6d6605fd3b1a0a08e00527caeab1",
+      "bytes": 23207
+    },
+    {
+      "path": "gameplay/grades/grade-05-128.webp",
+      "sha256": "359673de713430d2f622610a1e59724cd995b5600a8ae198f3f978c4ee4d92c0",
+      "bytes": 19358
+    },
+    {
+      "path": "gameplay/grades/grade-05-256.png",
+      "sha256": "ccc7e067cc25e0a6d6e25cda12f3fcbe0563e693d3804721774cfbb231271832",
+      "bytes": 74818
+    },
+    {
+      "path": "gameplay/grades/grade-05-256.webp",
+      "sha256": "4cbcf6387e35dc223d0bde2db9d0dda217e2261f53acfc705af0f9a0508391df",
+      "bytes": 56416
+    },
+    {
+      "path": "gameplay/grades/grade-05-512.png",
+      "sha256": "88ba40c287fe32ba0921b5e484ae3964e8756783f2d7878c95b9d6a2668e071a",
+      "bytes": 244311
+    },
+    {
+      "path": "gameplay/grades/grade-05-512.webp",
+      "sha256": "82fd2e03e1a5caf1a3688da5173f6e3e77d6f695303d8ab8899a2492bef4b1ab",
+      "bytes": 176478
+    },
+    {
+      "path": "gameplay/portraits/bloom-launcher-128.png",
+      "sha256": "dd4d835a363377f83b18e727fa2aad006c31aca09f8348ee3dd9b3aba69f95d4",
+      "bytes": 24819
+    },
+    {
+      "path": "gameplay/portraits/bloom-launcher-128.webp",
+      "sha256": "6be94ef367cc0887a45f25f2174fe549493bc620049987f9e2dc0d2a822da5a0",
+      "bytes": 20666
+    },
+    {
+      "path": "gameplay/portraits/bloom-launcher-256.png",
+      "sha256": "f40fb570b8aeacb240ac85b5867458a408dee24adb77f1a91ebc98ea33d8e113",
+      "bytes": 82851
+    },
+    {
+      "path": "gameplay/portraits/bloom-launcher-256.webp",
+      "sha256": "3ce6e1e23a50b4fda68cea425bd8e5177bc280f7a9d377e53046413c662d4329",
+      "bytes": 62190
+    },
+    {
+      "path": "gameplay/portraits/bloom-launcher-512.png",
+      "sha256": "53abea955e935284ce275b81604be89cc7335ffb7832b5ea24d887a8d787a7d5",
+      "bytes": 281403
+    },
+    {
+      "path": "gameplay/portraits/bloom-launcher-512.webp",
+      "sha256": "6046d7536907a3ef02a8e3a9d0a92f5e597eb0ff8f6ce8df00934df99f16651c",
+      "bytes": 203152
+    },
+    {
+      "path": "gameplay/portraits/cloud-sling-128.png",
+      "sha256": "68c7439748dd2ea6d5afc13b393cfefd7fd0d7e3bc6396518b328b08bbd3a3a8",
+      "bytes": 24324
+    },
+    {
+      "path": "gameplay/portraits/cloud-sling-128.webp",
+      "sha256": "496ca9ab02e19bc0f5b9407c9c4c5bb54d0aff7fec07d3aa439bd6318cee6e72",
+      "bytes": 19036
+    },
+    {
+      "path": "gameplay/portraits/cloud-sling-256.png",
+      "sha256": "8007a375ebd7ef4b83bf3655beeccd389af2c3996b197fabbd2ebcbcec95ec0f",
+      "bytes": 79080
+    },
+    {
+      "path": "gameplay/portraits/cloud-sling-256.webp",
+      "sha256": "987db4b31c767e66472b404629b48cba88fca66c224f18cbd623a661643a5385",
+      "bytes": 56640
+    },
+    {
+      "path": "gameplay/portraits/cloud-sling-512.png",
+      "sha256": "53e93eda0d698ee5acc4076f4e31a7a30d52bec45e7ba371942217d111c60368",
+      "bytes": 272885
+    },
+    {
+      "path": "gameplay/portraits/cloud-sling-512.webp",
+      "sha256": "a375637de2aa3594c730ad2a7c79ac654347a0e7b98546a0e2c68d9433c528dc",
+      "bytes": 186510
+    },
+    {
+      "path": "gameplay/portraits/moonlight-cannon-128.png",
+      "sha256": "b651526e11e99491688a6a58f1bb3d12c3ec09436b4eb5a195298824e4e42fd4",
+      "bytes": 27927
+    },
+    {
+      "path": "gameplay/portraits/moonlight-cannon-128.webp",
+      "sha256": "0f17be5c25686fbf519f8fcea4a53433cd47b00368c55835684915b5a82b9ad5",
+      "bytes": 22552
+    },
+    {
+      "path": "gameplay/portraits/moonlight-cannon-256.png",
+      "sha256": "5602a9cc331b3479f16167faa79c41159fe1f932ca4c5397c08b6f70bd7996b5",
+      "bytes": 94077
+    },
+    {
+      "path": "gameplay/portraits/moonlight-cannon-256.webp",
+      "sha256": "03ca1518a9e41d9195e15315c1c46a2865bf980edea9ab876481febedb61b89b",
+      "bytes": 67264
+    },
+    {
+      "path": "gameplay/portraits/moonlight-cannon-512.png",
+      "sha256": "90e2358171656603188d59a71bdff320d4a2fbf829c75af580476e79e43399b2",
+      "bytes": 330279
+    },
+    {
+      "path": "gameplay/portraits/moonlight-cannon-512.webp",
+      "sha256": "f031e256b3bc6ef0ce9492cf8f16f7ddbc1c06de760f9b468ac44049d4254bd1",
+      "bytes": 226714
+    },
+    {
+      "path": "gameplay/portraits/rainbow-launcher-128.png",
+      "sha256": "5e1a8859e6b94b522af5293136ddb0ae4b040b8eae4cf41ebd0f7608a034e1e2",
+      "bytes": 26008
+    },
+    {
+      "path": "gameplay/portraits/rainbow-launcher-128.webp",
+      "sha256": "b0f660624c8d4dd21c0e2c4bb8d9a54d3b816cc9779dfe51b7ed3595f8311aef",
+      "bytes": 21160
+    },
+    {
+      "path": "gameplay/portraits/rainbow-launcher-256.png",
+      "sha256": "baf5522f378a7d584e696f3ee5decfb9bce1a566a7950bd1b22654d78b5da645",
+      "bytes": 88124
+    },
+    {
+      "path": "gameplay/portraits/rainbow-launcher-256.webp",
+      "sha256": "04e7ef11d8bbf1a51c8ba8b745276e2509e9fe473aa0822aeeb71386bb3a231a",
+      "bytes": 63092
+    },
+    {
+      "path": "gameplay/portraits/rainbow-launcher-512.png",
+      "sha256": "e23d7c6669d11a689d4da2d68b5beceb65f17e9d30407c74d13198aaab731066",
+      "bytes": 312341
+    },
+    {
+      "path": "gameplay/portraits/rainbow-launcher-512.webp",
+      "sha256": "d16c30b34a4a24541d33f4a48ff7d1481d14d4a2ca68604b88a8351dc6f57fd4",
+      "bytes": 214894
+    },
+    {
+      "path": "gameplay/portraits/starburst-cannon-128.png",
+      "sha256": "6adf6618d9eb913b25ceca34222958758d608262409a90ec1368bb7821ed4e33",
+      "bytes": 24556
+    },
+    {
+      "path": "gameplay/portraits/starburst-cannon-128.webp",
+      "sha256": "9f8ff1ecc61816a868d046b7aea081ef29bead9cc5ae01fd95759974133515c0",
+      "bytes": 20180
+    },
+    {
+      "path": "gameplay/portraits/starburst-cannon-256.png",
+      "sha256": "33e16df5ecaa590c3feb452292563e82d2ef0dce4098f49c94acd80d46a5560b",
+      "bytes": 82469
+    },
+    {
+      "path": "gameplay/portraits/starburst-cannon-256.webp",
+      "sha256": "a744d946d20d3e59c5c698d6237b669a210293ff3a5a5784fbb87d0e86189db7",
+      "bytes": 62428
+    },
+    {
+      "path": "gameplay/portraits/starburst-cannon-512.png",
+      "sha256": "5b936ea14089df350fc78d1f412b031592be3873d665f605506fa381c4ede901",
+      "bytes": 282951
+    },
+    {
+      "path": "gameplay/portraits/starburst-cannon-512.webp",
+      "sha256": "46a62c8c00bddec17ab7601be6eeb16cfa2c5ba0ad25e017e3cd019b8af27575",
+      "bytes": 200120
+    },
+    {
+      "path": "generation.json",
+      "sha256": "871b663d95cdedb2ff9e4fb6c546aae17f7829eddbc162ed4e2050d6aa1381b1",
+      "bytes": 69005
+    },
+    {
+      "path": "masters/badges/bloom-launcher/grade-01.png",
+      "sha256": "073e3495ada489894d1214c3a65afe9dd2cf88ceaa126002dc6f8862562c0e17",
+      "bytes": 929410
+    },
+    {
+      "path": "masters/badges/bloom-launcher/grade-02.png",
+      "sha256": "c9ba7d0eb7fc8e7f394896669da31060146a3edab4d1398515c43ff681970a68",
+      "bytes": 911144
+    },
+    {
+      "path": "masters/badges/bloom-launcher/grade-03.png",
+      "sha256": "84f1e6737c8f9b9f61531cf33ff77886737bbabd49d5b2a29ed3e7d974dc59e8",
+      "bytes": 988275
+    },
+    {
+      "path": "masters/badges/bloom-launcher/grade-04.png",
+      "sha256": "5a260edbef8a33bb712a84b351f93b4e4370655995afa0ca22df48f3a4a193bb",
+      "bytes": 1004269
+    },
+    {
+      "path": "masters/badges/bloom-launcher/grade-05.png",
+      "sha256": "73635011e27d57afa4b4b15997799fb2f2d940d29d80eb71017ca24fbfa61ab2",
+      "bytes": 913086
+    },
+    {
+      "path": "masters/badges/cloud-sling/grade-01.png",
+      "sha256": "94080ed831146919f7057f58f6be3675db8ca161ae65b7d6cfa4a1e625f97534",
+      "bytes": 898788
+    },
+    {
+      "path": "masters/badges/cloud-sling/grade-02.png",
+      "sha256": "7c60d84ac6f98dc10b270ce4f2dc6da83a7305536128096eb39e882625f63898",
+      "bytes": 877865
+    },
+    {
+      "path": "masters/badges/cloud-sling/grade-03.png",
+      "sha256": "873af9ebe11f19817bcad343865a7c771c779294e3d65ba1b15e99f844423a79",
+      "bytes": 959515
+    },
+    {
+      "path": "masters/badges/cloud-sling/grade-04.png",
+      "sha256": "6de8c8cdd8e987f01f86f5b744375c8384b3872c3947cf5399e52abb3c6ee473",
+      "bytes": 974856
+    },
+    {
+      "path": "masters/badges/cloud-sling/grade-05.png",
+      "sha256": "4a92cd5acda2afda870e5d96dac285a28ce8b32e2e2ea2e6f1f9f3cf5939dcfa",
+      "bytes": 891600
+    },
+    {
+      "path": "masters/badges/moonlight-cannon/grade-01.png",
+      "sha256": "57e4b7a62803be9b9913472f7b74a676288ee8c4cba63f8cd35ad534bbc613f4",
+      "bytes": 973492
+    },
+    {
+      "path": "masters/badges/moonlight-cannon/grade-02.png",
+      "sha256": "8ef37bd0fc1496e3084f24f92852cb50e893326ebd3202eb86d1aac1d89e7904",
+      "bytes": 952927
+    },
+    {
+      "path": "masters/badges/moonlight-cannon/grade-03.png",
+      "sha256": "d4d0669be962cefc0b506f3ee9f0501d9f46bae009e8aff0e1ca0bbf6d9acf48",
+      "bytes": 1033377
+    },
+    {
+      "path": "masters/badges/moonlight-cannon/grade-04.png",
+      "sha256": "e9a9da864ec9fd1ae5f7f47cbac7efbefbb17cb67c111444df4cabebd55a8871",
+      "bytes": 1046795
+    },
+    {
+      "path": "masters/badges/moonlight-cannon/grade-05.png",
+      "sha256": "83439afcd4de6220a2f7f312a5224e5c52a83ea543cd7d0e42994a10bdeca383",
+      "bytes": 941680
+    },
+    {
+      "path": "masters/badges/rainbow-launcher/grade-01.png",
+      "sha256": "24317be671ac8e3f24d11728544311605ce1511148a087f8e22223eb227218c3",
+      "bytes": 955098
+    },
+    {
+      "path": "masters/badges/rainbow-launcher/grade-02.png",
+      "sha256": "276d119e52d6ad0fe78b8b949418af3c779396c38f64bab57f33ae9ff420cc51",
+      "bytes": 934912
+    },
+    {
+      "path": "masters/badges/rainbow-launcher/grade-03.png",
+      "sha256": "9d01f27191082772d6e667091fcbf2271324e040508d9d893d7792529547c769",
+      "bytes": 1012876
+    },
+    {
+      "path": "masters/badges/rainbow-launcher/grade-04.png",
+      "sha256": "286b364c8da456e144a98af78c5acda0c3c2a6b04fa388cac5ada01a7ce395d4",
+      "bytes": 1027312
+    },
+    {
+      "path": "masters/badges/rainbow-launcher/grade-05.png",
+      "sha256": "da2860407bde98a33c32a7a62543b77e0a15cd94b4f2a5fe91f60ddb6c8f06bc",
+      "bytes": 925130
+    },
+    {
+      "path": "masters/badges/starburst-cannon/grade-01.png",
+      "sha256": "df60ca0b3e22c6e6eb1300ecce95c14e793068aafdf4653bb5bb6b9b0281f390",
+      "bytes": 932748
+    },
+    {
+      "path": "masters/badges/starburst-cannon/grade-02.png",
+      "sha256": "f973f2f2b5410279ec04298464604813f0c3ed4409e1d2174f0515dbcb867fad",
+      "bytes": 912422
+    },
+    {
+      "path": "masters/badges/starburst-cannon/grade-03.png",
+      "sha256": "5c00d293bcaab94673f1fd53decddaf3c460b03deb908144acc76181e098f080",
+      "bytes": 989504
+    },
+    {
+      "path": "masters/badges/starburst-cannon/grade-04.png",
+      "sha256": "453e2dd8fc5fcfc898f48b3705c334905fe79ee9075d32d44fbdbe60bc4e283c",
+      "bytes": 1005112
+    },
+    {
+      "path": "masters/badges/starburst-cannon/grade-05.png",
+      "sha256": "43c322d266d70c815d5ca4ff1ca6da4cef11a6f73d95eec99dc71930a379e244",
+      "bytes": 914666
+    },
+    {
+      "path": "masters/category/cannon-mastery.png",
+      "sha256": "736f9c1c21fdf326635a94852319841600f469d8d2705dbf1882267ced9ccaf4",
+      "bytes": 893968
+    },
+    {
+      "path": "masters/components/star-emblem.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "bytes": 575235
+    },
+    {
+      "path": "masters/grades/grade-01.png",
+      "sha256": "8576f424e9e1e25b504c470b762ee1cb5533149099fe4709fe37b3a9bf22a217",
+      "bytes": 768767
+    },
+    {
+      "path": "masters/grades/grade-02.png",
+      "sha256": "a8589c90af2a4d787dc9efcc7a5b3d5a2ebac163d9dd1701460a44b0b7d07130",
+      "bytes": 748762
+    },
+    {
+      "path": "masters/grades/grade-03.png",
+      "sha256": "a292522311606c6ae67cf58de1566b60774777da0a7aa130b4b1b7d280ce4a22",
+      "bytes": 830429
+    },
+    {
+      "path": "masters/grades/grade-04.png",
+      "sha256": "19d0e504cd4c88f72ff510b95b1e2fe3e7af945edcd19ce763f4fa5256237605",
+      "bytes": 849903
+    },
+    {
+      "path": "masters/grades/grade-05.png",
+      "sha256": "e52b53cd3e50bf599e4dfd91790c111afc7bc7f004838211c6648db9d1031f7c",
+      "bytes": 810361
+    },
+    {
+      "path": "masters/portraits/bloom-launcher.png",
+      "sha256": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2",
+      "bytes": 986391
+    },
+    {
+      "path": "masters/portraits/cloud-sling.png",
+      "sha256": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+      "bytes": 984095
+    },
+    {
+      "path": "masters/portraits/moonlight-cannon.png",
+      "sha256": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9",
+      "bytes": 1173313
+    },
+    {
+      "path": "masters/portraits/rainbow-launcher.png",
+      "sha256": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0",
+      "bytes": 1141807
+    },
+    {
+      "path": "masters/portraits/starburst-cannon.png",
+      "sha256": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b",
+      "bytes": 994385
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "8f4350333b93094ccdcb8f685733bcef6958354c2c978b97e1ac191e0678c909",
+      "bytes": 583841
+    },
+    {
+      "path": "section-board-concept.png",
+      "sha256": "d047fe85d701f3962ebab81faf3bc580a5c010628696fd764c6f68aa210c1aaa",
+      "bytes": 2294943
+    },
+    {
+      "path": "section-board.png",
+      "sha256": "bc1ed561d23f1062b569769ac7918fa7e2e6308b13aa919b85f2e98352798e22",
+      "bytes": 2137098
+    }
+  ],
+  "limitations": "Visual asset library only. Tier labels, progress quantities and milestone thresholds are illustrative; no gameplay rules or entitlement changes. Solo-first launch: personal prestige is cosmetic; Event Champion is future-only. Mastery badges do not alter family evolution, cannon upgrades or collision sizes. New ornaments are AI generated; approved portraits and economy art are reused. Runtime labels should remain localized text. PNG/WebP exports are not a tested game integration or animation rig."
+}

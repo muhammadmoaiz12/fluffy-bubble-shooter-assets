@@ -1,0 +1,3463 @@
+{
+  "schema_version": 1,
+  "section": "family-mastery",
+  "asset_count": 43,
+  "export_count": 258,
+  "assets": [
+    {
+      "id": "badges/mossmops/grade-01",
+      "master": "masters/badges/mossmops/grade-01.png",
+      "exports": [
+        "gameplay/badges/mossmops/grade-01-128.png",
+        "gameplay/badges/mossmops/grade-01-128.webp",
+        "gameplay/badges/mossmops/grade-01-256.png",
+        "gameplay/badges/mossmops/grade-01-256.webp",
+        "gameplay/badges/mossmops/grade-01-512.png",
+        "gameplay/badges/mossmops/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+        },
+        "input_sha256": "5835776d2aea0e8f3c890c8a47bbf2ae2b270062fbf00a36771300926a4297ff"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/mossmops/grade-02",
+      "master": "masters/badges/mossmops/grade-02.png",
+      "exports": [
+        "gameplay/badges/mossmops/grade-02-128.png",
+        "gameplay/badges/mossmops/grade-02-128.webp",
+        "gameplay/badges/mossmops/grade-02-256.png",
+        "gameplay/badges/mossmops/grade-02-256.webp",
+        "gameplay/badges/mossmops/grade-02-512.png",
+        "gameplay/badges/mossmops/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+        },
+        "input_sha256": "be558b279f4db2388897a3caca68fa1d86d1f31f66489bca31b8dbd602fb91eb"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/mossmops/grade-03",
+      "master": "masters/badges/mossmops/grade-03.png",
+      "exports": [
+        "gameplay/badges/mossmops/grade-03-128.png",
+        "gameplay/badges/mossmops/grade-03-128.webp",
+        "gameplay/badges/mossmops/grade-03-256.png",
+        "gameplay/badges/mossmops/grade-03-256.webp",
+        "gameplay/badges/mossmops/grade-03-512.png",
+        "gameplay/badges/mossmops/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+        },
+        "input_sha256": "0790ebb01f69111f4c111fed42c059e45ab57c563b8110c74790670ed404e7a8"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/mossmops/grade-04",
+      "master": "masters/badges/mossmops/grade-04.png",
+      "exports": [
+        "gameplay/badges/mossmops/grade-04-128.png",
+        "gameplay/badges/mossmops/grade-04-128.webp",
+        "gameplay/badges/mossmops/grade-04-256.png",
+        "gameplay/badges/mossmops/grade-04-256.webp",
+        "gameplay/badges/mossmops/grade-04-512.png",
+        "gameplay/badges/mossmops/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+        },
+        "input_sha256": "4198e211e5c1e45a25f3984d69aabe034e39799cecbeec6ccde0e1aed6ee856b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/mossmops/grade-05",
+      "master": "masters/badges/mossmops/grade-05.png",
+      "exports": [
+        "gameplay/badges/mossmops/grade-05-128.png",
+        "gameplay/badges/mossmops/grade-05-128.webp",
+        "gameplay/badges/mossmops/grade-05-256.png",
+        "gameplay/badges/mossmops/grade-05-256.webp",
+        "gameplay/badges/mossmops/grade-05-512.png",
+        "gameplay/badges/mossmops/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+        },
+        "input_sha256": "400765c5a81911793ff31512b77f87fd7405e0d558c32d41a3d300827d0bf0ff"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/peachpeeps/grade-01",
+      "master": "masters/badges/peachpeeps/grade-01.png",
+      "exports": [
+        "gameplay/badges/peachpeeps/grade-01-128.png",
+        "gameplay/badges/peachpeeps/grade-01-128.webp",
+        "gameplay/badges/peachpeeps/grade-01-256.png",
+        "gameplay/badges/peachpeeps/grade-01-256.webp",
+        "gameplay/badges/peachpeeps/grade-01-512.png",
+        "gameplay/badges/peachpeeps/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+        },
+        "input_sha256": "7684706b9e496a88460ee0ae1d2a062c720c7d7b74781662dd2bd0b9c0fe613a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/peachpeeps/grade-02",
+      "master": "masters/badges/peachpeeps/grade-02.png",
+      "exports": [
+        "gameplay/badges/peachpeeps/grade-02-128.png",
+        "gameplay/badges/peachpeeps/grade-02-128.webp",
+        "gameplay/badges/peachpeeps/grade-02-256.png",
+        "gameplay/badges/peachpeeps/grade-02-256.webp",
+        "gameplay/badges/peachpeeps/grade-02-512.png",
+        "gameplay/badges/peachpeeps/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+        },
+        "input_sha256": "7118d7ba3200e4d4304ee64543f671d6d2a852ec7e3164302c590546d91c60c4"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/peachpeeps/grade-03",
+      "master": "masters/badges/peachpeeps/grade-03.png",
+      "exports": [
+        "gameplay/badges/peachpeeps/grade-03-128.png",
+        "gameplay/badges/peachpeeps/grade-03-128.webp",
+        "gameplay/badges/peachpeeps/grade-03-256.png",
+        "gameplay/badges/peachpeeps/grade-03-256.webp",
+        "gameplay/badges/peachpeeps/grade-03-512.png",
+        "gameplay/badges/peachpeeps/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+        },
+        "input_sha256": "0b40380cb9f0944bdf058a197ec29f91f01810656b17b8da64ddf2a80495a946"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/peachpeeps/grade-04",
+      "master": "masters/badges/peachpeeps/grade-04.png",
+      "exports": [
+        "gameplay/badges/peachpeeps/grade-04-128.png",
+        "gameplay/badges/peachpeeps/grade-04-128.webp",
+        "gameplay/badges/peachpeeps/grade-04-256.png",
+        "gameplay/badges/peachpeeps/grade-04-256.webp",
+        "gameplay/badges/peachpeeps/grade-04-512.png",
+        "gameplay/badges/peachpeeps/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+        },
+        "input_sha256": "fd6a6d23f4c4a55bde1ab1b83128add1c9f6d1ff41906445d58e6c1fbebd1636"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/peachpeeps/grade-05",
+      "master": "masters/badges/peachpeeps/grade-05.png",
+      "exports": [
+        "gameplay/badges/peachpeeps/grade-05-128.png",
+        "gameplay/badges/peachpeeps/grade-05-128.webp",
+        "gameplay/badges/peachpeeps/grade-05-256.png",
+        "gameplay/badges/peachpeeps/grade-05-256.webp",
+        "gameplay/badges/peachpeeps/grade-05-512.png",
+        "gameplay/badges/peachpeeps/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+        },
+        "input_sha256": "3af7a5cb4755e1188e0624babf01952df480fb170fead1006baea7848c3c0d63"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/plumplets/grade-01",
+      "master": "masters/badges/plumplets/grade-01.png",
+      "exports": [
+        "gameplay/badges/plumplets/grade-01-128.png",
+        "gameplay/badges/plumplets/grade-01-128.webp",
+        "gameplay/badges/plumplets/grade-01-256.png",
+        "gameplay/badges/plumplets/grade-01-256.webp",
+        "gameplay/badges/plumplets/grade-01-512.png",
+        "gameplay/badges/plumplets/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+        },
+        "input_sha256": "3f4813bdbfcbec9f9d28b2c46e5b6647f4d535b8ae97cb3dd0ca64fdf9547780"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/plumplets/grade-02",
+      "master": "masters/badges/plumplets/grade-02.png",
+      "exports": [
+        "gameplay/badges/plumplets/grade-02-128.png",
+        "gameplay/badges/plumplets/grade-02-128.webp",
+        "gameplay/badges/plumplets/grade-02-256.png",
+        "gameplay/badges/plumplets/grade-02-256.webp",
+        "gameplay/badges/plumplets/grade-02-512.png",
+        "gameplay/badges/plumplets/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+        },
+        "input_sha256": "843e4c801eec1e398f3f7ed2f8b89a8d62dd2afd890b97f47bdf0e961a244eb7"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/plumplets/grade-03",
+      "master": "masters/badges/plumplets/grade-03.png",
+      "exports": [
+        "gameplay/badges/plumplets/grade-03-128.png",
+        "gameplay/badges/plumplets/grade-03-128.webp",
+        "gameplay/badges/plumplets/grade-03-256.png",
+        "gameplay/badges/plumplets/grade-03-256.webp",
+        "gameplay/badges/plumplets/grade-03-512.png",
+        "gameplay/badges/plumplets/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+        },
+        "input_sha256": "bc900ed7037ea8ec9299908200035d33a84fb6f91fae6400427337e0e304aab2"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/plumplets/grade-04",
+      "master": "masters/badges/plumplets/grade-04.png",
+      "exports": [
+        "gameplay/badges/plumplets/grade-04-128.png",
+        "gameplay/badges/plumplets/grade-04-128.webp",
+        "gameplay/badges/plumplets/grade-04-256.png",
+        "gameplay/badges/plumplets/grade-04-256.webp",
+        "gameplay/badges/plumplets/grade-04-512.png",
+        "gameplay/badges/plumplets/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+        },
+        "input_sha256": "f00397df81ee3c34a4aa8f8b8429ce48771fffa08a8b1a30c47516d96c097a6f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/plumplets/grade-05",
+      "master": "masters/badges/plumplets/grade-05.png",
+      "exports": [
+        "gameplay/badges/plumplets/grade-05-128.png",
+        "gameplay/badges/plumplets/grade-05-128.webp",
+        "gameplay/badges/plumplets/grade-05-256.png",
+        "gameplay/badges/plumplets/grade-05-256.webp",
+        "gameplay/badges/plumplets/grade-05-512.png",
+        "gameplay/badges/plumplets/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+        },
+        "input_sha256": "8ca723b44c3f47c8d1077740178c5fcd24d71b073989472c5889c8f677dae0df"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rosybuns/grade-01",
+      "master": "masters/badges/rosybuns/grade-01.png",
+      "exports": [
+        "gameplay/badges/rosybuns/grade-01-128.png",
+        "gameplay/badges/rosybuns/grade-01-128.webp",
+        "gameplay/badges/rosybuns/grade-01-256.png",
+        "gameplay/badges/rosybuns/grade-01-256.webp",
+        "gameplay/badges/rosybuns/grade-01-512.png",
+        "gameplay/badges/rosybuns/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+        },
+        "input_sha256": "6b25182b9b0ddea150294db3872f419810a4d7cd6fd1489aaa54aa6fa8827a44"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rosybuns/grade-02",
+      "master": "masters/badges/rosybuns/grade-02.png",
+      "exports": [
+        "gameplay/badges/rosybuns/grade-02-128.png",
+        "gameplay/badges/rosybuns/grade-02-128.webp",
+        "gameplay/badges/rosybuns/grade-02-256.png",
+        "gameplay/badges/rosybuns/grade-02-256.webp",
+        "gameplay/badges/rosybuns/grade-02-512.png",
+        "gameplay/badges/rosybuns/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+        },
+        "input_sha256": "6d8426e14353ce51ea28ef1450d7d58aeb576294e7d245735fcf6d003941a1f6"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rosybuns/grade-03",
+      "master": "masters/badges/rosybuns/grade-03.png",
+      "exports": [
+        "gameplay/badges/rosybuns/grade-03-128.png",
+        "gameplay/badges/rosybuns/grade-03-128.webp",
+        "gameplay/badges/rosybuns/grade-03-256.png",
+        "gameplay/badges/rosybuns/grade-03-256.webp",
+        "gameplay/badges/rosybuns/grade-03-512.png",
+        "gameplay/badges/rosybuns/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+        },
+        "input_sha256": "75649e92c543dd975ee0f8249e630e5ed9814c3c07daefc14c306e508dd6d3c5"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rosybuns/grade-04",
+      "master": "masters/badges/rosybuns/grade-04.png",
+      "exports": [
+        "gameplay/badges/rosybuns/grade-04-128.png",
+        "gameplay/badges/rosybuns/grade-04-128.webp",
+        "gameplay/badges/rosybuns/grade-04-256.png",
+        "gameplay/badges/rosybuns/grade-04-256.webp",
+        "gameplay/badges/rosybuns/grade-04-512.png",
+        "gameplay/badges/rosybuns/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+        },
+        "input_sha256": "e8e016b293f79c707b4a3cb0e395cafc3dd2345c8ff4ab737b2bea0539c428cb"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/rosybuns/grade-05",
+      "master": "masters/badges/rosybuns/grade-05.png",
+      "exports": [
+        "gameplay/badges/rosybuns/grade-05-128.png",
+        "gameplay/badges/rosybuns/grade-05-128.webp",
+        "gameplay/badges/rosybuns/grade-05-256.png",
+        "gameplay/badges/rosybuns/grade-05-256.webp",
+        "gameplay/badges/rosybuns/grade-05-512.png",
+        "gameplay/badges/rosybuns/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+        },
+        "input_sha256": "e3a77d25b60921ae02e9e3246452508c381fc71034082fe921baaaea575ad7ab"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/skydoodles/grade-01",
+      "master": "masters/badges/skydoodles/grade-01.png",
+      "exports": [
+        "gameplay/badges/skydoodles/grade-01-128.png",
+        "gameplay/badges/skydoodles/grade-01-128.webp",
+        "gameplay/badges/skydoodles/grade-01-256.png",
+        "gameplay/badges/skydoodles/grade-01-256.webp",
+        "gameplay/badges/skydoodles/grade-01-512.png",
+        "gameplay/badges/skydoodles/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+        },
+        "input_sha256": "414ac7c1e027e38ddd7ce08d847c1dc873be0489e8de13605c7b824376db6156"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/skydoodles/grade-02",
+      "master": "masters/badges/skydoodles/grade-02.png",
+      "exports": [
+        "gameplay/badges/skydoodles/grade-02-128.png",
+        "gameplay/badges/skydoodles/grade-02-128.webp",
+        "gameplay/badges/skydoodles/grade-02-256.png",
+        "gameplay/badges/skydoodles/grade-02-256.webp",
+        "gameplay/badges/skydoodles/grade-02-512.png",
+        "gameplay/badges/skydoodles/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+        },
+        "input_sha256": "65ab9bafe6f99bb029a8a9673035a058e059b3c773b359d48f60f60ada561686"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/skydoodles/grade-03",
+      "master": "masters/badges/skydoodles/grade-03.png",
+      "exports": [
+        "gameplay/badges/skydoodles/grade-03-128.png",
+        "gameplay/badges/skydoodles/grade-03-128.webp",
+        "gameplay/badges/skydoodles/grade-03-256.png",
+        "gameplay/badges/skydoodles/grade-03-256.webp",
+        "gameplay/badges/skydoodles/grade-03-512.png",
+        "gameplay/badges/skydoodles/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+        },
+        "input_sha256": "1244034be6217c244b3c5ba16f5231a9b44db5bc4db4b675a03d3da27e4a280a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/skydoodles/grade-04",
+      "master": "masters/badges/skydoodles/grade-04.png",
+      "exports": [
+        "gameplay/badges/skydoodles/grade-04-128.png",
+        "gameplay/badges/skydoodles/grade-04-128.webp",
+        "gameplay/badges/skydoodles/grade-04-256.png",
+        "gameplay/badges/skydoodles/grade-04-256.webp",
+        "gameplay/badges/skydoodles/grade-04-512.png",
+        "gameplay/badges/skydoodles/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+        },
+        "input_sha256": "004f412e4a86002ff920083226fbc28d95ec47871f2408fa924250acb5b78f4b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/skydoodles/grade-05",
+      "master": "masters/badges/skydoodles/grade-05.png",
+      "exports": [
+        "gameplay/badges/skydoodles/grade-05-128.png",
+        "gameplay/badges/skydoodles/grade-05-128.webp",
+        "gameplay/badges/skydoodles/grade-05-256.png",
+        "gameplay/badges/skydoodles/grade-05-256.webp",
+        "gameplay/badges/skydoodles/grade-05-512.png",
+        "gameplay/badges/skydoodles/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+        },
+        "input_sha256": "c361b7f38ca52b9be1bd6b4400437eb8507b8ce75f2f4bf521302dc27ac99d67"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/sunpuffs/grade-01",
+      "master": "masters/badges/sunpuffs/grade-01.png",
+      "exports": [
+        "gameplay/badges/sunpuffs/grade-01-128.png",
+        "gameplay/badges/sunpuffs/grade-01-128.webp",
+        "gameplay/badges/sunpuffs/grade-01-256.png",
+        "gameplay/badges/sunpuffs/grade-01-256.webp",
+        "gameplay/badges/sunpuffs/grade-01-512.png",
+        "gameplay/badges/sunpuffs/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+        },
+        "input_sha256": "b5f8640a92addf8b1d7ac31c0eb60110b30199b33480102db0c1e89d6749aef9"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/sunpuffs/grade-02",
+      "master": "masters/badges/sunpuffs/grade-02.png",
+      "exports": [
+        "gameplay/badges/sunpuffs/grade-02-128.png",
+        "gameplay/badges/sunpuffs/grade-02-128.webp",
+        "gameplay/badges/sunpuffs/grade-02-256.png",
+        "gameplay/badges/sunpuffs/grade-02-256.webp",
+        "gameplay/badges/sunpuffs/grade-02-512.png",
+        "gameplay/badges/sunpuffs/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+        },
+        "input_sha256": "aa30b4a1eb579f0145da53c2e60917598d1a101377bb840fe0c24305520398d4"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/sunpuffs/grade-03",
+      "master": "masters/badges/sunpuffs/grade-03.png",
+      "exports": [
+        "gameplay/badges/sunpuffs/grade-03-128.png",
+        "gameplay/badges/sunpuffs/grade-03-128.webp",
+        "gameplay/badges/sunpuffs/grade-03-256.png",
+        "gameplay/badges/sunpuffs/grade-03-256.webp",
+        "gameplay/badges/sunpuffs/grade-03-512.png",
+        "gameplay/badges/sunpuffs/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+        },
+        "input_sha256": "029b49a8af1f29d1c655516247e095560d2fa81ba35387b09443d0ed099bc4cd"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/sunpuffs/grade-04",
+      "master": "masters/badges/sunpuffs/grade-04.png",
+      "exports": [
+        "gameplay/badges/sunpuffs/grade-04-128.png",
+        "gameplay/badges/sunpuffs/grade-04-128.webp",
+        "gameplay/badges/sunpuffs/grade-04-256.png",
+        "gameplay/badges/sunpuffs/grade-04-256.webp",
+        "gameplay/badges/sunpuffs/grade-04-512.png",
+        "gameplay/badges/sunpuffs/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+        },
+        "input_sha256": "e985f890cfda44b8a24d7a990af0e5b051cd9624664665df485e7258e19188b1"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/sunpuffs/grade-05",
+      "master": "masters/badges/sunpuffs/grade-05.png",
+      "exports": [
+        "gameplay/badges/sunpuffs/grade-05-128.png",
+        "gameplay/badges/sunpuffs/grade-05-128.webp",
+        "gameplay/badges/sunpuffs/grade-05-256.png",
+        "gameplay/badges/sunpuffs/grade-05-256.webp",
+        "gameplay/badges/sunpuffs/grade-05-512.png",
+        "gameplay/badges/sunpuffs/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+        },
+        "input_sha256": "6b7c4535d524f4af3cd46785b7c62dbedaaeb85b8ee72a59dc3da683882f1877"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "category/family-mastery",
+      "master": "masters/category/family-mastery.png",
+      "exports": [
+        "gameplay/category/family-mastery-128.png",
+        "gameplay/category/family-mastery-128.webp",
+        "gameplay/category/family-mastery-256.png",
+        "gameplay/category/family-mastery-256.webp",
+        "gameplay/category/family-mastery-512.png",
+        "gameplay/category/family-mastery-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+        },
+        "input_sha256": "77ad5e20642bf727fcadd67a614353b007ab489e75d7d2cd4007a5f56175b6e0"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/paw-emblem",
+      "master": "masters/components/paw-emblem.png",
+      "exports": [
+        "gameplay/components/paw-emblem-128.png",
+        "gameplay/components/paw-emblem-128.webp",
+        "gameplay/components/paw-emblem-256.png",
+        "gameplay/components/paw-emblem-256.webp",
+        "gameplay/components/paw-emblem-512.png",
+        "gameplay/components/paw-emblem-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        129,
+        952,
+        895
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Generate exactly one standalone family mastery paw emblem for the Puff Trails locked design system, matching the Family Mastery board. A glossy rounded plush/enamel lavender-pink paw print: one large rounded heart-like central paw pad and four smaller round toe pads above it. Rich purple raised beveled edging, warm pink interiors and creamy highlights, cute premium toy-like 3D material, straight-on orthographic symmetrical icon. This is ONLY the paw symbol, NO shield, NO medal frame, NO ribbon, NO text, NO badge background, NO character. Centered, entire silhouette within canvas, substantial transparent padding. Genuine transparent RGBA background, no checkerboard, no ground shadow. Crisp clean alpha, fully opaque colored interior.\n\nRefinement: Edit the paw emblem only to remove the entire purple glow/aura around it. Keep its five glossy pink paw pads and thick purple beveled edges precisely. Everything outside the actual solid paw outline must be fully transparent alpha 0, including between toes. No outer shadows, no bloom, no gradient cloud. Entire solid pink-and-purple toy emblem opaque alpha255 internally. Clean softly antialiased silhouette, transparent background. No other change.\n",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/section-board.png"
+        ],
+        "origin": "AI generated standalone paw emblem; no character redraw",
+        "generated_sha256": "3c2141a492fdc03faebf286805aee97e0697a41f979526a059c52f74b31caa3c",
+        "prepared": true,
+        "postprocessing": "Disconnected alpha specks removed; near-opaque interior normalized; centered 880px within1024.",
+        "input_sha256": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-01",
+      "master": "masters/grades/grade-01.png",
+      "exports": [
+        "gameplay/grades/grade-01-128.png",
+        "gameplay/grades/grade-01-128.webp",
+        "gameplay/grades/grade-01-256.png",
+        "gameplay/grades/grade-01-256.webp",
+        "gameplay/grades/grade-01-512.png",
+        "gameplay/grades/grade-01-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+        },
+        "input_sha256": "d4057315104ac7d4b0effd2c2aafccdcaa505ec2c5679520048f8c571dc1dcf5"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-02",
+      "master": "masters/grades/grade-02.png",
+      "exports": [
+        "gameplay/grades/grade-02-128.png",
+        "gameplay/grades/grade-02-128.webp",
+        "gameplay/grades/grade-02-256.png",
+        "gameplay/grades/grade-02-256.webp",
+        "gameplay/grades/grade-02-512.png",
+        "gameplay/grades/grade-02-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+        },
+        "input_sha256": "b48e94b11263445220f40067994926f300fb288c29474c4d07b3b789bf5e8120"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-03",
+      "master": "masters/grades/grade-03.png",
+      "exports": [
+        "gameplay/grades/grade-03-128.png",
+        "gameplay/grades/grade-03-128.webp",
+        "gameplay/grades/grade-03-256.png",
+        "gameplay/grades/grade-03-256.webp",
+        "gameplay/grades/grade-03-512.png",
+        "gameplay/grades/grade-03-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+        },
+        "input_sha256": "a7a06700cf0c6ea7eb2fcb1a5aafd11e5210d4d7469571ecaa9dcdf75bee6df3"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-04",
+      "master": "masters/grades/grade-04.png",
+      "exports": [
+        "gameplay/grades/grade-04-128.png",
+        "gameplay/grades/grade-04-128.webp",
+        "gameplay/grades/grade-04-256.png",
+        "gameplay/grades/grade-04-256.webp",
+        "gameplay/grades/grade-04-512.png",
+        "gameplay/grades/grade-04-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+        },
+        "input_sha256": "2385f1643565dfaa09b3a2799b7866403cfacd010d4e7cb040cae3bfad92d74a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "grades/grade-05",
+      "master": "masters/grades/grade-05.png",
+      "exports": [
+        "gameplay/grades/grade-05-128.png",
+        "gameplay/grades/grade-05-128.webp",
+        "gameplay/grades/grade-05-256.png",
+        "gameplay/grades/grade-05-256.webp",
+        "gameplay/grades/grade-05-512.png",
+        "gameplay/grades/grade-05-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+        "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "components": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+        ],
+        "component_sha256": {
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+        },
+        "input_sha256": "f36140bd458886a9c37fcd96b29d091b70222c124b65098a7c5f2535f8c6ff57"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/mossmops",
+      "master": "masters/portraits/mossmops.png",
+      "exports": [
+        "gameplay/portraits/mossmops-128.png",
+        "gameplay/portraits/mossmops-128.webp",
+        "gameplay/portraits/mossmops-256.png",
+        "gameplay/portraits/mossmops-256.webp",
+        "gameplay/portraits/mossmops-512.png",
+        "gameplay/portraits/mossmops-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        110,
+        84,
+        657,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/leaflings/v1/masters/core/medium.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/peachpeeps",
+      "master": "masters/portraits/peachpeeps.png",
+      "exports": [
+        "gameplay/portraits/peachpeeps-128.png",
+        "gameplay/portraits/peachpeeps-128.webp",
+        "gameplay/portraits/peachpeeps-256.png",
+        "gameplay/portraits/peachpeeps-256.webp",
+        "gameplay/portraits/peachpeeps-512.png",
+        "gameplay/portraits/peachpeeps-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        105,
+        84,
+        662,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/peachtells/v1/masters/core/medium.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/plumplets",
+      "master": "masters/portraits/plumplets.png",
+      "exports": [
+        "gameplay/portraits/plumplets-128.png",
+        "gameplay/portraits/plumplets-128.webp",
+        "gameplay/portraits/plumplets-256.png",
+        "gameplay/portraits/plumplets-256.webp",
+        "gameplay/portraits/plumplets-512.png",
+        "gameplay/portraits/plumplets-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        84,
+        105,
+        683,
+        662
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/twirlpuffs/v1/masters/core/medium.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/rosybuns",
+      "master": "masters/portraits/rosybuns.png",
+      "exports": [
+        "gameplay/portraits/rosybuns-128.png",
+        "gameplay/portraits/rosybuns-128.webp",
+        "gameplay/portraits/rosybuns-256.png",
+        "gameplay/portraits/rosybuns-256.webp",
+        "gameplay/portraits/rosybuns-512.png",
+        "gameplay/portraits/rosybuns-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        99,
+        84,
+        668,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/rosybuns/v1/masters/core/medium.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/skydoodles",
+      "master": "masters/portraits/skydoodles.png",
+      "exports": [
+        "gameplay/portraits/skydoodles-128.png",
+        "gameplay/portraits/skydoodles-128.webp",
+        "gameplay/portraits/skydoodles-256.png",
+        "gameplay/portraits/skydoodles-256.webp",
+        "gameplay/portraits/skydoodles-512.png",
+        "gameplay/portraits/skydoodles-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        111,
+        84,
+        656,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/skybubs/v1/masters/core/medium.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "portraits/sunpuffs",
+      "master": "masters/portraits/sunpuffs.png",
+      "exports": [
+        "gameplay/portraits/sunpuffs-128.png",
+        "gameplay/portraits/sunpuffs-128.webp",
+        "gameplay/portraits/sunpuffs-256.png",
+        "gameplay/portraits/sunpuffs-256.webp",
+        "gameplay/portraits/sunpuffs-512.png",
+        "gameplay/portraits/sunpuffs-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        125,
+        84,
+        643,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/chirpyfluffs/v1/masters/core/medium.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+        ],
+        "origin": "Exact locked original master reused unchanged",
+        "prompt": "No generation; reuse original approved master bytes",
+        "input_sha256": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    }
+  ],
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "e81e10e1c50ed45a4cd11bcbc8a359fc2d1f14da10222f34c543989080898a1f",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "31bc93f893927aa23ad5d513645f17c52c53be18ae9fdb00eceb91165c39d8a6",
+      "bytes": 10783
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-01-128.png",
+      "sha256": "509817f4e5ed3901b84ca65b726d3b9cc36a866bdbfbafb42d3670eb510a53ad",
+      "bytes": 24050
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-01-128.webp",
+      "sha256": "afcd89bb4c516758c1ec341a95678ac55b384a5e2c3dbd66cc96c9a1d1190799",
+      "bytes": 18198
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-01-256.png",
+      "sha256": "b2c645a36f7c765f78b0a821b77ec86fc21af34dcebadb85fbcd4b474700833e",
+      "bytes": 78090
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-01-256.webp",
+      "sha256": "1755688c62ffc9dfa60602988fe59d23d8c1868b8c4d05d574c8bc8d61fbd493",
+      "bytes": 54732
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-01-512.png",
+      "sha256": "6d5ef1d0099f0eba935c44a67d2a023497f0e6ee62a3bdd5dc188af595d062a9",
+      "bytes": 267847
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-01-512.webp",
+      "sha256": "539e13070db86be3d181d5f8f717113a4abd27b5e2f1720aff9488ca79d0210c",
+      "bytes": 179292
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-02-128.png",
+      "sha256": "89a294c989736cbb0ed6f98dcf650cee68568278ba0368d33ee6a518008e75fd",
+      "bytes": 23924
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-02-128.webp",
+      "sha256": "80d043546681e73688e20aa67b3aea2e89bebb44fa23f2f8d67f12b97bbe0eab",
+      "bytes": 16744
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-02-256.png",
+      "sha256": "573df34abfa1c5c7e4dad363e866457f0cdfd6a2366535a9f82ad9cbac4b4a61",
+      "bytes": 77564
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-02-256.webp",
+      "sha256": "344f175478718778377fb3432c765f90d3dd94279e2a781600f82816dcbd4299",
+      "bytes": 51724
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-02-512.png",
+      "sha256": "8cd2b9f6bf022e355bb087808d5ed528d8df5bcf30a2912b33370a885441cffc",
+      "bytes": 265258
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-02-512.webp",
+      "sha256": "406df220588857f50e4857cfacc3d51529c6dba52e1b1048803a8a93d8ff307a",
+      "bytes": 173602
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-03-128.png",
+      "sha256": "df06c8c8307e747655a72ec1b38336e1bee11a6d99ae88d3c8efa20781dbdc3b",
+      "bytes": 25554
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-03-128.webp",
+      "sha256": "199c35db3c01f82ac31aae68a7cda170bbea6a20f3b5492a63301a88fdea98fa",
+      "bytes": 20736
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-03-256.png",
+      "sha256": "0c5861352c7bad90710235ae070df3d91e58f2832b23082a05eeb2fd70a8adaf",
+      "bytes": 85017
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-03-256.webp",
+      "sha256": "e7d3f3a1c6251b6f03662854deab308b4985c2385e5369256512ff42c1b1285a",
+      "bytes": 62550
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-03-512.png",
+      "sha256": "f5d179a7651d1104dbce2dd136278529b4fb373cbf33455e8718c31405423f3e",
+      "bytes": 290461
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-03-512.webp",
+      "sha256": "08b6d09dd81f7dcfaa1b5b619dd1eb2aeccd36fffe0e6918d306af3dce14e3ed",
+      "bytes": 200592
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-04-128.png",
+      "sha256": "c80e39f09328e290ba45f42b4b72dbe544af38fd39b6cfb0523f1a3bfbd740dd",
+      "bytes": 26599
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-04-128.webp",
+      "sha256": "8806470c4e90b96db0c21534121eb4d4e8bef73828b194b15cd1aab02039f658",
+      "bytes": 21092
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-04-256.png",
+      "sha256": "2b5905c361bfbe072fca3e30595f546dd628f6ad6a54d8aca236167acce182d2",
+      "bytes": 87844
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-04-256.webp",
+      "sha256": "d85d9a542417668fdccb9d97b21d40c5c25a234834fb926ba0bedb8b9fc0246a",
+      "bytes": 64368
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-04-512.png",
+      "sha256": "88958a2f650b86eda1a4f5f025b832c7ec8b98c9dd14c217b8d27d25644c4b90",
+      "bytes": 299264
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-04-512.webp",
+      "sha256": "09ad90323e4b163cd21c7332947ec71873e086010571411724a5e9ebb00e7a0a",
+      "bytes": 208622
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-05-128.png",
+      "sha256": "9a9076f8802aea1d0a80e8155de47747676d254723d47b3bfc7161b47ca6cc36",
+      "bytes": 24538
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-05-128.webp",
+      "sha256": "4b4a2ea2033634c030ec08ec6074be8be8251ca62d0a91c9afa1621d648516ed",
+      "bytes": 20638
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-05-256.png",
+      "sha256": "187e24937b7a1b9ad7e01b9e84d0c9950d46d839800bf2cfc85073fd3fcd4d6d",
+      "bytes": 82005
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-05-256.webp",
+      "sha256": "e8243ef53c9d3ea6f46b2ce9f14c8563c0e8ee8440a3964fd582e8b5591fb1b6",
+      "bytes": 62372
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-05-512.png",
+      "sha256": "d5bc2cbda68be9f2eebe4830c74b75c1cd0a037df1ee9b1b2c0394b0eae0fa33",
+      "bytes": 276285
+    },
+    {
+      "path": "gameplay/badges/mossmops/grade-05-512.webp",
+      "sha256": "6351e116df2522bb2880263ad8196de6131a47ef595e823d592bd59c8685f358",
+      "bytes": 198818
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-01-128.png",
+      "sha256": "22991751c9fbb1c571d6bcae91356f4393be1abe6a5e9c8e796b98ac7786d831",
+      "bytes": 23417
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-01-128.webp",
+      "sha256": "a724f68848ec0384c9d5e84c64ddf130e642ff4182e3d10826672385ba57e155",
+      "bytes": 17294
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-01-256.png",
+      "sha256": "29532e39d6941bdf2e07a5f330807b1f32f3521747381b4c5ca702dce68bfd84",
+      "bytes": 75000
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-01-256.webp",
+      "sha256": "14ddc7679fb91f95e5fb8bdf879ff148e9cb9b99db94e18f4c364f250c474ba1",
+      "bytes": 51106
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-01-512.png",
+      "sha256": "e777903d94c86488cfe02ebe56f74bf80714efc730bb8e1cef77c8880be1d218",
+      "bytes": 256909
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-01-512.webp",
+      "sha256": "9f408e07a8edf30fe5e400531ea1bf83e66e073beaecf0ff8bad0131bba39320",
+      "bytes": 171360
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-02-128.png",
+      "sha256": "758ee8a065f991a308ba4e8dfaa6c7b0b031a3132d74c9c9f860ccd99b36490b",
+      "bytes": 23314
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-02-128.webp",
+      "sha256": "38f371efd16eb97ac1a387072900d3fddf62328d24f644af97b5ae640070c006",
+      "bytes": 16260
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-02-256.png",
+      "sha256": "cd77a6400654b6757ee630ea309d03030c60b1929a8b871e7064ceb16e6f6b20",
+      "bytes": 74511
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-02-256.webp",
+      "sha256": "c31717416cdbf72d5852115b6da4af81459b3eda53bfc08c85d177530159b465",
+      "bytes": 49778
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-02-512.png",
+      "sha256": "74659bc4cb24ad8c1ec45e9c712e1deb3e8f19b36a562751ec942a1399c45d6f",
+      "bytes": 254967
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-02-512.webp",
+      "sha256": "0f5dc20df5206af0f994f532119fe65a88ee6d29fbdcd67f76cef516ec4f3df7",
+      "bytes": 165142
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-03-128.png",
+      "sha256": "f2993a5c9ad51ee1495e1cbc5b654a1b18fe8d2e719370123b747927cc33d179",
+      "bytes": 24948
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-03-128.webp",
+      "sha256": "5d8d8e5629511aa611ac95a661f18f209e814e7575b13e627af77f41a8456ea6",
+      "bytes": 19924
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-03-256.png",
+      "sha256": "7e53048e672ed5d1c491d8cbf06699737cf4bac547e498b857f859db9dceadb7",
+      "bytes": 81942
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-03-256.webp",
+      "sha256": "dc58023a64a60f39bfa5a605456fc57658943d91bb258a19020c59767ce82e25",
+      "bytes": 59028
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-03-512.png",
+      "sha256": "fbfd918743e2ca97aba0890fe6a49e1a7c8c10043eed779e2d73a8c663a178b4",
+      "bytes": 280097
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-03-512.webp",
+      "sha256": "a335f069ed96250a692a53741167ff9704bba230b7f920be01e4fa9c585f95be",
+      "bytes": 194214
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-04-128.png",
+      "sha256": "a26618d2a1c1aa3f4bff178ba1f15586ab21f95f07a042e6e5bc21fc9f5cc0b8",
+      "bytes": 26047
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-04-128.webp",
+      "sha256": "67aed45ee21b5bd545bb77497c432ce55881f780a25039d02ba697a530e4fbb5",
+      "bytes": 20606
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-04-256.png",
+      "sha256": "953b3838a5dc6981f8703a16ad64b9beb1174bc6aed502f6617e7a9b51388f31",
+      "bytes": 85186
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-04-256.webp",
+      "sha256": "01ade877f36b11b04d867998c9f0fc70b2ec542d9e2805f9cc85fb5e0ca1c95b",
+      "bytes": 60912
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-04-512.png",
+      "sha256": "a933dcae3c6a2ec09058bac406281ba49126b6278ab7079e2aa9e1d30ddb2e38",
+      "bytes": 290002
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-04-512.webp",
+      "sha256": "0ab3ade01b0fd8c3b3a7368abd410dad244159e925812693149693e735a4f19c",
+      "bytes": 199894
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-05-128.png",
+      "sha256": "be2a7d93eac6393dba5537314f8a710d4cfd1ddb3caa6e1e07013f470a0d76b7",
+      "bytes": 24151
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-05-128.webp",
+      "sha256": "e4b18057e642db203e448c0e9564ede0cfb632c57cb073e859971394c88b97e1",
+      "bytes": 20406
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-05-256.png",
+      "sha256": "11b002ae51462f1fdb63fa273cacf85067d5ce28ff613c3dcb049d32f108a27d",
+      "bytes": 80097
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-05-256.webp",
+      "sha256": "9346ad1b9d7651e61fe52ecc256aecd0cb981c9d845a9e818830485adf38d2cb",
+      "bytes": 60356
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-05-512.png",
+      "sha256": "5269bf1b1354a70a8db980817def0996bab8b41d80cd9809d3ceeada60215111",
+      "bytes": 268898
+    },
+    {
+      "path": "gameplay/badges/peachpeeps/grade-05-512.webp",
+      "sha256": "7c691d0eb281cd95ab35f324e59d1f5ace89d43d4bcef98ea6ee4289413bcf08",
+      "bytes": 190618
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-01-128.png",
+      "sha256": "56a5bb095facecc5f4d92465329d4a4c5f5e45b950e6ade98e66b282c6c00897",
+      "bytes": 24412
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-01-128.webp",
+      "sha256": "ad3aebfa8aaa39dcb23ba295b6c2356bde68165855143b864691bebac0721e8b",
+      "bytes": 17960
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-01-256.png",
+      "sha256": "70a1553171a61f8031c7d0c62aadc40c3f7875766849bc0c4ec21a8372db39dc",
+      "bytes": 78373
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-01-256.webp",
+      "sha256": "47cf83529cad135a2b04e00d1e695c45845aae885a9c807c1adc2a07f50a343a",
+      "bytes": 54778
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-01-512.png",
+      "sha256": "06e978c45c3ca286e020f234e4785a1344e2c1604fe77c87a8d0312ca27403ba",
+      "bytes": 264615
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-01-512.webp",
+      "sha256": "12491706add59423f89558259fd2731151406534cba016d2fbc6d2a327a485e7",
+      "bytes": 177480
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-02-128.png",
+      "sha256": "e477341c444e0e3f2587a3ac65b1c9fac0498550b60cff39b298845f5994298f",
+      "bytes": 24102
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-02-128.webp",
+      "sha256": "ca07c428cebc1fa1684e597941e38ea2dbc8d88832781b7d3ea5a4e72b2fe91f",
+      "bytes": 16760
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-02-256.png",
+      "sha256": "d5a8823fb3124292fa2b92c2d5380d33589222415e8dd7d137c1b8ceb10c3201",
+      "bytes": 77259
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-02-256.webp",
+      "sha256": "7969425750e7881f8eb392ca824ebe0b02b5765ecfe2a53603fd2d437661e081",
+      "bytes": 51834
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-02-512.png",
+      "sha256": "904e138598a3774914bd0665f437abf3e9ac2a143faf0173cddc226139a85d31",
+      "bytes": 260763
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-02-512.webp",
+      "sha256": "00d086ed7054d8256567a00f67a7eb87cc5b8a5c991ad415fe59e2d013ae788e",
+      "bytes": 170172
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-03-128.png",
+      "sha256": "03c1d66e1f1dcc2d1e9f338b262150565639847cfbe183615c5142a4213d0017",
+      "bytes": 25850
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-03-128.webp",
+      "sha256": "4f911b534d1735013889f8bf2b9b584fa998f07a69c1de606984d09d0cbec6e1",
+      "bytes": 20488
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-03-256.png",
+      "sha256": "4beb9bf2e77b71298e28d5d0cd44f7d0a889aacd181a76ce9f5693ee4e7bd3c2",
+      "bytes": 85110
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-03-256.webp",
+      "sha256": "ad8afdbcb169ce489465ee6663f1054a2edee3b60450e70751bb0d9aa2e507bd",
+      "bytes": 63270
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-03-512.png",
+      "sha256": "f00d6434018b77c8af599aab2b83d5628fec979beb1a757f09efe856969c46af",
+      "bytes": 287159
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-03-512.webp",
+      "sha256": "d224f2b9c0cc9239e4edb93a09ca42f244ffb60451c70a3d8f6ea78ca9efe094",
+      "bytes": 200168
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-04-128.png",
+      "sha256": "a59b57746b2843f87be88e9e16c7111504b9e85f104beb32439b5ddd926a5430",
+      "bytes": 26757
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-04-128.webp",
+      "sha256": "579f075df8ff75111461df5ed2210d73ea0d2ebf4ae8f825ea0eb51f15678dc3",
+      "bytes": 20884
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-04-256.png",
+      "sha256": "9410f5a9cfc067c34fc3ab3cb38584ec505d7615101dc6aca1582dff75da94d2",
+      "bytes": 87525
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-04-256.webp",
+      "sha256": "f90937a4a82f48ecc9e54fe14dc736cd5a5a10fff3cabaac579906c63fd666c5",
+      "bytes": 63922
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-04-512.png",
+      "sha256": "2fa049fde798062e9f2113796acd9f2640cc96252fa55a8398c9c71bb5d9529f",
+      "bytes": 295474
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-04-512.webp",
+      "sha256": "8ba2c68c91535acea8e4271dc3decacb290c452cfbb0bd9eed2558d7e72b4d7a",
+      "bytes": 207626
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-05-128.png",
+      "sha256": "7401f3f390045d44881df3b68a7014bacff9e2d735f323529d2e3b4752271fce",
+      "bytes": 24615
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-05-128.webp",
+      "sha256": "33283e9aac455cc7b44656837efbdd303f26623707596b9a900310e2c0e55008",
+      "bytes": 20658
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-05-256.png",
+      "sha256": "f31c84cfa04a555fdfbb6f48037f7945a1f6b305afa2da95908f0cacc37b46cb",
+      "bytes": 81747
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-05-256.webp",
+      "sha256": "b4da9cc2a45582f43d0df3f0cc07316450b1f613c0e2b38c4f6e3b8209e8adb9",
+      "bytes": 61798
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-05-512.png",
+      "sha256": "a8acf3e049b303ec0d8e161b05e954a676e09e8930c5c69acdba2fa88c2bf915",
+      "bytes": 273462
+    },
+    {
+      "path": "gameplay/badges/plumplets/grade-05-512.webp",
+      "sha256": "f6c294c6613b826180778832fc98345251e022e713e34be8df78ee5d32224f63",
+      "bytes": 192258
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-01-128.png",
+      "sha256": "6df7b92c1d2d27e3198a958120b033a0d733fe8d6c33621c573def0afd090607",
+      "bytes": 23982
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-01-128.webp",
+      "sha256": "875b15e70475e6a217de9ac4751ee1a77259b4d04f1028f990e0250f5609e841",
+      "bytes": 17370
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-01-256.png",
+      "sha256": "d2fa8cb7dd63da6643ef81afa2250ae7be60355637d6d658f4fe8ad60bb2d7d6",
+      "bytes": 77239
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-01-256.webp",
+      "sha256": "f2faa75ae321c5d9cef36587ead03343e05a92273ac635fd93e282c23dec55e6",
+      "bytes": 52932
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-01-512.png",
+      "sha256": "e41e0ce63d12e62a8def49b3e9d25bc6e55a562109bd32bb2f88effb85625490",
+      "bytes": 264034
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-01-512.webp",
+      "sha256": "20802989569d5b3758f1d415ce59c2657501315136a6733c8adcd77cef71fa76",
+      "bytes": 175336
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-02-128.png",
+      "sha256": "33f78ed2435bdc5baaec716fd7591c921b99e5c0f41fc4f47ab405086dff1f6c",
+      "bytes": 23823
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-02-128.webp",
+      "sha256": "eee3bb87de85da52f57b1a5be499356dea3dc74d6f0a3a0abd21eed37c142080",
+      "bytes": 16338
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-02-256.png",
+      "sha256": "79c0763e3ce6a47cc420a8422b27afcc46cc6b7c0bab27ada27e6a1806c35063",
+      "bytes": 76677
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-02-256.webp",
+      "sha256": "562425723a7ea54e544abd755c6980a9a0dab8ff2c9b9a86f36b1e0a63e0270f",
+      "bytes": 50826
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-02-512.png",
+      "sha256": "197474a0540d054b3d87f3306a8916f40f2d8e368c2fd56dbb369e8b00d7d7bc",
+      "bytes": 261741
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-02-512.webp",
+      "sha256": "cdb2253ad8b3b50cac593eecc788545fe34ecbf6db2e1f8937b5fad4be2c07c3",
+      "bytes": 168808
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-03-128.png",
+      "sha256": "8f062a6058c526500f1bf3dde03f991c4e66d1ba6461617ed426738c5d5dac94",
+      "bytes": 25446
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-03-128.webp",
+      "sha256": "bf9353abdb875012e7165963f437468df874489de895cfad39f2b49ee93b7bb4",
+      "bytes": 20092
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-03-256.png",
+      "sha256": "64f6f3595b5b14dda4a8c9eea6aa2a377513cd526cfb0c08069f0b474454dd13",
+      "bytes": 84020
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-03-256.webp",
+      "sha256": "bbc7333f08ba1d0930d6ff573e357fbfeec00eb37facc1be69f99c438c7837a0",
+      "bytes": 59656
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-03-512.png",
+      "sha256": "51cd2328d3631f2d9fc146cd110a78ab08c7e111ddf883f6d68f26f868123a6b",
+      "bytes": 286499
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-03-512.webp",
+      "sha256": "fbf1eb68ec783970d9cc5331e85e3e424a90dc7c156ae6993ff43a2275b91796",
+      "bytes": 200466
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-04-128.png",
+      "sha256": "062ced58549c7793d7607f28ba13bd5232d96245c1d30ebf0f7c3505daf45df1",
+      "bytes": 26524
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-04-128.webp",
+      "sha256": "411cbd2114a7bd21a62007ccb26d7507787bd6ce3cd40c665e4a52eafc9d4c4c",
+      "bytes": 20320
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-04-256.png",
+      "sha256": "06fddca3a8250cf66ea8d820780ef55cd20a66f0806375e80d522a825968ce9c",
+      "bytes": 87112
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-04-256.webp",
+      "sha256": "4efacb95fe5e1ad441cfe5a554a051de1a116fd51882a704d2a169036804e6fa",
+      "bytes": 60860
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-04-512.png",
+      "sha256": "f2da39eafb1d44ccb9fa9c6beb0973960153c037e69aeac7bbe0cd5f37a0127c",
+      "bytes": 296289
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-04-512.webp",
+      "sha256": "b33d0305a762679de48a33552c1824b9a6a762e3906a23bf0d4efb664a201fd6",
+      "bytes": 206384
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-05-128.png",
+      "sha256": "ca53da449914389f24bbafdc30ff812a8eb47dfd53c7ef91e088e05d2ee3eff0",
+      "bytes": 24364
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-05-128.webp",
+      "sha256": "82d8e1b2b3489e9c8153e387f6561b2e75f4c93d3d3c867889bd7116b4ad34d4",
+      "bytes": 20104
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-05-256.png",
+      "sha256": "9fba53dc620d8a8c477fc9eb831c90b503589bf4751f6036cfe6e58b52fa4fc7",
+      "bytes": 81205
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-05-256.webp",
+      "sha256": "3e192e403db3fa8bae26bb05e4327bef1d2b2702ad48d2fc534523ab3a17aa1b",
+      "bytes": 61018
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-05-512.png",
+      "sha256": "cf8efa1a046a35def515573bc7ed6afdabf0ba48ca7e93f3da8cfbefe1d483f5",
+      "bytes": 273578
+    },
+    {
+      "path": "gameplay/badges/rosybuns/grade-05-512.webp",
+      "sha256": "2e12858cbde044f0f1599b7ecec6707dd4b05dc367d0fc4958835ad3df3830c2",
+      "bytes": 193078
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-01-128.png",
+      "sha256": "9258d2b5255cd11f07b242c62b469b226d3e0a3e926d68232872c70caac08eaa",
+      "bytes": 23644
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-01-128.webp",
+      "sha256": "45018eac6e3cf7a0bc1f409f4240c13ff2922269f885d46f92f885a994bc7611",
+      "bytes": 17836
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-01-256.png",
+      "sha256": "90d84588f850f13a34f66ba19c0e9011d2812d94051fe04ea04a4351b87b030d",
+      "bytes": 75830
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-01-256.webp",
+      "sha256": "8b2362bffb472d46b84efb7309d8e6349fc3f8d4cbf7f2ab6947f331bb825f4f",
+      "bytes": 53576
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-01-512.png",
+      "sha256": "cade9e3495c19355dfbc509f813d95f2bd40c2faefd57b1326585920104824a2",
+      "bytes": 257520
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-01-512.webp",
+      "sha256": "c49e28587afe9b8ba4ef26c342b345fb7ad2ff7d3f3ce8efd80ae793655352a2",
+      "bytes": 172876
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-02-128.png",
+      "sha256": "120a5730ac122850bc796e6c1122817dfed160c5e384edb5488ae4ada9bd8a67",
+      "bytes": 23511
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-02-128.webp",
+      "sha256": "ff19b5ca3d973680f9b08b3b1a408e133c0c94d4b14bb203343726a32437065c",
+      "bytes": 16364
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-02-256.png",
+      "sha256": "d89f43f28a8dd6fb898f5d9ec80794adc272700624219260ac50a918c9486f55",
+      "bytes": 75070
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-02-256.webp",
+      "sha256": "13418458f8e34ecba399af8451720fdd5f7823567fd847006d9f9eb293a0226b",
+      "bytes": 50382
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-02-512.png",
+      "sha256": "0ffe624098a3eecfa12a60290ff6a750230ddeb365ef2e5d1cbcea4d8b86a41a",
+      "bytes": 254702
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-02-512.webp",
+      "sha256": "60d6ad2f5cc83006087499130e134a70e2caa890d3405df220205c0a1e0bfefe",
+      "bytes": 165534
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-03-128.png",
+      "sha256": "9797be49967af1f1f54ae297fe0bdb5e110027056575b006b375a0e2c6ae500a",
+      "bytes": 25160
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-03-128.webp",
+      "sha256": "5d04c774444211c6ca7f85ae9d78783e6f33479a42e274c997607ab45eef6edf",
+      "bytes": 20256
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-03-256.png",
+      "sha256": "750f69c27998e655722951695357d0e6be6696c710243f7b3b1ab591d8dd5e79",
+      "bytes": 82754
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-03-256.webp",
+      "sha256": "ca5f6bcff191e96e61d0dcc8421bf519fbea19bb7bba354902e810e88968240e",
+      "bytes": 61762
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-03-512.png",
+      "sha256": "7920c7a97337d7288cafa5eba8a6e2c90efb9b479530a28c62c03b84b080480b",
+      "bytes": 280401
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-03-512.webp",
+      "sha256": "756efc930db8dcb876831685a6797ff7e2940343fcbb857f3807e06bb866bd4a",
+      "bytes": 196380
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-04-128.png",
+      "sha256": "a717f7ba7cae46de7b9bb5c169fee2a705515284fa53982c241b6a70c1d14152",
+      "bytes": 26250
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-04-128.webp",
+      "sha256": "755d7004ebbc5f5882285e25b63673369d41682ff7439d3458c2515735014bd5",
+      "bytes": 20742
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-04-256.png",
+      "sha256": "aa4f35904853048a383bbe98c27a8ffd3e462daa6958af128159e353a0d70cd8",
+      "bytes": 85653
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-04-256.webp",
+      "sha256": "0e77fbcc5705f8ce044cd0a812e7f0bae01596326b1cda3f4961816d46768af6",
+      "bytes": 62584
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-04-512.png",
+      "sha256": "79aba12b33fe08ea86234e1f997ee4c76700d374fd0c341270a0828e965c1718",
+      "bytes": 289659
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-04-512.webp",
+      "sha256": "47f3d7fef120ec454307572db968281528732f3defbfb62aa16b45771fd5c2d5",
+      "bytes": 202584
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-05-128.png",
+      "sha256": "c6140a729c45564a60a0d9595697b94c9856a1061b742c2efb347b9db83d2e1b",
+      "bytes": 24361
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-05-128.webp",
+      "sha256": "b850c915e0fb8510f7a01c94203093e6df0b348e9113c5ba20fab6162a202b05",
+      "bytes": 20634
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-05-256.png",
+      "sha256": "f557e0cce75843d4f5d99211454f64f844f3e06721c43bda03c50dd35ca672af",
+      "bytes": 80837
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-05-256.webp",
+      "sha256": "f9a8da5d157eecba5604c704e887a0216a8664243115adbbe50706da2057511a",
+      "bytes": 61644
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-05-512.png",
+      "sha256": "35517d8f54299c529fbf4a33b56975bb440bd1f698f3c4a75f4e8600e871ba13",
+      "bytes": 270620
+    },
+    {
+      "path": "gameplay/badges/skydoodles/grade-05-512.webp",
+      "sha256": "7604d39f6a290b31f2db2171abae55f87bac08be83229490e8ba18095e6baf27",
+      "bytes": 197882
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-01-128.png",
+      "sha256": "dda3092711ab406183ed082d86da0a1c014f45e101c0a767c92d772cbae1b60b",
+      "bytes": 23113
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-01-128.webp",
+      "sha256": "45b6c0c0db49c140d8d2d9f14d186ed239b1d488d8b34eb11d2d09cf6db2e2f2",
+      "bytes": 17636
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-01-256.png",
+      "sha256": "29258fca8ec9ab2c33ca47173b3ac3b2ef07cd6f459ef57e860bc948bf2e4a58",
+      "bytes": 73823
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-01-256.webp",
+      "sha256": "d3a3344bce326cf3c3b194ebee5156180e13a080fe2e80367c93c324a2da88d9",
+      "bytes": 51624
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-01-512.png",
+      "sha256": "128dc44b224f141e551e450e46e5fbc2e247f58499e6fa08e61d0eef8fd2d2e7",
+      "bytes": 251564
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-01-512.webp",
+      "sha256": "15c560357ee25893b8197029d6c1866e523df8d0f536dc4a80f4626ecd1f2cee",
+      "bytes": 170594
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-02-128.png",
+      "sha256": "34ede0c383b6f1c8ad4a70f6d85ae692fb0bc0477811ca2e1fcae0020a0fc0e9",
+      "bytes": 23086
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-02-128.webp",
+      "sha256": "be50c40bb64d383c7933261e4b260f27579d6fe3d9f2956fbdf6dfda113defa6",
+      "bytes": 16538
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-02-256.png",
+      "sha256": "b68e2ca8269cfd2b2314fbb06ac0b7f9212d888b948e98bc9f39cdcdf66424d4",
+      "bytes": 73400
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-02-256.webp",
+      "sha256": "0c420685fd6649920cd3cab1ec8c0ce15d34702ff936d89d6c41714b6849c1fd",
+      "bytes": 49796
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-02-512.png",
+      "sha256": "a16e9329cb0a274930fd9a6941553b435684a8abdf9d3fb89148a9ff9f75d167",
+      "bytes": 249886
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-02-512.webp",
+      "sha256": "18c8a26f56252bfd9625a29ffafc92d2d177ebcac2b3814a358c414cac5f6b83",
+      "bytes": 166112
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-03-128.png",
+      "sha256": "f9503de247e9934833698e170ecba1c59c0db6513db97590c09322397054f78d",
+      "bytes": 24648
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-03-128.webp",
+      "sha256": "b89cd72e6fd288e4fe71a4c23c83b2de7660430425c20023c67cfd3344d7812c",
+      "bytes": 20198
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-03-256.png",
+      "sha256": "37a982c71c825587b782a8d5f2131f6eebc4a396fe8753a00dfc07e0deda141a",
+      "bytes": 80487
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-03-256.webp",
+      "sha256": "7d979b67ce6e7ae432651237ea39c22dc67994ad696f44b9744d0891352a2070",
+      "bytes": 60914
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-03-512.png",
+      "sha256": "420ed5659e182a4b7acd7dea4782e96624e4df475155c2fa1f4d2f2c91c979cc",
+      "bytes": 273185
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-03-512.webp",
+      "sha256": "26d6b8d64ad93a37bd33f80821094605d2f6cca051e1042490dac4eef4d1443d",
+      "bytes": 196262
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-04-128.png",
+      "sha256": "e4d435cfd8bc00782abfc87a721a82d9490287d08d65852452015fe5da0511c8",
+      "bytes": 25887
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-04-128.webp",
+      "sha256": "09c0272ae01c0346661c2ce112e80830251a1900d68bd607e7bc01ce8d62f278",
+      "bytes": 20682
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-04-256.png",
+      "sha256": "34d103ff6a8e1b13f88482425aa9094f2ed67c796ba3e850b7e3a94018764754",
+      "bytes": 84053
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-04-256.webp",
+      "sha256": "2689308c93b93ab54b522b3f9c5f6dbfd5f2e3d7a0e89f3e7ca176bec842a0fb",
+      "bytes": 61734
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-04-512.png",
+      "sha256": "8a9b764884d9c70c25040aada2ed1b4a9c4b9e909aed146ca16c532cd78f7dc3",
+      "bytes": 284500
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-04-512.webp",
+      "sha256": "fb0f0e5c7c1c33c3c841400f06223ffb15c71c6ef0daa05cb09bb09550cd4f56",
+      "bytes": 199712
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-05-128.png",
+      "sha256": "38de28582831de68be81b3223a4708ea33876ef9cf3e520c74fed2681f21ec5c",
+      "bytes": 24049
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-05-128.webp",
+      "sha256": "36f9a568322fe0d636faa9350b0bb49d32f8ccae6d6bd81985f0931ef2c71411",
+      "bytes": 20564
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-05-256.png",
+      "sha256": "d3d1f9e7d7afc4b1aa23a2a9119d59d106cbc72eaf32b80541573a30c8a33add",
+      "bytes": 79487
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-05-256.webp",
+      "sha256": "2d11bd58fcc49d31f50afc96335e1a2d624b281ba5eb3727b3672e34ef9603af",
+      "bytes": 60776
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-05-512.png",
+      "sha256": "e531f2dccdab76ca271abb027d540772d1396342db8139fb50836ad5e3b6da00",
+      "bytes": 264689
+    },
+    {
+      "path": "gameplay/badges/sunpuffs/grade-05-512.webp",
+      "sha256": "ed01344f53f983d6dad31db075300a0b58419e9bdbc6379d55d98989887a6273",
+      "bytes": 196886
+    },
+    {
+      "path": "gameplay/category/family-mastery-128.png",
+      "sha256": "a430b7d05cb5a7bb7648402b2ad52511a2979b7d46f037f92a87b70813191d8e",
+      "bytes": 23723
+    },
+    {
+      "path": "gameplay/category/family-mastery-128.webp",
+      "sha256": "b1fe86fcff874ee4d328aab2c25874d19007d7e7b9e90df6f0feaabaac650ff4",
+      "bytes": 20096
+    },
+    {
+      "path": "gameplay/category/family-mastery-256.png",
+      "sha256": "87d977afdec92210c98e69267a73261e4d6f536b019674826af77a22af66aae6",
+      "bytes": 77393
+    },
+    {
+      "path": "gameplay/category/family-mastery-256.webp",
+      "sha256": "47167fcd48460da0ed8f52b37d9299ba801db760fdb5ead353aa459368f36b1c",
+      "bytes": 58202
+    },
+    {
+      "path": "gameplay/category/family-mastery-512.png",
+      "sha256": "f8d4c3bd28282cfaffdfae7b4968d9015cfc0cebe6d8be96930cbd76246ce71c",
+      "bytes": 255033
+    },
+    {
+      "path": "gameplay/category/family-mastery-512.webp",
+      "sha256": "0914262dd1727372c4d7ad794f27721353b9a4544524fccde3761c196c1cf25f",
+      "bytes": 183316
+    },
+    {
+      "path": "gameplay/components/paw-emblem-128.png",
+      "sha256": "26c74cda335e1ff056d5ef7c45af773958d851bfa9f5a19c59886d134324d727",
+      "bytes": 20689
+    },
+    {
+      "path": "gameplay/components/paw-emblem-128.webp",
+      "sha256": "879e2247734bccde7e5d462d81fe905264c68c02b1853bbc06bf421b78016337",
+      "bytes": 15610
+    },
+    {
+      "path": "gameplay/components/paw-emblem-256.png",
+      "sha256": "7167143d8c214dd8db2d38b559ed6133c98c00d2f42039f08b0d4dd3fd4e3718",
+      "bytes": 66453
+    },
+    {
+      "path": "gameplay/components/paw-emblem-256.webp",
+      "sha256": "d2f7c45a518aa043cb6906951a3106de41e38d1f044b1fdeb36cdfe8692bc18b",
+      "bytes": 43648
+    },
+    {
+      "path": "gameplay/components/paw-emblem-512.png",
+      "sha256": "9d7228851cc13be3a4d64a12ed8ec1adb1b7ad2cbd369d0620ff24fa27d81783",
+      "bytes": 213817
+    },
+    {
+      "path": "gameplay/components/paw-emblem-512.webp",
+      "sha256": "70bd040bffea73c795c9655bdbae27082734d506abb514267d1148779061e8bd",
+      "bytes": 137918
+    },
+    {
+      "path": "gameplay/grades/grade-01-128.png",
+      "sha256": "07b238abf8cd9b13a8d2332194747ab052be2633a24a451630e9d79f3c9cab7f",
+      "bytes": 22388
+    },
+    {
+      "path": "gameplay/grades/grade-01-128.webp",
+      "sha256": "33aadb657fce45ef1ab42ed9c4d04d722aab3747805d9c2c7566639f5fc2dfe3",
+      "bytes": 17020
+    },
+    {
+      "path": "gameplay/grades/grade-01-256.png",
+      "sha256": "59feb2b38cba07f562463fbb33bb8e9a28d8ee4544695c8e4d80f49b148e43a9",
+      "bytes": 70393
+    },
+    {
+      "path": "gameplay/grades/grade-01-256.webp",
+      "sha256": "24a6325f17982fdde7439d9c8b49b013da495a9671354f29ff66fabcf4fb4036",
+      "bytes": 49456
+    },
+    {
+      "path": "gameplay/grades/grade-01-512.png",
+      "sha256": "ba75c5c85f459c2a5e786e544ae93da0bf743a89b1edf3e805f4e07a813441e9",
+      "bytes": 235491
+    },
+    {
+      "path": "gameplay/grades/grade-01-512.webp",
+      "sha256": "072b558284d1742f10a4c851b8c5bf08a6b13714f526e65487a1dcca0fb9af31",
+      "bytes": 156190
+    },
+    {
+      "path": "gameplay/grades/grade-02-128.png",
+      "sha256": "afcf7e8d49ef1cc2a2595b4d32c686579c29fa54ad9087d82c3c7cddf4e94e6e",
+      "bytes": 22220
+    },
+    {
+      "path": "gameplay/grades/grade-02-128.webp",
+      "sha256": "b6d7cfcbc0d3448c0d7201cd0c8caad74e6d0ef63ae991fc4a07d322112b06eb",
+      "bytes": 15624
+    },
+    {
+      "path": "gameplay/grades/grade-02-256.png",
+      "sha256": "5c306fdf099e625ef4fe6d70374b16dd211b3eb1d78ed5351744329a02a52fc8",
+      "bytes": 69603
+    },
+    {
+      "path": "gameplay/grades/grade-02-256.webp",
+      "sha256": "779fa1abbdafc0f69b5eebc1a15b7f08263a9a3e3b9d64a350cf1b5ab1491f7f",
+      "bytes": 46028
+    },
+    {
+      "path": "gameplay/grades/grade-02-512.png",
+      "sha256": "706e5487c50c0bd78b45a48bd6a29647c37979758ce76cb4973b0e54d9b72264",
+      "bytes": 232505
+    },
+    {
+      "path": "gameplay/grades/grade-02-512.webp",
+      "sha256": "b2f165d8dfad5b3bcc029ee92611d30fe5e6b927c2bd52475b48add632af2adf",
+      "bytes": 149404
+    },
+    {
+      "path": "gameplay/grades/grade-03-128.png",
+      "sha256": "7700b011f9d6da93db8ee4a7aca9605135faaf80429d4e3bfe155e9392d220ea",
+      "bytes": 23845
+    },
+    {
+      "path": "gameplay/grades/grade-03-128.webp",
+      "sha256": "40c4872fae20aab65613580354137f8e8e19509f4d4f22034bc1813dc7124cca",
+      "bytes": 19192
+    },
+    {
+      "path": "gameplay/grades/grade-03-256.png",
+      "sha256": "03648914c78826bc3ef7bc63da39e319c3cfce2ad9a48e6cf666156ef63a9f04",
+      "bytes": 76944
+    },
+    {
+      "path": "gameplay/grades/grade-03-256.webp",
+      "sha256": "3650bac163e8aebee4a0799ff3693fc5145a47790d9d55d905f2068342b4c970",
+      "bytes": 56842
+    },
+    {
+      "path": "gameplay/grades/grade-03-512.png",
+      "sha256": "2bdeefa4fc6ee8ff0a1d4f03304fd6415eeefd394a490aea6bbec9851343ffac",
+      "bytes": 256914
+    },
+    {
+      "path": "gameplay/grades/grade-03-512.webp",
+      "sha256": "e7a7a389d88b704da9d1438f17a15a188c0928f35c1248f30fac954bcfe18d8a",
+      "bytes": 179566
+    },
+    {
+      "path": "gameplay/grades/grade-04-128.png",
+      "sha256": "8357f657a725069c5c00bbfdb5d838c5169aed974b74bd72acd064a68ff2f36c",
+      "bytes": 25012
+    },
+    {
+      "path": "gameplay/grades/grade-04-128.webp",
+      "sha256": "800918f365d79dd4c473ea04ba0824b69859841a15e030f69badcfecb972983b",
+      "bytes": 19878
+    },
+    {
+      "path": "gameplay/grades/grade-04-256.png",
+      "sha256": "ca8a5ba67046912bbe31a6380c151f07e3743b8fa0f907580ec48df7d62654d8",
+      "bytes": 80263
+    },
+    {
+      "path": "gameplay/grades/grade-04-256.webp",
+      "sha256": "41d1a963a2697a0464c396ce92ee65efcd487fb2ac9dfee037109d4b05a784a4",
+      "bytes": 57964
+    },
+    {
+      "path": "gameplay/grades/grade-04-512.png",
+      "sha256": "70cc0f99594e35d4252be5cd1bd307efb2cb7a3889314594bac54d14fe058763",
+      "bytes": 267067
+    },
+    {
+      "path": "gameplay/grades/grade-04-512.webp",
+      "sha256": "84d8ba9a8b1b28aadeeeed86310b9ec3a6a0ed5abe4ebf5ca4396b00ca7788ac",
+      "bytes": 183776
+    },
+    {
+      "path": "gameplay/grades/grade-05-128.png",
+      "sha256": "e7a4000e4abddc3b638c9e98a3ebbc0b2b179df5fc67c3d7b11ababf4d3981bb",
+      "bytes": 23666
+    },
+    {
+      "path": "gameplay/grades/grade-05-128.webp",
+      "sha256": "3720f93ce0e4d1a475bb94a97297e46549426a7453f2bbdb7a1290c8458171f6",
+      "bytes": 20126
+    },
+    {
+      "path": "gameplay/grades/grade-05-256.png",
+      "sha256": "47327d2d07dffa1fedbf0015f304bfbd4209f16f88be9658192a8519f5c24201",
+      "bytes": 77103
+    },
+    {
+      "path": "gameplay/grades/grade-05-256.webp",
+      "sha256": "d5ea5631f7deeeac2a1bc6e146fcec595152b27ee98020c4025f6759f2f69c84",
+      "bytes": 58100
+    },
+    {
+      "path": "gameplay/grades/grade-05-512.png",
+      "sha256": "52a80b0689beb49f05227c88aed3c8af9ea5cf5fdbca76985aaac38c3933a184",
+      "bytes": 254189
+    },
+    {
+      "path": "gameplay/grades/grade-05-512.webp",
+      "sha256": "8aa6c71213590845da07c8b06de09626c08854d5bce6c563718f29bdcd8c3fb9",
+      "bytes": 184110
+    },
+    {
+      "path": "gameplay/portraits/mossmops-128.png",
+      "sha256": "e309c0c45f60503595cb7564967b1237b170e905909354b7ad4f9710c7b00105",
+      "bytes": 21750
+    },
+    {
+      "path": "gameplay/portraits/mossmops-128.webp",
+      "sha256": "7d4679eef47aa90a3283d09945dc9d7f95ae05acdf3fa413dfe88eb5c8406302",
+      "bytes": 16538
+    },
+    {
+      "path": "gameplay/portraits/mossmops-256.png",
+      "sha256": "5df82c307b81aac3293cfa5597cd998a51ba59bd775ee3e21365f049322d0c49",
+      "bytes": 74451
+    },
+    {
+      "path": "gameplay/portraits/mossmops-256.webp",
+      "sha256": "d2bfbad5e947fa223062fcd91abd63fd63588a1737efb5c12e8f285bb2aa224b",
+      "bytes": 52460
+    },
+    {
+      "path": "gameplay/portraits/mossmops-512.png",
+      "sha256": "e248a30e32c2c18e21bcacb71b39a5eeb640add2ca9f12d93f631ced80329e1a",
+      "bytes": 266604
+    },
+    {
+      "path": "gameplay/portraits/mossmops-512.webp",
+      "sha256": "7222d65e48a609e4e235e9dcec21df551886359b307bb99bed1fb6fd21be024b",
+      "bytes": 175224
+    },
+    {
+      "path": "gameplay/portraits/peachpeeps-128.png",
+      "sha256": "a0c021009955b1394dee3305accbfee8184529942fb319f7ee02649540198740",
+      "bytes": 19937
+    },
+    {
+      "path": "gameplay/portraits/peachpeeps-128.webp",
+      "sha256": "7727e1118a27bf6f9667f07e34e93c0bf2fad8eb5f58dd4a9b89cbe04d7ce519",
+      "bytes": 15010
+    },
+    {
+      "path": "gameplay/portraits/peachpeeps-256.png",
+      "sha256": "6b506c2c944549829dca9bedecb16ecf6cc8aad64d463413a191f85805e0b550",
+      "bytes": 67834
+    },
+    {
+      "path": "gameplay/portraits/peachpeeps-256.webp",
+      "sha256": "88d1c085d89d8811e22f6281611625e55365b12ca9820b9192b9368ec7c34a0d",
+      "bytes": 46870
+    },
+    {
+      "path": "gameplay/portraits/peachpeeps-512.png",
+      "sha256": "eeff5c1265649a34b9fd490d3d50f7ac82bdc2bf51340e2044632ab6902c4743",
+      "bytes": 249454
+    },
+    {
+      "path": "gameplay/portraits/peachpeeps-512.webp",
+      "sha256": "834546559c507bc7c72675e9dfb0533d8ec463e40c083d775b8e00d1106f31fe",
+      "bytes": 161548
+    },
+    {
+      "path": "gameplay/portraits/plumplets-128.png",
+      "sha256": "36cea8ba7e03259bc081e0f754e5fac7741ad25deeebfb5939f98363921c2123",
+      "bytes": 23167
+    },
+    {
+      "path": "gameplay/portraits/plumplets-128.webp",
+      "sha256": "d3b1b17b9b65a6f8c8aa2e7469738c653b21fabd1a4b05cb91efe54c236d5291",
+      "bytes": 17416
+    },
+    {
+      "path": "gameplay/portraits/plumplets-256.png",
+      "sha256": "2547344ab98515039576ac7ab2a795cfa176d8816ebb360b6332e1782bc6d3a1",
+      "bytes": 77181
+    },
+    {
+      "path": "gameplay/portraits/plumplets-256.webp",
+      "sha256": "978a7263f1c8512d795c929750f7c2b1b1309961f3c1a1f4c76239e8b100aaae",
+      "bytes": 55234
+    },
+    {
+      "path": "gameplay/portraits/plumplets-512.png",
+      "sha256": "bc4b3a0462bcb92274c88c06add91f21f6b2c6f87fa2477460a670acee5ed3b4",
+      "bytes": 267424
+    },
+    {
+      "path": "gameplay/portraits/plumplets-512.webp",
+      "sha256": "8aa8fc4b82593b43438bb456cefa879b9661e10b0e46b765d627cbaa42516514",
+      "bytes": 175774
+    },
+    {
+      "path": "gameplay/portraits/rosybuns-128.png",
+      "sha256": "6b2e1768f875c48610bda4c2f0d23ef60a52897d7d4d303c2ef5a1543d2da588",
+      "bytes": 22092
+    },
+    {
+      "path": "gameplay/portraits/rosybuns-128.webp",
+      "sha256": "c7c401b5991ff9630113a8be129e8126c00e50f97b1bd203ee8c149459bd9210",
+      "bytes": 15538
+    },
+    {
+      "path": "gameplay/portraits/rosybuns-256.png",
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "bytes": 75025
+    },
+    {
+      "path": "gameplay/portraits/rosybuns-256.webp",
+      "sha256": "e925a1eddb5fb5d299b4c000e125ca32802373098ac652ace9d89e01fc7c6c5e",
+      "bytes": 50204
+    },
+    {
+      "path": "gameplay/portraits/rosybuns-512.png",
+      "sha256": "b2b37dba17a8db19dbdf7430b7cb7f639672dd677a2dd91c6aaf12701268e5cc",
+      "bytes": 266070
+    },
+    {
+      "path": "gameplay/portraits/rosybuns-512.webp",
+      "sha256": "d82dff7dc7632d427c00b023a20d9ccb3d5d10d3fcb66092f54c9addbd60b74f",
+      "bytes": 180050
+    },
+    {
+      "path": "gameplay/portraits/skydoodles-128.png",
+      "sha256": "bd965f1878f6c9b4b06a376646d44ff98517909e8eed5876090c1ee448787be9",
+      "bytes": 19865
+    },
+    {
+      "path": "gameplay/portraits/skydoodles-128.webp",
+      "sha256": "8271738a2bf11b464c7fed78f54d5b43e6b621fd98132d400e3adcaedc4dc1e6",
+      "bytes": 15164
+    },
+    {
+      "path": "gameplay/portraits/skydoodles-256.png",
+      "sha256": "50f85fffe3ed86e24f3a3b41ee267717b8c0f0142bea0e64e5042892e0528178",
+      "bytes": 67229
+    },
+    {
+      "path": "gameplay/portraits/skydoodles-256.webp",
+      "sha256": "0bc016f13160d2d280a8fb065b125cd5ee17d23f65b53c52c657a81432f1d83f",
+      "bytes": 48642
+    },
+    {
+      "path": "gameplay/portraits/skydoodles-512.png",
+      "sha256": "ae20c5ae7df4094e65d86f2aab64d3443b4fbff849872f5b148400ea0cbcdcb3",
+      "bytes": 235029
+    },
+    {
+      "path": "gameplay/portraits/skydoodles-512.webp",
+      "sha256": "4d88586246946363f5df476f53cd71b8b18451b56e922569f13275e6a6aa7f66",
+      "bytes": 154724
+    },
+    {
+      "path": "gameplay/portraits/sunpuffs-128.png",
+      "sha256": "9b3214b0c71b11e7d3df7d5d218c8d5d31309b52a656bd48c6ab1f8f7445ade3",
+      "bytes": 18216
+    },
+    {
+      "path": "gameplay/portraits/sunpuffs-128.webp",
+      "sha256": "acf92176c99977414cb039d3fec0546de14ee146b2bfb705482a53ec650e124d",
+      "bytes": 14542
+    },
+    {
+      "path": "gameplay/portraits/sunpuffs-256.png",
+      "sha256": "1f7ba67504bb71009dabd0bdf8446d27627ef43e706024028c775281becbdeea",
+      "bytes": 61145
+    },
+    {
+      "path": "gameplay/portraits/sunpuffs-256.webp",
+      "sha256": "e216e3dfb4c190ffad0f82620e83307715d435892036361381044e058c1459a2",
+      "bytes": 44462
+    },
+    {
+      "path": "gameplay/portraits/sunpuffs-512.png",
+      "sha256": "0d69097230592599c3c18af228dcbcb19883da9efa10112292825fd7557d0679",
+      "bytes": 221693
+    },
+    {
+      "path": "gameplay/portraits/sunpuffs-512.webp",
+      "sha256": "57aedf547b14e2c0c36bd64c75ed563f0dce30568a62565ddae24d6af7e80e8d",
+      "bytes": 153090
+    },
+    {
+      "path": "generation.json",
+      "sha256": "374dfee5351fe712adb7c72662f50249e88a39e65b859067d6182eb4fe047278",
+      "bytes": 75695
+    },
+    {
+      "path": "masters/badges/mossmops/grade-01.png",
+      "sha256": "112d5bb2cc7106ed3584dc150f0c2536fea98935df490ccc18d3f0721a0900ae",
+      "bytes": 973286
+    },
+    {
+      "path": "masters/badges/mossmops/grade-02.png",
+      "sha256": "df28da83e45cd332e12281838e0b58bedca3ed9618dbe9e7ff1f264c1d723648",
+      "bytes": 952859
+    },
+    {
+      "path": "masters/badges/mossmops/grade-03.png",
+      "sha256": "f8d150d2abc13b53e27cf56373cfa5baa2de18d539e9147eba208ce454ec4f16",
+      "bytes": 1035232
+    },
+    {
+      "path": "masters/badges/mossmops/grade-04.png",
+      "sha256": "7acef48e675976bfeafd1a7e3b5cffa704e308ba10d3b2a9fe02e4edbfced87c",
+      "bytes": 1048639
+    },
+    {
+      "path": "masters/badges/mossmops/grade-05.png",
+      "sha256": "a4b2f90a456f4a8365dac2b5dde5e46f3191a12b4ba60636564af46017eb2639",
+      "bytes": 943175
+    },
+    {
+      "path": "masters/badges/peachpeeps/grade-01.png",
+      "sha256": "36f38de1de4707a3c76b5e2132ded2b6d26f7d565969a2939c00eec198a162f7",
+      "bytes": 949340
+    },
+    {
+      "path": "masters/badges/peachpeeps/grade-02.png",
+      "sha256": "cec4d140bf3e949cd04d72d467560ef6c3356cb5e2aa068979a968941f6aff40",
+      "bytes": 931706
+    },
+    {
+      "path": "masters/badges/peachpeeps/grade-03.png",
+      "sha256": "8446fc4bc0f746d77a7fd13577bc0d9aee063c4e389931cce87579c8cb456da6",
+      "bytes": 1011365
+    },
+    {
+      "path": "masters/badges/peachpeeps/grade-04.png",
+      "sha256": "d82751ee10696c59f5cd62a6e46221601b1134ed9de2e80b900c2d3d427993f6",
+      "bytes": 1028986
+    },
+    {
+      "path": "masters/badges/peachpeeps/grade-05.png",
+      "sha256": "b2e1489d105d45a78aed5cac837a85eec4670aca7e5ceffe08ffddecd1615ce0",
+      "bytes": 925572
+    },
+    {
+      "path": "masters/badges/plumplets/grade-01.png",
+      "sha256": "9eadc71251759d1dd5fb99a44990700e935f9abda35a95c2c2035d366bc1e677",
+      "bytes": 946451
+    },
+    {
+      "path": "masters/badges/plumplets/grade-02.png",
+      "sha256": "98a58b6c4bbd28918a6e59cc6bf90b295a93a45e5082dd9ec4114f7e9bb694ba",
+      "bytes": 922783
+    },
+    {
+      "path": "masters/badges/plumplets/grade-03.png",
+      "sha256": "53f8981e7facff838e39c5ebd91f094eec7e353ef512ac59a8a25850104986b3",
+      "bytes": 1009575
+    },
+    {
+      "path": "masters/badges/plumplets/grade-04.png",
+      "sha256": "409adb54e1c303cee9d2e49a9ac41316f8458bff46fde7ad6832f60fd30f53e8",
+      "bytes": 1021274
+    },
+    {
+      "path": "masters/badges/plumplets/grade-05.png",
+      "sha256": "f2a5a09d9c6677dc236f56a445b467d8df8927b92118b1fdd4888b95a1d73379",
+      "bytes": 925520
+    },
+    {
+      "path": "masters/badges/rosybuns/grade-01.png",
+      "sha256": "989ad541185e32be3587291f4bb39d0ce74e9ea14ecc0236d73f884597bcb5f1",
+      "bytes": 953361
+    },
+    {
+      "path": "masters/badges/rosybuns/grade-02.png",
+      "sha256": "39536cf9ce99ef3ae7c521da2fa1ab1324ebad0f1c30ab557b2a6942a727e27f",
+      "bytes": 935291
+    },
+    {
+      "path": "masters/badges/rosybuns/grade-03.png",
+      "sha256": "245761ab6e85d480566cb098db86ae8385662fb5b809a4d991fa3241a3d085cf",
+      "bytes": 1015782
+    },
+    {
+      "path": "masters/badges/rosybuns/grade-04.png",
+      "sha256": "42487fa22c5820b4e321272895c9c21e72c8adb793879a71eba4c69617f46a6a",
+      "bytes": 1031713
+    },
+    {
+      "path": "masters/badges/rosybuns/grade-05.png",
+      "sha256": "25a9ccffb7778bdcadeb4763f71cb83db56a99c6da2a62d68bbb733fb0944e87",
+      "bytes": 931676
+    },
+    {
+      "path": "masters/badges/skydoodles/grade-01.png",
+      "sha256": "3d95db957855636bc6cf693b4c87b3cc778ad97131b92f69a8ca309aa12fedf1",
+      "bytes": 924929
+    },
+    {
+      "path": "masters/badges/skydoodles/grade-02.png",
+      "sha256": "d9fc6dc42076bed3d76fd67fc34123b32dff2a6e4d2a330f074a074ca3a3e754",
+      "bytes": 903469
+    },
+    {
+      "path": "masters/badges/skydoodles/grade-03.png",
+      "sha256": "4c66913b014820c9d664b7a73426574c8fedc19a1d512debeb439e2a594f1011",
+      "bytes": 986887
+    },
+    {
+      "path": "masters/badges/skydoodles/grade-04.png",
+      "sha256": "86d88783c385a7116430c7fcbd133774fba4f7063096868e6656ac75b7899a61",
+      "bytes": 1001662
+    },
+    {
+      "path": "masters/badges/skydoodles/grade-05.png",
+      "sha256": "84974010b0707d2afe60aed5588c58953066df958eb891544f67c9ab67efc5c0",
+      "bytes": 915096
+    },
+    {
+      "path": "masters/badges/sunpuffs/grade-01.png",
+      "sha256": "13b62160d6f2c4ec438fcb5561feee15cda56410ac3d9c469a8b51c1adbd8be5",
+      "bytes": 918294
+    },
+    {
+      "path": "masters/badges/sunpuffs/grade-02.png",
+      "sha256": "3d84f3b8c11d8f61b2086c56e277d9d8cefd96089bc2caa3324cdb247af37b39",
+      "bytes": 900100
+    },
+    {
+      "path": "masters/badges/sunpuffs/grade-03.png",
+      "sha256": "16617a5848e94625b91be0e23f55a9a8b61a4a0402dc39732776c4454676815a",
+      "bytes": 976009
+    },
+    {
+      "path": "masters/badges/sunpuffs/grade-04.png",
+      "sha256": "8b988fcc77ccee696e7e64534e71d3d407cd5b7dfd5582d7908fee5b4e2afdaf",
+      "bytes": 995977
+    },
+    {
+      "path": "masters/badges/sunpuffs/grade-05.png",
+      "sha256": "d7716f5ab5bd313b1905c4e8270515809161d18d487d4164048a5b9fec571a9d",
+      "bytes": 903825
+    },
+    {
+      "path": "masters/category/family-mastery.png",
+      "sha256": "af9d52d0ee2c8798c65cb549e87f13d16c462f63a1c324d85650f44b93b00d1b",
+      "bytes": 844554
+    },
+    {
+      "path": "masters/components/paw-emblem.png",
+      "sha256": "b3aba104fdc9827d53637220b239ea62210e63ccb99fec374f7419aa99a2bbf7",
+      "bytes": 686484
+    },
+    {
+      "path": "masters/grades/grade-01.png",
+      "sha256": "17dd245b3ec54ba5686088b3c3f26d7f87c16e45d7ed829ccc346d7d001a75f5",
+      "bytes": 820476
+    },
+    {
+      "path": "masters/grades/grade-02.png",
+      "sha256": "9ae497c2e597c90dababf1dc89ae333ba87cef55ab481c8e6c701b7f626695d7",
+      "bytes": 797387
+    },
+    {
+      "path": "masters/grades/grade-03.png",
+      "sha256": "47e6c13cd6c6ed83bbe4d6a105ff449cd562cb6ec05257202565ad21b68caba5",
+      "bytes": 876594
+    },
+    {
+      "path": "masters/grades/grade-04.png",
+      "sha256": "d4ecbd91a503a78fdd1adbb4caef79d8d954358c1ccd323760c95b23f3e14c79",
+      "bytes": 894542
+    },
+    {
+      "path": "masters/grades/grade-05.png",
+      "sha256": "f308695f9a4aeaad3fce5aad6ab39c368411de52705492898bf83bbfef99f698",
+      "bytes": 842925
+    },
+    {
+      "path": "masters/portraits/mossmops.png",
+      "sha256": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec",
+      "bytes": 579396
+    },
+    {
+      "path": "masters/portraits/peachpeeps.png",
+      "sha256": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5",
+      "bytes": 557580
+    },
+    {
+      "path": "masters/portraits/plumplets.png",
+      "sha256": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+      "bytes": 571564
+    },
+    {
+      "path": "masters/portraits/rosybuns.png",
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "bytes": 575251
+    },
+    {
+      "path": "masters/portraits/skydoodles.png",
+      "sha256": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5",
+      "bytes": 499260
+    },
+    {
+      "path": "masters/portraits/sunpuffs.png",
+      "sha256": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c",
+      "bytes": 478976
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "732c58e9e67ce0390449b9eafef510e052e231b95a6503924c9a44bd149190be",
+      "bytes": 633467
+    },
+    {
+      "path": "section-board-concept.png",
+      "sha256": "e1bb55ccad038a61a7bc4e95c4e072d33d9265598b6370579a825e232e019ff1",
+      "bytes": 2355843
+    },
+    {
+      "path": "section-board.png",
+      "sha256": "0d88de8ea20b362fb72e8b612a6a41fdf1b63be516389cccc11c123bab8f6924",
+      "bytes": 2168516
+    }
+  ],
+  "limitations": "Visual asset library only. Tier labels, progress quantities and milestone thresholds are illustrative; no gameplay rules or entitlement changes. Solo-first launch: personal prestige is cosmetic; Event Champion is future-only. Mastery badges do not alter family evolution, cannon upgrades or collision sizes. New ornaments are AI generated; approved portraits and economy art are reused. Runtime labels should remain localized text. PNG/WebP exports are not a tested game integration or animation rig."
+}

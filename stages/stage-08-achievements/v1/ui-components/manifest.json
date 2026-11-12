@@ -1,0 +1,1565 @@
+{
+  "schema_version": 1,
+  "section": "ui-components",
+  "asset_count": 21,
+  "export_count": 126,
+  "assets": [
+    {
+      "id": "buttons/claim-reward-blank",
+      "master": "masters/buttons/claim-reward-blank.png",
+      "exports": [
+        "gameplay/buttons/claim-reward-blank-128.png",
+        "gameplay/buttons/claim-reward-blank-128.webp",
+        "gameplay/buttons/claim-reward-blank-256.png",
+        "gameplay/buttons/claim-reward-blank-256.webp",
+        "gameplay/buttons/claim-reward-blank-512.png",
+        "gameplay/buttons/claim-reward-blank-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        405,
+        952,
+        619
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Single standalone Puff Trails game UI button surface. Glossy warm golden yellow capsule with rounded ends, elegant double gold rim, orange lower bevel, soft cream highlight. Wide pill aspect3:1. Match 'Claim Reward' button in reference but REMOVE ALL TEXT, blank center for runtime localization. Front-on symmetric, entirebutton visible, generous transparentmargin. Onebutton only. No symbols no numbers no words no floor no shadow outside silhouette no background glow. Genuine transparentRGBA background. Polished rounded 3D toy UI style.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "Built-in AI generated blank button for localized runtime text",
+        "input_sha256": "b359b373d66e7b0dbf95076876937ad252defd17f2f83acc0b23ee8429008105"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "buttons/claim-reward-labelled",
+      "master": "masters/buttons/claim-reward-labelled.png",
+      "exports": [
+        "gameplay/buttons/claim-reward-labelled-128.png",
+        "gameplay/buttons/claim-reward-labelled-128.webp",
+        "gameplay/buttons/claim-reward-labelled-256.png",
+        "gameplay/buttons/claim-reward-labelled-256.webp",
+        "gameplay/buttons/claim-reward-labelled-512.png",
+        "gameplay/buttons/claim-reward-labelled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        80,
+        402,
+        950,
+        614
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--claim-reward-blank.png"
+        ],
+        "origin": "Deterministic composition of separately prepared assets",
+        "prompt": "Layer original components without repainting; buttons/claim-reward-labelled",
+        "input_sha256": "8864d0f54a9ecfb18b56fabfe67b738059a4017e032e8c7680def587de4e430f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "buttons/view-progress-blank",
+      "master": "masters/buttons/view-progress-blank.png",
+      "exports": [
+        "gameplay/buttons/view-progress-blank-128.png",
+        "gameplay/buttons/view-progress-blank-128.webp",
+        "gameplay/buttons/view-progress-blank-256.png",
+        "gameplay/buttons/view-progress-blank-256.webp",
+        "gameplay/buttons/view-progress-blank-512.png",
+        "gameplay/buttons/view-progress-blank-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        401,
+        952,
+        622
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual BLANK BLUE PILL BUTTON background matching reference middle row View Progress blue button, but remove all lettering. Horizontal capsule aspect ratio about4:1 with fully rounded ends, rich royal-blue glossy enamel center, shiny cyan-blue beveled double rim, soft upper-left highlight. Puff Trails rounded toy-like premium 3D UI. Genuine transparent RGBA everywhere outside capsule. No text at all, no letters, no icons, no panel, no floor, no background glow, no shadow extending far outside. Centered with generous clear margins, entire pill visible. Button only.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "AI individual asset from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--view-progress-blank.png",
+        "generated_sha256": "26ff57a792b0fbc85889d595e5275ce52f0cf9a94333d4669bc57b902e73a56c",
+        "processing": "Removed alpha<=6 disconnected specks under24pixels; raised alpha>=240 opaque interiors to255; fitted880within1024. Preserved empty frame centers.",
+        "input_sha256": "867a40027c5e9d6a33431db851064ea9b86104034efacf03357668f43acbac81"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "buttons/view-progress-labelled",
+      "master": "masters/buttons/view-progress-labelled.png",
+      "exports": [
+        "gameplay/buttons/view-progress-labelled-128.png",
+        "gameplay/buttons/view-progress-labelled-128.webp",
+        "gameplay/buttons/view-progress-labelled-256.png",
+        "gameplay/buttons/view-progress-labelled-256.webp",
+        "gameplay/buttons/view-progress-labelled-512.png",
+        "gameplay/buttons/view-progress-labelled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        402,
+        952,
+        623
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/prepared/buttons--view-progress-blank.png"
+        ],
+        "origin": "Deterministic composition of separately prepared assets",
+        "prompt": "Layer original components without repainting; buttons/view-progress-labelled",
+        "input_sha256": "b3784b94f005714a983f9e5ed9966b33e379e965ca1ce069fff33a852f814b07"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "category/palette",
+      "master": "masters/category/palette.png",
+      "exports": [
+        "gameplay/category/palette-128.png",
+        "gameplay/category/palette-128.webp",
+        "gameplay/category/palette-256.png",
+        "gameplay/category/palette-256.webp",
+        "gameplay/category/palette-512.png",
+        "gameplay/category/palette-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        87,
+        952,
+        936
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "prompt": "Use case: stylized-concept. Generate one isolated UI Components category emblem for Puff Trails achievements, matching supplied board palette and 3D toy-like material: a rounded kidney-shaped artist paint palette in glossy pastel lavender with deeper purple beveled edges, thumb hole, exactly four small round raised paint dots pink, yellow-gold, sky-blue, mint-green around upper arc. Simple readable silhouette. No brush, no face, no shield, no outer frame, no text, no surrounding particles, no floor or shadow, no exterior glow. Slight three-quarter tilted icon, friendly soft smooth rounded material. One object centered inside square with generous transparent margins. True transparent RGBA background, opaque palette and dots, hole fully transparent.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "AI generated standalone asset from section board",
+        "generated_sha256": "d2e044b196dbd1946c993cbb2c45896736c4cad9787d1394e276f9e18b95a772",
+        "postprocessing": "Disconnected alpha specks removed; nearopaque alpha normalized; centered880px in1024. Hourglass retains intentional glass alpha.",
+        "input_sha256": "54f16a9a2ffba8935c4ce943f0ea89503884d36afd932051673f7d0cc350c235"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/card",
+      "master": "masters/components/card.png",
+      "exports": [
+        "gameplay/components/card-128.png",
+        "gameplay/components/card-128.webp",
+        "gameplay/components/card-256.png",
+        "gameplay/components/card-256.webp",
+        "gameplay/components/card-512.png",
+        "gameplay/components/card-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        141,
+        889,
+        882
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/category-tab",
+      "master": "masters/components/category-tab.png",
+      "exports": [
+        "gameplay/components/category-tab-128.png",
+        "gameplay/components/category-tab-128.webp",
+        "gameplay/components/category-tab-256.png",
+        "gameplay/components/category-tab-256.webp",
+        "gameplay/components/category-tab-512.png",
+        "gameplay/components/category-tab-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        363,
+        942,
+        660
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-06-power-ups-boosters/v1/masters/ui/ribbon.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/ui/ribbon.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "3307e10941a9015c35e9d658560e27e79bbd450a02d360b938af364f5c545c8d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/fill",
+      "master": "masters/components/fill.png",
+      "exports": [
+        "gameplay/components/fill-128.png",
+        "gameplay/components/fill-128.webp",
+        "gameplay/components/fill-256.png",
+        "gameplay/components/fill-256.webp",
+        "gameplay/components/fill-512.png",
+        "gameplay/components/fill-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        180
+      ],
+      "alpha_bounds": [
+        61,
+        11,
+        962,
+        168
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/star",
+      "master": "masters/components/star.png",
+      "exports": [
+        "gameplay/components/star-128.png",
+        "gameplay/components/star-128.webp",
+        "gameplay/components/star-256.png",
+        "gameplay/components/star-256.webp",
+        "gameplay/components/star-512.png",
+        "gameplay/components/star-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        79,
+        962,
+        944
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/track",
+      "master": "masters/components/track.png",
+      "exports": [
+        "gameplay/components/track-128.png",
+        "gameplay/components/track-128.webp",
+        "gameplay/components/track-256.png",
+        "gameplay/components/track-256.webp",
+        "gameplay/components/track-512.png",
+        "gameplay/components/track-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        180
+      ],
+      "alpha_bounds": [
+        61,
+        22,
+        962,
+        157
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "frames/gold",
+      "master": "masters/frames/gold.png",
+      "exports": [
+        "gameplay/frames/gold-128.png",
+        "gameplay/frames/gold-128.webp",
+        "gameplay/frames/gold-256.png",
+        "gameplay/frames/gold-256.webp",
+        "gameplay/frames/gold-512.png",
+        "gameplay/frames/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        83,
+        952,
+        941
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Standalone transparent game UI asset for Puff Trails, from the attached UI section board. A single empty square portrait frame with generously rounded corners, glossy warm gold beveled rim and four small round cyan blue jewels at corners. Center must be fully transparent, as must outside. No backing panel. Face-on symmetric geometry, toy-like rounded polished3D materials, soft specular highlights. Entireframe visible with generous margin. No text no labels no characters no stars no floor shadow no checkerboard. Only ONE frame, highest clean detail, genuine RGBA transparency.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "Built-in AI generated individual component",
+        "input_sha256": "fcf812dfa495cfef09159be62de97a9c5879e15da9cb3206b0daabc84dd74f89"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "frames/elite",
+      "master": "masters/frames/elite.png",
+      "exports": [
+        "gameplay/frames/elite-128.png",
+        "gameplay/frames/elite-128.webp",
+        "gameplay/frames/elite-256.png",
+        "gameplay/frames/elite-256.webp",
+        "gameplay/frames/elite-512.png",
+        "gameplay/frames/elite-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        74,
+        72,
+        949,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual empty circular Elite Frame UI asset matching top-right panel in reference. A round polished gold ring edged with sculpted rounded gold laurel leaves and exactly FOUR prominent faceted PINK DIAMOND JEWELS at north south east west. EMPTY center MUST be actual alpha transparency, not purple, white, glass or black fill. Genuine transparent outside and inside, no background glow, no floor or cast shadow. Puff Trails glossy rounded premium toy-like 3D gold enamel/crystal, front-facing symmetric circle. Generous transparent margin on all sides. No text, panel, label, character, badge insert or extra objects. Render frame only.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "AI individual asset from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/frames--elite.png",
+        "generated_sha256": "532b4e79d7bb292fc7a2c02e673ddb9e2e265f4bd5b53fe15d7208c5ee62a4dd",
+        "processing": "Removed alpha<=6 disconnected specks under24pixels; raised alpha>=240 opaque interiors to255; fitted880within1024. Preserved empty frame centers.",
+        "input_sha256": "4dee8f853e2dcaf0391ce0cc5a43572e34f2b97b86e34ab19734cc060fca19f2"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "frames/laurel",
+      "master": "masters/frames/laurel.png",
+      "exports": [
+        "gameplay/frames/laurel-128.png",
+        "gameplay/frames/laurel-128.webp",
+        "gameplay/frames/laurel-256.png",
+        "gameplay/frames/laurel-256.webp",
+        "gameplay/frames/laurel-512.png",
+        "gameplay/frames/laurel-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        162,
+        952,
+        862
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Extract/reconstruct one individual UI ornament from reference: the OPEN GOLD LAUREL WREATH in top row third panel labeled Laurel. TWO symmetrical curved branches with thick rounded glossy gold leaves and short curved stems at bottom, open gap at top and small gap at bottom; EMPTY CENTER. Genuine transparent RGBA background outside AND inside center and between each leaf. No solid disk, no colored inner fill. Preserve Puff Trails rounded premium toy-like 3D gold enamel, warm yellow/gold highlights, front-facing symmetric. Single standalone laurel wreath centered with generous margins. No panel, text, label, stars, crown, frame, floor, cast shadow or background glow.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "AI individual asset from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/frames--laurel.png",
+        "generated_sha256": "49dfb469ed69e7b8e5136eb69e5c3fbd91860256bd2b14d4aab4f712638817f5",
+        "processing": "Removed alpha<=6 disconnected specks under24pixels; raised alpha>=240 opaque interiors to255; fitted880within1024. Preserved empty frame centers.",
+        "input_sha256": "f4c0bdce3a2bca652177bf8e5500b49dd697c14ca977c0d66eb4ce5b3b519595"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "frames/violet",
+      "master": "masters/frames/violet.png",
+      "exports": [
+        "gameplay/frames/violet-128.png",
+        "gameplay/frames/violet-128.webp",
+        "gameplay/frames/violet-256.png",
+        "gameplay/frames/violet-256.webp",
+        "gameplay/frames/violet-512.png",
+        "gameplay/frames/violet-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        88,
+        952,
+        936
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Standalone transparent game UI asset for Puff Trails, from the attached UI section board. A single empty square portrait frame with generously rounded corners, bright violet faceted crystal rim and four small pink diamond jewels at midpoint edges. Center must be fully transparent as must outside. No backingpanel. Face-on symmetric geometry, toy-like rounded polished3D materials, soft specular highlights. Entireframe visible with generous margin. No text no labels no characters no stars no floor shadow no checkerboard. Only ONE frame, highest clean detail, genuine RGBA transparency.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "Built-in AI generated individual component",
+        "input_sha256": "ac7b1c47e95f807a589f6bcb48f7efbd72a5126f096027d71b47d425d909ab41"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "icons/check",
+      "master": "masters/icons/check.png",
+      "exports": [
+        "gameplay/icons/check-128.png",
+        "gameplay/icons/check-128.webp",
+        "gameplay/icons/check-256.png",
+        "gameplay/icons/check-256.webp",
+        "gameplay/icons/check-512.png",
+        "gameplay/icons/check-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        133,
+        124,
+        891,
+        899
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-06-adventure-map/v1/masters/icons/check.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "icons/empty-star",
+      "master": "masters/icons/empty-star.png",
+      "exports": [
+        "gameplay/icons/empty-star-128.png",
+        "gameplay/icons/empty-star-128.webp",
+        "gameplay/icons/empty-star-256.png",
+        "gameplay/icons/empty-star-256.webp",
+        "gameplay/icons/empty-star-512.png",
+        "gameplay/icons/empty-star-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        85,
+        962,
+        939
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-empty.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-empty.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "icons/notification",
+      "master": "masters/icons/notification.png",
+      "exports": [
+        "gameplay/icons/notification-128.png",
+        "gameplay/icons/notification-128.webp",
+        "gameplay/icons/notification-256.png",
+        "gameplay/icons/notification-256.webp",
+        "gameplay/icons/notification-512.png",
+        "gameplay/icons/notification-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        72,
+        939,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "prompt": "Use case: stylized-concept. Generate one isolated Puff Trails achievement notification icon matching the supplied section board: a glossy gold circular button medallion with rounded beveled rim and a single dark amber EXCLAMATION MARK in its center. Straight-on frontal view, symmetric circular silhouette, soft upper-left highlights, warm yellow face, orange-gold depth. Exactly one object, no text other than exclamation glyph, no frame or other symbols, no ground shadow or exterior glow. Fill about75% of square canvas with generous fully transparent margin. Genuine transparent RGBA background, solid opaque icon interior. Premium rounded playful 3D game style.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+        ],
+        "origin": "AI generated standalone asset from section board",
+        "generated_sha256": "0ec1bb7abb805bd834b304b489b523ec3990e24d7453c824d86dcc05a19d2f88",
+        "postprocessing": "Disconnected alpha specks removed; nearopaque alpha normalized; centered880px in1024. Hourglass retains intentional glass alpha.",
+        "input_sha256": "650d94d7d82c19d4b863d95bc9db780000a5a9660674535e63db6a6de81bd89c"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "progress/example-half",
+      "master": "masters/progress/example-half.png",
+      "exports": [
+        "gameplay/progress/example-half-128.png",
+        "gameplay/progress/example-half-128.webp",
+        "gameplay/progress/example-half-256.png",
+        "gameplay/progress/example-half-256.webp",
+        "gameplay/progress/example-half-512.png",
+        "gameplay/progress/example-half-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        15,
+        402,
+        962,
+        623
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "origin": "Deterministic composition of separately prepared assets",
+        "prompt": "Layer original components without repainting; progress/example-half",
+        "input_sha256": "90b890e226ebcaee0ecd408346de0597c3e94fa64082426f50075eb00fd97385"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "ratings/one",
+      "master": "masters/ratings/one.png",
+      "exports": [
+        "gameplay/ratings/one-128.png",
+        "gameplay/ratings/one-128.webp",
+        "gameplay/ratings/one-256.png",
+        "gameplay/ratings/one-256.webp",
+        "gameplay/ratings/one-512.png",
+        "gameplay/ratings/one-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        70,
+        378,
+        950,
+        647
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-07-economy/v1/stars/masters/ratings/1-stars.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/1-stars.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "32e202c4c303c8580849d0662d0b89b614f248e3ca89d0963de550b51e895c80"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "ratings/three",
+      "master": "masters/ratings/three.png",
+      "exports": [
+        "gameplay/ratings/three-128.png",
+        "gameplay/ratings/three-128.webp",
+        "gameplay/ratings/three-256.png",
+        "gameplay/ratings/three-256.webp",
+        "gameplay/ratings/three-512.png",
+        "gameplay/ratings/three-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        70,
+        378,
+        950,
+        647
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-07-economy/v1/stars/masters/ratings/3-stars.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/3-stars.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "2a0bc82540bff3c10783d725167039bb6dae2bc94e681c24cda6876452563d32"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "ratings/two",
+      "master": "masters/ratings/two.png",
+      "exports": [
+        "gameplay/ratings/two-128.png",
+        "gameplay/ratings/two-128.webp",
+        "gameplay/ratings/two-256.png",
+        "gameplay/ratings/two-256.webp",
+        "gameplay/ratings/two-512.png",
+        "gameplay/ratings/two-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        70,
+        378,
+        950,
+        647
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "source_repository_path": "stages/stage-07-economy/v1/stars/masters/ratings/2-stars.png",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/2-stars.png"
+        ],
+        "origin": "Exact approved master reused unchanged",
+        "prompt": "Reuse original artwork unchanged",
+        "input_sha256": "c5726dec12a30cd137d97fb21d83a3ea76cb45b4b8b7d3d0a78113f833051d9e"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    }
+  ],
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "e81e10e1c50ed45a4cd11bcbc8a359fc2d1f14da10222f34c543989080898a1f",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "dd427d41accf282f8f5a531ece8f2afb9b549896be268b63934911b3e48f0fb5",
+      "bytes": 5067
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-blank-128.png",
+      "sha256": "63fee229c63856e979c846b768a30b582ef2f52f3295b21e24d1dd0698554ddf",
+      "bytes": 5572
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-blank-128.webp",
+      "sha256": "b46f5a689e58f6c73b12f8093412336e9763ab82c6b121d28cd46df9b34e0882",
+      "bytes": 4316
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-blank-256.png",
+      "sha256": "0af1120d97d134ca78b987a2d696cb004f692a731ac7bfdb3ac53d35af80fae5",
+      "bytes": 18180
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-blank-256.webp",
+      "sha256": "ad6fd89b23faa88851b59d631c0d1f510ceb7f83b0447a6a6cb98bd9cbe94388",
+      "bytes": 12820
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-blank-512.png",
+      "sha256": "14c2465979a32f7e763c5005eb7353e8e2a9f4b4e8e8bf14708c08c44343b815",
+      "bytes": 62529
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-blank-512.webp",
+      "sha256": "cd859ab59a2dadcc00e36780616cb8ee37be07a1759d9655f891db8f119b82b2",
+      "bytes": 42540
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-labelled-128.png",
+      "sha256": "364fc06544dcf2bfd490830a3d12b458234127169a277eb4503598501d118fe0",
+      "bytes": 6401
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-labelled-128.webp",
+      "sha256": "505331e0113fc52538899bf73a0f59ad003ca748931e18a3b398be35b6be37bf",
+      "bytes": 5156
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-labelled-256.png",
+      "sha256": "d9662a728cca53696b206fdab319e17edda806f721eebfdab27ef5f17d7417a0",
+      "bytes": 20653
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-labelled-256.webp",
+      "sha256": "b0e2e9f54f161e6ad6a1400b05aa0c3fbc4acd39da1b3c0a162070e22766bd98",
+      "bytes": 14886
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-labelled-512.png",
+      "sha256": "b7b23cca1b8af35ce84a7d60d8cc75a458e1b2ea6c67a02942f8f1c372dc1887",
+      "bytes": 67382
+    },
+    {
+      "path": "gameplay/buttons/claim-reward-labelled-512.webp",
+      "sha256": "8d03e60c7c70ba83ac69175bce5f0dfc0e824ddbf4db97e07eb78296f593b191",
+      "bytes": 46106
+    },
+    {
+      "path": "gameplay/buttons/view-progress-blank-128.png",
+      "sha256": "6f6131b330926b618d1bca1bd951bf8f0816ed18efeaf33f69cc115b10c9934d",
+      "bytes": 5613
+    },
+    {
+      "path": "gameplay/buttons/view-progress-blank-128.webp",
+      "sha256": "f3a8b8727bd9dd6a08b7b3428b8a80f3a07f8062f9774edd896c33f7eb31f594",
+      "bytes": 4298
+    },
+    {
+      "path": "gameplay/buttons/view-progress-blank-256.png",
+      "sha256": "dae1d165e8bbd0150c8478593318c2da9740cde0038a1d606f11921cd260421b",
+      "bytes": 18572
+    },
+    {
+      "path": "gameplay/buttons/view-progress-blank-256.webp",
+      "sha256": "8d4b94b940ad33e81a5d54fad9510d9d8c1bc756bd325dcf57a3e44c20b9ec7f",
+      "bytes": 13092
+    },
+    {
+      "path": "gameplay/buttons/view-progress-blank-512.png",
+      "sha256": "011aa241db0f3a77a73b898e19bd3ae2bb3baa28ab642d72bcef8c0a5d4fd8d0",
+      "bytes": 63287
+    },
+    {
+      "path": "gameplay/buttons/view-progress-blank-512.webp",
+      "sha256": "90697623a702799719f127d99d6e408b181a2c9983e2fe8fcc5d5f000791fabf",
+      "bytes": 42150
+    },
+    {
+      "path": "gameplay/buttons/view-progress-labelled-128.png",
+      "sha256": "f47bb1ede04c154c9305a88defbc569a81888b94f2cb0c56119b3354068801b8",
+      "bytes": 6757
+    },
+    {
+      "path": "gameplay/buttons/view-progress-labelled-128.webp",
+      "sha256": "9e56d70f5b69f455f14d16d6ac213ac98176eb164429a84265c403f6169e359d",
+      "bytes": 5238
+    },
+    {
+      "path": "gameplay/buttons/view-progress-labelled-256.png",
+      "sha256": "e39c9dc10634222b3bbf959775c37b4d557c0013cc14b10208e3a28c7e6734cc",
+      "bytes": 21659
+    },
+    {
+      "path": "gameplay/buttons/view-progress-labelled-256.webp",
+      "sha256": "f3ac4ad4ab76bb3eaec42f200585485e8dd76df7044551ebfb4097d414ecd7a5",
+      "bytes": 15456
+    },
+    {
+      "path": "gameplay/buttons/view-progress-labelled-512.png",
+      "sha256": "6c6772f79ffd321deed7de07be4ce4a9bdf5991c756f710debad5b48ecac829e",
+      "bytes": 70389
+    },
+    {
+      "path": "gameplay/buttons/view-progress-labelled-512.webp",
+      "sha256": "5eba7082f5615461531257e01abeafaaf540253e93171251c182bcc979c4e875",
+      "bytes": 47708
+    },
+    {
+      "path": "gameplay/category/palette-128.png",
+      "sha256": "944157e257f872474b53ac21fdacaec6991ae034b65b55ecea905a5668df0685",
+      "bytes": 21294
+    },
+    {
+      "path": "gameplay/category/palette-128.webp",
+      "sha256": "2df3fbc894763fdcc9d7e36f9c2cde014c8dad1fc3964b26464b4b5087a7500b",
+      "bytes": 15938
+    },
+    {
+      "path": "gameplay/category/palette-256.png",
+      "sha256": "eca6e36513ccbfa0410880de380eb52c4800b83cd75e72afb8771e2f63e55dd3",
+      "bytes": 64942
+    },
+    {
+      "path": "gameplay/category/palette-256.webp",
+      "sha256": "c643c89a09a903d233457f55b3a682d7c6093a73670d0f3cc3ba6d08607f63d8",
+      "bytes": 44088
+    },
+    {
+      "path": "gameplay/category/palette-512.png",
+      "sha256": "c3adaf7eeb754a35683f703546eb9723810982d7d2d064d10cb622a6e900c2fd",
+      "bytes": 217208
+    },
+    {
+      "path": "gameplay/category/palette-512.webp",
+      "sha256": "8db4f0c93bf370ec5dcbf50604612a3d9c876da3051fced8945a00473b234d27",
+      "bytes": 140474
+    },
+    {
+      "path": "gameplay/components/card-128.png",
+      "sha256": "73c21122ad1b6b59d089149681f1db130ed09ef5516d7c6a6517a0a712b60cd3",
+      "bytes": 13975
+    },
+    {
+      "path": "gameplay/components/card-128.webp",
+      "sha256": "e20f0cee10447196fa2885fc4af173e70555d0599c63f505b55ee0d0e998ff16",
+      "bytes": 9710
+    },
+    {
+      "path": "gameplay/components/card-256.png",
+      "sha256": "6f923d5140d6cba9b132aaed92021da22e163fb4b325350cda11f94daa05faad",
+      "bytes": 44353
+    },
+    {
+      "path": "gameplay/components/card-256.webp",
+      "sha256": "280d7d0a8dff3b0fd52cf0aac83367f5a1eb60431bd85d2d34fcfe13917c3873",
+      "bytes": 29126
+    },
+    {
+      "path": "gameplay/components/card-512.png",
+      "sha256": "b89aabbe910c10dfaa19c0425e901db59cf50028c60fd0314ee9a3052b9328ff",
+      "bytes": 156370
+    },
+    {
+      "path": "gameplay/components/card-512.webp",
+      "sha256": "46baa4b5c62cc84270a97bae91ef656939fbb5de7d20292236824c9bf984f2b5",
+      "bytes": 100762
+    },
+    {
+      "path": "gameplay/components/category-tab-128.png",
+      "sha256": "8fb0cde7765ed7a1216204675ff27bd3c3051d79568856142dec11ed64e488d3",
+      "bytes": 8306
+    },
+    {
+      "path": "gameplay/components/category-tab-128.webp",
+      "sha256": "569ab1e0c45a17ae5a04d02a77f3a293b8905ef04e53e83bbc7b607d431abe90",
+      "bytes": 6968
+    },
+    {
+      "path": "gameplay/components/category-tab-256.png",
+      "sha256": "06ef4a2678140135838ae85e9f67f4cdc58fc9e68fd072a0af1d14e27d1bbf40",
+      "bytes": 25083
+    },
+    {
+      "path": "gameplay/components/category-tab-256.webp",
+      "sha256": "02a14772827917525f0ca8230e4bf9058259e0a7a35007792219aa4a438e551a",
+      "bytes": 18980
+    },
+    {
+      "path": "gameplay/components/category-tab-512.png",
+      "sha256": "676ac5f4a5f0710d75f1b08c98859d5d70eb8dc61f98ef6cd221e491f0fe1781",
+      "bytes": 81872
+    },
+    {
+      "path": "gameplay/components/category-tab-512.webp",
+      "sha256": "cc49ee497edd03129c4445e661c3153ba9d7f2d6e73924ebe7662d4754d97a90",
+      "bytes": 58244
+    },
+    {
+      "path": "gameplay/components/fill-128.png",
+      "sha256": "522abfce70cebcbd451dd68c602465a2fc72b6450b38b18b7e6c9e1925e57c6c",
+      "bytes": 3469
+    },
+    {
+      "path": "gameplay/components/fill-128.webp",
+      "sha256": "1436d438317ff469e0dfd8f611bc85c81db6116c663b977002a0ebabb72720be",
+      "bytes": 2772
+    },
+    {
+      "path": "gameplay/components/fill-256.png",
+      "sha256": "6721dba80de5fb500313ae69896828a4f2d261ca06f030a7664b0db507cd8697",
+      "bytes": 11558
+    },
+    {
+      "path": "gameplay/components/fill-256.webp",
+      "sha256": "1eb5900bb6b74e914dc716c94111829750a61a8c46be67579a79b9c223a9ad41",
+      "bytes": 8524
+    },
+    {
+      "path": "gameplay/components/fill-512.png",
+      "sha256": "d41c5fc430c5086fcccc45d5caa15565fa79be396153cd3e201d6580112d8761",
+      "bytes": 39706
+    },
+    {
+      "path": "gameplay/components/fill-512.webp",
+      "sha256": "d66df687bca0bb489165605aa779832dc129091c746d91efb1c527fa93036cf6",
+      "bytes": 27190
+    },
+    {
+      "path": "gameplay/components/star-128.png",
+      "sha256": "38e3b56ec0ef1adfc6f500880ee46711c7116d3f3162ab100783e7e4b51fbf5b",
+      "bytes": 16010
+    },
+    {
+      "path": "gameplay/components/star-128.webp",
+      "sha256": "4a98f3014e6e2fd651619e755b67b02f7f0723eb3eb96a36a5c87c65d4a57675",
+      "bytes": 11532
+    },
+    {
+      "path": "gameplay/components/star-256.png",
+      "sha256": "4ad951698c6b098ebbe1dd633e99fe3dcd7116d8d2e1451bff35f4df058b245b",
+      "bytes": 49709
+    },
+    {
+      "path": "gameplay/components/star-256.webp",
+      "sha256": "a95bc2a2ebf83e1aeff0a9bd4ab40a443d9600ba9bf3f1b6ca3e39acdad8c67f",
+      "bytes": 32628
+    },
+    {
+      "path": "gameplay/components/star-512.png",
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736",
+      "bytes": 169778
+    },
+    {
+      "path": "gameplay/components/star-512.webp",
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e",
+      "bytes": 107632
+    },
+    {
+      "path": "gameplay/components/track-128.png",
+      "sha256": "4e0966faf6850c99cfca831f206be631ea7dbbb8c822d988bee971f0f5fbda2e",
+      "bytes": 3575
+    },
+    {
+      "path": "gameplay/components/track-128.webp",
+      "sha256": "ce8bbf547073f1f170592c4afbd9932d6f9262946f27d9be344dae6ce3cdcd44",
+      "bytes": 2898
+    },
+    {
+      "path": "gameplay/components/track-256.png",
+      "sha256": "0e5c63a9f1f19808667c24e1a021cd96f2e2efca1a69fe3b587af2eeec362c3e",
+      "bytes": 11097
+    },
+    {
+      "path": "gameplay/components/track-256.webp",
+      "sha256": "920407627b228ca7abf7104faf88218412c26c94fd7e5b81a8a10de269f70d5b",
+      "bytes": 8124
+    },
+    {
+      "path": "gameplay/components/track-512.png",
+      "sha256": "e50a3c950f4f11745ef806758c677e0736918aa7cc7a0e00221f8c59171cf80b",
+      "bytes": 35700
+    },
+    {
+      "path": "gameplay/components/track-512.webp",
+      "sha256": "5565cd16d34ed0c10677b36128e937c79fa1846c6cd3751d0d97dd456776f5b1",
+      "bytes": 25196
+    },
+    {
+      "path": "gameplay/frames/elite-128.png",
+      "sha256": "0f83d4c31819dac888462099adb52da31069278327ec63dea5b9a233860e86b0",
+      "bytes": 17574
+    },
+    {
+      "path": "gameplay/frames/elite-128.webp",
+      "sha256": "9760c73d381a588e854b8ca9321d4a130baa76a2c747796054fa9bc4b7024c53",
+      "bytes": 14518
+    },
+    {
+      "path": "gameplay/frames/elite-256.png",
+      "sha256": "bc17591655afe530e856e25ddc5b2b81c623aa6da04d3c545e00d580722aaf91",
+      "bytes": 55563
+    },
+    {
+      "path": "gameplay/frames/elite-256.webp",
+      "sha256": "74a266ff2dccda53f04ba0e0d1481f208836b3ff1ef86ee36f24718f04eec553",
+      "bytes": 43504
+    },
+    {
+      "path": "gameplay/frames/elite-512.png",
+      "sha256": "0a1142ebed238edefc67e571016101e7204e39805d71848fe34b73c75a571a2e",
+      "bytes": 182456
+    },
+    {
+      "path": "gameplay/frames/elite-512.webp",
+      "sha256": "e24b8e378cf0535909494f76470deff6b05f2177787702ee6292b06486d9cd53",
+      "bytes": 134932
+    },
+    {
+      "path": "gameplay/frames/gold-128.png",
+      "sha256": "185ecfa7eec66993f2ffa709789fe24b3816edc36dbb7cfe1820e40d0fe75d59",
+      "bytes": 15692
+    },
+    {
+      "path": "gameplay/frames/gold-128.webp",
+      "sha256": "f15d534ab8254236774a9323e535c195fb520c5c845e693d00c820cd0fb9710e",
+      "bytes": 12804
+    },
+    {
+      "path": "gameplay/frames/gold-256.png",
+      "sha256": "53cb69db12a1b60040b704e4846accce9f0b3cd5c407ab34b32664c125850d33",
+      "bytes": 50229
+    },
+    {
+      "path": "gameplay/frames/gold-256.webp",
+      "sha256": "a706c665185aadc1d86d0963b21f08ce4efba97561fc5229092dbed88d16539a",
+      "bytes": 38224
+    },
+    {
+      "path": "gameplay/frames/gold-512.png",
+      "sha256": "c12535ea6c04546a7071d3e510a8fcba878375531b35c0954c78f34e9a6bf12e",
+      "bytes": 163310
+    },
+    {
+      "path": "gameplay/frames/gold-512.webp",
+      "sha256": "59db357358c90087392bf46932e8943346a20910fdbb461269e1c32accf0a542",
+      "bytes": 118354
+    },
+    {
+      "path": "gameplay/frames/laurel-128.png",
+      "sha256": "995e95c1b04464135341476bd8be2f89347391ea122ebaee97d69f85a2092979",
+      "bytes": 16685
+    },
+    {
+      "path": "gameplay/frames/laurel-128.webp",
+      "sha256": "e41278fc7f410a6fd36a096a9b559075cba516163318b56a5282fa0b96b6cd8a",
+      "bytes": 13866
+    },
+    {
+      "path": "gameplay/frames/laurel-256.png",
+      "sha256": "91595f85093c991ae8d6ad34c892aa3af2a224cc4d1d781b6454b441b7d2fe53",
+      "bytes": 51240
+    },
+    {
+      "path": "gameplay/frames/laurel-256.webp",
+      "sha256": "5044bb83af6c6957c3056599e0570d05dbe3567c8682a5fac05525c73112ce0e",
+      "bytes": 39212
+    },
+    {
+      "path": "gameplay/frames/laurel-512.png",
+      "sha256": "7ace453814511e0e081defd0b4bca6bfab41e812b0d380605782f4aa7fcaa043",
+      "bytes": 163606
+    },
+    {
+      "path": "gameplay/frames/laurel-512.webp",
+      "sha256": "83c35ab2de49a84929b4c5bb7d8306d714feaa5680b6a51641a79cd521e5ec78",
+      "bytes": 117078
+    },
+    {
+      "path": "gameplay/frames/violet-128.png",
+      "sha256": "fcdae58bbe1aad40e6557253463e3c457a639904c12be9da715be1e5f162892e",
+      "bytes": 16721
+    },
+    {
+      "path": "gameplay/frames/violet-128.webp",
+      "sha256": "6f8bed65face8deae27f092a8a6ffadf86f941a7b9977265fd85d67205d5ad69",
+      "bytes": 14058
+    },
+    {
+      "path": "gameplay/frames/violet-256.png",
+      "sha256": "94ad0e1b768f6d846f7c3fbd4f0620083b36a3ced61bcb42d73ec8705edebe5e",
+      "bytes": 52638
+    },
+    {
+      "path": "gameplay/frames/violet-256.webp",
+      "sha256": "055121a0366ee3395abf9de65df26d8d4bd4445a3ade26d39dfe5a61b681a070",
+      "bytes": 39864
+    },
+    {
+      "path": "gameplay/frames/violet-512.png",
+      "sha256": "0262e96c3688ac548f2dd35e542d56b47de11468a1412060b52ee9a9cff620f9",
+      "bytes": 168397
+    },
+    {
+      "path": "gameplay/frames/violet-512.webp",
+      "sha256": "5aff299595054570c30bdf07fa9cbfa3347a2684e094e78cf53a3ab69b35742e",
+      "bytes": 123258
+    },
+    {
+      "path": "gameplay/icons/check-128.png",
+      "sha256": "ab957b4c592cb639c83050cb7eeb3755fd9a9dc6ee6596dc35e09d8ad86a4be3",
+      "bytes": 18040
+    },
+    {
+      "path": "gameplay/icons/check-128.webp",
+      "sha256": "384a3c01059d6a96e175d478d69fdb0c513780f435862ee449530a96bd5dbf65",
+      "bytes": 12774
+    },
+    {
+      "path": "gameplay/icons/check-256.png",
+      "sha256": "f0cbc6576ae31865ae4db17f7995c0eb4d193b55acd9e15ec3c689e1af78035e",
+      "bytes": 54442
+    },
+    {
+      "path": "gameplay/icons/check-256.webp",
+      "sha256": "2367878ea925d7ae0d336a45ac07aed9bf8543503624ff5cf18c11d5f52c17a0",
+      "bytes": 34896
+    },
+    {
+      "path": "gameplay/icons/check-512.png",
+      "sha256": "32855db2da9fbae83a9bf9f7586faaecca37cc1705675eec3318d06563f1d88a",
+      "bytes": 178903
+    },
+    {
+      "path": "gameplay/icons/check-512.webp",
+      "sha256": "f0f0a5e0c7847d50cc2d88652d919374199b08c6f5415e033581a9ec57bff2d3",
+      "bytes": 111960
+    },
+    {
+      "path": "gameplay/icons/empty-star-128.png",
+      "sha256": "170f04ffdff6d1cc57042f88b5c9f085248259eed7f8e07fb9d439b869b64516",
+      "bytes": 17104
+    },
+    {
+      "path": "gameplay/icons/empty-star-128.webp",
+      "sha256": "49e370676898a4cbaf37da593ace3db2fb240c76418a7671fd3d638cfee6a1df",
+      "bytes": 11968
+    },
+    {
+      "path": "gameplay/icons/empty-star-256.png",
+      "sha256": "c97dcdc32cf25e9698354630bb38cb28c5eff5b26628bc20d0a8a23f540e3c89",
+      "bytes": 52037
+    },
+    {
+      "path": "gameplay/icons/empty-star-256.webp",
+      "sha256": "8e4f2e7c3503d8c081bd6d75a2aab40d37597249e0d45d810590fbac7379d711",
+      "bytes": 33804
+    },
+    {
+      "path": "gameplay/icons/empty-star-512.png",
+      "sha256": "1ec093f300ea80ec98a7153122536fb43e5960865601428b72c2b923c75caab4",
+      "bytes": 177030
+    },
+    {
+      "path": "gameplay/icons/empty-star-512.webp",
+      "sha256": "b64c8010fa1fed801a4c8ebe50afda89ef76cf6629b3285738e48b928a2fbfab",
+      "bytes": 114162
+    },
+    {
+      "path": "gameplay/icons/notification-128.png",
+      "sha256": "510632974a3d6dc2b1755dc3c14d3aaa653be06faae1c0f770988f731bde415e",
+      "bytes": 19776
+    },
+    {
+      "path": "gameplay/icons/notification-128.webp",
+      "sha256": "9d942960a7b52c5d5a680747a95c3d85cc3ac7ca97b42a8b28213c517cbbf1c8",
+      "bytes": 14726
+    },
+    {
+      "path": "gameplay/icons/notification-256.png",
+      "sha256": "d7fcf29d0fdd7fcf0800f38b58bf1191f47d44b4326ba550bc762ed28837dc99",
+      "bytes": 62331
+    },
+    {
+      "path": "gameplay/icons/notification-256.webp",
+      "sha256": "fb1244ebda558b119b8ad3359cdce49481dc1ea93d3a10249e83bee5734f38f1",
+      "bytes": 42542
+    },
+    {
+      "path": "gameplay/icons/notification-512.png",
+      "sha256": "455193ef832c69a55fff299d1093550e0e323ebd305849ed5d78be2a2227056f",
+      "bytes": 215284
+    },
+    {
+      "path": "gameplay/icons/notification-512.webp",
+      "sha256": "5af8f343707bd48ac267b5f0a8e16a38aa01d68a73f57fe0c9ef45bbdb935a05",
+      "bytes": 139430
+    },
+    {
+      "path": "gameplay/progress/example-half-128.png",
+      "sha256": "4c8bde98138ead5fe9ca417dbf0a35a25e96055d82f26683b1edcd99edde3f7b",
+      "bytes": 4728
+    },
+    {
+      "path": "gameplay/progress/example-half-128.webp",
+      "sha256": "159833d4f2428aa55a0dbde72d033266d4e5ed80132696bdd84b03de66e4da01",
+      "bytes": 3896
+    },
+    {
+      "path": "gameplay/progress/example-half-256.png",
+      "sha256": "378f13331f6bf81f884e57f9318e3a32b19dfd62085daa3aa20b2d208eaf63f2",
+      "bytes": 15106
+    },
+    {
+      "path": "gameplay/progress/example-half-256.webp",
+      "sha256": "ce362061ed39f02c4042618cf285b2ec75be4dba79652bba6410e3fafe0e6304",
+      "bytes": 10788
+    },
+    {
+      "path": "gameplay/progress/example-half-512.png",
+      "sha256": "4ff63fb47446e1b37826405366359a3268facaf69b4e5d218b38ff2ed8de7cfb",
+      "bytes": 50745
+    },
+    {
+      "path": "gameplay/progress/example-half-512.webp",
+      "sha256": "dadeb6991b7dc2087d770c8e5367f7f15d7e765dac2c9378b1270f947adb2680",
+      "bytes": 33788
+    },
+    {
+      "path": "gameplay/ratings/one-128.png",
+      "sha256": "dbd3870560ab1ec8d3872ffc6be267bc22abc6e18b1d9fe5a4c06eaa10d60f1d",
+      "bytes": 8357
+    },
+    {
+      "path": "gameplay/ratings/one-128.webp",
+      "sha256": "8f6525ab45a1ca22c4efe4a3092dcae9be36ffc2148e565acce7cdbb58b0b73b",
+      "bytes": 7014
+    },
+    {
+      "path": "gameplay/ratings/one-256.png",
+      "sha256": "e5101048ac97dbe1b3e04efab198a254dc4af611b65e27515520a5fa1fd4f4c3",
+      "bytes": 17091
+    },
+    {
+      "path": "gameplay/ratings/one-256.webp",
+      "sha256": "6aaf7f112b9373e1029f7cc609a6cbeca5f851bbba74ae63f45b4becde581822",
+      "bytes": 17114
+    },
+    {
+      "path": "gameplay/ratings/one-512.png",
+      "sha256": "17d36e880738f12593a73f1528df2d39951a8d2d26136947164e902878f3ee72",
+      "bytes": 52588
+    },
+    {
+      "path": "gameplay/ratings/one-512.webp",
+      "sha256": "87fae73b2d764aa9fc62ebece8b49b3fbcdf6c1c70bfa459b5726e91a05eb357",
+      "bytes": 47604
+    },
+    {
+      "path": "gameplay/ratings/three-128.png",
+      "sha256": "6c0418321f03fb9ad10db7c0bd132959d8465b9d6c94f587b31f3b8c4b4a5fde",
+      "bytes": 5442
+    },
+    {
+      "path": "gameplay/ratings/three-128.webp",
+      "sha256": "3a33cf1427fdc7aa83b7f675b4611bc766403225b5bf1b01982817e36a677470",
+      "bytes": 4362
+    },
+    {
+      "path": "gameplay/ratings/three-256.png",
+      "sha256": "ca75e2e6f5457b671cb9864dfa81217b2427deed9aafe7b83138d9fe298764d7",
+      "bytes": 8949
+    },
+    {
+      "path": "gameplay/ratings/three-256.webp",
+      "sha256": "74ecd89e16c3cd09cb39caa8d107711ca367baa38f9c15dd958e8c08f8293528",
+      "bytes": 11272
+    },
+    {
+      "path": "gameplay/ratings/three-512.png",
+      "sha256": "ddbf179e3e8c1840c119ad785b7e398f8c5a504143756e93a981c5b247133ca4",
+      "bytes": 28569
+    },
+    {
+      "path": "gameplay/ratings/three-512.webp",
+      "sha256": "a46bd5fd5642d0fccda9c5dbf3d5ac32b18ddb081fac2d593275f516461ec3a1",
+      "bytes": 32454
+    },
+    {
+      "path": "gameplay/ratings/two-128.png",
+      "sha256": "4a37eac9b0bf556e67e5c1cccb6d6e1810ddba42ca9c0ef5ba7ef52eab715848",
+      "bytes": 8008
+    },
+    {
+      "path": "gameplay/ratings/two-128.webp",
+      "sha256": "dce7f43dbc563766194a0d4bf51bdea0755610aa46fd74205edb711055d63552",
+      "bytes": 6754
+    },
+    {
+      "path": "gameplay/ratings/two-256.png",
+      "sha256": "a86bcaef9895f0511a1222c435c5b7064c9dca5e6efe614657f4b8403e3dec93",
+      "bytes": 17108
+    },
+    {
+      "path": "gameplay/ratings/two-256.webp",
+      "sha256": "e496ba21933dc8ef1651ed64ef9ef688541850b53580317a2ae1d795916998c3",
+      "bytes": 15076
+    },
+    {
+      "path": "gameplay/ratings/two-512.png",
+      "sha256": "070237f4439ad6ab4fca857aab1aa4e781aec9630e9cca898658b4a06cd81fc2",
+      "bytes": 52553
+    },
+    {
+      "path": "gameplay/ratings/two-512.webp",
+      "sha256": "4f583099cba7b37132a4af73cfe65fe54867dc0721f4977e088bce65759a4b2e",
+      "bytes": 43332
+    },
+    {
+      "path": "generation.json",
+      "sha256": "aea56e88b119a2b57287aaad1e850a268ee50e1ef64487eff8182f9d3bebb398",
+      "bytes": 32877
+    },
+    {
+      "path": "masters/buttons/claim-reward-blank.png",
+      "sha256": "38e980c90fa81b54a2000e58dd787f6053bb625e24e0c988b4d435e219271f76",
+      "bytes": 209342
+    },
+    {
+      "path": "masters/buttons/claim-reward-labelled.png",
+      "sha256": "86c39581237374d5ef39e6ffa998d48dc0a63d659483e4605f3899b54095a778",
+      "bytes": 209065
+    },
+    {
+      "path": "masters/buttons/view-progress-blank.png",
+      "sha256": "7ed8b16f65171db76da6554bb66c4d2d5418a16b84d087d13194f253e801698b",
+      "bytes": 220722
+    },
+    {
+      "path": "masters/buttons/view-progress-labelled.png",
+      "sha256": "392f8c87fa4995f3fce5c5ff41be33d02e6b847f6fc3234ab50feb1ec98ffd6c",
+      "bytes": 226328
+    },
+    {
+      "path": "masters/category/palette.png",
+      "sha256": "f2779fbba34c2edb4c90720467ec2fcea84e5d23fd60d1dccbc106221328b4fd",
+      "bytes": 746474
+    },
+    {
+      "path": "masters/components/card.png",
+      "sha256": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058",
+      "bytes": 517754
+    },
+    {
+      "path": "masters/components/category-tab.png",
+      "sha256": "3307e10941a9015c35e9d658560e27e79bbd450a02d360b938af364f5c545c8d",
+      "bytes": 267081
+    },
+    {
+      "path": "masters/components/fill.png",
+      "sha256": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a",
+      "bytes": 136680
+    },
+    {
+      "path": "masters/components/star.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "bytes": 575235
+    },
+    {
+      "path": "masters/components/track.png",
+      "sha256": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f",
+      "bytes": 117581
+    },
+    {
+      "path": "masters/frames/elite.png",
+      "sha256": "f00fbf15eea69afe5ad83d3b3b48da3bdb304e8b3705293c969491aa50064996",
+      "bytes": 598200
+    },
+    {
+      "path": "masters/frames/gold.png",
+      "sha256": "08cac96a9d0af9b3b512d3b43f73959cc06bde62b72422e0fdebd8ce4008f5c9",
+      "bytes": 529507
+    },
+    {
+      "path": "masters/frames/laurel.png",
+      "sha256": "75e5f0a597b54cee9dd4ebbe7ac11a082105edf94d96903f3d41024a1ac7d11e",
+      "bytes": 524656
+    },
+    {
+      "path": "masters/frames/violet.png",
+      "sha256": "d5f20903ef1dda704561db985884578b67d3ce3eb5953ee486c60eff6f7167d7",
+      "bytes": 542544
+    },
+    {
+      "path": "masters/icons/check.png",
+      "sha256": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+      "bytes": 609649
+    },
+    {
+      "path": "masters/icons/empty-star.png",
+      "sha256": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+      "bytes": 571694
+    },
+    {
+      "path": "masters/icons/notification.png",
+      "sha256": "7e5904b932a2a67bf77d89f3b8d1dddf575e070cd649ff65e40bf9694af4ff46",
+      "bytes": 749633
+    },
+    {
+      "path": "masters/progress/example-half.png",
+      "sha256": "8e498f62e89327a0fc6b2a74e7753cf69540cdb6a0015b1f12f336f6011cdb19",
+      "bytes": 161545
+    },
+    {
+      "path": "masters/ratings/one.png",
+      "sha256": "32e202c4c303c8580849d0662d0b89b614f248e3ca89d0963de550b51e895c80",
+      "bytes": 161944
+    },
+    {
+      "path": "masters/ratings/three.png",
+      "sha256": "2a0bc82540bff3c10783d725167039bb6dae2bc94e681c24cda6876452563d32",
+      "bytes": 92025
+    },
+    {
+      "path": "masters/ratings/two.png",
+      "sha256": "c5726dec12a30cd137d97fb21d83a3ea76cb45b4b8b7d3d0a78113f833051d9e",
+      "bytes": 162035
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "d67f07b6529cf4478d846ee3793e2ecc3c251cdd20dc5625aa4fdc32e7337bff",
+      "bytes": 171504
+    },
+    {
+      "path": "section-board-concept.png",
+      "sha256": "cce82f4a3ed8eb2930ace7b4bca0be62f0b139bca0ed61cfd017bab7655448b6",
+      "bytes": 2070278
+    },
+    {
+      "path": "section-board.png",
+      "sha256": "795e4810d5009560d9130ab5f42d1fb5884878e00c9a7af89f12afbebbc39406",
+      "bytes": 940634
+    }
+  ],
+  "limitations": "Visual asset library only. Tier labels, progress quantities and milestone thresholds are illustrative; no gameplay rules or entitlement changes. Solo-first launch: personal prestige is cosmetic; Event Champion is future-only. Mastery badges do not alter family evolution, cannon upgrades or collision sizes. New ornaments are AI generated; approved portraits and economy art are reused. Runtime labels should remain localized text. PNG/WebP exports are not a tested game integration or animation rig."
+}

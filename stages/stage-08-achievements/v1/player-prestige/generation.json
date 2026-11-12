@@ -1,0 +1,107 @@
+{
+  "section": "player-prestige",
+  "built_in_image_generation": true,
+  "board": {
+    "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/board.png",
+    "prompt": "Use case: stylized-concept. Create one polished landscape section design board for Puff Trails titled exactly 'Personal Prestige' subtitle 'Solo adventure \u00b7 Cosmetic badge collection'. Reference attached board lower-middle Player Ranks section for SIX badges only, do not include other sections or characters. Pastel lavender pearl panels, plum rounded type, glossy gold trim, plush-inspired rounded 3D enamel. Arrange six large beautifully separated badges in 3 columns x 2 rows: Rookie bronze shield and raised bronze star; Adventurer silver shield and raised silver star; Pro bright gold shield and raised gold star; Master elaborate gold shield with faceted cyan blue star, small gold laurels; Legend purple/lilac winged shield with raised gold star and pink crystals; Champion regal purple shield with gold crown, strong layered gold wings and pink crystal center. Exact labels below each: 'Rookie', 'Adventurer', 'Pro', 'Master', 'Legend', 'Champion'. Header/footer text: 'Puff Trails \u00b7 Stage 8' and 'Personal milestones \u00b7 No competitive ranking'. Original broad rounded jewel-style aesthetics from supplied board. Uniform front orientation; spacious premium production board; NO leaderboard, global rank, numeric unlocks, characters, currency redesign. Board is visual direction only, not gameplay entitlement.",
+    "source_references": [
+      "/Users/mac/Projects/Testing gpt project/boards/Puff Trails Achievement Mastery Showcase.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/logos/main.png"
+    ],
+    "origin": "AI generated section board; solo-first personal prestige, no competitive ranking; exact locked logo composited into header"
+  },
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/logos/main.png": "574b659cd0cf471831088d3483817f041033b3db79caa68d1f6995a20819d53a",
+    "stages/stage-07-cannon-upgrades/v1/cloud-sling/masters/components/crown-halo.png": "080e5b8971e730f1632a0f03928c65fd70844c2ca5abe6605ebfa7f9b3773c9d"
+  },
+  "records": [
+    {
+      "id": "badges/rookie",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/prepared/rookie.png",
+      "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige ROOKIE badge matching top-left badge in reference section board. Bronze shield with gently rounded thick faceted rim, dark copper enamel recess and raised bronze five-point star. Front-facing symmetric, beautifully polished toy-like rounded 3D enamel/gold-adjacent bronze, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, floating particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve shape and bronze color hierarchy of Rookie from reference.",
+      "source_references": [
+        "work/achievements/player-prestige/board.png"
+      ],
+      "origin": "AI individual badge reconstructed from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/rookie.png",
+      "generated_sha256": "1c47ea0f64eb50d7da53ed4a4a3ab8aca0f071bc780a86e03c975fce5b61c59c",
+      "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint."
+    },
+    {
+      "id": "badges/adventurer",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/prepared/adventurer.png",
+      "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige ADVENTURER badge matching top-middle badge in reference section board. Silver shield with gently rounded thick faceted rim, soft blue-violet enamel recess and raised silver five-point star. Front-facing symmetric, beautifully polished toy-like rounded 3D metal/enamel, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, floating particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve shape and silver color hierarchy of Adventurer from reference. No gold, no wings, no laurels.",
+      "source_references": [
+        "work/achievements/player-prestige/board.png"
+      ],
+      "origin": "AI individual badge reconstructed from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/adventurer.png",
+      "generated_sha256": "93afe0e83ecf14a9f9c2aacdb92f9406bac75b9ce471cc59435c550bf45f71e7",
+      "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint."
+    },
+    {
+      "id": "badges/pro",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/prepared/pro.png",
+      "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige PRO badge matching top-right badge in reference section board. Bright gold shield with gently rounded thick faceted rim, rich warm orange-gold enamel recess and raised GOLD five-point star. Front-facing symmetric, beautifully polished toy-like rounded 3D metal/enamel, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, floating particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve shape and gold hierarchy of Pro from reference. No wings, no laurels.",
+      "source_references": [
+        "work/achievements/player-prestige/board.png"
+      ],
+      "origin": "AI individual badge reconstructed from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/pro.png",
+      "generated_sha256": "7eae7cb23f441f0c69d266107a1ae53b7117b64e3c9ad833fc6425b938ace517",
+      "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint."
+    },
+    {
+      "id": "badges/master",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/prepared/master.png",
+      "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige MASTER badge matching BOTTOM LEFT badge in reference section board. Elaborate gold framed bright blue shield with large faceted CYAN-BLUE five-point star at center, symmetrical golden laurel branches flanking sides, small gold five-point star at top and gold diamond at bottom. Front-facing symmetric, beautifully polished toy-like rounded 3D enamel and metal, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, detached particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve original blue star and gold laurel identity. Do not include wings or crown.",
+      "source_references": [
+        "work/achievements/player-prestige/board.png"
+      ],
+      "origin": "AI individual badge reconstructed from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/master.png",
+      "generated_sha256": "0f6f44e791d103d194155551849ad870b6d949e145ebbdc7785261604958d389",
+      "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint."
+    },
+    {
+      "id": "badges/legend",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/prepared/legend.png",
+      "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige LEGEND badge matching BOTTOM MIDDLE badge in reference section board. Deep purple shield with sweeping pink-to-lilac wing feathers on both sides, large raised golden five-point star in center, small faceted pink star above and faceted pink diamond below. Front-facing symmetric wings, rounded premium 3D toy enamel and luminous crystal. Soft studio lighting. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, detached particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve gold centralstar, pink gems and purple layered wings. No crown.",
+      "source_references": [
+        "work/achievements/player-prestige/board.png"
+      ],
+      "origin": "AI individual badge reconstructed from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/legend.png",
+      "generated_sha256": "1617555f9471727bb365c6ee238bd0bd0dc350abd9b27c50c2671a74bbb05f7e",
+      "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint."
+    },
+    {
+      "id": "badges/champion",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/prepared/champion.png",
+      "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige CHAMPION badge matching BOTTOM RIGHT badge in reference section board. Regal purple shield with large magenta faceted crystal center held by gold royal lattice, prominent rounded gold three-point crown above, thick layered gold wings flanking both sides with small violet underfeathers, gold-trimmed pink diamond at bottom. Front-facing symmetric, beautifully polished toy-like rounded 3D gold/enamel/crystal, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, detached particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve gold crown/wing and pink-crystal Champion identity.",
+      "source_references": [
+        "work/achievements/player-prestige/board.png"
+      ],
+      "origin": "AI individual badge reconstructed from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/champion.png",
+      "generated_sha256": "ec346695591e3f399a9b86329ddf1e3a24eaa0db3974850fd6e6f9403081e7c1",
+      "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint."
+    },
+    {
+      "id": "emblems/personal-prestige",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/emblem-crown.png",
+      "prompt": "Reuse approved ornate crown and halo as cosmetic prestige category emblem; no ranking entitlement.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-cannon-upgrades/v1/cloud-sling/masters/components/crown-halo.png"
+      ],
+      "source_repository_path": "stages/stage-07-cannon-upgrades/v1/cloud-sling/masters/components/crown-halo.png",
+      "origin": "Exact-byte reuse of approved ornament"
+    }
+  ]
+}

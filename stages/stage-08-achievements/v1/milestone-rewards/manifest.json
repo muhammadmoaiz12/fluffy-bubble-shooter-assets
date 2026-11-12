@@ -1,0 +1,912 @@
+{
+  "schema_version": 1,
+  "section": "milestone-rewards",
+  "asset_count": 12,
+  "export_count": 72,
+  "assets": [
+    {
+      "id": "chests/golden",
+      "master": "masters/chests/golden.png",
+      "exports": [
+        "gameplay/chests/golden-128.png",
+        "gameplay/chests/golden-128.webp",
+        "gameplay/chests/golden-256.png",
+        "gameplay/chests/golden-256.webp",
+        "gameplay/chests/golden-512.png",
+        "gameplay/chests/golden-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        191,
+        952,
+        833
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/golden/closed.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/golden/closed.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "e39107b1ef868803899c4b6048543166fcf0b751448731920195a2b72299be01",
+        "input_sha256": "e39107b1ef868803899c4b6048543166fcf0b751448731920195a2b72299be01"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "chests/premium",
+      "master": "masters/chests/premium.png",
+      "exports": [
+        "gameplay/chests/premium-128.png",
+        "gameplay/chests/premium-128.webp",
+        "gameplay/chests/premium-256.png",
+        "gameplay/chests/premium-256.webp",
+        "gameplay/chests/premium-512.png",
+        "gameplay/chests/premium-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        110,
+        952,
+        913
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/premium/closed.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/premium/closed.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "459dbd9a0cd8f97d070204105b2945cb191886038cacb826aff11dd378bd163f",
+        "input_sha256": "459dbd9a0cd8f97d070204105b2945cb191886038cacb826aff11dd378bd163f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "chests/rainbow",
+      "master": "masters/chests/rainbow.png",
+      "exports": [
+        "gameplay/chests/rainbow-128.png",
+        "gameplay/chests/rainbow-128.webp",
+        "gameplay/chests/rainbow-256.png",
+        "gameplay/chests/rainbow-256.webp",
+        "gameplay/chests/rainbow-512.png",
+        "gameplay/chests/rainbow-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        181,
+        952,
+        842
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/rainbow/closed.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/rainbow/closed.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "9ba60df18560ac616e873db72eb7c3f5ee5c1800c52cbe28f3dce0b28eefa673",
+        "input_sha256": "9ba60df18560ac616e873db72eb7c3f5ee5c1800c52cbe28f3dce0b28eefa673"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "chests/silver",
+      "master": "masters/chests/silver.png",
+      "exports": [
+        "gameplay/chests/silver-128.png",
+        "gameplay/chests/silver-128.webp",
+        "gameplay/chests/silver-256.png",
+        "gameplay/chests/silver-256.webp",
+        "gameplay/chests/silver-512.png",
+        "gameplay/chests/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        177,
+        952,
+        847
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/silver/closed.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/silver/closed.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "08e1ed857a9be2bd4320cb95e4d2f78972ac8963d59f1d149e99b541246cb65d",
+        "input_sha256": "08e1ed857a9be2bd4320cb95e4d2f78972ac8963d59f1d149e99b541246cb65d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "chests/wooden",
+      "master": "masters/chests/wooden.png",
+      "exports": [
+        "gameplay/chests/wooden-128.png",
+        "gameplay/chests/wooden-128.webp",
+        "gameplay/chests/wooden-256.png",
+        "gameplay/chests/wooden-256.webp",
+        "gameplay/chests/wooden-512.png",
+        "gameplay/chests/wooden-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        194,
+        952,
+        829
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/wooden/closed.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/wooden/closed.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "b20d15a658534ab379dee0895fd64f89ffe515d4d0a47ce40e305674903f6c0c",
+        "input_sha256": "b20d15a658534ab379dee0895fd64f89ffe515d4d0a47ce40e305674903f6c0c"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/milestones",
+      "master": "masters/emblems/milestones.png",
+      "exports": [
+        "gameplay/emblems/milestones-128.png",
+        "gameplay/emblems/milestones-128.webp",
+        "gameplay/emblems/milestones-256.png",
+        "gameplay/emblems/milestones-256.webp",
+        "gameplay/emblems/milestones-512.png",
+        "gameplay/emblems/milestones-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        64,
+        962,
+        960
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/containers/gift-box.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/containers/gift-box.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+        "input_sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "rewards/avatar",
+      "master": "masters/rewards/avatar.png",
+      "exports": [
+        "gameplay/rewards/avatar-128.png",
+        "gameplay/rewards/avatar-128.webp",
+        "gameplay/rewards/avatar-256.png",
+        "gameplay/rewards/avatar-256.webp",
+        "gameplay/rewards/avatar-512.png",
+        "gameplay/rewards/avatar-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        99,
+        84,
+        668,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+        ],
+        "source_repository_path": "locked/rosybuns/v1/masters/core/medium.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+        "input_sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "rewards/boosters",
+      "master": "masters/rewards/boosters.png",
+      "exports": [
+        "gameplay/rewards/boosters-128.png",
+        "gameplay/rewards/boosters-128.webp",
+        "gameplay/rewards/boosters-256.png",
+        "gameplay/rewards/boosters-256.webp",
+        "gameplay/rewards/boosters-512.png",
+        "gameplay/rewards/boosters-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        98,
+        952,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/booster-inventory/masters/precision-trail/front.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/precision-trail/front.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "ae7b32c28c7e85f40a4833a64d0b54f10e0d273027f450cfa424dbc8f1296be6",
+        "input_sha256": "ae7b32c28c7e85f40a4833a64d0b54f10e0d273027f450cfa424dbc8f1296be6"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "rewards/cannon-energy",
+      "master": "masters/rewards/cannon-energy.png",
+      "exports": [
+        "gameplay/rewards/cannon-energy-128.png",
+        "gameplay/rewards/cannon-energy-128.webp",
+        "gameplay/rewards/cannon-energy-256.png",
+        "gameplay/rewards/cannon-energy-256.webp",
+        "gameplay/rewards/cannon-energy-512.png",
+        "gameplay/rewards/cannon-energy-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        72,
+        861,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/cannon-energy/masters/front/full.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/cannon-energy/masters/front/full.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "c5982c9f649fdaa267c05488d7b9473b8474f59d58b077cbd846252bd03effbb",
+        "input_sha256": "c5982c9f649fdaa267c05488d7b9473b8474f59d58b077cbd846252bd03effbb"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "rewards/coins",
+      "master": "masters/rewards/coins.png",
+      "exports": [
+        "gameplay/rewards/coins-128.png",
+        "gameplay/rewards/coins-128.webp",
+        "gameplay/rewards/coins-256.png",
+        "gameplay/rewards/coins-256.webp",
+        "gameplay/rewards/coins-512.png",
+        "gameplay/rewards/coins-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        150,
+        217,
+        850,
+        763
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/coins/masters/packs/small-stack.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/coins/masters/packs/small-stack.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "e8d430badcb45855562bb228d4ec30a61ab305118988af08f3f8f91307d95fdc",
+        "input_sha256": "e8d430badcb45855562bb228d4ec30a61ab305118988af08f3f8f91307d95fdc"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "rewards/frame",
+      "master": "masters/rewards/frame.png",
+      "exports": [
+        "gameplay/rewards/frame-128.png",
+        "gameplay/rewards/frame-128.webp",
+        "gameplay/rewards/frame-256.png",
+        "gameplay/rewards/frame-256.webp",
+        "gameplay/rewards/frame-512.png",
+        "gameplay/rewards/frame-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        82,
+        908,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/rewards/floral-frame.png"
+        ],
+        "source_repository_path": "stages/stage-06-adventure-map/v1/masters/rewards/floral-frame.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "93d9ea8d359d6922da56ced5f8ecc5151045624207c1ccea7c7d927dd2315347",
+        "input_sha256": "93d9ea8d359d6922da56ced5f8ecc5151045624207c1ccea7c7d927dd2315347"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "rewards/stars",
+      "master": "masters/rewards/stars.png",
+      "exports": [
+        "gameplay/rewards/stars-128.png",
+        "gameplay/rewards/stars-128.webp",
+        "gameplay/rewards/stars-256.png",
+        "gameplay/rewards/stars-256.webp",
+        "gameplay/rewards/stars-512.png",
+        "gameplay/rewards/stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        162,
+        190,
+        862,
+        834
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved original master without pixel or design changes.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/states/earned.png"
+        ],
+        "source_repository_path": "stages/stage-07-economy/v1/stars/masters/states/earned.png",
+        "origin": "Exact-byte reuse of approved original asset",
+        "source_sha256": "6f7b85e1ad7130ef1fe32c80a2939b11cdff482d89a755ddfa926db46de6f993",
+        "input_sha256": "6f7b85e1ad7130ef1fe32c80a2939b11cdff482d89a755ddfa926db46de6f993"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    }
+  ],
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "e81e10e1c50ed45a4cd11bcbc8a359fc2d1f14da10222f34c543989080898a1f",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "3f0d64e273b2fd139089b3aeef6d9337e9a330520a73e559e23f1c4cad021dca",
+      "bytes": 3055
+    },
+    {
+      "path": "gameplay/chests/golden-128.png",
+      "sha256": "24073a01c4f1429592c99da23b5e5abce7c6484be0dcdec49e2e9ca0910cb916",
+      "bytes": 19327
+    },
+    {
+      "path": "gameplay/chests/golden-128.webp",
+      "sha256": "252eb9ea10dd8f688663556309fbbc1e2911a4d63786ad3defa041db71dddb50",
+      "bytes": 16050
+    },
+    {
+      "path": "gameplay/chests/golden-256.png",
+      "sha256": "f6f620412941bd1a77e9593cde45a5895a529fdf45e306c3b5e7504558849331",
+      "bytes": 61054
+    },
+    {
+      "path": "gameplay/chests/golden-256.webp",
+      "sha256": "df33351c550e6deebc7b242680228dbf343deffc5c5ed796b4ed841ee68c0f71",
+      "bytes": 46626
+    },
+    {
+      "path": "gameplay/chests/golden-512.png",
+      "sha256": "74d17c1e1768d8067dc59bc2ded9f5dc67ab31a78faed3eb58f88cdc6e6345bf",
+      "bytes": 199185
+    },
+    {
+      "path": "gameplay/chests/golden-512.webp",
+      "sha256": "de2430cbebaa08595a52c1ba6d0914e29b69056bff58d745a934455d29c7dfbc",
+      "bytes": 144798
+    },
+    {
+      "path": "gameplay/chests/premium-128.png",
+      "sha256": "9bf7290a467cb2b303414b95914995e70105bdb4a202e37cd797d9edefef0406",
+      "bytes": 24789
+    },
+    {
+      "path": "gameplay/chests/premium-128.webp",
+      "sha256": "1b975abbe90a46fc78d65b18e6f84abb0a1633dcb8594100a2ff9cf8edd1b6e7",
+      "bytes": 21040
+    },
+    {
+      "path": "gameplay/chests/premium-256.png",
+      "sha256": "9001b4a36fa0106c1df958261c417e307d590c9df02a65626e037f621398024b",
+      "bytes": 81527
+    },
+    {
+      "path": "gameplay/chests/premium-256.webp",
+      "sha256": "b8a4ec49a7d5502d1baf4c3cb958af6a7e6818bea98e9b4ac7c8f96a45575c27",
+      "bytes": 63338
+    },
+    {
+      "path": "gameplay/chests/premium-512.png",
+      "sha256": "b3a86b66999dd157132acba24cbd40739fe642f9e68cac54571399cbbdb79d69",
+      "bytes": 267980
+    },
+    {
+      "path": "gameplay/chests/premium-512.webp",
+      "sha256": "a295094c06fabf99fe6518e64968efee01224909da60898e9e494e5268f84ed0",
+      "bytes": 201408
+    },
+    {
+      "path": "gameplay/chests/rainbow-128.png",
+      "sha256": "0da2e794fb2f693e90bbd825a92bb488462697dfce405b9de2c522ffd54ff50b",
+      "bytes": 21465
+    },
+    {
+      "path": "gameplay/chests/rainbow-128.webp",
+      "sha256": "ad1836f02910d4847d004baffc1409de4d5eb88db9f48f38e82f42869b2b85a3",
+      "bytes": 17688
+    },
+    {
+      "path": "gameplay/chests/rainbow-256.png",
+      "sha256": "4fa6832105e414173b342bbbba476d4c52c49c25d6ecd8ec2ea20e7b8fa789e8",
+      "bytes": 67712
+    },
+    {
+      "path": "gameplay/chests/rainbow-256.webp",
+      "sha256": "e325d76c3b0cf5b3b30bed15c31d2a3a701dcba914b6bb8dee84bd1b1d8987c6",
+      "bytes": 50500
+    },
+    {
+      "path": "gameplay/chests/rainbow-512.png",
+      "sha256": "c7d5f1f26cb3fed1f733c31bf018de0829223a2370b10d2805086ef94a2374fc",
+      "bytes": 223492
+    },
+    {
+      "path": "gameplay/chests/rainbow-512.webp",
+      "sha256": "8749d9df229e4d52fff1be722e2c68439351da7bb867420c80d8fed205a7366e",
+      "bytes": 160064
+    },
+    {
+      "path": "gameplay/chests/silver-128.png",
+      "sha256": "3e955a00a4fae384802d5089faac2356ef01277995e3b437ad5b4eebb0b962a5",
+      "bytes": 19872
+    },
+    {
+      "path": "gameplay/chests/silver-128.webp",
+      "sha256": "0be565567c37173211c6b9a5f25e8d08d05119d0860ffab7f5bb0faf9305d916",
+      "bytes": 15410
+    },
+    {
+      "path": "gameplay/chests/silver-256.png",
+      "sha256": "2e966bce54cc3193d292cd98f9bc260a68869752b5133b094aec0e771c904455",
+      "bytes": 62096
+    },
+    {
+      "path": "gameplay/chests/silver-256.webp",
+      "sha256": "4a2b7484c1aeeca7453ccb1cb08f85ac7b296c8515c2dd1ce330d15d6adc9af7",
+      "bytes": 44522
+    },
+    {
+      "path": "gameplay/chests/silver-512.png",
+      "sha256": "9fd30975f755bd02a17638eedd7bf3c21f803c46ff2573913ebe6954a2bb338e",
+      "bytes": 205411
+    },
+    {
+      "path": "gameplay/chests/silver-512.webp",
+      "sha256": "0912e692043e1e50560fe29cbd069ef68eacdaf82c7e95dad9097d824b366ad3",
+      "bytes": 144672
+    },
+    {
+      "path": "gameplay/chests/wooden-128.png",
+      "sha256": "f5abb392ba175156e43258870eff8125f3b2c35975de54e80600dc7de4bb97b9",
+      "bytes": 19843
+    },
+    {
+      "path": "gameplay/chests/wooden-128.webp",
+      "sha256": "0951a27d0fcdd28019a50fd165c58548996cce3e80fb4bfcb5c91cd5b3359883",
+      "bytes": 15452
+    },
+    {
+      "path": "gameplay/chests/wooden-256.png",
+      "sha256": "a128f36df24478200db2332fdbb58d2045764dc9e1b422e2f7bb340fc4f79c16",
+      "bytes": 62204
+    },
+    {
+      "path": "gameplay/chests/wooden-256.webp",
+      "sha256": "17d17ce38847f48a76003f06026bf2c8c23cc56cca8985cd520dbcc8797fc750",
+      "bytes": 46026
+    },
+    {
+      "path": "gameplay/chests/wooden-512.png",
+      "sha256": "df3aec4f7f12269d2c379a5924b0969af2bb292d82b2c6e67421cca074ea62b0",
+      "bytes": 209267
+    },
+    {
+      "path": "gameplay/chests/wooden-512.webp",
+      "sha256": "9a1395a7e7f3392e16bfd15ecc01c756d69c78eb319111defe22e231a84c930c",
+      "bytes": 149928
+    },
+    {
+      "path": "gameplay/emblems/milestones-128.png",
+      "sha256": "48e1539b2d7e4e77c6fdd0239db06d75c7c6ccec08884ce06ad77b90fac7de8b",
+      "bytes": 25185
+    },
+    {
+      "path": "gameplay/emblems/milestones-128.webp",
+      "sha256": "c7a358704c529a66d8db3eff1556850195005f1255956b2fbcb7772c0570e701",
+      "bytes": 20044
+    },
+    {
+      "path": "gameplay/emblems/milestones-256.png",
+      "sha256": "262f1ec2005c336eca563681222795b56faa0286a6dff89e0b830c9566edfd2e",
+      "bytes": 78032
+    },
+    {
+      "path": "gameplay/emblems/milestones-256.webp",
+      "sha256": "d204d6fce9e3e16deb9759ff85043101ca347110602ccc6f2cf2c54026366110",
+      "bytes": 56710
+    },
+    {
+      "path": "gameplay/emblems/milestones-512.png",
+      "sha256": "cbf1df2195acdd3e7f6ae9273086cbb2862a8d005544cd08b0c6449cd0ee6ca4",
+      "bytes": 253110
+    },
+    {
+      "path": "gameplay/emblems/milestones-512.webp",
+      "sha256": "a88ebaf80182ca5cc4a310564bc6456f1160b6b64c5089361939a5e56381daf2",
+      "bytes": 175680
+    },
+    {
+      "path": "gameplay/rewards/avatar-128.png",
+      "sha256": "6b2e1768f875c48610bda4c2f0d23ef60a52897d7d4d303c2ef5a1543d2da588",
+      "bytes": 22092
+    },
+    {
+      "path": "gameplay/rewards/avatar-128.webp",
+      "sha256": "c7c401b5991ff9630113a8be129e8126c00e50f97b1bd203ee8c149459bd9210",
+      "bytes": 15538
+    },
+    {
+      "path": "gameplay/rewards/avatar-256.png",
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "bytes": 75025
+    },
+    {
+      "path": "gameplay/rewards/avatar-256.webp",
+      "sha256": "e925a1eddb5fb5d299b4c000e125ca32802373098ac652ace9d89e01fc7c6c5e",
+      "bytes": 50204
+    },
+    {
+      "path": "gameplay/rewards/avatar-512.png",
+      "sha256": "b2b37dba17a8db19dbdf7430b7cb7f639672dd677a2dd91c6aaf12701268e5cc",
+      "bytes": 266070
+    },
+    {
+      "path": "gameplay/rewards/avatar-512.webp",
+      "sha256": "d82dff7dc7632d427c00b023a20d9ccb3d5d10d3fcb66092f54c9addbd60b74f",
+      "bytes": 180050
+    },
+    {
+      "path": "gameplay/rewards/boosters-128.png",
+      "sha256": "cfb57ee97001a60c20a4b0cd8d7b08fbd5c16b4766432ef7c7a43ecbca38ca4b",
+      "bytes": 21403
+    },
+    {
+      "path": "gameplay/rewards/boosters-128.webp",
+      "sha256": "11c9f5a5dace3dddb4a9ebbf3161f371e526d4ece9c886dd591bb9e4eb281749",
+      "bytes": 16030
+    },
+    {
+      "path": "gameplay/rewards/boosters-256.png",
+      "sha256": "c7524ae1ddefeb3a74d9a7df2ed9fab6033202b22d65c383626863573c7ebd3a",
+      "bytes": 67816
+    },
+    {
+      "path": "gameplay/rewards/boosters-256.webp",
+      "sha256": "6a28861c547453ce7fd955d0f57a56de0f8380f00a20aa2157cd56804e3cc93b",
+      "bytes": 47868
+    },
+    {
+      "path": "gameplay/rewards/boosters-512.png",
+      "sha256": "def7292ed2e3a7192614c8d0dc94e9e565808fdc8a43a208230ff9b7fb961375",
+      "bytes": 240305
+    },
+    {
+      "path": "gameplay/rewards/boosters-512.webp",
+      "sha256": "544fbab2dfe570983b03d6650aa82386ddaf36fd737922767276a54b62cde597",
+      "bytes": 161800
+    },
+    {
+      "path": "gameplay/rewards/cannon-energy-128.png",
+      "sha256": "90847ac8e14310738d1d2e6cc01a6d856d024f53160c6aece6252f98f49e5ffa",
+      "bytes": 21855
+    },
+    {
+      "path": "gameplay/rewards/cannon-energy-128.webp",
+      "sha256": "5d0b8fecb0f91bf7c77c5e6bd9604123c33d3e8e93061b697222409a391daa84",
+      "bytes": 17976
+    },
+    {
+      "path": "gameplay/rewards/cannon-energy-256.png",
+      "sha256": "3b32e79f69172934b7dc0cddd84c60c9eb25c091b4e07aaf874756c22a37a835",
+      "bytes": 73345
+    },
+    {
+      "path": "gameplay/rewards/cannon-energy-256.webp",
+      "sha256": "4a95ab6bacd03486a59ccae2e3e2ac0e2697b2781d30e0f7d80223e7f46c65b0",
+      "bytes": 56222
+    },
+    {
+      "path": "gameplay/rewards/cannon-energy-512.png",
+      "sha256": "533f01a4b5c271e0ddd59e6b5b7b63bf320190e146a5ac7da3fcf3826bd6db8a",
+      "bytes": 255418
+    },
+    {
+      "path": "gameplay/rewards/cannon-energy-512.webp",
+      "sha256": "36ca7fa2666a227571f70cd0331740d2fc22fe4e34a4deb7ee4ba147372fa525",
+      "bytes": 190552
+    },
+    {
+      "path": "gameplay/rewards/coins-128.png",
+      "sha256": "b3c8ada09a3f2b4ee116d0324b4a0b75376e5bfbf191626b8646af41c718d3ff",
+      "bytes": 13005
+    },
+    {
+      "path": "gameplay/rewards/coins-128.webp",
+      "sha256": "e2244293cdb68e019a7f5078bccdc6049d368644d35346baca6c3377fcebaa49",
+      "bytes": 10750
+    },
+    {
+      "path": "gameplay/rewards/coins-256.png",
+      "sha256": "580f207093653e318f975d255028d8bd830bd06de784d9e16c1d98c779ea202f",
+      "bytes": 35614
+    },
+    {
+      "path": "gameplay/rewards/coins-256.webp",
+      "sha256": "17f12f0242dffa3540bf95eb49bb835c3d9a8509b92a905609b01e284e8536e5",
+      "bytes": 29948
+    },
+    {
+      "path": "gameplay/rewards/coins-512.png",
+      "sha256": "be0eb3791f8064d272a915d66adf34865165befb6c68c092b51c155b3879adeb",
+      "bytes": 114227
+    },
+    {
+      "path": "gameplay/rewards/coins-512.webp",
+      "sha256": "1859931037d51139c5617eac9b310b0f9d73bfda12acb39f419afc601d7d8dda",
+      "bytes": 83560
+    },
+    {
+      "path": "gameplay/rewards/frame-128.png",
+      "sha256": "ff1bdf0e04a34ade93f72478c6326cf29d41f9c11504d3a1a5d8b0abbdd7722f",
+      "bytes": 18171
+    },
+    {
+      "path": "gameplay/rewards/frame-128.webp",
+      "sha256": "05e41faa793134fb86d5f05eda86f41987151b910f7d1ee66279c8e57c6e9d2f",
+      "bytes": 15980
+    },
+    {
+      "path": "gameplay/rewards/frame-256.png",
+      "sha256": "f6e78124f6cba1cf7fdb25090a72f7fd2dfbdadf4ab6841681ab65c447daeb57",
+      "bytes": 55657
+    },
+    {
+      "path": "gameplay/rewards/frame-256.webp",
+      "sha256": "5619e1eb2c47a757df9a278632392c9de836123f55032b4be107f60cbe12f7a2",
+      "bytes": 44144
+    },
+    {
+      "path": "gameplay/rewards/frame-512.png",
+      "sha256": "175f3a5c68850d479ffb4ea15d8d41137b27889c79dbd9aff626767f779903b2",
+      "bytes": 173835
+    },
+    {
+      "path": "gameplay/rewards/frame-512.webp",
+      "sha256": "6029156de25083e0aee68e01675e746d61af0d49bfa206e02346ee0045db6d4a",
+      "bytes": 129654
+    },
+    {
+      "path": "gameplay/rewards/stars-128.png",
+      "sha256": "642d1090c0264a572155d77f7d096d106866548c40de1d10167c98c557dcc326",
+      "bytes": 12229
+    },
+    {
+      "path": "gameplay/rewards/stars-128.webp",
+      "sha256": "fbb22c5d4f7c0d4fd434ec57b7bd9ae7fdec1cd450699e989ebc2cb8455d2c06",
+      "bytes": 9298
+    },
+    {
+      "path": "gameplay/rewards/stars-256.png",
+      "sha256": "d83772fa7a86c71ad83bd5832637fbbca2bf0e61cf7ed8ecaf31e380eb216450",
+      "bytes": 41914
+    },
+    {
+      "path": "gameplay/rewards/stars-256.webp",
+      "sha256": "edf77958540429b7cde52a5c6c6048b0708ecf39ec66857df70c890668d96733",
+      "bytes": 29132
+    },
+    {
+      "path": "gameplay/rewards/stars-512.png",
+      "sha256": "fa2b96d1d38ccb3b5dedfb2653c0ebf551713fae448e98eedc2b3228a126021b",
+      "bytes": 152687
+    },
+    {
+      "path": "gameplay/rewards/stars-512.webp",
+      "sha256": "6116416444ee5ec9a86ee8efa240725628a4cb77f6940cceb2eef604ad81862c",
+      "bytes": 106534
+    },
+    {
+      "path": "generation.json",
+      "sha256": "3c48b3ae8d4272c372c9f2b15bf38e1e263dd3c6f97dfc17f7e1779b66597419",
+      "bytes": 16753
+    },
+    {
+      "path": "masters/chests/golden.png",
+      "sha256": "e39107b1ef868803899c4b6048543166fcf0b751448731920195a2b72299be01",
+      "bytes": 677907
+    },
+    {
+      "path": "masters/chests/premium.png",
+      "sha256": "459dbd9a0cd8f97d070204105b2945cb191886038cacb826aff11dd378bd163f",
+      "bytes": 913124
+    },
+    {
+      "path": "masters/chests/rainbow.png",
+      "sha256": "9ba60df18560ac616e873db72eb7c3f5ee5c1800c52cbe28f3dce0b28eefa673",
+      "bytes": 786840
+    },
+    {
+      "path": "masters/chests/silver.png",
+      "sha256": "08e1ed857a9be2bd4320cb95e4d2f78972ac8963d59f1d149e99b541246cb65d",
+      "bytes": 710033
+    },
+    {
+      "path": "masters/chests/wooden.png",
+      "sha256": "b20d15a658534ab379dee0895fd64f89ffe515d4d0a47ce40e305674903f6c0c",
+      "bytes": 758775
+    },
+    {
+      "path": "masters/emblems/milestones.png",
+      "sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+      "bytes": 788328
+    },
+    {
+      "path": "masters/rewards/avatar.png",
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "bytes": 575251
+    },
+    {
+      "path": "masters/rewards/boosters.png",
+      "sha256": "ae7b32c28c7e85f40a4833a64d0b54f10e0d273027f450cfa424dbc8f1296be6",
+      "bytes": 898699
+    },
+    {
+      "path": "masters/rewards/cannon-energy.png",
+      "sha256": "c5982c9f649fdaa267c05488d7b9473b8474f59d58b077cbd846252bd03effbb",
+      "bytes": 861873
+    },
+    {
+      "path": "masters/rewards/coins.png",
+      "sha256": "e8d430badcb45855562bb228d4ec30a61ab305118988af08f3f8f91307d95fdc",
+      "bytes": 380836
+    },
+    {
+      "path": "masters/rewards/frame.png",
+      "sha256": "93d9ea8d359d6922da56ced5f8ecc5151045624207c1ccea7c7d927dd2315347",
+      "bytes": 564370
+    },
+    {
+      "path": "masters/rewards/stars.png",
+      "sha256": "6f7b85e1ad7130ef1fe32c80a2939b11cdff482d89a755ddfa926db46de6f993",
+      "bytes": 570876
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "22b76164a845901bc8b77cb72634c5362852994bc3586bed2e70a51899271f00",
+      "bytes": 141569
+    },
+    {
+      "path": "section-board.png",
+      "sha256": "9d086a530ff6871a72bc1ba916a4d59c3e0cb48ffd1504d38f1d6efd8a08e5a2",
+      "bytes": 979844
+    }
+  ],
+  "limitations": "Visual asset library only. Tier labels, progress quantities and milestone thresholds are illustrative; no gameplay rules or entitlement changes. Solo-first launch: personal prestige is cosmetic; Event Champion is future-only. Mastery badges do not alter family evolution, cannon upgrades or collision sizes. New ornaments are AI generated; approved portraits and economy art are reused. Runtime labels should remain localized text. PNG/WebP exports are not a tested game integration or animation rig."
+}

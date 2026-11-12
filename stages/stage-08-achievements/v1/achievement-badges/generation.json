@@ -1,0 +1,838 @@
+{
+  "section": "achievement-badges",
+  "built_in_image_generation": true,
+  "board": {
+    "path": "work/achievements/achievement-badges/section-board.png",
+    "prompt": "Use case: stylized-concept. Create a standalone polished landscape Puff Trails Achievement Badge Collection SECTION BOARD, based on the achievement panel of the supplied master reference. Soft plush rounded fantasy mobile-game aesthetic; rich violet enamel, warm metallic gold, pink and cyan crystals, cream/lavender background, beautiful soft studio lighting. No characters at all. Large readable title 'Achievement Badge Collection'. Main content: precise clean grid of 8 rows and 5 columns, each badge separately spaced, all 40 badge designs visible. Columns Bronze, Silver, Gold, Platinum, Legendary. Rows and center emblem: First Win (single gold star), Perfect Clear (cyan faceted crystal), Big Pop (three colored round bubbles), Level Streak (calendar with check), Star Collector (star cluster), Treasure Hunter (purple gold chest), Event Champion (crown; visibly label 'Future concept'), Combo Master (warm flame). Each row keeps its emblem while frames evolve from simple bronze shield, silver shield, gold laurel shield, platinum violet crystal frame, to glorious winged gold legendary frame. At bottom concise text 'Visual tiers only \u2022 Unlock rules and thresholds remain configurable'. No numbers, no leaderboards, no rewards or prices. Preserve original reference design vocabulary without adding competitive gameplay. This is a section design board, not a sprite atlas; immaculate hierarchy and enough whitespace for all 40 badges and exact labels.",
+    "source_references": [
+      "/Users/mac/Projects/Testing gpt project/boards/Puff Trails Achievement Mastery Showcase.png"
+    ],
+    "qa": "Visually inspected: 8 rows x5 tiers complete; correct readable labels; Event Champion Future concept; no characters or gameplay threshold changes.",
+    "locked_logo_source": "outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/logos/main.png",
+    "locked_logo_sha256": "574b659cd0cf471831088d3483817f041033b3db79caa68d1f6995a20819d53a",
+    "postprocessing": "AI logo replaced by exact locked main logo, resized without redrawing, over opaque lavender plaque.",
+    "final_asset_overlay": "Final frame/emblem compositions overlaid in all40boardcells; exactlockedstar/gem/chest reused, so fullboardmatchesdeliveredassets."
+  },
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "locked/puff-trails-brand/v1/masters/icons/gem.png": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d",
+    "stages/stage-07-economy/v1/reward-chests/masters/golden/front.png": "64ee22a73a0497704a149efc78772cc07b992867f9f7568ccfd7f92ef7fecc59"
+  },
+  "records": [
+    {
+      "id": "badges/big-pop/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--big-pop--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/big-pop"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/big-pop/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--big-pop--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/big-pop"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/big-pop/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--big-pop--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/big-pop"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/big-pop/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--big-pop--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/big-pop"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/big-pop/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--big-pop--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/big-pop"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/combo-master/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--combo-master--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/combo-master"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/combo-master/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--combo-master--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/combo-master"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/combo-master/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--combo-master--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/combo-master"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/combo-master/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--combo-master--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/combo-master"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/combo-master/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--combo-master--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/combo-master"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/event-champion/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--event-champion--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/event-champion"
+      ],
+      "release_scope": "future-concept",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/event-champion/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--event-champion--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/event-champion"
+      ],
+      "release_scope": "future-concept",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/event-champion/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--event-champion--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/event-champion"
+      ],
+      "release_scope": "future-concept",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/event-champion/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--event-champion--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/event-champion"
+      ],
+      "release_scope": "future-concept",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/event-champion/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--event-champion--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/event-champion"
+      ],
+      "release_scope": "future-concept",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/first-win/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--first-win--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/first-win"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/first-win/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--first-win--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/first-win"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/first-win/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--first-win--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/first-win"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/first-win/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--first-win--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/first-win"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/first-win/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--first-win--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/first-win"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/level-streak/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--level-streak--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/level-streak"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/level-streak/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--level-streak--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/level-streak"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/level-streak/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--level-streak--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/level-streak"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/level-streak/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--level-streak--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/level-streak"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/level-streak/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--level-streak--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/level-streak"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/perfect-clear/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--perfect-clear--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/perfect-clear"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/perfect-clear/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--perfect-clear--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/perfect-clear"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/perfect-clear/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--perfect-clear--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/perfect-clear"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/perfect-clear/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--perfect-clear--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/perfect-clear"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/perfect-clear/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--perfect-clear--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/perfect-clear"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/star-collector/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--star-collector--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/star-collector"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/star-collector/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--star-collector--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/star-collector"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/star-collector/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--star-collector--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/star-collector"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/star-collector/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--star-collector--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/star-collector"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/star-collector/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--star-collector--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/star-collector"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/treasure-hunter/bronze",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--treasure-hunter--bronze.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+      ],
+      "source_component_ids": [
+        "components/tier-bronze",
+        "emblems/treasure-hunter"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/treasure-hunter/silver",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--treasure-hunter--silver.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+      ],
+      "source_component_ids": [
+        "components/tier-silver",
+        "emblems/treasure-hunter"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/treasure-hunter/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--treasure-hunter--gold.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/treasure-hunter"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/treasure-hunter/platinum",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--treasure-hunter--platinum.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+      ],
+      "source_component_ids": [
+        "components/tier-platinum",
+        "emblems/treasure-hunter"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "badges/treasure-hunter/legendary",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/badges--treasure-hunter--legendary.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+      ],
+      "source_component_ids": [
+        "components/tier-legendary",
+        "emblems/treasure-hunter"
+      ],
+      "release_scope": "visual-candidate",
+      "tier_semantics": "Visual rarity progression only; thresholds are not approved."
+    },
+    {
+      "id": "components/tier-bronze",
+      "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching BRONZE column. Simple softly beveled bronze/copper shield frame; warm dark brown enamel inset; no laurels, no crown, no emblem. Match supplied silverframe geometry exactly but change silver to rich warmbronze and purplecenter to darkwarm brown. Broad flat clear center for separately layered icon. Straight front view, entirely within SQUARE canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center opaque not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png"
+      ],
+      "generated_sha256": "7bdb406f1787d0167197efef05a03bb75ce0198e5e527932a5aa22fe13c61309",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "components/tier-gold",
+      "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching GOLD column. Gold shield with small symmetrical gold laurel leaves on lower left and right; rich violet enamel inset; small top diamond gold ornament. Broad flat clear center for separately layered icon. No emblem in center. Straight front view, entirely within square canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center filled opaque deep violet enamel, not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately. Match silver reference's shield geometry where feasible.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png"
+      ],
+      "generated_sha256": "baffcb3ca4051977f7bc991c08ebe3073bf392d59542bd9ff76a537eb06a44f8",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "components/tier-legendary",
+      "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching LEGENDARY column. Magnificent symmetric gold winged shield with layered golden feathers sweeping outward to upperleft/upperright, pink crystal crown facets outside top rim, little gold star above top edge and small pink diamond bottomtip. Deep violet enamel inset, broad EMPTY clear center for separately layered icon. No center emblem. Match reference legendary progression. Straight front view, entirely within SQUARE canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center filled opaque deep violet enamel not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png"
+      ],
+      "generated_sha256": "b78ccbff74f42f4e9d9828f6878febb72f420df8564cbd543996fa617fef8177",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "components/tier-platinum",
+      "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching PLATINUM column. Pale platinum silver rim shield with amethyst-violet enamel inset, purple faceted crystal leaf accents around outside, cyan bottom facets and little magenta top diamond. Broad flat clear center for separately layered icon. No emblem in center. Straight front view, entirely within SQUARE canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center opaque not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately. Match goldreference shield geometry.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png"
+      ],
+      "generated_sha256": "85bd61e98c22e18ef6b24b5ec71c90e1dde0bad258021173d6be1f4989163abf",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "components/tier-silver",
+      "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from the supplied Puff Trails section board, matching silver column. Simple softly beveled silver shield frame; deep muted navy-violet enamel inset; no laurels, no crown, no emblem. Front-facing symmetric shield. Broad flat clear center for separately layered icon. Straight front view, entirely within canvas, symmetric, rounded plush-game polished 3D materials, clean silhouette, soft studio highlights upperleft. Center empty of all symbols but filled opaque navy-violet enamel, not a hole. Leave 10% transparent margin on every side. No text, no number, no ground, no scene, no other objects. Output genuinely transparent RGBA background; opaque object interior. This is the frame only for layering original locked icons later.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+      ],
+      "generated_sha256": "e026ebe01cf8a51ef2b60cc8ece7cffd11862fb4cd4fed57bceaf3e741a6ae9c",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "emblems/big-pop",
+      "prompt": "Use case: stylized-concept. Create one standalone transparent achievement emblem for Puff Trails, matching Big Pop row in supplied section board. ONE compact triangle cluster of exactly THREE glossy rounded bubbles: cyan uppercenter, hotpink lowerleft, violet lowerright. No faces. Beautiful soft 3D fantasy-game enamel, rounded shape, chunky highlights. Frontview centered square composition, margin15%. No shield, no frame, no text, no fog, no shadows on backdrop, no extra objects. Truly transparent RGBA background; opaque bubbles interiors. Highquality individual game icon, not board crop.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+      ],
+      "generated_sha256": "53887cb4b0ab7078b238f72ce8769c7e92bfe74426d97c20398447027f82926b",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "emblems/combo-master",
+      "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement emblem for Puff Trails matching Combo Master row in supplied section board. One compact rounded orange-gold flame emblem with yellow inner flame, soft warm enamel/glass glow and orange bevelededge. Three flowing lobes in outerflame, inneryellowflame. Beautiful friendly3D fantasy-game polished materials, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No face, no text, no numbers, no shield, no laurels, no fog, no floatingparticles, no backgroundshadow, no extraobjects. Truly transparentRGBA background; opaque objectinterior. Highquality individual gameicon not boardcrop.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+      ],
+      "generated_sha256": "93346273e2127be7c788ea9ccc4025168bd5b6fa3798398d836ebd98c6f07c0a",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "emblems/event-champion",
+      "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement emblem for Puff Trails, matching Event Champion row in supplied section board. One rounded golden three-point crown with soft purple inset band, tiny pink round jewels on tips and magenta central jewel. Future-concept event badge emblem. Beautiful soft3D fantasy-game enamel/gold, roundedshape, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No text, no numbers, no shield, no laurels, no fog, no backdrop shadow, no extra objects. Truly transparentRGBA background; opaque object interior. Highquality individual gameicon not boardcrop.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+      ],
+      "release_scope": "future-concept",
+      "generated_sha256": "2cd8b5356825364c6b5c4f95f2a861595c3c47dbfdd48c5020682d39f520d54b",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "emblems/first-win",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png",
+      "prompt": "Reuse exact locked source bytes.",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "prepared": true
+    },
+    {
+      "id": "emblems/level-streak",
+      "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement emblem for Puff Trails, matching Level Streak row in supplied section board. One friendly square calendar icon: cream page inside chunky purple rounded frame, gold top spine and three little gold binder rings, bold MAGENTA CHECK MARK at center. No text, no dates, no numbers. Beautiful soft3D fantasy-game enamel, roundedshape, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No shield, no extra frame outside calendar, no fog, no shadow on backdrop, no extra objects. Truly transparentRGBA background; opaque object interior. Highquality individual gameicon not boardcrop.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+      ],
+      "generated_sha256": "e8726361677e8cf808b8fab9c78b4c809ea8b7dc8187aa70a3c2103465bda7ed",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "emblems/perfect-clear",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png",
+      "prompt": "Reuse exact locked source bytes.",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/gem.png",
+      "source_sha256": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/gem.png"
+      ],
+      "prepared": true
+    },
+    {
+      "id": "emblems/star-collector",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+      ],
+      "source_component_ids": [
+        "emblems/first-win"
+      ],
+      "release_scope": "visual-candidate"
+    },
+    {
+      "id": "emblems/treasure-hunter",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png",
+      "prompt": "Reuse exact locked source bytes.",
+      "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/golden/front.png",
+      "source_sha256": "64ee22a73a0497704a149efc78772cc07b992867f9f7568ccfd7f92ef7fecc59",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/golden/front.png"
+      ],
+      "prepared": true
+    },
+    {
+      "id": "emblems/trophy",
+      "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement trophy emblem for Puff Trails, matching trophy header of supplied section board. One golden rounded trophy cup with two curled symmetrical handles, large five-point embossed gold star on front and small gold pedestal foot. Friendly glossy metallic achievement trophy. Beautiful3D fantasy-game polished gold material, roundedshape, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No text, no numbers, no shield, no laurels, no fog, no floatingparticles, no backgroundshadow, no extraobjects. Truly transparentRGBA background; opaque objectinterior. Highquality individual gameicon not boardcrop.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--trophy.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+      ],
+      "generated_sha256": "60b0834ae6f94d17e364bfd4ec2d2d75b78a1500e926d2da97bd8f85931c18d0",
+      "prepared": true,
+      "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged."
+    },
+    {
+      "id": "headers/achievements",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/headers--achievements.png",
+      "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--trophy.png"
+      ],
+      "source_component_ids": [
+        "components/tier-gold",
+        "emblems/trophy"
+      ]
+    }
+  ]
+}

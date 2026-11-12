@@ -1,0 +1,558 @@
+{
+  "schema_version": 1,
+  "section": "player-prestige",
+  "asset_count": 7,
+  "export_count": 42,
+  "assets": [
+    {
+      "id": "badges/rookie",
+      "master": "masters/badges/rookie.png",
+      "exports": [
+        "gameplay/badges/rookie-128.png",
+        "gameplay/badges/rookie-128.webp",
+        "gameplay/badges/rookie-256.png",
+        "gameplay/badges/rookie-256.webp",
+        "gameplay/badges/rookie-512.png",
+        "gameplay/badges/rookie-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        73,
+        952,
+        950
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige ROOKIE badge matching top-left badge in reference section board. Bronze shield with gently rounded thick faceted rim, dark copper enamel recess and raised bronze five-point star. Front-facing symmetric, beautifully polished toy-like rounded 3D enamel/gold-adjacent bronze, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, floating particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve shape and bronze color hierarchy of Rookie from reference.",
+        "source_references": [
+          "work/achievements/player-prestige/board.png"
+        ],
+        "origin": "AI individual badge reconstructed from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/rookie.png",
+        "generated_sha256": "1c47ea0f64eb50d7da53ed4a4a3ab8aca0f071bc780a86e03c975fce5b61c59c",
+        "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint.",
+        "input_sha256": "52098eb1deb21c62a0052a6f0e3474283a51a390c73700592b426eccae43f6ed"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/adventurer",
+      "master": "masters/badges/adventurer.png",
+      "exports": [
+        "gameplay/badges/adventurer-128.png",
+        "gameplay/badges/adventurer-128.webp",
+        "gameplay/badges/adventurer-256.png",
+        "gameplay/badges/adventurer-256.webp",
+        "gameplay/badges/adventurer-512.png",
+        "gameplay/badges/adventurer-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        73,
+        952,
+        950
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige ADVENTURER badge matching top-middle badge in reference section board. Silver shield with gently rounded thick faceted rim, soft blue-violet enamel recess and raised silver five-point star. Front-facing symmetric, beautifully polished toy-like rounded 3D metal/enamel, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, floating particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve shape and silver color hierarchy of Adventurer from reference. No gold, no wings, no laurels.",
+        "source_references": [
+          "work/achievements/player-prestige/board.png"
+        ],
+        "origin": "AI individual badge reconstructed from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/adventurer.png",
+        "generated_sha256": "93afe0e83ecf14a9f9c2aacdb92f9406bac75b9ce471cc59435c550bf45f71e7",
+        "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint.",
+        "input_sha256": "3c904e0d123d13d168c073e5c5156783c5631976ab6e32e116c0dcef265b8510"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/pro",
+      "master": "masters/badges/pro.png",
+      "exports": [
+        "gameplay/badges/pro-128.png",
+        "gameplay/badges/pro-128.webp",
+        "gameplay/badges/pro-256.png",
+        "gameplay/badges/pro-256.webp",
+        "gameplay/badges/pro-512.png",
+        "gameplay/badges/pro-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        86,
+        952,
+        937
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige PRO badge matching top-right badge in reference section board. Bright gold shield with gently rounded thick faceted rim, rich warm orange-gold enamel recess and raised GOLD five-point star. Front-facing symmetric, beautifully polished toy-like rounded 3D metal/enamel, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, floating particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve shape and gold hierarchy of Pro from reference. No wings, no laurels.",
+        "source_references": [
+          "work/achievements/player-prestige/board.png"
+        ],
+        "origin": "AI individual badge reconstructed from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/pro.png",
+        "generated_sha256": "7eae7cb23f441f0c69d266107a1ae53b7117b64e3c9ad833fc6425b938ace517",
+        "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint.",
+        "input_sha256": "28997c064378a35a072ffeb96c588a299610a7ec9e34cf1adcb87adeaef0d319"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/master",
+      "master": "masters/badges/master.png",
+      "exports": [
+        "gameplay/badges/master-128.png",
+        "gameplay/badges/master-128.webp",
+        "gameplay/badges/master-256.png",
+        "gameplay/badges/master-256.webp",
+        "gameplay/badges/master-512.png",
+        "gameplay/badges/master-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        137,
+        952,
+        886
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige MASTER badge matching BOTTOM LEFT badge in reference section board. Elaborate gold framed bright blue shield with large faceted CYAN-BLUE five-point star at center, symmetrical golden laurel branches flanking sides, small gold five-point star at top and gold diamond at bottom. Front-facing symmetric, beautifully polished toy-like rounded 3D enamel and metal, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, detached particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve original blue star and gold laurel identity. Do not include wings or crown.",
+        "source_references": [
+          "work/achievements/player-prestige/board.png"
+        ],
+        "origin": "AI individual badge reconstructed from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/master.png",
+        "generated_sha256": "0f6f44e791d103d194155551849ad870b6d949e145ebbdc7785261604958d389",
+        "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint.",
+        "input_sha256": "3be2e6b6e46e75d0b103ae9bcf13926f1e2b36e407220906070a5e951a996366"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/legend",
+      "master": "masters/badges/legend.png",
+      "exports": [
+        "gameplay/badges/legend-128.png",
+        "gameplay/badges/legend-128.webp",
+        "gameplay/badges/legend-256.png",
+        "gameplay/badges/legend-256.webp",
+        "gameplay/badges/legend-512.png",
+        "gameplay/badges/legend-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        179,
+        952,
+        844
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige LEGEND badge matching BOTTOM MIDDLE badge in reference section board. Deep purple shield with sweeping pink-to-lilac wing feathers on both sides, large raised golden five-point star in center, small faceted pink star above and faceted pink diamond below. Front-facing symmetric wings, rounded premium 3D toy enamel and luminous crystal. Soft studio lighting. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, detached particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve gold centralstar, pink gems and purple layered wings. No crown.",
+        "source_references": [
+          "work/achievements/player-prestige/board.png"
+        ],
+        "origin": "AI individual badge reconstructed from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/legend.png",
+        "generated_sha256": "1617555f9471727bb365c6ee238bd0bd0dc350abd9b27c50c2671a74bbb05f7e",
+        "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint.",
+        "input_sha256": "398def7ca16e18fd5e777f9fe3e615c5c126dee555c6a23309c091d71c054fdd"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/champion",
+      "master": "masters/badges/champion.png",
+      "exports": [
+        "gameplay/badges/champion-128.png",
+        "gameplay/badges/champion-128.webp",
+        "gameplay/badges/champion-256.png",
+        "gameplay/badges/champion-256.webp",
+        "gameplay/badges/champion-512.png",
+        "gameplay/badges/champion-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        157,
+        952,
+        867
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one individual Puff Trails Personal Prestige CHAMPION badge matching BOTTOM RIGHT badge in reference section board. Regal purple shield with large magenta faceted crystal center held by gold royal lattice, prominent rounded gold three-point crown above, thick layered gold wings flanking both sides with small violet underfeathers, gold-trimmed pink diamond at bottom. Front-facing symmetric, beautifully polished toy-like rounded 3D gold/enamel/crystal, soft studio light. Isolated SINGLE asset on genuine transparent background. No text, panels, label, environment, detached particles, border, extra badges. Fill about 80% square image with generous transparent margin all around; no clipping. Preserve gold crown/wing and pink-crystal Champion identity.",
+        "source_references": [
+          "work/achievements/player-prestige/board.png"
+        ],
+        "origin": "AI individual badge reconstructed from section board",
+        "prepared": true,
+        "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/player-prestige/generated/champion.png",
+        "generated_sha256": "ec346695591e3f399a9b86329ddf1e3a24eaa0db3974850fd6e6f9403081e7c1",
+        "processing": "Removed disconnected alpha specks under24pixels and alpha6orless; fitted within880x880 on1024canvas. No art repaint.",
+        "input_sha256": "0b22b8a3b2efb9e18536aa65a501a9434994164053e28d3617326e1e08229ecb"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/personal-prestige",
+      "master": "masters/emblems/personal-prestige.png",
+      "exports": [
+        "gameplay/emblems/personal-prestige-128.png",
+        "gameplay/emblems/personal-prestige-128.webp",
+        "gameplay/emblems/personal-prestige-256.png",
+        "gameplay/emblems/personal-prestige-256.webp",
+        "gameplay/emblems/personal-prestige-512.png",
+        "gameplay/emblems/personal-prestige-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        215,
+        952,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse approved ornate crown and halo as cosmetic prestige category emblem; no ranking entitlement.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-cannon-upgrades/v1/cloud-sling/masters/components/crown-halo.png"
+        ],
+        "source_repository_path": "stages/stage-07-cannon-upgrades/v1/cloud-sling/masters/components/crown-halo.png",
+        "origin": "Exact-byte reuse of approved ornament",
+        "input_sha256": "080e5b8971e730f1632a0f03928c65fd70844c2ca5abe6605ebfa7f9b3773c9d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    }
+  ],
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "e81e10e1c50ed45a4cd11bcbc8a359fc2d1f14da10222f34c543989080898a1f",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "6cd6d7db0d0f581891ba393eac581ff0ac88ad91b777fdd8acbfaea8447feadf",
+      "bytes": 2107
+    },
+    {
+      "path": "gameplay/badges/adventurer-128.png",
+      "sha256": "9dbdeef1f7913887577fc847095dedc5c850525016b39a00e1689b4fc419121a",
+      "bytes": 22570
+    },
+    {
+      "path": "gameplay/badges/adventurer-128.webp",
+      "sha256": "38826ff46596051bc1015a72902d8bd4c65c8d5950855cc384003d8b129fcee3",
+      "bytes": 15698
+    },
+    {
+      "path": "gameplay/badges/adventurer-256.png",
+      "sha256": "14ae5da3157d24535dfd5edbd9e0451d00162cd9de8698aae280f04bdd0365a6",
+      "bytes": 69988
+    },
+    {
+      "path": "gameplay/badges/adventurer-256.webp",
+      "sha256": "ae85ad27e1deb7de8ce9a5e21a5e74b8590644436ce849a0cd1bbfc9a3248699",
+      "bytes": 46406
+    },
+    {
+      "path": "gameplay/badges/adventurer-512.png",
+      "sha256": "2b0a8604dd2d0006f1379edabfb45e47cb1dd0ed84250d6cc8015a6ee4ebf70a",
+      "bytes": 232414
+    },
+    {
+      "path": "gameplay/badges/adventurer-512.webp",
+      "sha256": "86522ed865cde84de98aa521311028bc8b8d49c8b80a3a48eb5872e5924eb26b",
+      "bytes": 154502
+    },
+    {
+      "path": "gameplay/badges/champion-128.png",
+      "sha256": "01bf21c36a5cde2905d0799cec500fbc7b02e2cc0e753e42d7a2d1e43e7941d7",
+      "bytes": 21790
+    },
+    {
+      "path": "gameplay/badges/champion-128.webp",
+      "sha256": "c91dcdf381e82e430060126bb955b88b094ecca83b41ec2a07da4c9f8e5b5be5",
+      "bytes": 18968
+    },
+    {
+      "path": "gameplay/badges/champion-256.png",
+      "sha256": "aadfe73d1e6643d05abd9cb682a4b828d70c86a7038ed97c9f3fa78294c571d0",
+      "bytes": 71505
+    },
+    {
+      "path": "gameplay/badges/champion-256.webp",
+      "sha256": "6bb58aa03846f4acf9c289551c1986d1b5e7229b370dfc32688cd8f1c95b5f58",
+      "bytes": 56364
+    },
+    {
+      "path": "gameplay/badges/champion-512.png",
+      "sha256": "b04ac5f2f6203d145edff8b5c047dbf66c1f7e788c9383d9f2b5b1ad7fe91086",
+      "bytes": 236266
+    },
+    {
+      "path": "gameplay/badges/champion-512.webp",
+      "sha256": "e6d17f61261368ffef75c7e0514f34c1a23bfe09726a055d486b933cbe405b51",
+      "bytes": 177896
+    },
+    {
+      "path": "gameplay/badges/legend-128.png",
+      "sha256": "f019f7f82746b9dbd7b46062fe7448f41d9e045d4447e662600bf109bd670fd9",
+      "bytes": 19852
+    },
+    {
+      "path": "gameplay/badges/legend-128.webp",
+      "sha256": "ed9b367cfb14dde71b0c634ac4d8a4be8ee5f31d46f5fc3d1dba3a4e9a8150a1",
+      "bytes": 16408
+    },
+    {
+      "path": "gameplay/badges/legend-256.png",
+      "sha256": "46bd13ff6cc53f5cf6198b909265e45edb0f495756d2d90421b5d241c76266a9",
+      "bytes": 64694
+    },
+    {
+      "path": "gameplay/badges/legend-256.webp",
+      "sha256": "0fad36b2baae8c6310fe937d2e9b120ca5314bd2c4216c7da9ab33307ad50f71",
+      "bytes": 48654
+    },
+    {
+      "path": "gameplay/badges/legend-512.png",
+      "sha256": "95c7a43389bdc994a1bab3956669a9442077eb9cb798ca11478d055861778102",
+      "bytes": 211543
+    },
+    {
+      "path": "gameplay/badges/legend-512.webp",
+      "sha256": "e7372cadcd9a1262e641cef5bd9d39ff46640f7d8e20d9bd83a549575456b262",
+      "bytes": 151520
+    },
+    {
+      "path": "gameplay/badges/master-128.png",
+      "sha256": "4957186dc36e3d2da05e0d57192e09996dea10a4fada075616f503f52605ff1e",
+      "bytes": 22087
+    },
+    {
+      "path": "gameplay/badges/master-128.webp",
+      "sha256": "67ce6b86e24c001ad19eb25b77c0e7adf9725da9cd6dfab1df7b8f3fcfb1001e",
+      "bytes": 18742
+    },
+    {
+      "path": "gameplay/badges/master-256.png",
+      "sha256": "880efcef0462a25e6a164cb13f23a297b29840c80e67b8f5c558f68c5a160c85",
+      "bytes": 71737
+    },
+    {
+      "path": "gameplay/badges/master-256.webp",
+      "sha256": "00f7574ff55ca9d3d1ff7bceaff4dc8c93133b87486c73c4fab7114537bf07ba",
+      "bytes": 54904
+    },
+    {
+      "path": "gameplay/badges/master-512.png",
+      "sha256": "e96e714b0e67afdb51aad39fc2be87005c1d28ab247f230760045eb13021ab86",
+      "bytes": 236143
+    },
+    {
+      "path": "gameplay/badges/master-512.webp",
+      "sha256": "f94730b1a3319c28d0c9b235574cad8d553b38c5700657218ad9d93ba1f23bcc",
+      "bytes": 176144
+    },
+    {
+      "path": "gameplay/badges/pro-128.png",
+      "sha256": "cd76a0f83db5e85552f894d56f9caca0310512e7b149e68697b5337a1497aa78",
+      "bytes": 20886
+    },
+    {
+      "path": "gameplay/badges/pro-128.webp",
+      "sha256": "2423a34ddbb3598385311fa25a56ab77bffb1d89f76d00634c01eede5141eae6",
+      "bytes": 16700
+    },
+    {
+      "path": "gameplay/badges/pro-256.png",
+      "sha256": "570fe7a1756151b44cd1ce8caa976f1ff0588eca7a980c27273082ed0000137d",
+      "bytes": 66983
+    },
+    {
+      "path": "gameplay/badges/pro-256.webp",
+      "sha256": "d53c671966567c747e5e84504db511d05753cd1392b3365fcab79ba8b568ab8e",
+      "bytes": 48676
+    },
+    {
+      "path": "gameplay/badges/pro-512.png",
+      "sha256": "88823db334a80cfe6e73caf4e475efa89863123749609894af85d148dcc60569",
+      "bytes": 226867
+    },
+    {
+      "path": "gameplay/badges/pro-512.webp",
+      "sha256": "0bc655693e74e8ef4cd4c2b599c209faf785c840cca1948becd06b597857135e",
+      "bytes": 157808
+    },
+    {
+      "path": "gameplay/badges/rookie-128.png",
+      "sha256": "31bce8d58be15777957a88e4237d11bbb67bebfea98b15d958faace693a2b134",
+      "bytes": 22992
+    },
+    {
+      "path": "gameplay/badges/rookie-128.webp",
+      "sha256": "c2a1e5feb2f3b687fe78c6fd10a6591151c9a4db431e75bd4c8252cd22ed5093",
+      "bytes": 17766
+    },
+    {
+      "path": "gameplay/badges/rookie-256.png",
+      "sha256": "2bd5046890a5a3b63ec0e3b3998a749dbf2c48c2af6952ec6a4d77cc873159ea",
+      "bytes": 72110
+    },
+    {
+      "path": "gameplay/badges/rookie-256.webp",
+      "sha256": "6d0a83940387198aead49c964ef914e79ba21fa2874d72f18b02dd56e6e39ec4",
+      "bytes": 50502
+    },
+    {
+      "path": "gameplay/badges/rookie-512.png",
+      "sha256": "fc0a3bd7e0d9e609cf3b17477cfd663e4b8e6628fa4fd685f4fcc55af3626bb5",
+      "bytes": 239865
+    },
+    {
+      "path": "gameplay/badges/rookie-512.webp",
+      "sha256": "349ff0338e62ae18b299620e52e2e582178b50fca82c265abb4fe97851f99363",
+      "bytes": 163436
+    },
+    {
+      "path": "gameplay/emblems/personal-prestige-128.png",
+      "sha256": "ddd51a98840b023f2562ac4f776e758232740235e1cbc2306864804f08d2b2b8",
+      "bytes": 22340
+    },
+    {
+      "path": "gameplay/emblems/personal-prestige-128.webp",
+      "sha256": "17c324021cf7e105cf32e4cfcd94799a8fec518c75eeefdc9173508a108a22e7",
+      "bytes": 19730
+    },
+    {
+      "path": "gameplay/emblems/personal-prestige-256.png",
+      "sha256": "8fc48cbc10902888d53b23488c4bf47f0ba1979b137a7950b1f750cd2dc3a98f",
+      "bytes": 74398
+    },
+    {
+      "path": "gameplay/emblems/personal-prestige-256.webp",
+      "sha256": "d86a6e8367e9b7c4f5101508daf56ebd9035a4d43a7559f33eee601766d98ef8",
+      "bytes": 60684
+    },
+    {
+      "path": "gameplay/emblems/personal-prestige-512.png",
+      "sha256": "8819b99fb17883325aeee1799b004d55834c396d1c12ca4d57c382d557f791a1",
+      "bytes": 251159
+    },
+    {
+      "path": "gameplay/emblems/personal-prestige-512.webp",
+      "sha256": "f68fd79f8b77f82255f9e1340b4524c8d1455b79e1fed5329ded2404eac23b85",
+      "bytes": 198204
+    },
+    {
+      "path": "generation.json",
+      "sha256": "c913953776fab8b73f830da575c8e80e87cb48faca6d363e9e76055a3fe81437",
+      "bytes": 12249
+    },
+    {
+      "path": "masters/badges/adventurer.png",
+      "sha256": "76ed863ff7ecb8944e765b38737184b24820ab91d6f4cd84a7b42036cbde9f04",
+      "bytes": 796624
+    },
+    {
+      "path": "masters/badges/champion.png",
+      "sha256": "3474e4d50e63e93d6da71d7f893d1673d54a3ecea1e7223f80c4908ea0787941",
+      "bytes": 796066
+    },
+    {
+      "path": "masters/badges/legend.png",
+      "sha256": "1b5f33ea86e4a9b701a10bb6e381213808aef77f4219fd88b2f6dbfe98f813b5",
+      "bytes": 701976
+    },
+    {
+      "path": "masters/badges/master.png",
+      "sha256": "6403e3f2607a9ef66771edb60ef37f0f1e9f3a94ab98857b31845804a140fb7e",
+      "bytes": 778861
+    },
+    {
+      "path": "masters/badges/pro.png",
+      "sha256": "f3a44a5782bd7e61bcf3bd5e1e383d9a8373ee90fccbd0cc920499416fb48181",
+      "bytes": 805913
+    },
+    {
+      "path": "masters/badges/rookie.png",
+      "sha256": "cfe6b8537df2708c99011b3c9aa04caa9e82d565713d5bf3d96e8eb1aaa38ea0",
+      "bytes": 854237
+    },
+    {
+      "path": "masters/emblems/personal-prestige.png",
+      "sha256": "080e5b8971e730f1632a0f03928c65fd70844c2ca5abe6605ebfa7f9b3773c9d",
+      "bytes": 854232
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "bb6187e1bb9bf73679babe938b1904de1941f31fe3a6e6ea9fe38fa0ede2c86c",
+      "bytes": 95006
+    },
+    {
+      "path": "section-board.png",
+      "sha256": "cb562e438fad6d16d53157ffed3397c9ac906d65b71df33ac5c0f4bd6af3cf99",
+      "bytes": 2050717
+    }
+  ],
+  "limitations": "Visual asset library only. Tier labels, progress quantities and milestone thresholds are illustrative; no gameplay rules or entitlement changes. Solo-first launch: personal prestige is cosmetic; Event Champion is future-only. Mastery badges do not alter family evolution, cannon upgrades or collision sizes. New ornaments are AI generated; approved portraits and economy art are reused. Runtime labels should remain localized text. PNG/WebP exports are not a tested game integration or animation rig."
+}

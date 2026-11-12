@@ -1,0 +1,700 @@
+{
+  "section": "cannon-mastery",
+  "built_in_image_generation": true,
+  "board": {
+    "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/section-board.png",
+    "prompt": "Use case: stylized-concept. Create a polished landscape 3:2 Puff Trails Cannon Mastery section reference board matching the supplied plush golden-purple achievement board. This is a SECTION BOARD, not individual sprite output. Pale lavender and cream cloud background, rounded luminous panels, polished gold edges, luxurious cute 3D enamel material. Exact title: 'Cannon Mastery'. Subtitle: 'Five original cannons \u2022 Five visual badge grades'. Upper middle row exactly five evenly spaced star shield medals: bronze shield with star, silver with star, gold with star, gold/purple winged Epic, magenta/gold crowned Mythic. Labels 'Bronze', 'Silver', 'Gold', 'Epic', 'Mythic'. Lower half exactly FIVE equally spaced plain empty lavender rounded rectangular portrait cards in ONE ROW, from left to right. Cards occupy x about 3%-97%, y57%-89%. Their centers must remain completely empty, no cannons, no animals, no emblem, no decorations inside; original cannon portraits will be composited later. NO CANNON OR CHARACTER DRAWINGS ANYWHERE. No text on cards. Footer text: 'Mastery badges \u2022 Original cannon designs preserved'. No gameplay costs, power amounts or thresholds. Keep source style and palette. No brand logo or decorative lettering other than prescribed text.",
+    "source_references": [
+      "/Users/mac/Projects/Testing gpt project/boards/Puff Trails Achievement Mastery Showcase.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+    ],
+    "composition_sources": [
+      "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+      "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+      "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+      "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+      "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+    ],
+    "source_hashes": {
+      "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+      "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9",
+      "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2",
+      "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0",
+      "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+    },
+    "notes": "Original locked portraits composited without repainting. Resized only for board layout. Five visual badge grades are art variants, not approved gameplay thresholds.",
+    "concept_archive_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/section-board-concept.png",
+    "concept_archive_sha256": "d047fe85d701f3962ebab81faf3bc580a5c010628696fd764c6f68aa210c1aaa",
+    "final_grade_sources": [
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-01.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-02.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-03.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-04.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-05.png"
+    ],
+    "final_board_refinement": "Five illustrative grade images replaced with final individual grade assets. Original generated concept board archived; labels and exact locked portrait areas unchanged."
+  },
+  "existing_sources": {
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b",
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+  },
+  "records": [
+    {
+      "id": "badges/bloom-launcher/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--bloom-launcher--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+      }
+    },
+    {
+      "id": "badges/bloom-launcher/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--bloom-launcher--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+      }
+    },
+    {
+      "id": "badges/bloom-launcher/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--bloom-launcher--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+      }
+    },
+    {
+      "id": "badges/bloom-launcher/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--bloom-launcher--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+      }
+    },
+    {
+      "id": "badges/bloom-launcher/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--bloom-launcher--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2"
+      }
+    },
+    {
+      "id": "badges/cloud-sling/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--cloud-sling--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "badges/cloud-sling/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--cloud-sling--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "badges/cloud-sling/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--cloud-sling--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "badges/cloud-sling/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--cloud-sling--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "badges/cloud-sling/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--cloud-sling--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--moonlight-cannon--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+      }
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--moonlight-cannon--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+      }
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--moonlight-cannon--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+      }
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--moonlight-cannon--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+      }
+    },
+    {
+      "id": "badges/moonlight-cannon/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--moonlight-cannon--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9"
+      }
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--rainbow-launcher--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+      }
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--rainbow-launcher--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+      }
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--rainbow-launcher--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+      }
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--rainbow-launcher--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+      }
+    },
+    {
+      "id": "badges/rainbow-launcher/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--rainbow-launcher--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0"
+      }
+    },
+    {
+      "id": "badges/starburst-cannon/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--starburst-cannon--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+      }
+    },
+    {
+      "id": "badges/starburst-cannon/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--starburst-cannon--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+      }
+    },
+    {
+      "id": "badges/starburst-cannon/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--starburst-cannon--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+      }
+    },
+    {
+      "id": "badges/starburst-cannon/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--starburst-cannon--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+      }
+    },
+    {
+      "id": "badges/starburst-cannon/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/badges--starburst-cannon--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b"
+      }
+    },
+    {
+      "id": "category/cannon-mastery",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/category--cannon-mastery.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "components/star-emblem",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "grades/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      }
+    },
+    {
+      "id": "grades/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      }
+    },
+    {
+      "id": "grades/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      }
+    },
+    {
+      "id": "grades/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      }
+    },
+    {
+      "id": "grades/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/cannon-mastery/renders/grades--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      }
+    },
+    {
+      "id": "portraits/bloom-launcher",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+      "source_repository_path": "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/cloud-sling",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+      "source_repository_path": "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/moonlight-cannon",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+      "source_repository_path": "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/rainbow-launcher",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+      "source_repository_path": "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/starburst-cannon",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+      "source_repository_path": "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    }
+  ]
+}

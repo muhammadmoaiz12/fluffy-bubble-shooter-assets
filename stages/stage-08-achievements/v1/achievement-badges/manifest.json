@@ -1,0 +1,4261 @@
+{
+  "schema_version": 1,
+  "section": "achievement-badges",
+  "asset_count": 55,
+  "export_count": 330,
+  "assets": [
+    {
+      "id": "badges/big-pop/bronze",
+      "master": "masters/badges/big-pop/bronze.png",
+      "exports": [
+        "gameplay/badges/big-pop/bronze-128.png",
+        "gameplay/badges/big-pop/bronze-128.webp",
+        "gameplay/badges/big-pop/bronze-256.png",
+        "gameplay/badges/big-pop/bronze-256.webp",
+        "gameplay/badges/big-pop/bronze-512.png",
+        "gameplay/badges/big-pop/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/big-pop"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "66be923d0e5d9560954f9a4bbabf046fc78e53e3288c7ac5f303720aab445098"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/big-pop/silver",
+      "master": "masters/badges/big-pop/silver.png",
+      "exports": [
+        "gameplay/badges/big-pop/silver-128.png",
+        "gameplay/badges/big-pop/silver-128.webp",
+        "gameplay/badges/big-pop/silver-256.png",
+        "gameplay/badges/big-pop/silver-256.webp",
+        "gameplay/badges/big-pop/silver-512.png",
+        "gameplay/badges/big-pop/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/big-pop"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "00a52d2dc09163b62225dcbc0eda5e3b1ecc09a17c8a403994541a03e31cbd2e"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/big-pop/gold",
+      "master": "masters/badges/big-pop/gold.png",
+      "exports": [
+        "gameplay/badges/big-pop/gold-128.png",
+        "gameplay/badges/big-pop/gold-128.webp",
+        "gameplay/badges/big-pop/gold-256.png",
+        "gameplay/badges/big-pop/gold-256.webp",
+        "gameplay/badges/big-pop/gold-512.png",
+        "gameplay/badges/big-pop/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/big-pop"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "f573827866dd4936cb00f51b4878888e5ace72665754d69da872acaa4dcf774f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/big-pop/platinum",
+      "master": "masters/badges/big-pop/platinum.png",
+      "exports": [
+        "gameplay/badges/big-pop/platinum-128.png",
+        "gameplay/badges/big-pop/platinum-128.webp",
+        "gameplay/badges/big-pop/platinum-256.png",
+        "gameplay/badges/big-pop/platinum-256.webp",
+        "gameplay/badges/big-pop/platinum-512.png",
+        "gameplay/badges/big-pop/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/big-pop"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "dbb76b3c9ab7785610563009ba84cc449848aff240afc42837f854acf5b0dab6"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/big-pop/legendary",
+      "master": "masters/badges/big-pop/legendary.png",
+      "exports": [
+        "gameplay/badges/big-pop/legendary-128.png",
+        "gameplay/badges/big-pop/legendary-128.webp",
+        "gameplay/badges/big-pop/legendary-256.png",
+        "gameplay/badges/big-pop/legendary-256.webp",
+        "gameplay/badges/big-pop/legendary-512.png",
+        "gameplay/badges/big-pop/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--big-pop.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/big-pop"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "a4326ddb37f48e9fadb9549f3e447f5b8d64f78a180b191fa8e78d720b556f51"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/combo-master/bronze",
+      "master": "masters/badges/combo-master/bronze.png",
+      "exports": [
+        "gameplay/badges/combo-master/bronze-128.png",
+        "gameplay/badges/combo-master/bronze-128.webp",
+        "gameplay/badges/combo-master/bronze-256.png",
+        "gameplay/badges/combo-master/bronze-256.webp",
+        "gameplay/badges/combo-master/bronze-512.png",
+        "gameplay/badges/combo-master/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/combo-master"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "5cff50540a8f6cac91ed240e6bd4e7d2ae208bb0db4029259fc837f05a929fb8"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/combo-master/silver",
+      "master": "masters/badges/combo-master/silver.png",
+      "exports": [
+        "gameplay/badges/combo-master/silver-128.png",
+        "gameplay/badges/combo-master/silver-128.webp",
+        "gameplay/badges/combo-master/silver-256.png",
+        "gameplay/badges/combo-master/silver-256.webp",
+        "gameplay/badges/combo-master/silver-512.png",
+        "gameplay/badges/combo-master/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/combo-master"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "0472c8f9d45bad2c39f52e12a21f3410d8faf24687328fd63bb5b8e31157f055"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/combo-master/gold",
+      "master": "masters/badges/combo-master/gold.png",
+      "exports": [
+        "gameplay/badges/combo-master/gold-128.png",
+        "gameplay/badges/combo-master/gold-128.webp",
+        "gameplay/badges/combo-master/gold-256.png",
+        "gameplay/badges/combo-master/gold-256.webp",
+        "gameplay/badges/combo-master/gold-512.png",
+        "gameplay/badges/combo-master/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/combo-master"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "20d5ac7a80163a3934c0388d2043fd648bafcffa096efd7c6878e215e276da69"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/combo-master/platinum",
+      "master": "masters/badges/combo-master/platinum.png",
+      "exports": [
+        "gameplay/badges/combo-master/platinum-128.png",
+        "gameplay/badges/combo-master/platinum-128.webp",
+        "gameplay/badges/combo-master/platinum-256.png",
+        "gameplay/badges/combo-master/platinum-256.webp",
+        "gameplay/badges/combo-master/platinum-512.png",
+        "gameplay/badges/combo-master/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/combo-master"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "466030efeea12f3c46ce3bb6ff701bceea8b4e59e095c7c0641f597134482060"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/combo-master/legendary",
+      "master": "masters/badges/combo-master/legendary.png",
+      "exports": [
+        "gameplay/badges/combo-master/legendary-128.png",
+        "gameplay/badges/combo-master/legendary-128.webp",
+        "gameplay/badges/combo-master/legendary-256.png",
+        "gameplay/badges/combo-master/legendary-256.webp",
+        "gameplay/badges/combo-master/legendary-512.png",
+        "gameplay/badges/combo-master/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--combo-master.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/combo-master"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "138c9d7bf0f71b57f367bbc516a3917580e80bee8361b409a04fbc3818d6590d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/event-champion/bronze",
+      "master": "masters/badges/event-champion/bronze.png",
+      "exports": [
+        "gameplay/badges/event-champion/bronze-128.png",
+        "gameplay/badges/event-champion/bronze-128.webp",
+        "gameplay/badges/event-champion/bronze-256.png",
+        "gameplay/badges/event-champion/bronze-256.webp",
+        "gameplay/badges/event-champion/bronze-512.png",
+        "gameplay/badges/event-champion/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/event-champion"
+        ],
+        "release_scope": "future-concept",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "f0013b8a9d887a13a82bf64dd5a504170fb083e02e22db70562b25a005b205c4"
+      },
+      "future_only": true,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/event-champion/silver",
+      "master": "masters/badges/event-champion/silver.png",
+      "exports": [
+        "gameplay/badges/event-champion/silver-128.png",
+        "gameplay/badges/event-champion/silver-128.webp",
+        "gameplay/badges/event-champion/silver-256.png",
+        "gameplay/badges/event-champion/silver-256.webp",
+        "gameplay/badges/event-champion/silver-512.png",
+        "gameplay/badges/event-champion/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/event-champion"
+        ],
+        "release_scope": "future-concept",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "d0e892eb742c5b911f220cc1d7b29b939b23ee69b09120efa65df78a43e27d75"
+      },
+      "future_only": true,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/event-champion/gold",
+      "master": "masters/badges/event-champion/gold.png",
+      "exports": [
+        "gameplay/badges/event-champion/gold-128.png",
+        "gameplay/badges/event-champion/gold-128.webp",
+        "gameplay/badges/event-champion/gold-256.png",
+        "gameplay/badges/event-champion/gold-256.webp",
+        "gameplay/badges/event-champion/gold-512.png",
+        "gameplay/badges/event-champion/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/event-champion"
+        ],
+        "release_scope": "future-concept",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "1c579cd5059973435f3b7d6740135d8132f79d646ccbf92a17bf277f931db4e8"
+      },
+      "future_only": true,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/event-champion/platinum",
+      "master": "masters/badges/event-champion/platinum.png",
+      "exports": [
+        "gameplay/badges/event-champion/platinum-128.png",
+        "gameplay/badges/event-champion/platinum-128.webp",
+        "gameplay/badges/event-champion/platinum-256.png",
+        "gameplay/badges/event-champion/platinum-256.webp",
+        "gameplay/badges/event-champion/platinum-512.png",
+        "gameplay/badges/event-champion/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/event-champion"
+        ],
+        "release_scope": "future-concept",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "e90fcb26c25be5a7b49377acd15d050a845c9aad3fbdac32ecf71fbdd35710e3"
+      },
+      "future_only": true,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/event-champion/legendary",
+      "master": "masters/badges/event-champion/legendary.png",
+      "exports": [
+        "gameplay/badges/event-champion/legendary-128.png",
+        "gameplay/badges/event-champion/legendary-128.webp",
+        "gameplay/badges/event-champion/legendary-256.png",
+        "gameplay/badges/event-champion/legendary-256.webp",
+        "gameplay/badges/event-champion/legendary-512.png",
+        "gameplay/badges/event-champion/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--event-champion.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/event-champion"
+        ],
+        "release_scope": "future-concept",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "5671d461cde48cc2ffbc7b270c31e7a7e049172cd39a21c4b0cb07b863bc4637"
+      },
+      "future_only": true,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/first-win/bronze",
+      "master": "masters/badges/first-win/bronze.png",
+      "exports": [
+        "gameplay/badges/first-win/bronze-128.png",
+        "gameplay/badges/first-win/bronze-128.webp",
+        "gameplay/badges/first-win/bronze-256.png",
+        "gameplay/badges/first-win/bronze-256.webp",
+        "gameplay/badges/first-win/bronze-512.png",
+        "gameplay/badges/first-win/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/first-win"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "f197c65b9de93e75a83f8e8755810446eff387723ab316e656519a310b2f370e"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/first-win/silver",
+      "master": "masters/badges/first-win/silver.png",
+      "exports": [
+        "gameplay/badges/first-win/silver-128.png",
+        "gameplay/badges/first-win/silver-128.webp",
+        "gameplay/badges/first-win/silver-256.png",
+        "gameplay/badges/first-win/silver-256.webp",
+        "gameplay/badges/first-win/silver-512.png",
+        "gameplay/badges/first-win/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/first-win"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "55dbc9040164718ddf6f6ea9e955ec1cae7ce19082e6f1a4c2bcfc5b8f70487d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/first-win/gold",
+      "master": "masters/badges/first-win/gold.png",
+      "exports": [
+        "gameplay/badges/first-win/gold-128.png",
+        "gameplay/badges/first-win/gold-128.webp",
+        "gameplay/badges/first-win/gold-256.png",
+        "gameplay/badges/first-win/gold-256.webp",
+        "gameplay/badges/first-win/gold-512.png",
+        "gameplay/badges/first-win/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/first-win"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "476ca693a0478ab195e3a765ff529d804f9f91cb65f8f7e468b97c937ecdd7a9"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/first-win/platinum",
+      "master": "masters/badges/first-win/platinum.png",
+      "exports": [
+        "gameplay/badges/first-win/platinum-128.png",
+        "gameplay/badges/first-win/platinum-128.webp",
+        "gameplay/badges/first-win/platinum-256.png",
+        "gameplay/badges/first-win/platinum-256.webp",
+        "gameplay/badges/first-win/platinum-512.png",
+        "gameplay/badges/first-win/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/first-win"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "396ae98716738601ec3791b79c1940c13d1411412f49ff99cec9352380babf56"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/first-win/legendary",
+      "master": "masters/badges/first-win/legendary.png",
+      "exports": [
+        "gameplay/badges/first-win/legendary-128.png",
+        "gameplay/badges/first-win/legendary-128.webp",
+        "gameplay/badges/first-win/legendary-256.png",
+        "gameplay/badges/first-win/legendary-256.webp",
+        "gameplay/badges/first-win/legendary-512.png",
+        "gameplay/badges/first-win/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/first-win"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "9a6a98d8b3c6207af632c31fd2fb681336a8ba634430ba634abaaa1b8def6500"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/level-streak/bronze",
+      "master": "masters/badges/level-streak/bronze.png",
+      "exports": [
+        "gameplay/badges/level-streak/bronze-128.png",
+        "gameplay/badges/level-streak/bronze-128.webp",
+        "gameplay/badges/level-streak/bronze-256.png",
+        "gameplay/badges/level-streak/bronze-256.webp",
+        "gameplay/badges/level-streak/bronze-512.png",
+        "gameplay/badges/level-streak/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/level-streak"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "8d52c53aa4d7ee2e6423e3299f7ff304c38cb22eff5812c825e854f1e53da0f8"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/level-streak/silver",
+      "master": "masters/badges/level-streak/silver.png",
+      "exports": [
+        "gameplay/badges/level-streak/silver-128.png",
+        "gameplay/badges/level-streak/silver-128.webp",
+        "gameplay/badges/level-streak/silver-256.png",
+        "gameplay/badges/level-streak/silver-256.webp",
+        "gameplay/badges/level-streak/silver-512.png",
+        "gameplay/badges/level-streak/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/level-streak"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "ec28740194fdadb142612879443af2784b3707a171582f08846e0ca9510e9b54"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/level-streak/gold",
+      "master": "masters/badges/level-streak/gold.png",
+      "exports": [
+        "gameplay/badges/level-streak/gold-128.png",
+        "gameplay/badges/level-streak/gold-128.webp",
+        "gameplay/badges/level-streak/gold-256.png",
+        "gameplay/badges/level-streak/gold-256.webp",
+        "gameplay/badges/level-streak/gold-512.png",
+        "gameplay/badges/level-streak/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/level-streak"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "6cf92eb29bada5c410c96328dddeea7b9aebe7bda10333fbb45840bf86d91008"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/level-streak/platinum",
+      "master": "masters/badges/level-streak/platinum.png",
+      "exports": [
+        "gameplay/badges/level-streak/platinum-128.png",
+        "gameplay/badges/level-streak/platinum-128.webp",
+        "gameplay/badges/level-streak/platinum-256.png",
+        "gameplay/badges/level-streak/platinum-256.webp",
+        "gameplay/badges/level-streak/platinum-512.png",
+        "gameplay/badges/level-streak/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/level-streak"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "77f476d5728398b6a45eb98b408cae18bfda6a5045856a7fd13e5fe2d306d865"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/level-streak/legendary",
+      "master": "masters/badges/level-streak/legendary.png",
+      "exports": [
+        "gameplay/badges/level-streak/legendary-128.png",
+        "gameplay/badges/level-streak/legendary-128.webp",
+        "gameplay/badges/level-streak/legendary-256.png",
+        "gameplay/badges/level-streak/legendary-256.webp",
+        "gameplay/badges/level-streak/legendary-512.png",
+        "gameplay/badges/level-streak/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--level-streak.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/level-streak"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "79ee0bb84ed3af18af3d194988a6c43d0aac705f76eca06d16b4024f725fbd19"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/perfect-clear/bronze",
+      "master": "masters/badges/perfect-clear/bronze.png",
+      "exports": [
+        "gameplay/badges/perfect-clear/bronze-128.png",
+        "gameplay/badges/perfect-clear/bronze-128.webp",
+        "gameplay/badges/perfect-clear/bronze-256.png",
+        "gameplay/badges/perfect-clear/bronze-256.webp",
+        "gameplay/badges/perfect-clear/bronze-512.png",
+        "gameplay/badges/perfect-clear/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/perfect-clear"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "614c10d33aa7ad3933df74564c07df31ef49fa2f38142a77483849fc86cdd1a7"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/perfect-clear/silver",
+      "master": "masters/badges/perfect-clear/silver.png",
+      "exports": [
+        "gameplay/badges/perfect-clear/silver-128.png",
+        "gameplay/badges/perfect-clear/silver-128.webp",
+        "gameplay/badges/perfect-clear/silver-256.png",
+        "gameplay/badges/perfect-clear/silver-256.webp",
+        "gameplay/badges/perfect-clear/silver-512.png",
+        "gameplay/badges/perfect-clear/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/perfect-clear"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "d7129f8c039e54f709d4d95dffd6be3ff9c6ea5dfc9bcd1a8f80f22dfdc070c3"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/perfect-clear/gold",
+      "master": "masters/badges/perfect-clear/gold.png",
+      "exports": [
+        "gameplay/badges/perfect-clear/gold-128.png",
+        "gameplay/badges/perfect-clear/gold-128.webp",
+        "gameplay/badges/perfect-clear/gold-256.png",
+        "gameplay/badges/perfect-clear/gold-256.webp",
+        "gameplay/badges/perfect-clear/gold-512.png",
+        "gameplay/badges/perfect-clear/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/perfect-clear"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "df48534de25948995fe4ec934ee3913f7ec1fab3893e3625e447ad7eb6d1509f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/perfect-clear/platinum",
+      "master": "masters/badges/perfect-clear/platinum.png",
+      "exports": [
+        "gameplay/badges/perfect-clear/platinum-128.png",
+        "gameplay/badges/perfect-clear/platinum-128.webp",
+        "gameplay/badges/perfect-clear/platinum-256.png",
+        "gameplay/badges/perfect-clear/platinum-256.webp",
+        "gameplay/badges/perfect-clear/platinum-512.png",
+        "gameplay/badges/perfect-clear/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/perfect-clear"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "88b457f65fc2a0749422e8d4f850176b0d1ec8806a534e35ed379279e81edc00"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/perfect-clear/legendary",
+      "master": "masters/badges/perfect-clear/legendary.png",
+      "exports": [
+        "gameplay/badges/perfect-clear/legendary-128.png",
+        "gameplay/badges/perfect-clear/legendary-128.webp",
+        "gameplay/badges/perfect-clear/legendary-256.png",
+        "gameplay/badges/perfect-clear/legendary-256.webp",
+        "gameplay/badges/perfect-clear/legendary-512.png",
+        "gameplay/badges/perfect-clear/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--perfect-clear.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/perfect-clear"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "e57ba3378bbc32bea4081e4966a604f8e5814d4ff0708015d3a83105c568da06"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/star-collector/bronze",
+      "master": "masters/badges/star-collector/bronze.png",
+      "exports": [
+        "gameplay/badges/star-collector/bronze-128.png",
+        "gameplay/badges/star-collector/bronze-128.webp",
+        "gameplay/badges/star-collector/bronze-256.png",
+        "gameplay/badges/star-collector/bronze-256.webp",
+        "gameplay/badges/star-collector/bronze-512.png",
+        "gameplay/badges/star-collector/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/star-collector"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "a666b6c1710ab1d3b1cd2fe087a39a1fd53a4e8d308c2b9c4e8c1457602a14db"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/star-collector/silver",
+      "master": "masters/badges/star-collector/silver.png",
+      "exports": [
+        "gameplay/badges/star-collector/silver-128.png",
+        "gameplay/badges/star-collector/silver-128.webp",
+        "gameplay/badges/star-collector/silver-256.png",
+        "gameplay/badges/star-collector/silver-256.webp",
+        "gameplay/badges/star-collector/silver-512.png",
+        "gameplay/badges/star-collector/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/star-collector"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "a06f188bd04c9e8ec8f066122dc86cdc9bd84f697f95746db541701c2c18e694"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/star-collector/gold",
+      "master": "masters/badges/star-collector/gold.png",
+      "exports": [
+        "gameplay/badges/star-collector/gold-128.png",
+        "gameplay/badges/star-collector/gold-128.webp",
+        "gameplay/badges/star-collector/gold-256.png",
+        "gameplay/badges/star-collector/gold-256.webp",
+        "gameplay/badges/star-collector/gold-512.png",
+        "gameplay/badges/star-collector/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/star-collector"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "50bd8ef328bd3de7e58746d46035d59c113a55205d9b658d8f0d6be1a71d02fb"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/star-collector/platinum",
+      "master": "masters/badges/star-collector/platinum.png",
+      "exports": [
+        "gameplay/badges/star-collector/platinum-128.png",
+        "gameplay/badges/star-collector/platinum-128.webp",
+        "gameplay/badges/star-collector/platinum-256.png",
+        "gameplay/badges/star-collector/platinum-256.webp",
+        "gameplay/badges/star-collector/platinum-512.png",
+        "gameplay/badges/star-collector/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/star-collector"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "257bcd74ca3e1d2ebfaea502e1e8f50cbd134d0c5b231b31165bfe306c56a422"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/star-collector/legendary",
+      "master": "masters/badges/star-collector/legendary.png",
+      "exports": [
+        "gameplay/badges/star-collector/legendary-128.png",
+        "gameplay/badges/star-collector/legendary-128.webp",
+        "gameplay/badges/star-collector/legendary-256.png",
+        "gameplay/badges/star-collector/legendary-256.webp",
+        "gameplay/badges/star-collector/legendary-512.png",
+        "gameplay/badges/star-collector/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--star-collector.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/star-collector"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "ff4a717ed62252b1443c39dec6a1cfef47d18e332ee23873bc4cfe1247ccfde8"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/treasure-hunter/bronze",
+      "master": "masters/badges/treasure-hunter/bronze.png",
+      "exports": [
+        "gameplay/badges/treasure-hunter/bronze-128.png",
+        "gameplay/badges/treasure-hunter/bronze-128.webp",
+        "gameplay/badges/treasure-hunter/bronze-256.png",
+        "gameplay/badges/treasure-hunter/bronze-256.webp",
+        "gameplay/badges/treasure-hunter/bronze-512.png",
+        "gameplay/badges/treasure-hunter/bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+        ],
+        "source_component_ids": [
+          "components/tier-bronze",
+          "emblems/treasure-hunter"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "87c172789446dedfd2e7c0b4ecdd9d1c723562ba0d34ba7277ece243994cf206"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/treasure-hunter/silver",
+      "master": "masters/badges/treasure-hunter/silver.png",
+      "exports": [
+        "gameplay/badges/treasure-hunter/silver-128.png",
+        "gameplay/badges/treasure-hunter/silver-128.webp",
+        "gameplay/badges/treasure-hunter/silver-256.png",
+        "gameplay/badges/treasure-hunter/silver-256.webp",
+        "gameplay/badges/treasure-hunter/silver-512.png",
+        "gameplay/badges/treasure-hunter/silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+        ],
+        "source_component_ids": [
+          "components/tier-silver",
+          "emblems/treasure-hunter"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "36e4dd627a49c6dec01d6d122ff18bbc778d4890bc3fd12867b15d8326e7e2bf"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/treasure-hunter/gold",
+      "master": "masters/badges/treasure-hunter/gold.png",
+      "exports": [
+        "gameplay/badges/treasure-hunter/gold-128.png",
+        "gameplay/badges/treasure-hunter/gold-128.webp",
+        "gameplay/badges/treasure-hunter/gold-256.png",
+        "gameplay/badges/treasure-hunter/gold-256.webp",
+        "gameplay/badges/treasure-hunter/gold-512.png",
+        "gameplay/badges/treasure-hunter/gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/treasure-hunter"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "1514adf5c8cc4118d1fc2f96a9334cf5b5c40ce69b54c89bf39b80bf63434a5d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/treasure-hunter/platinum",
+      "master": "masters/badges/treasure-hunter/platinum.png",
+      "exports": [
+        "gameplay/badges/treasure-hunter/platinum-128.png",
+        "gameplay/badges/treasure-hunter/platinum-128.webp",
+        "gameplay/badges/treasure-hunter/platinum-256.png",
+        "gameplay/badges/treasure-hunter/platinum-256.webp",
+        "gameplay/badges/treasure-hunter/platinum-512.png",
+        "gameplay/badges/treasure-hunter/platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+        ],
+        "source_component_ids": [
+          "components/tier-platinum",
+          "emblems/treasure-hunter"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "9bf243a641ad7d9b280916157cf64276f82ea9c4b9e08a9f047a312c772d8af1"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "badges/treasure-hunter/legendary",
+      "master": "masters/badges/treasure-hunter/legendary.png",
+      "exports": [
+        "gameplay/badges/treasure-hunter/legendary-128.png",
+        "gameplay/badges/treasure-hunter/legendary-128.webp",
+        "gameplay/badges/treasure-hunter/legendary-256.png",
+        "gameplay/badges/treasure-hunter/legendary-256.webp",
+        "gameplay/badges/treasure-hunter/legendary-512.png",
+        "gameplay/badges/treasure-hunter/legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--treasure-hunter.png"
+        ],
+        "source_component_ids": [
+          "components/tier-legendary",
+          "emblems/treasure-hunter"
+        ],
+        "release_scope": "visual-candidate",
+        "tier_semantics": "Visual rarity progression only; thresholds are not approved.",
+        "input_sha256": "5a417be81d81aca8eaf39050189b405feee1b1858e6b968410840780cfe70f9e"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/tier-bronze",
+      "master": "masters/components/tier-bronze.png",
+      "exports": [
+        "gameplay/components/tier-bronze-128.png",
+        "gameplay/components/tier-bronze-128.webp",
+        "gameplay/components/tier-bronze-256.png",
+        "gameplay/components/tier-bronze-256.webp",
+        "gameplay/components/tier-bronze-512.png",
+        "gameplay/components/tier-bronze-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        72,
+        938,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching BRONZE column. Simple softly beveled bronze/copper shield frame; warm dark brown enamel inset; no laurels, no crown, no emblem. Match supplied silverframe geometry exactly but change silver to rich warmbronze and purplecenter to darkwarm brown. Broad flat clear center for separately layered icon. Straight front view, entirely within SQUARE canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center opaque not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png"
+        ],
+        "generated_sha256": "7bdb406f1787d0167197efef05a03bb75ce0198e5e527932a5aa22fe13c61309",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/tier-gold",
+      "master": "masters/components/tier-gold.png",
+      "exports": [
+        "gameplay/components/tier-gold-128.png",
+        "gameplay/components/tier-gold-128.webp",
+        "gameplay/components/tier-gold-256.png",
+        "gameplay/components/tier-gold-256.webp",
+        "gameplay/components/tier-gold-512.png",
+        "gameplay/components/tier-gold-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching GOLD column. Gold shield with small symmetrical gold laurel leaves on lower left and right; rich violet enamel inset; small top diamond gold ornament. Broad flat clear center for separately layered icon. No emblem in center. Straight front view, entirely within square canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center filled opaque deep violet enamel, not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately. Match silver reference's shield geometry where feasible.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png"
+        ],
+        "generated_sha256": "baffcb3ca4051977f7bc991c08ebe3073bf392d59542bd9ff76a537eb06a44f8",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/tier-legendary",
+      "master": "masters/components/tier-legendary.png",
+      "exports": [
+        "gameplay/components/tier-legendary-128.png",
+        "gameplay/components/tier-legendary-128.webp",
+        "gameplay/components/tier-legendary-256.png",
+        "gameplay/components/tier-legendary-256.webp",
+        "gameplay/components/tier-legendary-512.png",
+        "gameplay/components/tier-legendary-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching LEGENDARY column. Magnificent symmetric gold winged shield with layered golden feathers sweeping outward to upperleft/upperright, pink crystal crown facets outside top rim, little gold star above top edge and small pink diamond bottomtip. Deep violet enamel inset, broad EMPTY clear center for separately layered icon. No center emblem. Match reference legendary progression. Straight front view, entirely within SQUARE canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center filled opaque deep violet enamel not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png"
+        ],
+        "generated_sha256": "b78ccbff74f42f4e9d9828f6878febb72f420df8564cbd543996fa617fef8177",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/tier-platinum",
+      "master": "masters/components/tier-platinum.png",
+      "exports": [
+        "gameplay/components/tier-platinum-128.png",
+        "gameplay/components/tier-platinum-128.webp",
+        "gameplay/components/tier-platinum-256.png",
+        "gameplay/components/tier-platinum-256.webp",
+        "gameplay/components/tier-platinum-512.png",
+        "gameplay/components/tier-platinum-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from supplied Puff Trails section board, matching PLATINUM column. Pale platinum silver rim shield with amethyst-violet enamel inset, purple faceted crystal leaf accents around outside, cyan bottom facets and little magenta top diamond. Broad flat clear center for separately layered icon. No emblem in center. Straight front view, entirely within SQUARE canvas, symmetric, rounded polished 3D game materials, clean silhouette, soft studio highlights upperleft. Center opaque not a hole. Leave10% transparent margin every side. No text, no number, no ground, no scene, no other objects, no exterior fog or aura. Genuinely transparent RGBA background with fully opaque interior. Frame only; central symbol later layered separately. Match goldreference shield geometry.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png"
+        ],
+        "generated_sha256": "85bd61e98c22e18ef6b24b5ec71c90e1dde0bad258021173d6be1f4989163abf",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "components/tier-silver",
+      "master": "masters/components/tier-silver.png",
+      "exports": [
+        "gameplay/components/tier-silver-128.png",
+        "gameplay/components/tier-silver-128.webp",
+        "gameplay/components/tier-silver-256.png",
+        "gameplay/components/tier-silver-256.webp",
+        "gameplay/components/tier-silver-512.png",
+        "gameplay/components/tier-silver-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        73,
+        942,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. One individual transparent PNG game achievement badge FRAME from the supplied Puff Trails section board, matching silver column. Simple softly beveled silver shield frame; deep muted navy-violet enamel inset; no laurels, no crown, no emblem. Front-facing symmetric shield. Broad flat clear center for separately layered icon. Straight front view, entirely within canvas, symmetric, rounded plush-game polished 3D materials, clean silhouette, soft studio highlights upperleft. Center empty of all symbols but filled opaque navy-violet enamel, not a hole. Leave 10% transparent margin on every side. No text, no number, no ground, no scene, no other objects. Output genuinely transparent RGBA background; opaque object interior. This is the frame only for layering original locked icons later.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+        ],
+        "generated_sha256": "e026ebe01cf8a51ef2b60cc8ece7cffd11862fb4cd4fed57bceaf3e741a6ae9c",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/big-pop",
+      "master": "masters/emblems/big-pop.png",
+      "exports": [
+        "gameplay/emblems/big-pop-128.png",
+        "gameplay/emblems/big-pop-128.webp",
+        "gameplay/emblems/big-pop-256.png",
+        "gameplay/emblems/big-pop-256.webp",
+        "gameplay/emblems/big-pop-512.png",
+        "gameplay/emblems/big-pop-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        124,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create one standalone transparent achievement emblem for Puff Trails, matching Big Pop row in supplied section board. ONE compact triangle cluster of exactly THREE glossy rounded bubbles: cyan uppercenter, hotpink lowerleft, violet lowerright. No faces. Beautiful soft 3D fantasy-game enamel, rounded shape, chunky highlights. Frontview centered square composition, margin15%. No shield, no frame, no text, no fog, no shadows on backdrop, no extra objects. Truly transparent RGBA background; opaque bubbles interiors. Highquality individual game icon, not board crop.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+        ],
+        "generated_sha256": "53887cb4b0ab7078b238f72ce8769c7e92bfe74426d97c20398447027f82926b",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "28752753f70915aa60d6de41eab6729e1c9d03459df371e3e740f480f37dc3ec"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/combo-master",
+      "master": "masters/emblems/combo-master.png",
+      "exports": [
+        "gameplay/emblems/combo-master-128.png",
+        "gameplay/emblems/combo-master-128.webp",
+        "gameplay/emblems/combo-master-256.png",
+        "gameplay/emblems/combo-master-256.webp",
+        "gameplay/emblems/combo-master-512.png",
+        "gameplay/emblems/combo-master-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        139,
+        72,
+        885,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement emblem for Puff Trails matching Combo Master row in supplied section board. One compact rounded orange-gold flame emblem with yellow inner flame, soft warm enamel/glass glow and orange bevelededge. Three flowing lobes in outerflame, inneryellowflame. Beautiful friendly3D fantasy-game polished materials, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No face, no text, no numbers, no shield, no laurels, no fog, no floatingparticles, no backgroundshadow, no extraobjects. Truly transparentRGBA background; opaque objectinterior. Highquality individual gameicon not boardcrop.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+        ],
+        "generated_sha256": "93346273e2127be7c788ea9ccc4025168bd5b6fa3798398d836ebd98c6f07c0a",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "e727f58d81df10327b48b981386972dd9eecd1382c16da05733f26465e529677"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/event-champion",
+      "master": "masters/emblems/event-champion.png",
+      "exports": [
+        "gameplay/emblems/event-champion-128.png",
+        "gameplay/emblems/event-champion-128.webp",
+        "gameplay/emblems/event-champion-256.png",
+        "gameplay/emblems/event-champion-256.webp",
+        "gameplay/emblems/event-champion-512.png",
+        "gameplay/emblems/event-champion-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        195,
+        952,
+        830
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement emblem for Puff Trails, matching Event Champion row in supplied section board. One rounded golden three-point crown with soft purple inset band, tiny pink round jewels on tips and magenta central jewel. Future-concept event badge emblem. Beautiful soft3D fantasy-game enamel/gold, roundedshape, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No text, no numbers, no shield, no laurels, no fog, no backdrop shadow, no extra objects. Truly transparentRGBA background; opaque object interior. Highquality individual gameicon not boardcrop.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+        ],
+        "release_scope": "future-concept",
+        "generated_sha256": "2cd8b5356825364c6b5c4f95f2a861595c3c47dbfdd48c5020682d39f520d54b",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "b24070950ade637500d6515c890034a3ed38b1e49d56a101aee2feb31d97a850"
+      },
+      "future_only": true,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/first-win",
+      "master": "masters/emblems/first-win.png",
+      "exports": [
+        "gameplay/emblems/first-win-128.png",
+        "gameplay/emblems/first-win-128.webp",
+        "gameplay/emblems/first-win-256.png",
+        "gameplay/emblems/first-win-256.webp",
+        "gameplay/emblems/first-win-512.png",
+        "gameplay/emblems/first-win-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        79,
+        962,
+        944
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse exact locked source bytes.",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+        "source_sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+        ],
+        "prepared": true,
+        "input_sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/level-streak",
+      "master": "masters/emblems/level-streak.png",
+      "exports": [
+        "gameplay/emblems/level-streak-128.png",
+        "gameplay/emblems/level-streak-128.webp",
+        "gameplay/emblems/level-streak-256.png",
+        "gameplay/emblems/level-streak-256.webp",
+        "gameplay/emblems/level-streak-512.png",
+        "gameplay/emblems/level-streak-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        78,
+        72,
+        946,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement emblem for Puff Trails, matching Level Streak row in supplied section board. One friendly square calendar icon: cream page inside chunky purple rounded frame, gold top spine and three little gold binder rings, bold MAGENTA CHECK MARK at center. No text, no dates, no numbers. Beautiful soft3D fantasy-game enamel, roundedshape, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No shield, no extra frame outside calendar, no fog, no shadow on backdrop, no extra objects. Truly transparentRGBA background; opaque object interior. Highquality individual gameicon not boardcrop.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+        ],
+        "generated_sha256": "e8726361677e8cf808b8fab9c78b4c809ea8b7dc8187aa70a3c2103465bda7ed",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "b34b5aba1c92693e4398c1e5874b4094ac19c87408a7183754b123991fce3a7b"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/perfect-clear",
+      "master": "masters/emblems/perfect-clear.png",
+      "exports": [
+        "gameplay/emblems/perfect-clear-128.png",
+        "gameplay/emblems/perfect-clear-128.webp",
+        "gameplay/emblems/perfect-clear-256.png",
+        "gameplay/emblems/perfect-clear-256.webp",
+        "gameplay/emblems/perfect-clear-512.png",
+        "gameplay/emblems/perfect-clear-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        136,
+        962,
+        887
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse exact locked source bytes.",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/gem.png",
+        "source_sha256": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/gem.png"
+        ],
+        "prepared": true,
+        "input_sha256": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/star-collector",
+      "master": "masters/emblems/star-collector.png",
+      "exports": [
+        "gameplay/emblems/star-collector-128.png",
+        "gameplay/emblems/star-collector-128.webp",
+        "gameplay/emblems/star-collector-256.png",
+        "gameplay/emblems/star-collector-256.webp",
+        "gameplay/emblems/star-collector-512.png",
+        "gameplay/emblems/star-collector-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        45,
+        186,
+        979,
+        748
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--first-win.png"
+        ],
+        "source_component_ids": [
+          "emblems/first-win"
+        ],
+        "release_scope": "visual-candidate",
+        "input_sha256": "8d398b11eee0b9c7cb2070cc9f1bcb238754bb36ac7b9b1b380abaf8ea3e91a9"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/treasure-hunter",
+      "master": "masters/emblems/treasure-hunter.png",
+      "exports": [
+        "gameplay/emblems/treasure-hunter-128.png",
+        "gameplay/emblems/treasure-hunter-128.webp",
+        "gameplay/emblems/treasure-hunter-256.png",
+        "gameplay/emblems/treasure-hunter-256.webp",
+        "gameplay/emblems/treasure-hunter-512.png",
+        "gameplay/emblems/treasure-hunter-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        188,
+        952,
+        835
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Reuse exact locked source bytes.",
+        "source_repository_path": "stages/stage-07-economy/v1/reward-chests/masters/golden/front.png",
+        "source_sha256": "64ee22a73a0497704a149efc78772cc07b992867f9f7568ccfd7f92ef7fecc59",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/reward-chests/masters/golden/front.png"
+        ],
+        "prepared": true,
+        "input_sha256": "64ee22a73a0497704a149efc78772cc07b992867f9f7568ccfd7f92ef7fecc59"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "emblems/trophy",
+      "master": "masters/emblems/trophy.png",
+      "exports": [
+        "gameplay/emblems/trophy-128.png",
+        "gameplay/emblems/trophy-128.webp",
+        "gameplay/emblems/trophy-256.png",
+        "gameplay/emblems/trophy-256.webp",
+        "gameplay/emblems/trophy-512.png",
+        "gameplay/emblems/trophy-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        186,
+        952,
+        837
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Use case: stylized-concept. Create ONE standalone transparent achievement trophy emblem for Puff Trails, matching trophy header of supplied section board. One golden rounded trophy cup with two curled symmetrical handles, large five-point embossed gold star on front and small gold pedestal foot. Friendly glossy metallic achievement trophy. Beautiful3D fantasy-game polished gold material, roundedshape, chunkyhighlights. Straight frontview centered squarecomposition margin15%. No text, no numbers, no shield, no laurels, no fog, no floatingparticles, no backgroundshadow, no extraobjects. Truly transparentRGBA background; opaque objectinterior. Highquality individual gameicon not boardcrop.",
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/section-board.png"
+        ],
+        "generated_sha256": "60b0834ae6f94d17e364bfd4ec2d2d75b78a1500e926d2da97bd8f85931c18d0",
+        "prepared": true,
+        "postprocessing": "Remove disconnected alpha haze beyond2px solid contour; normalize nearopaque alpha; fit880inside1024. Original artwork color/shape unchanged.",
+        "input_sha256": "f02cd35315c3e9650d93055c8bb5c2bab5032f2cc5f9d15666f1dc97f096abfa"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    },
+    {
+      "id": "headers/achievements",
+      "master": "masters/headers/achievements.png",
+      "exports": [
+        "gameplay/headers/achievements-128.png",
+        "gameplay/headers/achievements-128.webp",
+        "gameplay/headers/achievements-256.png",
+        "gameplay/headers/achievements-256.webp",
+        "gameplay/headers/achievements-512.png",
+        "gameplay/headers/achievements-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        93,
+        72,
+        930,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "prompt": "Deterministic composition of unchanged approved components; no AI redrawing.",
+        "prepared": true,
+        "source_references": [
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+          "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/emblems--trophy.png"
+        ],
+        "source_component_ids": [
+          "components/tier-gold",
+          "emblems/trophy"
+        ],
+        "input_sha256": "1e63b57551dd80aab5b2a327c4146ea94e1e41d865721f91d7cce178c12c88e8"
+      },
+      "future_only": false,
+      "gameplay_rules_approved": false
+    }
+  ],
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "e81e10e1c50ed45a4cd11bcbc8a359fc2d1f14da10222f34c543989080898a1f",
+      "bytes": 853
+    },
+    {
+      "path": "README.md",
+      "sha256": "32a931ff5535d0cc5881a9ba06555bc3cf079c8521b4ede102102538053f5e47",
+      "bytes": 14197
+    },
+    {
+      "path": "gameplay/badges/big-pop/bronze-128.png",
+      "sha256": "6e84dda17805a341cb7ffa09dc68927a8e8dac933929cdc8a8b562a8e5dd066b",
+      "bytes": 22379
+    },
+    {
+      "path": "gameplay/badges/big-pop/bronze-128.webp",
+      "sha256": "ba3e68fa8bb10a6c5c19dc53e76a09d0a331518ed433cb320c3caef84d863963",
+      "bytes": 17034
+    },
+    {
+      "path": "gameplay/badges/big-pop/bronze-256.png",
+      "sha256": "c2edeff315c11a4911d888607dc9aabe8d967d8213edac19b7c6fd846c2be4bf",
+      "bytes": 69515
+    },
+    {
+      "path": "gameplay/badges/big-pop/bronze-256.webp",
+      "sha256": "f760abfa44722f8ff45c31e94efb3379bf099d1724cbe657ee399cf45766e389",
+      "bytes": 48990
+    },
+    {
+      "path": "gameplay/badges/big-pop/bronze-512.png",
+      "sha256": "e053042e1e4602f1e09d9b0da3ba45d6228c2cb73aeda72a047dbca8ced559a9",
+      "bytes": 230466
+    },
+    {
+      "path": "gameplay/badges/big-pop/bronze-512.webp",
+      "sha256": "e372bc18d94bcb70bcfb78d837adfb8685be89131ca9f4fe804875caff817191",
+      "bytes": 154658
+    },
+    {
+      "path": "gameplay/badges/big-pop/gold-128.png",
+      "sha256": "b1ba674bddc6216ab247fe0d2f18c6ebc1dec92ac549b13edc5b1f113578b28d",
+      "bytes": 23763
+    },
+    {
+      "path": "gameplay/badges/big-pop/gold-128.webp",
+      "sha256": "9c91a67dee338bd81554dcf97b05c8c56b3e1807849e9be825de64040572b575",
+      "bytes": 18988
+    },
+    {
+      "path": "gameplay/badges/big-pop/gold-256.png",
+      "sha256": "589562488e510eb6d8efe6e41124d9afc1f4cc0580675328358a3a0cadbac708",
+      "bytes": 76299
+    },
+    {
+      "path": "gameplay/badges/big-pop/gold-256.webp",
+      "sha256": "6200ff62049fae83f4bfe9e9aefc4b9e2f66218d0d657db7d3634c8a88e7e177",
+      "bytes": 55872
+    },
+    {
+      "path": "gameplay/badges/big-pop/gold-512.png",
+      "sha256": "dff8b4097d8a2b22cdbf51711bc4bf8898b0bbb596647034a8d2105eba97af4e",
+      "bytes": 252436
+    },
+    {
+      "path": "gameplay/badges/big-pop/gold-512.webp",
+      "sha256": "d4f6cf30838d0c48f07f434571b9dc2a2b20311f5fe5a9c6a0871ca6144b143e",
+      "bytes": 175192
+    },
+    {
+      "path": "gameplay/badges/big-pop/legendary-128.png",
+      "sha256": "f2869daa9e3914b1fb9ca25cf2b9fe428f194e50f97eef4552210b93e4cce00e",
+      "bytes": 23510
+    },
+    {
+      "path": "gameplay/badges/big-pop/legendary-128.webp",
+      "sha256": "d0eb55f98f4b2c5690ef997fc8aec03e6f9c168d5d82336ce6ca8a382d04b8b6",
+      "bytes": 19878
+    },
+    {
+      "path": "gameplay/badges/big-pop/legendary-256.png",
+      "sha256": "a0dcee18b50fb623458300b80faeb57271b143f9903fa5cda8045a9309d447ff",
+      "bytes": 76260
+    },
+    {
+      "path": "gameplay/badges/big-pop/legendary-256.webp",
+      "sha256": "626bbb9b8cccfd03979de0968c2c84193f6de98263d1d3bc23004c5db04d539b",
+      "bytes": 58196
+    },
+    {
+      "path": "gameplay/badges/big-pop/legendary-512.png",
+      "sha256": "bcd2a05281e8be1bf7ee4b9cede4718b48766334e064de13701719836a349217",
+      "bytes": 249784
+    },
+    {
+      "path": "gameplay/badges/big-pop/legendary-512.webp",
+      "sha256": "016430b6876cb7f164f83088205ab424f4cd4edf9b41ada59c4663048626ea22",
+      "bytes": 180538
+    },
+    {
+      "path": "gameplay/badges/big-pop/platinum-128.png",
+      "sha256": "ac787afdf7da4a9e8ff15c90516e2ea770689d8c0f36bf8e06a5244ca50c221d",
+      "bytes": 24893
+    },
+    {
+      "path": "gameplay/badges/big-pop/platinum-128.webp",
+      "sha256": "64c707dbe1dc6f58417081615d0c6731cbc74678d2b1956a14838c6e4f6b5e1b",
+      "bytes": 19702
+    },
+    {
+      "path": "gameplay/badges/big-pop/platinum-256.png",
+      "sha256": "1f85215abadba120a40fd4a2d192187dabf333602434b7759e2af68338fd59b5",
+      "bytes": 79345
+    },
+    {
+      "path": "gameplay/badges/big-pop/platinum-256.webp",
+      "sha256": "efca0c74b9c3229383f6cc9f354244790e833ae986201c2cacb6967aea9ae2ce",
+      "bytes": 56586
+    },
+    {
+      "path": "gameplay/badges/big-pop/platinum-512.png",
+      "sha256": "48575d1a276388b568d669b8051d2810862ea048fad7e2df477f05079e44e4e0",
+      "bytes": 262136
+    },
+    {
+      "path": "gameplay/badges/big-pop/platinum-512.webp",
+      "sha256": "20abae7a360717ccbdf4a636cee08e8c2ae0de0f017b1410286e20a4815aef11",
+      "bytes": 178638
+    },
+    {
+      "path": "gameplay/badges/big-pop/silver-128.png",
+      "sha256": "ea7cd4d675a8ad0342801843397a9bf8bfa28cd2fcf13f61f9e8d6bd8d51c689",
+      "bytes": 22114
+    },
+    {
+      "path": "gameplay/badges/big-pop/silver-128.webp",
+      "sha256": "74e895f33a012bb61d1fdf4e472cec7fc87961e8f9a48230fc8d1c5a76ac5f2c",
+      "bytes": 15524
+    },
+    {
+      "path": "gameplay/badges/big-pop/silver-256.png",
+      "sha256": "98f7b3605e7265cbb7996b6e3b1e88c5761ba772cbc028520d7a5df8eb5b70f3",
+      "bytes": 68850
+    },
+    {
+      "path": "gameplay/badges/big-pop/silver-256.webp",
+      "sha256": "75893b4b9e8b79d45ca1f87eb44262753610aa89928097b0077d3170dced907a",
+      "bytes": 45834
+    },
+    {
+      "path": "gameplay/badges/big-pop/silver-512.png",
+      "sha256": "82f17c67147b559d51442b78c53524a451bfe7f597a66ff7289622b570497050",
+      "bytes": 227573
+    },
+    {
+      "path": "gameplay/badges/big-pop/silver-512.webp",
+      "sha256": "582d003ec19eb4b11465a501a8fcfe83df579ca6c2f6f9cdd24d8462fe33d4df",
+      "bytes": 147982
+    },
+    {
+      "path": "gameplay/badges/combo-master/bronze-128.png",
+      "sha256": "3f29c4547888ee23f5dac3512451549ba117aeef0cdb8c11ae958e48d0c90dfb",
+      "bytes": 22260
+    },
+    {
+      "path": "gameplay/badges/combo-master/bronze-128.webp",
+      "sha256": "3732dbe34caf0be2767fbec69baf0601e356694e3f3b4138ca1cb4e0ae7e6322",
+      "bytes": 16698
+    },
+    {
+      "path": "gameplay/badges/combo-master/bronze-256.png",
+      "sha256": "3c12490daf6d9335cd05c5f9443c720dc989d2f293a5ef30af2a3cdff061b3bd",
+      "bytes": 69505
+    },
+    {
+      "path": "gameplay/badges/combo-master/bronze-256.webp",
+      "sha256": "535fdacb10a6a50ab3eb01589892e7a08878a5237b336dba0a74dc0ea85fe77e",
+      "bytes": 48290
+    },
+    {
+      "path": "gameplay/badges/combo-master/bronze-512.png",
+      "sha256": "fe0aae8902f813e6a7a46fa6b8d2de5db4685893ac2bc56bb5feddf10a7f3702",
+      "bytes": 231435
+    },
+    {
+      "path": "gameplay/badges/combo-master/bronze-512.webp",
+      "sha256": "cca2a6081f29734831e8f971e933eddc8563f7bd16c2a3ea374eff1db8db788c",
+      "bytes": 153232
+    },
+    {
+      "path": "gameplay/badges/combo-master/gold-128.png",
+      "sha256": "877b27924cf668f9cbe297a6499fbd08356b0cdc8ee448256f9b2bf7ef6771c4",
+      "bytes": 23826
+    },
+    {
+      "path": "gameplay/badges/combo-master/gold-128.webp",
+      "sha256": "9b2a1dd54e6340b07bbbe86bb22981d95d5237818145d787dec78b4214119b07",
+      "bytes": 19262
+    },
+    {
+      "path": "gameplay/badges/combo-master/gold-256.png",
+      "sha256": "1e146559258ec5c351341967afa066363990e79c39ae255ead77f536e15e143e",
+      "bytes": 76291
+    },
+    {
+      "path": "gameplay/badges/combo-master/gold-256.webp",
+      "sha256": "9e8075ec924003b8986bb49180630f0f592179663948d46c08346b08a2b1830d",
+      "bytes": 56540
+    },
+    {
+      "path": "gameplay/badges/combo-master/gold-512.png",
+      "sha256": "92fea409760bc3291242a88e85ecbc3bb743aeb4ea6db3661e7dccb33b58b0fd",
+      "bytes": 252920
+    },
+    {
+      "path": "gameplay/badges/combo-master/gold-512.webp",
+      "sha256": "393c2e906174890c633ffdb1e5685124eee665fff149bb3248bf57895fd73804",
+      "bytes": 177886
+    },
+    {
+      "path": "gameplay/badges/combo-master/legendary-128.png",
+      "sha256": "85cfa38ad81b5345ab7d24ebaa0eb942ff97c234f0ba92fa65dc8b63c9a92f05",
+      "bytes": 23684
+    },
+    {
+      "path": "gameplay/badges/combo-master/legendary-128.webp",
+      "sha256": "437a238ec0f39ff5d9e7a36bca27a89b655c780a013686bd2666b32806a974a1",
+      "bytes": 21374
+    },
+    {
+      "path": "gameplay/badges/combo-master/legendary-256.png",
+      "sha256": "2141fefe3183fbde33273ceca52faa6ffcb58b35edf01dea689074afad078162",
+      "bytes": 76889
+    },
+    {
+      "path": "gameplay/badges/combo-master/legendary-256.webp",
+      "sha256": "432487d6392726f296357b79e570c37acc93279fbe02bcb919e187cfae114317",
+      "bytes": 58672
+    },
+    {
+      "path": "gameplay/badges/combo-master/legendary-512.png",
+      "sha256": "6083862279e4661df850fda12c16b2d75ad381effb3c23cf05b09dd8540bb1af",
+      "bytes": 252551
+    },
+    {
+      "path": "gameplay/badges/combo-master/legendary-512.webp",
+      "sha256": "adff930369d4edd1481afc771cd3c52c2399766d6af3585169698c3b51eeca42",
+      "bytes": 184184
+    },
+    {
+      "path": "gameplay/badges/combo-master/platinum-128.png",
+      "sha256": "89be5b50b03022a9e174bb8dded483ad2870ec13654b5ac1c3995361cbcce276",
+      "bytes": 24952
+    },
+    {
+      "path": "gameplay/badges/combo-master/platinum-128.webp",
+      "sha256": "e688d949069f7722ee13e08ac5ca7c4ed719fa9dcdaeed952cfc79986f6733a4",
+      "bytes": 19704
+    },
+    {
+      "path": "gameplay/badges/combo-master/platinum-256.png",
+      "sha256": "0e11d16e0f5813c1d274adc1058422dcc46320d784b2288e96351b0b98609d93",
+      "bytes": 79536
+    },
+    {
+      "path": "gameplay/badges/combo-master/platinum-256.webp",
+      "sha256": "0158e1a0b6eaafaae2cd6fb5ed79d9bf10795fe802b01a45dbc1519232928d73",
+      "bytes": 56992
+    },
+    {
+      "path": "gameplay/badges/combo-master/platinum-512.png",
+      "sha256": "d6e80ad944c89d39807a9e1000cc23788712a3627509f5a3dbb39b7b1c765dc2",
+      "bytes": 263151
+    },
+    {
+      "path": "gameplay/badges/combo-master/platinum-512.webp",
+      "sha256": "fc45812080c07627ab179f80c28fec2e47b30b67dd5b9a4044ec7b5f84bbda7a",
+      "bytes": 181582
+    },
+    {
+      "path": "gameplay/badges/combo-master/silver-128.png",
+      "sha256": "c4a774f82c18477fb2ca8c2acc26d239893f19d6d1c612b9cc8599d1a8dec76a",
+      "bytes": 22351
+    },
+    {
+      "path": "gameplay/badges/combo-master/silver-128.webp",
+      "sha256": "e7a76f6f83b10c267a93ded8153c5de12c56fa4434e0fcb78d1523c604255e50",
+      "bytes": 15932
+    },
+    {
+      "path": "gameplay/badges/combo-master/silver-256.png",
+      "sha256": "745eaf2f08ceb4f56ae44d6f6a358d017e67772d7c59be1b1826a4d1500f28a2",
+      "bytes": 69681
+    },
+    {
+      "path": "gameplay/badges/combo-master/silver-256.webp",
+      "sha256": "d0bdfa35b821e08fae3e22b040a1612fce6c66341d27f410cfe77a108a381c2d",
+      "bytes": 47164
+    },
+    {
+      "path": "gameplay/badges/combo-master/silver-512.png",
+      "sha256": "718efaa9d1014badfff9931b0864d9126fd9b3d4e5162dc3e092ffcc69da9976",
+      "bytes": 231116
+    },
+    {
+      "path": "gameplay/badges/combo-master/silver-512.webp",
+      "sha256": "aea3a4a4dcf30ab74ba6c82d8b00ad6a9fbeafff020b74fa55d6922aaea3e741",
+      "bytes": 151246
+    },
+    {
+      "path": "gameplay/badges/event-champion/bronze-128.png",
+      "sha256": "92d6a5b4f42a2a26790d1b3795f4e4aa68d43b9a39cad9b183ea2dc6537c5166",
+      "bytes": 22605
+    },
+    {
+      "path": "gameplay/badges/event-champion/bronze-128.webp",
+      "sha256": "6f5fc025bf26469f724b51c81bce158795dc250b6d6f7c015e1cf91b61441a7e",
+      "bytes": 17402
+    },
+    {
+      "path": "gameplay/badges/event-champion/bronze-256.png",
+      "sha256": "ec1c906a84ea9c2dfda3c1ae1c0c47b5ee4b582b0ce22a23e1bc2dfd7c2646d3",
+      "bytes": 71347
+    },
+    {
+      "path": "gameplay/badges/event-champion/bronze-256.webp",
+      "sha256": "6d05b01aa5055972bbf55295fc27f1d2dc095acb7becd187e63d6965a58ca83d",
+      "bytes": 50440
+    },
+    {
+      "path": "gameplay/badges/event-champion/bronze-512.png",
+      "sha256": "6c704ba24a56618a3a14aafacad55ea7bf9e1b6cb495410b759cdd6eb6b7bf33",
+      "bytes": 239916
+    },
+    {
+      "path": "gameplay/badges/event-champion/bronze-512.webp",
+      "sha256": "6376a4e75c6b5dfa452b670e75b32addf1737d1c49ea733af80fbb19f791f0e8",
+      "bytes": 160922
+    },
+    {
+      "path": "gameplay/badges/event-champion/gold-128.png",
+      "sha256": "f3db2b32fce617ae674411bed97258dfc58391950f4fb87fb249bd119d3f8066",
+      "bytes": 24131
+    },
+    {
+      "path": "gameplay/badges/event-champion/gold-128.webp",
+      "sha256": "4919cc8c27e9e00fe7e256903c20d09f3e81bb2d24e5424110d3a7e2018e735b",
+      "bytes": 19958
+    },
+    {
+      "path": "gameplay/badges/event-champion/gold-256.png",
+      "sha256": "77c650ece4b64edd192d3c6db03b16662fc73385ce08d0cf01dde6e50bf2e071",
+      "bytes": 77518
+    },
+    {
+      "path": "gameplay/badges/event-champion/gold-256.webp",
+      "sha256": "d244423ee4e0b15273b32d756a8911c4f7242d5ccfb5f2fb0696a484fe7b347a",
+      "bytes": 58180
+    },
+    {
+      "path": "gameplay/badges/event-champion/gold-512.png",
+      "sha256": "358577e3f440210ee691e12f1fabed1c152446d29810a17ce539930aff8377e1",
+      "bytes": 259757
+    },
+    {
+      "path": "gameplay/badges/event-champion/gold-512.webp",
+      "sha256": "a5d347642dcc31e343c27e5897442f340d575e683766788f4705465a43b47fca",
+      "bytes": 184834
+    },
+    {
+      "path": "gameplay/badges/event-champion/legendary-128.png",
+      "sha256": "e4bc1fca80738216a54de0adeb9fa3ea9a580b3daafb4586517f8817e50d0bf3",
+      "bytes": 23886
+    },
+    {
+      "path": "gameplay/badges/event-champion/legendary-128.webp",
+      "sha256": "639ec10b031249e48c6fb4b7ff294dc5547a74af3e1f8fc1921b885952e72e48",
+      "bytes": 20406
+    },
+    {
+      "path": "gameplay/badges/event-champion/legendary-256.png",
+      "sha256": "ffc2afd6d9a88763deaf6370a80a961858ab6bd1e3b893bd9e7603283713a63d",
+      "bytes": 77754
+    },
+    {
+      "path": "gameplay/badges/event-champion/legendary-256.webp",
+      "sha256": "b179b8ba6ff556bef73cc4286ac1e5238e6430f0ba2827d560b23569d4547dcc",
+      "bytes": 60044
+    },
+    {
+      "path": "gameplay/badges/event-champion/legendary-512.png",
+      "sha256": "ef78513ba456adecf03c901511b9949593f50e4938acb043feaf871432be82f6",
+      "bytes": 256569
+    },
+    {
+      "path": "gameplay/badges/event-champion/legendary-512.webp",
+      "sha256": "12f674555923ce582117af6cacb868b907bb2b7eede1b2719e80bd746c4efea3",
+      "bytes": 189326
+    },
+    {
+      "path": "gameplay/badges/event-champion/platinum-128.png",
+      "sha256": "785057f497ad06aa9df9ea1da699c32c2a09979dac3ad8d0bc4415a23b79fe58",
+      "bytes": 25192
+    },
+    {
+      "path": "gameplay/badges/event-champion/platinum-128.webp",
+      "sha256": "d26d634f110618236498a3deffee969b191ad8542d5a313867aa58f4b5a70763",
+      "bytes": 20392
+    },
+    {
+      "path": "gameplay/badges/event-champion/platinum-256.png",
+      "sha256": "8b50a769504ae949943c1ab24d5caf2d7d9a575be7ec5b0cdaafd5e432688034",
+      "bytes": 80661
+    },
+    {
+      "path": "gameplay/badges/event-champion/platinum-256.webp",
+      "sha256": "80a82ab75a147996d508b428601d806ec80fb6a30bbd5e183ceb0de9c03414ac",
+      "bytes": 59694
+    },
+    {
+      "path": "gameplay/badges/event-champion/platinum-512.png",
+      "sha256": "e2abe427e3c072efe41280bb3a5aaf7f59a3f26f7462539cc695c7209f8c3198",
+      "bytes": 269015
+    },
+    {
+      "path": "gameplay/badges/event-champion/platinum-512.webp",
+      "sha256": "9fef7619f51809d9eb77936730013bb486561a6fcd2de3c63fee9628a305ab5a",
+      "bytes": 187758
+    },
+    {
+      "path": "gameplay/badges/event-champion/silver-128.png",
+      "sha256": "d7139847afc37de67208c872c4ceb0ad273dab40b763a5d7c237fb918f039008",
+      "bytes": 22776
+    },
+    {
+      "path": "gameplay/badges/event-champion/silver-128.webp",
+      "sha256": "bf4e2c4977258cb4448f6835bc9c5e5f6743ceb2284903154a48b20b5161c2db",
+      "bytes": 16660
+    },
+    {
+      "path": "gameplay/badges/event-champion/silver-256.png",
+      "sha256": "70e2721f8fbdc76fcb6b189688c735903047efc71fcf88efd170ff0788dda2a9",
+      "bytes": 71709
+    },
+    {
+      "path": "gameplay/badges/event-champion/silver-256.webp",
+      "sha256": "b8f96294624929007c5997fb2b63ef4528c3049b50bf5e29d9ecdbc229314e7d",
+      "bytes": 48856
+    },
+    {
+      "path": "gameplay/badges/event-champion/silver-512.png",
+      "sha256": "f49bf2ef4bd59cdd91134c02eea8e6b2fa0c1e4d819236da04c0e486f011bf2e",
+      "bytes": 239506
+    },
+    {
+      "path": "gameplay/badges/event-champion/silver-512.webp",
+      "sha256": "b5dbd695dbd575fff94a49a39289bdc586a20ba80b42a6d3c9f689c8c5c24c57",
+      "bytes": 159092
+    },
+    {
+      "path": "gameplay/badges/first-win/bronze-128.png",
+      "sha256": "581d2904d3e41c9ecce86fb2964c2ad00487ee492a48161f348b347fb566064b",
+      "bytes": 21307
+    },
+    {
+      "path": "gameplay/badges/first-win/bronze-128.webp",
+      "sha256": "13d5c6a84d870d485793d030b1ebaf5226292a547d1bdb31a3bfb3ae1956c1ee",
+      "bytes": 15922
+    },
+    {
+      "path": "gameplay/badges/first-win/bronze-256.png",
+      "sha256": "e36902a2518227caa2ad3c2a414fd54f3e5f104a4408090bf20788aa9b4b27e0",
+      "bytes": 65712
+    },
+    {
+      "path": "gameplay/badges/first-win/bronze-256.webp",
+      "sha256": "85bad915f7b9531c8737f7abcf3fef3b1e768ed4a513f179010f612ba0604df0",
+      "bytes": 45024
+    },
+    {
+      "path": "gameplay/badges/first-win/bronze-512.png",
+      "sha256": "0744572d2d8f5e8a638cb3f204da3397da2d5cd26f4557835134b0032f5a2dde",
+      "bytes": 218398
+    },
+    {
+      "path": "gameplay/badges/first-win/bronze-512.webp",
+      "sha256": "80000e6c997792dc4af58e1fdddd97ee7e42af164dbb29955009e593eeb98934",
+      "bytes": 142332
+    },
+    {
+      "path": "gameplay/badges/first-win/gold-128.png",
+      "sha256": "84c9963039fe129154035e55ef587cc91d68e717d7f5e0666e9a9275e6f91c26",
+      "bytes": 23112
+    },
+    {
+      "path": "gameplay/badges/first-win/gold-128.webp",
+      "sha256": "d0afb05fe5e41531d36ec61a9c256101490a46757e54feb37cff92860fd1c22f",
+      "bytes": 18526
+    },
+    {
+      "path": "gameplay/badges/first-win/gold-256.png",
+      "sha256": "280fc49332f02a39aa98ec68492405002441294b643399032cba088e20bb6ef4",
+      "bytes": 73174
+    },
+    {
+      "path": "gameplay/badges/first-win/gold-256.webp",
+      "sha256": "827a45a386dc22520d6a325b311942e9510167f5f193bbac675113733f6ec214",
+      "bytes": 53688
+    },
+    {
+      "path": "gameplay/badges/first-win/gold-512.png",
+      "sha256": "7abe446002b379d4374d1ed159043693df47626026a0cbf56ff61f853bff0131",
+      "bytes": 242267
+    },
+    {
+      "path": "gameplay/badges/first-win/gold-512.webp",
+      "sha256": "5749de05e9b36d6942496c7b6f35a5e8e81e75d9c21f99292753a0b4b79c47e3",
+      "bytes": 167976
+    },
+    {
+      "path": "gameplay/badges/first-win/legendary-128.png",
+      "sha256": "e2e4470cf152f1bc153034bc19f086580a0f307a81dee6abc9377e1f45db8cdd",
+      "bytes": 23191
+    },
+    {
+      "path": "gameplay/badges/first-win/legendary-128.webp",
+      "sha256": "e3409da6365f4cd474bc09e68293d6a603b2cc16f0d353de473b10147072b31f",
+      "bytes": 19372
+    },
+    {
+      "path": "gameplay/badges/first-win/legendary-256.png",
+      "sha256": "a4713dcf02fe3a0b02d5ced5a492a84bb2e85d9c246343933f57cfce5cca93d6",
+      "bytes": 74684
+    },
+    {
+      "path": "gameplay/badges/first-win/legendary-256.webp",
+      "sha256": "8c05efc5bcd98e8bc32b3357ffe80ebc66f6b4cd520d64deef07c7a8dee99cfb",
+      "bytes": 56276
+    },
+    {
+      "path": "gameplay/badges/first-win/legendary-512.png",
+      "sha256": "0de9206b8c95ca0f28dfc6994c9061cd7b3ce980684c5edb9478cf7701cd9a53",
+      "bytes": 243912
+    },
+    {
+      "path": "gameplay/badges/first-win/legendary-512.webp",
+      "sha256": "7ad9ff0120adc1f18c77b7659fc607a3ef75b543f18c15c66a4d420196cafb7d",
+      "bytes": 176772
+    },
+    {
+      "path": "gameplay/badges/first-win/platinum-128.png",
+      "sha256": "cbd3c3d6db61e28e6f7eeb6eb194bbf5c2bdbe80207b16b69d18bc84fd90bfed",
+      "bytes": 24377
+    },
+    {
+      "path": "gameplay/badges/first-win/platinum-128.webp",
+      "sha256": "51f313ef637473f074c3111787b414588420d8a0b64ec43e93b803ccbf740499",
+      "bytes": 19336
+    },
+    {
+      "path": "gameplay/badges/first-win/platinum-256.png",
+      "sha256": "57150a2db819e31e4abfb698766d4e512c88a1a40fc4cb6fc5d8b234fd653160",
+      "bytes": 76853
+    },
+    {
+      "path": "gameplay/badges/first-win/platinum-256.webp",
+      "sha256": "fe296224085629db1119a18c4a4342098d5965b2ec9f62c44b30b251c5fe69f0",
+      "bytes": 54934
+    },
+    {
+      "path": "gameplay/badges/first-win/platinum-512.png",
+      "sha256": "2e3758e4e4f50e04c740cca4d5a9cc361a6347c3df02db4097dc6338179b2f07",
+      "bytes": 253374
+    },
+    {
+      "path": "gameplay/badges/first-win/platinum-512.webp",
+      "sha256": "7604db6a5fbe399b933ad144eba029134beaf4934301109a9f39f6e537c337e4",
+      "bytes": 172960
+    },
+    {
+      "path": "gameplay/badges/first-win/silver-128.png",
+      "sha256": "42d5f14770ba58690e64636dcf4b6395de72b984e759d2bd5068678731e117fd",
+      "bytes": 21468
+    },
+    {
+      "path": "gameplay/badges/first-win/silver-128.webp",
+      "sha256": "f3d629d0a49b9e0191ef5488e68a2ee479b38ced2c8ed42756cc3b7a401dab25",
+      "bytes": 15426
+    },
+    {
+      "path": "gameplay/badges/first-win/silver-256.png",
+      "sha256": "fdc21fae51b8389bad37b0bfbce9c861024f6230d6f1a554330e7b02c67f5472",
+      "bytes": 65793
+    },
+    {
+      "path": "gameplay/badges/first-win/silver-256.webp",
+      "sha256": "8954f3277a67524776a87ce0cc154ec51959b182d9006e907953bc62c035c43c",
+      "bytes": 43834
+    },
+    {
+      "path": "gameplay/badges/first-win/silver-512.png",
+      "sha256": "5075a75a53ef2b996aa7441d73d8f9930a1d10064299f626d74ce98b799b612a",
+      "bytes": 217748
+    },
+    {
+      "path": "gameplay/badges/first-win/silver-512.webp",
+      "sha256": "71e8094a6f4d6298f8f194fbd9402f7e6540bdc1f333b1a82b0e6554e8cb30ff",
+      "bytes": 140168
+    },
+    {
+      "path": "gameplay/badges/level-streak/bronze-128.png",
+      "sha256": "9cf383a53c41d3802e11ae78f3b06b5f578eea540adc54778a1610998eb3740d",
+      "bytes": 22031
+    },
+    {
+      "path": "gameplay/badges/level-streak/bronze-128.webp",
+      "sha256": "c05bf1d8d5038ee691df0d300a00ec1308afca6e554d829ce1d445225945ba6d",
+      "bytes": 17220
+    },
+    {
+      "path": "gameplay/badges/level-streak/bronze-256.png",
+      "sha256": "feacd4f00c47381e43c8e6752063a299503167cdb091bdb15fe0d01830824eb6",
+      "bytes": 69289
+    },
+    {
+      "path": "gameplay/badges/level-streak/bronze-256.webp",
+      "sha256": "eedde5fb1f00d02abbd123230dde25bed0538b3b3024ac986431194c5798ae1a",
+      "bytes": 49504
+    },
+    {
+      "path": "gameplay/badges/level-streak/bronze-512.png",
+      "sha256": "ba213ec23690de03cfaa5a09f74ed0c9afbab596d57c06c0ecfd90a34f7c452a",
+      "bytes": 230644
+    },
+    {
+      "path": "gameplay/badges/level-streak/bronze-512.webp",
+      "sha256": "07331ec314df5a9e8395d255fe52dc232e223a843d8344aa67db222dc6b557ae",
+      "bytes": 158464
+    },
+    {
+      "path": "gameplay/badges/level-streak/gold-128.png",
+      "sha256": "84f6ccdff4c075a6862f3af390aee87348f998df68560955b9e43ab072699b06",
+      "bytes": 23452
+    },
+    {
+      "path": "gameplay/badges/level-streak/gold-128.webp",
+      "sha256": "987746723700136dbb56c4fd6bc3131828db79a787977d73ae4b8086510ae38d",
+      "bytes": 19066
+    },
+    {
+      "path": "gameplay/badges/level-streak/gold-256.png",
+      "sha256": "fa7aa7cfae77134586c378c06b5f42de5acdba340f521d3fd26e71afe425db15",
+      "bytes": 75819
+    },
+    {
+      "path": "gameplay/badges/level-streak/gold-256.webp",
+      "sha256": "176e1d65b7369349552da24d2c5308f974cb6d1863afb4f5983d42d8d8fb1fe1",
+      "bytes": 56854
+    },
+    {
+      "path": "gameplay/badges/level-streak/gold-512.png",
+      "sha256": "f17fc7bc78a1a43764da54000973044fcf416f63675dd16f0935cf3f423cab01",
+      "bytes": 252174
+    },
+    {
+      "path": "gameplay/badges/level-streak/gold-512.webp",
+      "sha256": "060ead34a7b88175e58a628b3e41c4e15b5e36e01ab00f26f1144d04c358ce56",
+      "bytes": 177768
+    },
+    {
+      "path": "gameplay/badges/level-streak/legendary-128.png",
+      "sha256": "8ef6fa3b612d29c669aecbaf8382efc18726f38579b8e4812ea7baba48b72719",
+      "bytes": 23186
+    },
+    {
+      "path": "gameplay/badges/level-streak/legendary-128.webp",
+      "sha256": "38c82be1460149d9c02946747bbc31de91c0dc931102e34c65947d4857e45312",
+      "bytes": 19726
+    },
+    {
+      "path": "gameplay/badges/level-streak/legendary-256.png",
+      "sha256": "6ae20e03253a1c7a6352b6b203a124bfef72e53017151d33c036593ffe7be630",
+      "bytes": 75390
+    },
+    {
+      "path": "gameplay/badges/level-streak/legendary-256.webp",
+      "sha256": "0d14503de0335bdd76186482601f40f4c1bc6ec3e123b876cdf565b75fe8fdae",
+      "bytes": 57492
+    },
+    {
+      "path": "gameplay/badges/level-streak/legendary-512.png",
+      "sha256": "97fa107bac3d93a4660b7b333b5410c474c2fc5985fc363fb693ab1704781ca0",
+      "bytes": 249208
+    },
+    {
+      "path": "gameplay/badges/level-streak/legendary-512.webp",
+      "sha256": "122522e972be737588de11e28031ebea896d9b813e8f4a06a90e1b89d5efdba3",
+      "bytes": 183640
+    },
+    {
+      "path": "gameplay/badges/level-streak/platinum-128.png",
+      "sha256": "f707e1acbc45657e015614c8e49ebd3a6d67cf1fa7b9590c673e084cde1663c5",
+      "bytes": 24632
+    },
+    {
+      "path": "gameplay/badges/level-streak/platinum-128.webp",
+      "sha256": "7e8fabbd39be256775a1afec561a00ca1a5cd49da86a9373ce0ed98c7fddf870",
+      "bytes": 19788
+    },
+    {
+      "path": "gameplay/badges/level-streak/platinum-256.png",
+      "sha256": "e69759afcea6fefc2a68f63427df3a44563f5bd3278a4a8eebdc07d3bb467420",
+      "bytes": 79016
+    },
+    {
+      "path": "gameplay/badges/level-streak/platinum-256.webp",
+      "sha256": "2fd18857410aebe946368634f39b069c240c30aa1d5c43865ee4df96706d0b80",
+      "bytes": 58014
+    },
+    {
+      "path": "gameplay/badges/level-streak/platinum-512.png",
+      "sha256": "3f0b8790556f548ac8a0c4d0df91dd9fefcdd606909f0bbba0dd9e604887c95a",
+      "bytes": 262776
+    },
+    {
+      "path": "gameplay/badges/level-streak/platinum-512.webp",
+      "sha256": "ad33387086cfc519e0d03f68bda4f1d3a1afbe0dcf5ba42a81737e10efc06e6e",
+      "bytes": 182222
+    },
+    {
+      "path": "gameplay/badges/level-streak/silver-128.png",
+      "sha256": "ceee495331632eaeb0763b56ecfedbde19efd63c9ac261ecfae5cda2b134b68d",
+      "bytes": 21837
+    },
+    {
+      "path": "gameplay/badges/level-streak/silver-128.webp",
+      "sha256": "4a8717beef8ee976a26711ee2f958ddafb40d28a0639cf9dffed7fb50230b69d",
+      "bytes": 16096
+    },
+    {
+      "path": "gameplay/badges/level-streak/silver-256.png",
+      "sha256": "10eb7e1c14843bf15a009570db91749e7d6a821d7386dd840139b62b08594029",
+      "bytes": 68819
+    },
+    {
+      "path": "gameplay/badges/level-streak/silver-256.webp",
+      "sha256": "dc41c3a099de054b6b148b58f104301adcda83f318b69fc66dba76c89f4366d7",
+      "bytes": 47274
+    },
+    {
+      "path": "gameplay/badges/level-streak/silver-512.png",
+      "sha256": "cc7afa4780581343df3350f0ee913d21764945ec13728c475660f1a1f9212eac",
+      "bytes": 228847
+    },
+    {
+      "path": "gameplay/badges/level-streak/silver-512.webp",
+      "sha256": "8478a3e92d67b69d557cef0003bae09b684f8f62528d53ab86c632c5302ba6c4",
+      "bytes": 153420
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/bronze-128.png",
+      "sha256": "24a6786c9199ba404f1cf2e45fa4ae4bcb7b7e2a9fec98cafaf332dba645fce0",
+      "bytes": 21609
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/bronze-128.webp",
+      "sha256": "022fcf7bc14d4a0546f05d01409791771ead46e722af3d7577a43ac1d65ba4b2",
+      "bytes": 15514
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/bronze-256.png",
+      "sha256": "d69dba141ba6f8fd3152c9b584a67001c5d91dc2b0121925dd33264ec5c21b7e",
+      "bytes": 66737
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/bronze-256.webp",
+      "sha256": "c4b509fc6c80411963c5af7382e3afb282ad0a885fb0975081c73ebe778720aa",
+      "bytes": 45238
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/bronze-512.png",
+      "sha256": "e22a45875247b34fdd4927312fd3fbcaf82505bc2a15e2a7d3b5346c028266dc",
+      "bytes": 221702
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/bronze-512.webp",
+      "sha256": "04dac340ec8ffbc62e5c1d6a4ebc8a62ccaea615cd22975e84f1428feed5e1b0",
+      "bytes": 144058
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/gold-128.png",
+      "sha256": "f035ef57c96f373b0b79ba505e6c4ccde6815009ec12d8b2bd4175395717ee89",
+      "bytes": 22835
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/gold-128.webp",
+      "sha256": "e63d5eb8f3eed3eb323569ab8661cdf06ec54514204e63466b5f8b0fa7465be7",
+      "bytes": 17710
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/gold-256.png",
+      "sha256": "8245d86e7aad8bb7bddac52a0f280fe28f1d68f05596ebaa1b825b8f7af8212a",
+      "bytes": 72958
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/gold-256.webp",
+      "sha256": "07d54853a21e7d15b4942b4bd9384db70c97f597045743e6d2dfb991bdec1ab0",
+      "bytes": 52742
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/gold-512.png",
+      "sha256": "7d9d37dd9137e43f01639baedab8dc19ae64d337d1f55989e77c327e009bd8dc",
+      "bytes": 242573
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/gold-512.webp",
+      "sha256": "1c680b06c6a380307c36f9a584501793d834ba54bb9e87db6784f9c50e063086",
+      "bytes": 166654
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/legendary-128.png",
+      "sha256": "2316e69d891c54e64e174661162214f92af1267fe9661182207c27771f9efbb0",
+      "bytes": 23192
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/legendary-128.webp",
+      "sha256": "f4918ad753db44a72afacbc3d988610e290b9ba0cf1c363eb06036309eff57eb",
+      "bytes": 19128
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/legendary-256.png",
+      "sha256": "f2b8829eaca47a838f00a62db51dcffd593c956d7a0c25f2eb051d1ae664aef0",
+      "bytes": 74849
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/legendary-256.webp",
+      "sha256": "3fcdb3b2918ae7d32399e7dea4b394a4e70fd4ed4b62acb415f1008a5e42cee8",
+      "bytes": 55368
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/legendary-512.png",
+      "sha256": "6c7266794e974ec05967608edd9320ef43deb24a120f0cd9aaca82eb7232587e",
+      "bytes": 246038
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/legendary-512.webp",
+      "sha256": "4b1f1fd2292403d18e131b97a3d40dd7b684fb22f7ad706aa9be47cd36077af2",
+      "bytes": 175934
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/platinum-128.png",
+      "sha256": "4066d97684e8e7acd0aeca3c629c581fb15fb3187711f4831678697d936f1fff",
+      "bytes": 24041
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/platinum-128.webp",
+      "sha256": "c461c744982f31389fd06c10fad5acb1760d389157f9aae7551db9d9b27e36f3",
+      "bytes": 18636
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/platinum-256.png",
+      "sha256": "d97509a461a46634f7866bf34f904f70d9b5a372aedacbca33807cbbfb2449c3",
+      "bytes": 76200
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/platinum-256.webp",
+      "sha256": "adddc5b662917c6c6ef15c20095ae64e1a9d746998020833ec32e89d73237fe3",
+      "bytes": 53854
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/platinum-512.png",
+      "sha256": "df3c1f43eb8071c6111de8b9397ebe6638d50212ba0fd754cd03384a7f8c5d2c",
+      "bytes": 252457
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/platinum-512.webp",
+      "sha256": "0cad4ce1aa12d2acddd3030c299c96b96812a7c6aae98c64eeb8ce5dbc28cbe8",
+      "bytes": 170992
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/silver-128.png",
+      "sha256": "fd13ddb0cd8be326b996547adff81a7aa5c84b66b1f28147bd13546959bc0e1a",
+      "bytes": 21470
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/silver-128.webp",
+      "sha256": "cfcaa1137dcd69feb506bc5e9fc9dfb61f081535b58984ac298f097e53b2557b",
+      "bytes": 14162
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/silver-256.png",
+      "sha256": "341614eab42b842cf4e9a02b5c3b38d707750a2ab704444009bd1891d3745f9f",
+      "bytes": 66092
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/silver-256.webp",
+      "sha256": "d9801524d08358c455c33f097de9f5b2ed18f7d260bfd55be3c496c3963badd1",
+      "bytes": 42334
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/silver-512.png",
+      "sha256": "350f6c974a0baf1055e70c7fd4159fefadb9bf53dfaca592a56ab66bfbb20453",
+      "bytes": 219062
+    },
+    {
+      "path": "gameplay/badges/perfect-clear/silver-512.webp",
+      "sha256": "f468868c1b058584f3fbed74bbcac7f50829c6ef036404f0b69c0075b01fdfbd",
+      "bytes": 138574
+    },
+    {
+      "path": "gameplay/badges/star-collector/bronze-128.png",
+      "sha256": "1b0992cc58bc1dd36edc65deb811a90224b70723a35fcf36e15b40ccf54da37b",
+      "bytes": 20999
+    },
+    {
+      "path": "gameplay/badges/star-collector/bronze-128.webp",
+      "sha256": "cd3e92772f746e4b52754ce7df993a1eb74814e881e5d4b673410f5ab019b84c",
+      "bytes": 16032
+    },
+    {
+      "path": "gameplay/badges/star-collector/bronze-256.png",
+      "sha256": "1bacbdf02dc5894c55d3a855e80a419d7ad298e2a0d4e1f42f852f5e6a35fec4",
+      "bytes": 65090
+    },
+    {
+      "path": "gameplay/badges/star-collector/bronze-256.webp",
+      "sha256": "dbbe47483f35e1bed6bc7963ef4109d01bc7537ee294509d0e9706c522a7fbce",
+      "bytes": 44850
+    },
+    {
+      "path": "gameplay/badges/star-collector/bronze-512.png",
+      "sha256": "430427779ed04f3bc0bd8c1e2a61e62679bba025e9c80a52e2a253f086f65da0",
+      "bytes": 219676
+    },
+    {
+      "path": "gameplay/badges/star-collector/bronze-512.webp",
+      "sha256": "67c0f1637538c5d6da70784650009b3457b739205fa16509b9f657aa79503e3c",
+      "bytes": 145360
+    },
+    {
+      "path": "gameplay/badges/star-collector/gold-128.png",
+      "sha256": "92f2658afea5f38a019d4f3c1c413ad415dda157fa389233412a37f6357fb623",
+      "bytes": 22816
+    },
+    {
+      "path": "gameplay/badges/star-collector/gold-128.webp",
+      "sha256": "0849958646d9a40129c4bc0b8510c116d3ffac675d43e17e09fbb5578d50564a",
+      "bytes": 18482
+    },
+    {
+      "path": "gameplay/badges/star-collector/gold-256.png",
+      "sha256": "b4a2733f801c4d75ae7007718c37a86c1317d3fd547b8f65e67358375d2f7f3c",
+      "bytes": 72572
+    },
+    {
+      "path": "gameplay/badges/star-collector/gold-256.webp",
+      "sha256": "e6ae9b91dbd5de43b66c98cdffe120c82ab2016730c65e0d0438b906a79f9c39",
+      "bytes": 53522
+    },
+    {
+      "path": "gameplay/badges/star-collector/gold-512.png",
+      "sha256": "a1841be2afb75f44264583cd4f286d6f3fe3ce0f8313b5143c3ce5d5367297e0",
+      "bytes": 242127
+    },
+    {
+      "path": "gameplay/badges/star-collector/gold-512.webp",
+      "sha256": "601fc572a02f4871af8e12be04fb2cc2fbcda3d39e53e63dc847fd828f337bdc",
+      "bytes": 168114
+    },
+    {
+      "path": "gameplay/badges/star-collector/legendary-128.png",
+      "sha256": "70424fcd0ba3ddd93e7d9734c4b7f82900dbdbf265e0176aa6b55fcf8b31772a",
+      "bytes": 23102
+    },
+    {
+      "path": "gameplay/badges/star-collector/legendary-128.webp",
+      "sha256": "81228f16921b8148bb058b21dc155f9ab021513fa8b2a0c91201f65d567e7914",
+      "bytes": 19564
+    },
+    {
+      "path": "gameplay/badges/star-collector/legendary-256.png",
+      "sha256": "672e77b59d173ef3303fe28d917ffb61754afddbd15088e0be13fa29bd8a6167",
+      "bytes": 74268
+    },
+    {
+      "path": "gameplay/badges/star-collector/legendary-256.webp",
+      "sha256": "93fd33eb4ba840c937c5e78d4009ee0ea0431f90c22e2d7dcc3331af0e512830",
+      "bytes": 56468
+    },
+    {
+      "path": "gameplay/badges/star-collector/legendary-512.png",
+      "sha256": "86f0bd03159fdca061f72bef38138b523e94fc2b26ea84982a1d6d1438c2b28d",
+      "bytes": 244360
+    },
+    {
+      "path": "gameplay/badges/star-collector/legendary-512.webp",
+      "sha256": "def0b998997cae22060352f6285300f09cb1963d0fdf9ed62d2b3770955828d3",
+      "bytes": 176244
+    },
+    {
+      "path": "gameplay/badges/star-collector/platinum-128.png",
+      "sha256": "ced3f09b2cbfdb6df3a50dcbcf558547d7e17ffbf2e00fc561cbb8e91bdd9699",
+      "bytes": 23994
+    },
+    {
+      "path": "gameplay/badges/star-collector/platinum-128.webp",
+      "sha256": "ffbfc65abbade56ad6c98aaf20196684585d0991d1714c2991b52ecd07016dcd",
+      "bytes": 18970
+    },
+    {
+      "path": "gameplay/badges/star-collector/platinum-256.png",
+      "sha256": "e5aa6f9c4264d28d965c933ea693032532917d0fb407bd24dd89bb878870d7be",
+      "bytes": 75742
+    },
+    {
+      "path": "gameplay/badges/star-collector/platinum-256.webp",
+      "sha256": "33b32a1af16f34181f4d34b4412faa833977356f117afba1ea75c2a5641f6033",
+      "bytes": 54522
+    },
+    {
+      "path": "gameplay/badges/star-collector/platinum-512.png",
+      "sha256": "37ea3f67d131b876d461d5362ff2ef9f7a3c0bb0e4f92b019e2fcb4a7a3d3b68",
+      "bytes": 252507
+    },
+    {
+      "path": "gameplay/badges/star-collector/platinum-512.webp",
+      "sha256": "921b09ef8abaeae14729379d8b8a9119dd2f5b86886ef0408e880fe8755c88c0",
+      "bytes": 173680
+    },
+    {
+      "path": "gameplay/badges/star-collector/silver-128.png",
+      "sha256": "c165714d5a2ceb3c2abd5f8e3022f930d2e7ceccfd23a6b3ee05ac014540ba6f",
+      "bytes": 21231
+    },
+    {
+      "path": "gameplay/badges/star-collector/silver-128.webp",
+      "sha256": "916e360729eb093037705ae6e9e5cc9fbfc5573fda20f1a244b2361aad8c2903",
+      "bytes": 15208
+    },
+    {
+      "path": "gameplay/badges/star-collector/silver-256.png",
+      "sha256": "02cced8e29341b40a259fea9d5b88490d51953712639c491d8e551a3c0fb31d1",
+      "bytes": 65338
+    },
+    {
+      "path": "gameplay/badges/star-collector/silver-256.webp",
+      "sha256": "d50cc771853bc5f70695f323083620852be38d4f324b17ec9ea1efb83d073d7c",
+      "bytes": 43462
+    },
+    {
+      "path": "gameplay/badges/star-collector/silver-512.png",
+      "sha256": "71b0ad98a353a458edbe62f0bcd924db9544445f1453236427a1d699f453457c",
+      "bytes": 218976
+    },
+    {
+      "path": "gameplay/badges/star-collector/silver-512.webp",
+      "sha256": "73d108f7057cceb9cded553197651b32a55cccd73ff1c7a6844b0e43b2872869",
+      "bytes": 142108
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/bronze-128.png",
+      "sha256": "cbcb6b6ab883e200dddb919af10d3e8502f5ddf1160f1355533413458c89192b",
+      "bytes": 22425
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/bronze-128.webp",
+      "sha256": "1c3e35a2bd40013f78990bd1cdc4f3e657e5f64375164562d07d385b98a5e161",
+      "bytes": 17134
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/bronze-256.png",
+      "sha256": "d80f94a68ec7e0fea7f6a3348e6c3ed9fcaa7f4c1c4e42b5122979808f67ad2a",
+      "bytes": 69665
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/bronze-256.webp",
+      "sha256": "5f353e5b06733fa241941f5e3a50053ead6976fe0c845335c7995b767e4d2eb7",
+      "bytes": 49714
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/bronze-512.png",
+      "sha256": "f651f6cd20bc1ec77b549d2036f41dcd97a5c7bba5bca83813631281e757d006",
+      "bytes": 230126
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/bronze-512.webp",
+      "sha256": "77b19fcf8d3b3f6c4db105e6a8ea11256e30b982f695f9c71c01763e93c56793",
+      "bytes": 156292
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/gold-128.png",
+      "sha256": "90adf0e1291ac639beb9523113a743792633caf3a6c2bcfb9117281705c88a21",
+      "bytes": 23711
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/gold-128.webp",
+      "sha256": "c4750a441df4ecc7961e5bb2a918bd6f0e6d6856b5bbc807057ec9ffc32e69d2",
+      "bytes": 19528
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/gold-256.png",
+      "sha256": "e25032615665873c39606b962e31938db011df6dbbc2007b67d919ccb194375f",
+      "bytes": 76069
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/gold-256.webp",
+      "sha256": "0c32a6118ac164c9d442823310bda7c3948d30fced3becccaaa248aaf1e4a384",
+      "bytes": 57102
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/gold-512.png",
+      "sha256": "d9d989d5f263e40a8fed53e9d8fd95b71519a50d73b5e7ed9aa23bf4108ee450",
+      "bytes": 250767
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/gold-512.webp",
+      "sha256": "d4a5d2a8c9ba444375b23645afe8635ea1a3a66a6cf2db5a3cc6fea27937f419",
+      "bytes": 176836
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/legendary-128.png",
+      "sha256": "c99cad2c58a9b13830d0bccafa5a48e6a447688071d7b99d460ca32ed2691883",
+      "bytes": 23486
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/legendary-128.webp",
+      "sha256": "16372a4cfe12b59e0c0d9a591fc270726d15b40127e62e9054d59be8c070b8f1",
+      "bytes": 20062
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/legendary-256.png",
+      "sha256": "082392cd3b79893c45e0b5830988ba3b84c60a17aecaffb6482f97c0ec7db48f",
+      "bytes": 76192
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/legendary-256.webp",
+      "sha256": "3e34a2310c19bdee1485c17287c0bcbe66d0549b12d2d60d4a3e8ab3a394ef22",
+      "bytes": 58832
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/legendary-512.png",
+      "sha256": "e44f31ef5f9191cf93709f5f44fe6d0cfca63e14882ffc02ac07c75419afcd28",
+      "bytes": 249257
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/legendary-512.webp",
+      "sha256": "28baec4e8696e95130a5ac1fb33336ac4f8dfc6e557f4a38a662cdff2e93ce3e",
+      "bytes": 182848
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/platinum-128.png",
+      "sha256": "bd3b61587a437e60108585a3cd1e7166cae88063c178f0ad5e28c38f0a0a2d07",
+      "bytes": 24868
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/platinum-128.webp",
+      "sha256": "fa87b46bb3079ecefe5700be16d0c627e3557a74a5a7af297cd727ea56366262",
+      "bytes": 20132
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/platinum-256.png",
+      "sha256": "be9a87f72ea076ef7f8dc2a8341b6cbee04bdd57435ff92cef9e244b310e051a",
+      "bytes": 79085
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/platinum-256.webp",
+      "sha256": "cbd2cf48867389fb33746a50f4419569b8c0da116ac14237cc083361c9077562",
+      "bytes": 58150
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/platinum-512.png",
+      "sha256": "337c964b9ce480987f63cbdd8e48066290ca7e220709a4ad8c3dba35311b4773",
+      "bytes": 260928
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/platinum-512.webp",
+      "sha256": "84d361fd7e2d3ed6c0fa67ab0eb71c14e4f63e7fb2a5b9f368f3483210ca8b66",
+      "bytes": 180810
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/silver-128.png",
+      "sha256": "74a61394d8991d09a9710f60ba7b2728fe6d71ee67f1bb802f03b75d0e4fd64a",
+      "bytes": 22343
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/silver-128.webp",
+      "sha256": "a7346cb43797cbdaf92a3d6a3d5ebcaa084d8e0e27c7c737e7b1420d5db521c0",
+      "bytes": 16184
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/silver-256.png",
+      "sha256": "cc657539f884b5fd133d25db8d620b4178001a31e534b6d325f692670b598270",
+      "bytes": 69375
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/silver-256.webp",
+      "sha256": "061cb9984009baa71962d147749995536ef18c7db4a5873762df509aeb7daf66",
+      "bytes": 47506
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/silver-512.png",
+      "sha256": "91f07c999367bce7c914674641e6037948188967df71161ccebd0331d8c7b742",
+      "bytes": 228323
+    },
+    {
+      "path": "gameplay/badges/treasure-hunter/silver-512.webp",
+      "sha256": "9380d9294e3bbbab8dca9ccf3e9c93111fa83c4d3a36a94e41eb7abdb161d14a",
+      "bytes": 152188
+    },
+    {
+      "path": "gameplay/components/tier-bronze-128.png",
+      "sha256": "5b844ce6d26a5a061dc1a230095b96d7af7d05566c558b66ca3963847572da5e",
+      "bytes": 18242
+    },
+    {
+      "path": "gameplay/components/tier-bronze-128.webp",
+      "sha256": "c6b15fe3525df3dcb2e875d1bec84fa3ded9235ace2b88d0758c627e666692f4",
+      "bytes": 13176
+    },
+    {
+      "path": "gameplay/components/tier-bronze-256.png",
+      "sha256": "e9946f205d08b9900a96b0f378fe41f5a792fb877632c071135f8f5702e421e5",
+      "bytes": 56992
+    },
+    {
+      "path": "gameplay/components/tier-bronze-256.webp",
+      "sha256": "084493e39463be6d915817d4f4cca2c6b5530e2c44d1336cb639cb704b47a02c",
+      "bytes": 37932
+    },
+    {
+      "path": "gameplay/components/tier-bronze-512.png",
+      "sha256": "d3e1c274e8519a4f2fd471f2aaf2ad849624f226196e0f33dc848e5e0adfab3e",
+      "bytes": 198348
+    },
+    {
+      "path": "gameplay/components/tier-bronze-512.webp",
+      "sha256": "42cba287e85cf7babb3857e1602830a51d4d48f8a002f61d9fe176454232f155",
+      "bytes": 129390
+    },
+    {
+      "path": "gameplay/components/tier-gold-128.png",
+      "sha256": "75e9b5e8165730522cb7cd09f9156aadc74d9906189b1cc9e57a5127da4ee2a1",
+      "bytes": 20128
+    },
+    {
+      "path": "gameplay/components/tier-gold-128.webp",
+      "sha256": "0c47c4c38a7c8409b66015a55510d56e4ecbd4ad47c9eb6c9f3198c9fa7cad95",
+      "bytes": 15742
+    },
+    {
+      "path": "gameplay/components/tier-gold-256.png",
+      "sha256": "395efaf4bec48bf2e8d51671ec29255e445decee5b4c460f7120a45f2e743a91",
+      "bytes": 64987
+    },
+    {
+      "path": "gameplay/components/tier-gold-256.webp",
+      "sha256": "52e8078e53b7e044c75721fa7c5210aaa0d114841ca3db4c3dc02a0fb65f6b4b",
+      "bytes": 46680
+    },
+    {
+      "path": "gameplay/components/tier-gold-512.png",
+      "sha256": "5d0c7b60dfaa627acd1629896c26cf5fddf5b337f8656443a8c2e5b6d1737cac",
+      "bytes": 222033
+    },
+    {
+      "path": "gameplay/components/tier-gold-512.webp",
+      "sha256": "698812886bdd2e9655e29bd6466fef8348da74f6c1683b84da6670a295ed39c8",
+      "bytes": 150992
+    },
+    {
+      "path": "gameplay/components/tier-legendary-128.png",
+      "sha256": "f7f68d59ebc3b2c6aefe8f6e566932c406b790503a6fdc3ba0f9e241b093078f",
+      "bytes": 21419
+    },
+    {
+      "path": "gameplay/components/tier-legendary-128.webp",
+      "sha256": "e0fbd49d6e80df236f46c45fc3fb9e658c1841bf765c8d961e17567495f6cc99",
+      "bytes": 17740
+    },
+    {
+      "path": "gameplay/components/tier-legendary-256.png",
+      "sha256": "3e74924a71b85390b56369ec161f3961f354fe27d9442361dee4ec907f940f77",
+      "bytes": 69529
+    },
+    {
+      "path": "gameplay/components/tier-legendary-256.webp",
+      "sha256": "c79747c381d17c981570c9bd7516c6602a42cbf078a355397380c32a947b476c",
+      "bytes": 52022
+    },
+    {
+      "path": "gameplay/components/tier-legendary-512.png",
+      "sha256": "3b8f1e730f6db71eaaabe04b997261cae418aca79e6056727ef4f90bae4f067e",
+      "bytes": 231727
+    },
+    {
+      "path": "gameplay/components/tier-legendary-512.webp",
+      "sha256": "4b9be47004bbffd035a7a9f40f871fc03d592486fd6688170b6f1afb36d0ceaf",
+      "bytes": 164474
+    },
+    {
+      "path": "gameplay/components/tier-platinum-128.png",
+      "sha256": "04e75dbf4a748ce449e1be1022827b4df1a7133c0aceb28102bbdbf15a2bf992",
+      "bytes": 21388
+    },
+    {
+      "path": "gameplay/components/tier-platinum-128.webp",
+      "sha256": "0916ef7707c02202562529f25e3bb40ac161b22723e1df8c86442d63c676e21d",
+      "bytes": 16526
+    },
+    {
+      "path": "gameplay/components/tier-platinum-256.png",
+      "sha256": "f878cb52c8d840e34a95d54110ad4a4d533f9033b1047151689c594e20b17f90",
+      "bytes": 68582
+    },
+    {
+      "path": "gameplay/components/tier-platinum-256.webp",
+      "sha256": "a8d73791b8c3384f0c022b1e4332f5b6a0d68e772f13e92478f7be6203b0fc7a",
+      "bytes": 48138
+    },
+    {
+      "path": "gameplay/components/tier-platinum-512.png",
+      "sha256": "c2e3f087ab612d733b85a7245e7c1a6c28ff09b12c28c987a62ec55a161e4c71",
+      "bytes": 233046
+    },
+    {
+      "path": "gameplay/components/tier-platinum-512.webp",
+      "sha256": "bae7a8abffd02283a695bcf7a7de0ff2dfc611a06aef769d0ebc2f980337cbfa",
+      "bytes": 159706
+    },
+    {
+      "path": "gameplay/components/tier-silver-128.png",
+      "sha256": "4c33ccfc6d3d17821de411952b396616fc5489208c3879a7838b7bfa20d24490",
+      "bytes": 18249
+    },
+    {
+      "path": "gameplay/components/tier-silver-128.webp",
+      "sha256": "03420a3949a1c4f552d0d114dc1c7a6f533694af55d6e3d22d9cae412b57f468",
+      "bytes": 12184
+    },
+    {
+      "path": "gameplay/components/tier-silver-256.png",
+      "sha256": "982b332c6d8011f26235c604555d3f3e957a9dbdff58b9426aac67e60e134dad",
+      "bytes": 56645
+    },
+    {
+      "path": "gameplay/components/tier-silver-256.webp",
+      "sha256": "f8e42a6acdbe88741be9f60097faf7e8656f3ee90af971aff843f33fa21ad480",
+      "bytes": 35990
+    },
+    {
+      "path": "gameplay/components/tier-silver-512.png",
+      "sha256": "df5d8f6e489922137b425e0f45b031bd35f643bbaebfabbaef9966b45a2c2c6d",
+      "bytes": 196184
+    },
+    {
+      "path": "gameplay/components/tier-silver-512.webp",
+      "sha256": "e66791f1b2686b96c4b5906ccc427ffa602bfb2f4c096d6993c0a2397d752c79",
+      "bytes": 122658
+    },
+    {
+      "path": "gameplay/emblems/big-pop-128.png",
+      "sha256": "d0ff379ef53945730ad8ceef0bb85eee5b2b75a6d3ef5237e3fac3e1eaf49d0e",
+      "bytes": 18509
+    },
+    {
+      "path": "gameplay/emblems/big-pop-128.webp",
+      "sha256": "fcbe0cfc5f53adc45853a62e51f24215eba716871be35a430320d463479ea6ca",
+      "bytes": 13388
+    },
+    {
+      "path": "gameplay/emblems/big-pop-256.png",
+      "sha256": "ad6f56e68ae44f1215902221ca1ae687f923dc39af7dcd7737a0ff1a83c0350f",
+      "bytes": 57309
+    },
+    {
+      "path": "gameplay/emblems/big-pop-256.webp",
+      "sha256": "34212acfec175f922bd4a78d6d2cffd7df83cef22b18d9006bb873ebb2cda83c",
+      "bytes": 38714
+    },
+    {
+      "path": "gameplay/emblems/big-pop-512.png",
+      "sha256": "3d356d23eabf28392b2ef413ad1426f5db0a3dffb79cdd156c635eda916e3f81",
+      "bytes": 187370
+    },
+    {
+      "path": "gameplay/emblems/big-pop-512.webp",
+      "sha256": "350f0c24614e1bdadf94ebbeaaff69f5db46b3751a2d935b1a0843677268ff1c",
+      "bytes": 122012
+    },
+    {
+      "path": "gameplay/emblems/combo-master-128.png",
+      "sha256": "e1302c2c8a4dcf50fcab6a80ce4fa6b20d5c463ab3be7d38cf50f5eff1a8e0ec",
+      "bytes": 17367
+    },
+    {
+      "path": "gameplay/emblems/combo-master-128.webp",
+      "sha256": "858c1233469498b1227c9de16db6c89a1f47526334571bd9f3e1a6dbe84b77dc",
+      "bytes": 12998
+    },
+    {
+      "path": "gameplay/emblems/combo-master-256.png",
+      "sha256": "52dd5f2dcb55cb7f2bb44510151707408363954b94e62c18f0cb189d87ddbe9e",
+      "bytes": 55153
+    },
+    {
+      "path": "gameplay/emblems/combo-master-256.webp",
+      "sha256": "7949788dcf2aa61bb493080b6edbde548303135340ccd0e4e4d398490d99db62",
+      "bytes": 36538
+    },
+    {
+      "path": "gameplay/emblems/combo-master-512.png",
+      "sha256": "92a564ee03669d6c3b283cb7b3aeef8eb3478784fe59426291042ca3904441b1",
+      "bytes": 183326
+    },
+    {
+      "path": "gameplay/emblems/combo-master-512.webp",
+      "sha256": "21896fd634ea6b7ba034a77d5d45425a5779be0658fcbed3e27b55c2773fe835",
+      "bytes": 120104
+    },
+    {
+      "path": "gameplay/emblems/event-champion-128.png",
+      "sha256": "87399d6c255f6bf8eecda6aaf24dd824e8e0e91e070204ff248ce7be4df29b79",
+      "bytes": 16632
+    },
+    {
+      "path": "gameplay/emblems/event-champion-128.webp",
+      "sha256": "4af7896371fd6baaf7785b990cfe97f4b6bfcc2db0a172ffce7b6b9eb55fa333",
+      "bytes": 13944
+    },
+    {
+      "path": "gameplay/emblems/event-champion-256.png",
+      "sha256": "91306b149013d053ebbc0ed3ff8708d701566792d6128b5af75f06e723176d48",
+      "bytes": 53134
+    },
+    {
+      "path": "gameplay/emblems/event-champion-256.webp",
+      "sha256": "e7312bfa73d00a63bee58ba84835af81b16c31f772b2c72013ee76398907acc3",
+      "bytes": 39336
+    },
+    {
+      "path": "gameplay/emblems/event-champion-512.png",
+      "sha256": "29e45f10061fd59ab8003d2c14b1bfb3b1b7567a8a716d43f3531a3c88010f3d",
+      "bytes": 171894
+    },
+    {
+      "path": "gameplay/emblems/event-champion-512.webp",
+      "sha256": "bf46fa9723257c609d84e1b2867be17b9886fa635fb07d0c03089c8c360a216b",
+      "bytes": 122998
+    },
+    {
+      "path": "gameplay/emblems/first-win-128.png",
+      "sha256": "38e3b56ec0ef1adfc6f500880ee46711c7116d3f3162ab100783e7e4b51fbf5b",
+      "bytes": 16010
+    },
+    {
+      "path": "gameplay/emblems/first-win-128.webp",
+      "sha256": "4a98f3014e6e2fd651619e755b67b02f7f0723eb3eb96a36a5c87c65d4a57675",
+      "bytes": 11532
+    },
+    {
+      "path": "gameplay/emblems/first-win-256.png",
+      "sha256": "4ad951698c6b098ebbe1dd633e99fe3dcd7116d8d2e1451bff35f4df058b245b",
+      "bytes": 49709
+    },
+    {
+      "path": "gameplay/emblems/first-win-256.webp",
+      "sha256": "a95bc2a2ebf83e1aeff0a9bd4ab40a443d9600ba9bf3f1b6ca3e39acdad8c67f",
+      "bytes": 32628
+    },
+    {
+      "path": "gameplay/emblems/first-win-512.png",
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736",
+      "bytes": 169778
+    },
+    {
+      "path": "gameplay/emblems/first-win-512.webp",
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e",
+      "bytes": 107632
+    },
+    {
+      "path": "gameplay/emblems/level-streak-128.png",
+      "sha256": "ef845f9522ebf6e2e7ba2a2b1ed2fcc379c27e737354751f961cba04b381ad73",
+      "bytes": 23380
+    },
+    {
+      "path": "gameplay/emblems/level-streak-128.webp",
+      "sha256": "4675f18f39091a94fd0015cac6f22042a9feb00ecc0f040dcaf845fe389e0df8",
+      "bytes": 17386
+    },
+    {
+      "path": "gameplay/emblems/level-streak-256.png",
+      "sha256": "1342d5dba88beb1232a7c25a3232dcf7402d97ee0c1678837cbc3093bd701ae1",
+      "bytes": 75961
+    },
+    {
+      "path": "gameplay/emblems/level-streak-256.webp",
+      "sha256": "2a07aca9aca5676b95bd4d9256d70387b5738d48be5ca22594dbb8a619d36d87",
+      "bytes": 51922
+    },
+    {
+      "path": "gameplay/emblems/level-streak-512.png",
+      "sha256": "df77c29d18991f8a34821b3b2bc25dc5c5775f101c78c322ab7594572337e4e4",
+      "bytes": 260959
+    },
+    {
+      "path": "gameplay/emblems/level-streak-512.webp",
+      "sha256": "b2558e047b66f84e73d154b001482a98ee52a848dd26187582687a2a0f15d895",
+      "bytes": 171394
+    },
+    {
+      "path": "gameplay/emblems/perfect-clear-128.png",
+      "sha256": "c08c6ee199e7694b759327e4087d74e6da504510cae7fa9ceb9ec024981784fe",
+      "bytes": 15402
+    },
+    {
+      "path": "gameplay/emblems/perfect-clear-128.webp",
+      "sha256": "c496702f76fcc43588815ab7a9488e43fc2d17f6ba6a52772a08e0a155f2417a",
+      "bytes": 10094
+    },
+    {
+      "path": "gameplay/emblems/perfect-clear-256.png",
+      "sha256": "24b96f391ee1f4e7dfbabd59fa01bc860be09ae2bc00d776c936db8908ff9963",
+      "bytes": 47410
+    },
+    {
+      "path": "gameplay/emblems/perfect-clear-256.webp",
+      "sha256": "6c612a282254699ae887f73009269d036bd543f4b1cd88ad3776b1b0f76aeaed",
+      "bytes": 29468
+    },
+    {
+      "path": "gameplay/emblems/perfect-clear-512.png",
+      "sha256": "adf471116101012b5610c1f756aecea306414e37c43b10ebcc56c20cc888b788",
+      "bytes": 157423
+    },
+    {
+      "path": "gameplay/emblems/perfect-clear-512.webp",
+      "sha256": "48d2866f7791736839b4a523e9d0edfe31e3b44877cde845a5a1ece860a2dcaf",
+      "bytes": 96556
+    },
+    {
+      "path": "gameplay/emblems/star-collector-128.png",
+      "sha256": "5c84ee40477044ec3c6b37f4b97a1d9fc6661801a4d1a779c539c24c4990e6a3",
+      "bytes": 11137
+    },
+    {
+      "path": "gameplay/emblems/star-collector-128.webp",
+      "sha256": "0cfe7f1053664682e8c7f9b33bf8ce766bbd7347abd73f032780074894d8237b",
+      "bytes": 8844
+    },
+    {
+      "path": "gameplay/emblems/star-collector-256.png",
+      "sha256": "a9abb1be9bc174c4511b271d425ab9155c00ec662c53f35e5ca01402b3afc457",
+      "bytes": 33485
+    },
+    {
+      "path": "gameplay/emblems/star-collector-256.webp",
+      "sha256": "23dc7c96933f2532cc55bbba78f957442e6d001996e303055c4325d1cc10eaae",
+      "bytes": 25030
+    },
+    {
+      "path": "gameplay/emblems/star-collector-512.png",
+      "sha256": "9b5a4258277ebbe2d9c3a98a3814ef9e37a40edbdbf15f393cfa8e73c472ac3a",
+      "bytes": 109249
+    },
+    {
+      "path": "gameplay/emblems/star-collector-512.webp",
+      "sha256": "abb349c0d425afaab9a74cf229bcc96f70f59aa82f9aa359451a431acd316606",
+      "bytes": 78190
+    },
+    {
+      "path": "gameplay/emblems/treasure-hunter-128.png",
+      "sha256": "9d1c5dcbd5f11acac513d1fa253230d50a1c5eb3de1764d8fb82b41310f8ea59",
+      "bytes": 18104
+    },
+    {
+      "path": "gameplay/emblems/treasure-hunter-128.webp",
+      "sha256": "4826874fdcdf15c1cfd7c6f92aa1d5b606b8e3e11760351015206b874ee44385",
+      "bytes": 14678
+    },
+    {
+      "path": "gameplay/emblems/treasure-hunter-256.png",
+      "sha256": "2d0ceb03c7b1d3779ff5ea7643fe3196bb25934da81b82439c807ddbe2a3e3a9",
+      "bytes": 57107
+    },
+    {
+      "path": "gameplay/emblems/treasure-hunter-256.webp",
+      "sha256": "ddba33f1a8fb786c64f8e42a6cda2d1c28c70b8f43b0650c59a0967e20afcb49",
+      "bytes": 41982
+    },
+    {
+      "path": "gameplay/emblems/treasure-hunter-512.png",
+      "sha256": "1e815f0dfbd50e368a556845da5279d933ffcb32eb0c69ac2acc8e1c026d4205",
+      "bytes": 190817
+    },
+    {
+      "path": "gameplay/emblems/treasure-hunter-512.webp",
+      "sha256": "a8bd3eb779708336d17328a958205e06fab8ceb2b96fdf999c4aef6b9855a54c",
+      "bytes": 134252
+    },
+    {
+      "path": "gameplay/emblems/trophy-128.png",
+      "sha256": "f239dd5b83f0f7fd8cd81befbd1106fde8bdccd9e13170e44fc823c477072ead",
+      "bytes": 17842
+    },
+    {
+      "path": "gameplay/emblems/trophy-128.webp",
+      "sha256": "8444e01ec7db6f1fd0248d2e0dea441f3b1b03da68c8f5ed8be5f503e11d0c6a",
+      "bytes": 14870
+    },
+    {
+      "path": "gameplay/emblems/trophy-256.png",
+      "sha256": "7fc321308ffdb541322c4552116743a378bc218f12a733a9da24fc6a473d3b54",
+      "bytes": 55753
+    },
+    {
+      "path": "gameplay/emblems/trophy-256.webp",
+      "sha256": "bf89183355a571c1c2bc9f3c4790e37890d4846ad59b3a3650cc527d2cfb4e40",
+      "bytes": 42734
+    },
+    {
+      "path": "gameplay/emblems/trophy-512.png",
+      "sha256": "45f0c91c08e6e621ff55db21b225041b30ddcd3a44c673fb7e90041274b4e3a7",
+      "bytes": 178756
+    },
+    {
+      "path": "gameplay/emblems/trophy-512.webp",
+      "sha256": "e930809d10002ff73fa8015ee54ec762c19549c3f462a34894b9e4dc7da7364d",
+      "bytes": 126326
+    },
+    {
+      "path": "gameplay/headers/achievements-128.png",
+      "sha256": "65dfdad3f6cbf8be7e4af5912562b9e151a1d2df9c8af53067579b6a7b7e0172",
+      "bytes": 24233
+    },
+    {
+      "path": "gameplay/headers/achievements-128.webp",
+      "sha256": "b1b4915b006fd9f11b21b71ec7fc6f64d3d65bcd97453d3314943a64857483c0",
+      "bytes": 20082
+    },
+    {
+      "path": "gameplay/headers/achievements-256.png",
+      "sha256": "33ac1990c05ed1f70cb18ef2cba11d4405eb34445e7911335ab968c0bdc0f03c",
+      "bytes": 77902
+    },
+    {
+      "path": "gameplay/headers/achievements-256.webp",
+      "sha256": "1a686645ae2f81c1fbd9c6a89d4e7cb0131f672c324e3222afcb04ca065cd482",
+      "bytes": 58946
+    },
+    {
+      "path": "gameplay/headers/achievements-512.png",
+      "sha256": "f3ce324906765468dfed0c7051226ec63d170c968c4552ff5dd8ca5f2af746bb",
+      "bytes": 260343
+    },
+    {
+      "path": "gameplay/headers/achievements-512.webp",
+      "sha256": "4d7ca202e47255a8afc18df1cdfc650bd8b63c676b43bad9f2a86fd80044c5e1",
+      "bytes": 186298
+    },
+    {
+      "path": "generation.json",
+      "sha256": "f69c8852d6a0eaeae485655c70ff53856a41f0bcd7c573e4e0ec680a2459b3ec",
+      "bytes": 60602
+    },
+    {
+      "path": "masters/badges/big-pop/bronze.png",
+      "sha256": "0f1c18006b7531a1d5ae8e5d5efcd580a97c3ea6323efb5d3d0c5a8a72c4b44f",
+      "bytes": 807092
+    },
+    {
+      "path": "masters/badges/big-pop/gold.png",
+      "sha256": "cd9eae87355c4825f0d183d9b1216d8174c4111e8bd49dff0bf6813ab843c787",
+      "bytes": 864361
+    },
+    {
+      "path": "masters/badges/big-pop/legendary.png",
+      "sha256": "c1b3fc87ffbed28d698b43fd8eb8edfd3827bf2e4702431c606a27af3376da48",
+      "bytes": 827181
+    },
+    {
+      "path": "masters/badges/big-pop/platinum.png",
+      "sha256": "2b112d9327f38c8ed1d728f7b6653a0cffd077b2d99ee9a3f688442176d3af90",
+      "bytes": 878825
+    },
+    {
+      "path": "masters/badges/big-pop/silver.png",
+      "sha256": "dc72204c8d08058d41dc97af5bf96d137099d9828d460f140b52634892b88f23",
+      "bytes": 786199
+    },
+    {
+      "path": "masters/badges/combo-master/bronze.png",
+      "sha256": "620c0444a368cc9ad9ae96c9274f375a370588ed66ba5d38c690f398aa894927",
+      "bytes": 817659
+    },
+    {
+      "path": "masters/badges/combo-master/gold.png",
+      "sha256": "867af63956d9bf2d85d87c907bd73597989e6d3ba02174b290ace1805cfff0c0",
+      "bytes": 871841
+    },
+    {
+      "path": "masters/badges/combo-master/legendary.png",
+      "sha256": "35a3c6bb5c5e73327c1b718c18c2b23553e548786af43ba0fcfdeed7059cede6",
+      "bytes": 837671
+    },
+    {
+      "path": "masters/badges/combo-master/platinum.png",
+      "sha256": "82930d32d55239a6e72827776a72fa024c54871deec4bbfd2a6eef86ba4b17a0",
+      "bytes": 887413
+    },
+    {
+      "path": "masters/badges/combo-master/silver.png",
+      "sha256": "8f210b97107dfb1b41f3bbbcec6c146010870123fb7582e8f164a7d8dcf01efc",
+      "bytes": 801137
+    },
+    {
+      "path": "masters/badges/event-champion/bronze.png",
+      "sha256": "8c061053aca234550016540658ecb393e5456a0d7206d704a3e5602ac5f7df0f",
+      "bytes": 843464
+    },
+    {
+      "path": "masters/badges/event-champion/gold.png",
+      "sha256": "91938679ab4f33e88d5735ac90a3e7c991b16facddf61beeea34bea42f902754",
+      "bytes": 891862
+    },
+    {
+      "path": "masters/badges/event-champion/legendary.png",
+      "sha256": "8c04ed289e1e26ac64960cb1dad5d21f25876c8bcf595c69d438e31c69ceaa26",
+      "bytes": 850303
+    },
+    {
+      "path": "masters/badges/event-champion/platinum.png",
+      "sha256": "74aa2746e3c88cc91987a7c1d71657013ab12ef3c8fce9ccb74f9de71bd59302",
+      "bytes": 906580
+    },
+    {
+      "path": "masters/badges/event-champion/silver.png",
+      "sha256": "a59183086d6f0893df2a71761df570b515db6bd5f6c6a517f3105998d60a1dba",
+      "bytes": 824764
+    },
+    {
+      "path": "masters/badges/first-win/bronze.png",
+      "sha256": "06e1d5c7eddbf982513c3bb129c07f97641868959f75acafe21aa438d804f6b9",
+      "bytes": 772628
+    },
+    {
+      "path": "masters/badges/first-win/gold.png",
+      "sha256": "64b3a329c1d5aad79c341c6e5c2bec3e7a2bd3d49857bd68b759c2d927354cc5",
+      "bytes": 834659
+    },
+    {
+      "path": "masters/badges/first-win/legendary.png",
+      "sha256": "3d4cfb373ac9b6602fed9d3b558a39f5571c9ae6509c5cec200266ec3a7f263b",
+      "bytes": 809239
+    },
+    {
+      "path": "masters/badges/first-win/platinum.png",
+      "sha256": "569ff8575531910859532f0b009c3f01fa99aa0c1f8a424acb9d470a32a66746",
+      "bytes": 852763
+    },
+    {
+      "path": "masters/badges/first-win/silver.png",
+      "sha256": "d806333b69741d584c382a7280d2c466adf9e78c02ddf3b9862a941e23d54b8f",
+      "bytes": 755284
+    },
+    {
+      "path": "masters/badges/level-streak/bronze.png",
+      "sha256": "5d56de79f787848ad9fd4eb2169125b8060a631a10ff4c9466e18ea624e7e184",
+      "bytes": 813531
+    },
+    {
+      "path": "masters/badges/level-streak/gold.png",
+      "sha256": "4a913d19f7773179c328ff98b8170364c2df69cc38824cdca6545b30ac32e359",
+      "bytes": 873220
+    },
+    {
+      "path": "masters/badges/level-streak/legendary.png",
+      "sha256": "2a7f5a262f2b9e6402a4307225d2f58e9f379598ca2807629eaec637de2ddb7c",
+      "bytes": 829716
+    },
+    {
+      "path": "masters/badges/level-streak/platinum.png",
+      "sha256": "4ba37089b959410608e0454c016302f8e0b25cfa1ca2e3b826ee742a8054277b",
+      "bytes": 890492
+    },
+    {
+      "path": "masters/badges/level-streak/silver.png",
+      "sha256": "2166348bdce3c816ed4a4fcfa80a121192ec2a825041de23b95043826232a048",
+      "bytes": 797667
+    },
+    {
+      "path": "masters/badges/perfect-clear/bronze.png",
+      "sha256": "238d77e8958b92259894a5c1d6d1f0fcbd024cf709b79126884918ef239cf218",
+      "bytes": 781981
+    },
+    {
+      "path": "masters/badges/perfect-clear/gold.png",
+      "sha256": "b2979ec47abf2ceb2373dee400752f74d968e27cf10403eebb24d5f219c1a942",
+      "bytes": 836086
+    },
+    {
+      "path": "masters/badges/perfect-clear/legendary.png",
+      "sha256": "afa695742561904298f25a2a6a670d80ce53d7fd2b32a243ada56b58776f6de0",
+      "bytes": 815531
+    },
+    {
+      "path": "masters/badges/perfect-clear/platinum.png",
+      "sha256": "036ad0ac5b6567fe888d030928ca53cc467dbaaa02645e23d3425293e389a4bf",
+      "bytes": 851587
+    },
+    {
+      "path": "masters/badges/perfect-clear/silver.png",
+      "sha256": "d1499ac0a2f153a296566564360a52d8d3651dbfa989943344c4139a9af9bef4",
+      "bytes": 759075
+    },
+    {
+      "path": "masters/badges/star-collector/bronze.png",
+      "sha256": "c394672ba4a95b07b8600490637f30905e7e5dc4ae91b6d511f9767d304b1965",
+      "bytes": 781031
+    },
+    {
+      "path": "masters/badges/star-collector/gold.png",
+      "sha256": "69e29faa3011a74a405aec344f83d95005a7ffbd2461a24fa0a81a9afde7a1f9",
+      "bytes": 835260
+    },
+    {
+      "path": "masters/badges/star-collector/legendary.png",
+      "sha256": "aa093358b381c19ae0a42cd741fd0aeb6142e232e565c1d1fe858c8afa76ba7d",
+      "bytes": 811037
+    },
+    {
+      "path": "masters/badges/star-collector/platinum.png",
+      "sha256": "61ffc3f7dff99ea4e6d3a919b43dfc470721d99e001ce6b088264b0429944301",
+      "bytes": 851536
+    },
+    {
+      "path": "masters/badges/star-collector/silver.png",
+      "sha256": "f9a7bd8ee0b09ba97330e507d63a56a8875dc43811fb3d267da0f13b9ad828b0",
+      "bytes": 760635
+    },
+    {
+      "path": "masters/badges/treasure-hunter/bronze.png",
+      "sha256": "92c3fc82120779b28d53ca6ed98baffceb1ad60315d5735f5c4835e715c5d128",
+      "bytes": 811365
+    },
+    {
+      "path": "masters/badges/treasure-hunter/gold.png",
+      "sha256": "110a4dd7cb6cdc4e359d131302acc10603ddd2f672d74a08f24f26cd2770282d",
+      "bytes": 865129
+    },
+    {
+      "path": "masters/badges/treasure-hunter/legendary.png",
+      "sha256": "5a78ccf86ee47c847f3562e82c9fc97dac6ff209aebf2eb7322dff8b022a9f86",
+      "bytes": 825824
+    },
+    {
+      "path": "masters/badges/treasure-hunter/platinum.png",
+      "sha256": "bb90b0c230cbc11f1cad3d85c3042c3aa7229040d46e426066d2722e3f02173e",
+      "bytes": 879848
+    },
+    {
+      "path": "masters/badges/treasure-hunter/silver.png",
+      "sha256": "47255d396c542b6a2b2d94f6996c2676c7b2ae872695f4fb78ca19f1ec3304f8",
+      "bytes": 790952
+    },
+    {
+      "path": "masters/components/tier-bronze.png",
+      "sha256": "5ee47a03afc89a4153f77bc8fdfac8fb6f704eefdee6dd49d6a0bfe3fe79e999",
+      "bytes": 730650
+    },
+    {
+      "path": "masters/components/tier-gold.png",
+      "sha256": "b0331b615e44b68e0f2550b94d05d39e587245dc6d2acef6896f15a2c6fc407c",
+      "bytes": 782794
+    },
+    {
+      "path": "masters/components/tier-legendary.png",
+      "sha256": "8dd853e08c442adf19f303a74c9644e6f5bb55fc9982a6dc213b6b925b2098a1",
+      "bytes": 781377
+    },
+    {
+      "path": "masters/components/tier-platinum.png",
+      "sha256": "cabb4e52611e6f4410e46aafe7b74b4dd76a26bb8a55bc7356c5533a14fedb66",
+      "bytes": 802713
+    },
+    {
+      "path": "masters/components/tier-silver.png",
+      "sha256": "928ab423f0f20082f1aa803ac1926f4c3f1d1abf9275a76e526d7fa0704f6c0a",
+      "bytes": 704028
+    },
+    {
+      "path": "masters/emblems/big-pop.png",
+      "sha256": "4e547d58ade164f060e712d1da3555a2c45113a3238ca227a55f9ce0b4714418",
+      "bytes": 616258
+    },
+    {
+      "path": "masters/emblems/combo-master.png",
+      "sha256": "a7d96ad20c5447afb826223eafcd8fc35dda0d4162464bf29db1f2af976b5855",
+      "bytes": 616870
+    },
+    {
+      "path": "masters/emblems/event-champion.png",
+      "sha256": "f09d679dfa695a85e5469d6006d683b64c7bdd3b02f1208fb2c344927d757bc9",
+      "bytes": 564415
+    },
+    {
+      "path": "masters/emblems/first-win.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "bytes": 575235
+    },
+    {
+      "path": "masters/emblems/level-streak.png",
+      "sha256": "59145f0ac250c08d7684c473548298ab5fc75ad69fd7a1a2338b65e2a3dc14ea",
+      "bytes": 902536
+    },
+    {
+      "path": "masters/emblems/perfect-clear.png",
+      "sha256": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d",
+      "bytes": 524658
+    },
+    {
+      "path": "masters/emblems/star-collector.png",
+      "sha256": "951b32f8ce90fb62066293b720e0347bd8bd70a090c378c14c57aa2f265a3cd7",
+      "bytes": 359370
+    },
+    {
+      "path": "masters/emblems/treasure-hunter.png",
+      "sha256": "64ee22a73a0497704a149efc78772cc07b992867f9f7568ccfd7f92ef7fecc59",
+      "bytes": 684697
+    },
+    {
+      "path": "masters/emblems/trophy.png",
+      "sha256": "5f20420f776a0048a72726c941bc42b4117226e68c450d63f82e633455cbd63f",
+      "bytes": 574755
+    },
+    {
+      "path": "masters/headers/achievements.png",
+      "sha256": "206944d3f28d7adea0618ac35cbf467fc2812a3d08eb7f1a7a964e515b61ffcd",
+      "bytes": 890247
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "df710f14ace57f549779903f5d7c5594b52e43ff29e9c769b438db14ac21986c",
+      "bytes": 750039
+    },
+    {
+      "path": "section-board.png",
+      "sha256": "4ce9855bd79ff6141e4ecb2d0036f9731c9614e178980f894175412fe6d23fcc",
+      "bytes": 1451885
+    }
+  ],
+  "limitations": "Visual asset library only. Tier labels, progress quantities and milestone thresholds are illustrative; no gameplay rules or entitlement changes. Solo-first launch: personal prestige is cosmetic; Event Champion is future-only. Mastery badges do not alter family evolution, cannon upgrades or collision sizes. New ornaments are AI generated; approved portraits and economy art are reused. Runtime labels should remain localized text. PNG/WebP exports are not a tested game integration or animation rig."
+}

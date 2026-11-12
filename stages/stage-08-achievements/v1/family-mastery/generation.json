@@ -1,0 +1,814 @@
+{
+  "section": "family-mastery",
+  "built_in_image_generation": true,
+  "board": {
+    "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/section-board.png",
+    "prompt": "Use case: stylized-concept. Create a polished landscape 3:2 Puff Trails Family Mastery section reference board matching the supplied plush golden-purple achievement board. This is a SECTION BOARD, not sprite output. Pale lavender and cream cloud background, rounded luminous panels, polished gold edges, luxurious cute 3D enamel and plush material. Exact title at top: 'Family Mastery'. Subtitle: 'Six locked families \u2022 Five visual badge grades'. Upper middle row: exactly five equally spaced standalone paw-medallion badge designs on clean pale background, bronze, silver, gold, purple platinum with wings, crowned legendary gold/pink. Each has a paw emblem, not a character. Labels 'Grade 1', 'Grade 2', 'Grade 3', 'Grade 4', 'Grade 5'. Lower half must contain exactly SIX equally spaced plain empty lavender rounded rectangular cards in ONE ROW, from left to right, enough space inside each for a character portrait to be composited later. Cards occupy x about 3%-97%, y57%-89%. Their centers must be completely empty, no emblem, no animal, no decorations inside. Do not draw any characters anywhere. No additional text on cards. Footer text: 'Collection cosmetics \u2022 Original portraits preserved'. Portrait cards will be populated using original locked assets later. No gameplay amounts, no competitive ranking. Preserve source palette and premium soft rounded game style.",
+    "source_references": [
+      "/Users/mac/Projects/Testing gpt project/boards/Puff Trails Achievement Mastery Showcase.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/logos/wordmark.png"
+    ],
+    "composition_sources": [
+      "locked/rosybuns/v1/masters/core/medium.png",
+      "locked/skybubs/v1/masters/core/medium.png",
+      "locked/leaflings/v1/masters/core/medium.png",
+      "locked/chirpyfluffs/v1/masters/core/medium.png",
+      "locked/twirlpuffs/v1/masters/core/medium.png",
+      "locked/peachtells/v1/masters/core/medium.png",
+      "locked/puff-trails-brand/v1/masters/logos/wordmark.png"
+    ],
+    "source_hashes": {
+      "locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5",
+      "locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec",
+      "locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c",
+      "locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+      "locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5",
+      "locked/puff-trails-brand/v1/masters/logos/wordmark.png": "4732ce90b082dfdcc627741653859f08ea58863cd24605c703a962d72c461a5b"
+    },
+    "notes": "Original locked portraits composited without repainting. Resized only for board layout. Five visual badge grades are art variants, not approved gameplay thresholds.",
+    "concept_archive_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/section-board-concept.png",
+    "concept_archive_sha256": "e1bb55ccad038a61a7bc4e95c4e072d33d9265598b6370579a825e232e019ff1",
+    "final_grade_sources": [
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-01.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-02.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-03.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-04.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-05.png"
+    ],
+    "final_board_refinement": "Five illustrative grade images replaced with final individual grade assets. Original generated concept board archived; labels and exact locked portrait areas unchanged."
+  },
+  "existing_sources": {
+    "locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+    "locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5",
+    "locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec",
+    "locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c",
+    "locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+    "locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5",
+    "locked/puff-trails-brand/v1/masters/logos/wordmark.png": "4732ce90b082dfdcc627741653859f08ea58863cd24605c703a962d72c461a5b"
+  },
+  "records": [
+    {
+      "id": "badges/mossmops/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--mossmops--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      }
+    },
+    {
+      "id": "badges/mossmops/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--mossmops--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      }
+    },
+    {
+      "id": "badges/mossmops/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--mossmops--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      }
+    },
+    {
+      "id": "badges/mossmops/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--mossmops--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      }
+    },
+    {
+      "id": "badges/mossmops/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--mossmops--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec"
+      }
+    },
+    {
+      "id": "badges/peachpeeps/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--peachpeeps--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      }
+    },
+    {
+      "id": "badges/peachpeeps/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--peachpeeps--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      }
+    },
+    {
+      "id": "badges/peachpeeps/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--peachpeeps--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      }
+    },
+    {
+      "id": "badges/peachpeeps/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--peachpeeps--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      }
+    },
+    {
+      "id": "badges/peachpeeps/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--peachpeeps--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+      }
+    },
+    {
+      "id": "badges/plumplets/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--plumplets--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      }
+    },
+    {
+      "id": "badges/plumplets/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--plumplets--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      }
+    },
+    {
+      "id": "badges/plumplets/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--plumplets--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      }
+    },
+    {
+      "id": "badges/plumplets/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--plumplets--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      }
+    },
+    {
+      "id": "badges/plumplets/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--plumplets--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988"
+      }
+    },
+    {
+      "id": "badges/rosybuns/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--rosybuns--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      }
+    },
+    {
+      "id": "badges/rosybuns/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--rosybuns--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      }
+    },
+    {
+      "id": "badges/rosybuns/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--rosybuns--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      }
+    },
+    {
+      "id": "badges/rosybuns/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--rosybuns--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      }
+    },
+    {
+      "id": "badges/rosybuns/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--rosybuns--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      }
+    },
+    {
+      "id": "badges/skydoodles/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--skydoodles--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      }
+    },
+    {
+      "id": "badges/skydoodles/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--skydoodles--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      }
+    },
+    {
+      "id": "badges/skydoodles/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--skydoodles--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      }
+    },
+    {
+      "id": "badges/skydoodles/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--skydoodles--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      }
+    },
+    {
+      "id": "badges/skydoodles/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--skydoodles--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+      }
+    },
+    {
+      "id": "badges/sunpuffs/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--sunpuffs--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      }
+    },
+    {
+      "id": "badges/sunpuffs/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--sunpuffs--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      }
+    },
+    {
+      "id": "badges/sunpuffs/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--sunpuffs--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      }
+    },
+    {
+      "id": "badges/sunpuffs/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--sunpuffs--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      }
+    },
+    {
+      "id": "badges/sunpuffs/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/badges--sunpuffs--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c"
+      }
+    },
+    {
+      "id": "category/family-mastery",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/category--family-mastery.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      }
+    },
+    {
+      "id": "components/paw-emblem",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png",
+      "prompt": "Use case: stylized-concept. Generate exactly one standalone family mastery paw emblem for the Puff Trails locked design system, matching the Family Mastery board. A glossy rounded plush/enamel lavender-pink paw print: one large rounded heart-like central paw pad and four smaller round toe pads above it. Rich purple raised beveled edging, warm pink interiors and creamy highlights, cute premium toy-like 3D material, straight-on orthographic symmetrical icon. This is ONLY the paw symbol, NO shield, NO medal frame, NO ribbon, NO text, NO badge background, NO character. Centered, entire silhouette within canvas, substantial transparent padding. Genuine transparent RGBA background, no checkerboard, no ground shadow. Crisp clean alpha, fully opaque colored interior.\n\nRefinement: Edit the paw emblem only to remove the entire purple glow/aura around it. Keep its five glossy pink paw pads and thick purple beveled edges precisely. Everything outside the actual solid paw outline must be fully transparent alpha 0, including between toes. No outer shadows, no bloom, no gradient cloud. Entire solid pink-and-purple toy emblem opaque alpha255 internally. Clean softly antialiased silhouette, transparent background. No other change.\n",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/section-board.png"
+      ],
+      "origin": "AI generated standalone paw emblem; no character redraw",
+      "generated_sha256": "3c2141a492fdc03faebf286805aee97e0697a41f979526a059c52f74b31caa3c",
+      "prepared": true,
+      "postprocessing": "Disconnected alpha specks removed; near-opaque interior normalized; centered 880px within1024."
+    },
+    {
+      "id": "grades/grade-01",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-01.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-bronze.png": "73d5be2722818566114063cec3d901802f24c555a5f77a74b44ba802b5536b9e",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      }
+    },
+    {
+      "id": "grades/grade-02",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-02.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-silver.png": "a56ddfe456fa3c03bb8ed8f43f8408cbdb8821895129b086e4a927f1fae7ec0d",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      }
+    },
+    {
+      "id": "grades/grade-03",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-03.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-gold.png": "b248437c2e993dfc8406e0cf4ed19b531d83c5a52bdb5ec5ed80e191fc6cf769",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      }
+    },
+    {
+      "id": "grades/grade-04",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-04.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-platinum.png": "e10cb80ded5ad285b5819e391e7fa94fb66de6d537a3103edef4a605c6a8a730",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      }
+    },
+    {
+      "id": "grades/grade-05",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/grades--grade-05.png",
+      "prepared": true,
+      "origin": "Deterministic composition of original approved portrait/emblem and generated decorative frame",
+      "prompt": "Preserve exact original artwork; resize and center within cosmetic frame only. No portrait repaint or alteration.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "components": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png"
+      ],
+      "component_sha256": {
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/achievement-badges/generated/components--tier-legendary.png": "390a3cee02a51ab277717911db94e68ee5cc7dbb41ecf673dcc6aa3f91826d43",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/family-mastery/renders/paw-emblem.png": "abf26eb010d9f2278f8ab48453ba736533b722386454b3eb09596dd250f96d61"
+      }
+    },
+    {
+      "id": "portraits/mossmops",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png",
+      "source_repository_path": "locked/leaflings/v1/masters/core/medium.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/leaflings/v1/masters/core/medium.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/peachpeeps",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png",
+      "source_repository_path": "locked/peachtells/v1/masters/core/medium.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/peachtells/v1/masters/core/medium.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/plumplets",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png",
+      "source_repository_path": "locked/twirlpuffs/v1/masters/core/medium.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/twirlpuffs/v1/masters/core/medium.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/rosybuns",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png",
+      "source_repository_path": "locked/rosybuns/v1/masters/core/medium.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/rosybuns/v1/masters/core/medium.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/skydoodles",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png",
+      "source_repository_path": "locked/skybubs/v1/masters/core/medium.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/skybubs/v1/masters/core/medium.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    },
+    {
+      "id": "portraits/sunpuffs",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png",
+      "source_repository_path": "locked/chirpyfluffs/v1/masters/core/medium.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/chirpyfluffs/v1/masters/core/medium.png"
+      ],
+      "origin": "Exact locked original master reused unchanged",
+      "prompt": "No generation; reuse original approved master bytes"
+    }
+  ]
+}

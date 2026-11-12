@@ -1,0 +1,316 @@
+{
+  "section": "ui-components",
+  "built_in_image_generation": true,
+  "board": {
+    "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png",
+    "prompt": "Assemble final section production board from every delivered individual master, preserving exact source artwork and canonical design system. Layout and labels only; no master assets changed.",
+    "source_references": [
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/frames/gold.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/frames/violet.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/frames/laurel.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/frames/elite.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-blank.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-blank.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-labelled.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-labelled.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/icons/notification.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/icons/check.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/components/category-tab.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/components/card.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/components/track.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/components/fill.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/progress/example-half.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/components/star.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/icons/empty-star.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/ratings/one.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/ratings/two.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/ratings/three.png",
+      "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-08-achievements/v1/ui-components/masters/category/palette.png"
+    ],
+    "origin": "Deterministic final section-board assembly from delivered masters; initial AI concept archived",
+    "concept_board_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board-concept.png",
+    "concept_prompt": "Create a standalone polished landscape Puff Trails section concept board titled 'Achievement UI Components'. Reference original for glossy purple enamel, rounded gold trim, pink crystal accents, plush softness and white lavender panels. No characters, no cannons, no coins or currency. Clearly separated large renderings, generous margins. Top row four individually labeled empty ornamental frames: 'Gold Frame' square rounded corners golden rim blue corner jewels; 'Violet Frame' square rounded violet crystal rim; 'Laurel' open gold leaves wreath; 'Elite Frame' circular pink crystal gold frame. All frame centers EMPTY clean white/lavender, no icon or portrait. Middle row standalone button previews 'Claim Reward' warm gold button, 'View Progress' deep blue button; two distinct icon discs gold exclamation and green check. Third row modular UI construction samples: blank violet category tab; blank lavender rectangular card; purple rounded meter track with separate magenta fill sample; gold star and empty lavender star; 1/2/3-star rating examples. No numbers on progress meters, no costs, no leaderboard. Exact readable headinglabels. Soft studio highlights, high quality toy-like3D UI art consistent original reference, no photoreal objects. Footer 'Reusable frames \u2022 Buttons \u2022 Tabs \u2022 Progress'. This board is a design reference, not an in-game screenshot. Do not redesign any character.",
+    "source_repository_paths": [
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/gold.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/violet.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/laurel.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/elite.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-blank.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-blank.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-labelled.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-labelled.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/icons/notification.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/icons/check.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/category-tab.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/card.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/track.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/fill.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/progress/example-half.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/star.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/icons/empty-star.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/ratings/one.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/ratings/two.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/ratings/three.png",
+      "stages/stage-08-achievements/v1/ui-components/masters/category/palette.png"
+    ],
+    "source_hashes": {
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/gold.png": "08cac96a9d0af9b3b512d3b43f73959cc06bde62b72422e0fdebd8ce4008f5c9",
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/violet.png": "d5f20903ef1dda704561db985884578b67d3ce3eb5953ee486c60eff6f7167d7",
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/laurel.png": "75e5f0a597b54cee9dd4ebbe7ac11a082105edf94d96903f3d41024a1ac7d11e",
+      "stages/stage-08-achievements/v1/ui-components/masters/frames/elite.png": "f00fbf15eea69afe5ad83d3b3b48da3bdb304e8b3705293c969491aa50064996",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-blank.png": "38e980c90fa81b54a2000e58dd787f6053bb625e24e0c988b4d435e219271f76",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-blank.png": "7ed8b16f65171db76da6554bb66c4d2d5418a16b84d087d13194f253e801698b",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-labelled.png": "86c39581237374d5ef39e6ffa998d48dc0a63d659483e4605f3899b54095a778",
+      "stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-labelled.png": "392f8c87fa4995f3fce5c5ff41be33d02e6b847f6fc3234ab50feb1ec98ffd6c",
+      "stages/stage-08-achievements/v1/ui-components/masters/icons/notification.png": "7e5904b932a2a67bf77d89f3b8d1dddf575e070cd649ff65e40bf9694af4ff46",
+      "stages/stage-08-achievements/v1/ui-components/masters/icons/check.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/category-tab.png": "3307e10941a9015c35e9d658560e27e79bbd450a02d360b938af364f5c545c8d",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/card.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/track.png": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/fill.png": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a",
+      "stages/stage-08-achievements/v1/ui-components/masters/progress/example-half.png": "8e498f62e89327a0fc6b2a74e7753cf69540cdb6a0015b1f12f336f6011cdb19",
+      "stages/stage-08-achievements/v1/ui-components/masters/components/star.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "stages/stage-08-achievements/v1/ui-components/masters/icons/empty-star.png": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+      "stages/stage-08-achievements/v1/ui-components/masters/ratings/one.png": "32e202c4c303c8580849d0662d0b89b614f248e3ca89d0963de550b51e895c80",
+      "stages/stage-08-achievements/v1/ui-components/masters/ratings/two.png": "c5726dec12a30cd137d97fb21d83a3ea76cb45b4b8b7d3d0a78113f833051d9e",
+      "stages/stage-08-achievements/v1/ui-components/masters/ratings/three.png": "2a0bc82540bff3c10783d725167039bb6dae2bc94e681c24cda6876452563d32",
+      "stages/stage-08-achievements/v1/ui-components/masters/category/palette.png": "f2779fbba34c2edb4c90720467ec2fcea84e5d23fd60d1dccbc106221328b4fd"
+    }
+  },
+  "existing_sources": {
+    "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058",
+    "stages/stage-06-power-ups-boosters/v1/masters/ui/ribbon.png": "3307e10941a9015c35e9d658560e27e79bbd450a02d360b938af364f5c545c8d",
+    "locked/puff-trails-brand/v1/masters/ui/progress-fill.png": "acd648b74558d401da613cc80beabd43b94c50e45f235fee845ddada5a0bbc2a",
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "locked/puff-trails-brand/v1/masters/ui/progress-track.png": "6a5912f3e2e01f9726df451ce5fd9c13b9310f74fde2bcae2977ac8884949f8f",
+    "stages/stage-06-adventure-map/v1/masters/icons/check.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+    "locked/puff-trails-brand/v1/masters/icons/star-empty.png": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+    "stages/stage-07-economy/v1/stars/masters/ratings/1-stars.png": "32e202c4c303c8580849d0662d0b89b614f248e3ca89d0963de550b51e895c80",
+    "stages/stage-07-economy/v1/stars/masters/ratings/3-stars.png": "2a0bc82540bff3c10783d725167039bb6dae2bc94e681c24cda6876452563d32",
+    "stages/stage-07-economy/v1/stars/masters/ratings/2-stars.png": "c5726dec12a30cd137d97fb21d83a3ea76cb45b4b8b7d3d0a78113f833051d9e"
+  },
+  "records": [
+    {
+      "id": "buttons/claim-reward-blank",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--claim-reward-blank.png",
+      "prompt": "Single standalone Puff Trails game UI button surface. Glossy warm golden yellow capsule with rounded ends, elegant double gold rim, orange lower bevel, soft cream highlight. Wide pill aspect3:1. Match 'Claim Reward' button in reference but REMOVE ALL TEXT, blank center for runtime localization. Front-on symmetric, entirebutton visible, generous transparentmargin. Onebutton only. No symbols no numbers no words no floor no shadow outside silhouette no background glow. Genuine transparentRGBA background. Polished rounded 3D toy UI style.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "Built-in AI generated blank button for localized runtime text"
+    },
+    {
+      "id": "buttons/claim-reward-labelled",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--claim-reward-labelled.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--claim-reward-blank.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; buttons/claim-reward-labelled"
+    },
+    {
+      "id": "buttons/view-progress-blank",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/prepared/buttons--view-progress-blank.png",
+      "prompt": "Use case: stylized-concept. One individual BLANK BLUE PILL BUTTON background matching reference middle row View Progress blue button, but remove all lettering. Horizontal capsule aspect ratio about4:1 with fully rounded ends, rich royal-blue glossy enamel center, shiny cyan-blue beveled double rim, soft upper-left highlight. Puff Trails rounded toy-like premium 3D UI. Genuine transparent RGBA everywhere outside capsule. No text at all, no letters, no icons, no panel, no floor, no background glow, no shadow extending far outside. Centered with generous clear margins, entire pill visible. Button only.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "AI individual asset from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--view-progress-blank.png",
+      "generated_sha256": "26ff57a792b0fbc85889d595e5275ce52f0cf9a94333d4669bc57b902e73a56c",
+      "processing": "Removed alpha<=6 disconnected specks under24pixels; raised alpha>=240 opaque interiors to255; fitted880within1024. Preserved empty frame centers."
+    },
+    {
+      "id": "buttons/view-progress-labelled",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/buttons--view-progress-labelled.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/prepared/buttons--view-progress-blank.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; buttons/view-progress-labelled"
+    },
+    {
+      "id": "category/palette",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/category--palette.png",
+      "prepared": true,
+      "prompt": "Use case: stylized-concept. Generate one isolated UI Components category emblem for Puff Trails achievements, matching supplied board palette and 3D toy-like material: a rounded kidney-shaped artist paint palette in glossy pastel lavender with deeper purple beveled edges, thumb hole, exactly four small round raised paint dots pink, yellow-gold, sky-blue, mint-green around upper arc. Simple readable silhouette. No brush, no face, no shield, no outer frame, no text, no surrounding particles, no floor or shadow, no exterior glow. Slight three-quarter tilted icon, friendly soft smooth rounded material. One object centered inside square with generous transparent margins. True transparent RGBA background, opaque palette and dots, hole fully transparent.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "AI generated standalone asset from section board",
+      "generated_sha256": "d2e044b196dbd1946c993cbb2c45896736c4cad9787d1394e276f9e18b95a772",
+      "postprocessing": "Disconnected alpha specks removed; nearopaque alpha normalized; centered880px in1024. Hourglass retains intentional glass alpha."
+    },
+    {
+      "id": "components/card",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png",
+      "source_repository_path": "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/category-tab",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/ui/ribbon.png",
+      "source_repository_path": "stages/stage-06-power-ups-boosters/v1/masters/ui/ribbon.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-power-ups-boosters/v1/masters/ui/ribbon.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/fill",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/star",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "components/track",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "frames/gold",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/frames--gold-frame.png",
+      "prompt": "Standalone transparent game UI asset for Puff Trails, from the attached UI section board. A single empty square portrait frame with generously rounded corners, glossy warm gold beveled rim and four small round cyan blue jewels at corners. Center must be fully transparent, as must outside. No backing panel. Face-on symmetric geometry, toy-like rounded polished3D materials, soft specular highlights. Entireframe visible with generous margin. No text no labels no characters no stars no floor shadow no checkerboard. Only ONE frame, highest clean detail, genuine RGBA transparency.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "Built-in AI generated individual component"
+    },
+    {
+      "id": "frames/elite",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/prepared/frames--elite.png",
+      "prompt": "Use case: stylized-concept. One individual empty circular Elite Frame UI asset matching top-right panel in reference. A round polished gold ring edged with sculpted rounded gold laurel leaves and exactly FOUR prominent faceted PINK DIAMOND JEWELS at north south east west. EMPTY center MUST be actual alpha transparency, not purple, white, glass or black fill. Genuine transparent outside and inside, no background glow, no floor or cast shadow. Puff Trails glossy rounded premium toy-like 3D gold enamel/crystal, front-facing symmetric circle. Generous transparent margin on all sides. No text, panel, label, character, badge insert or extra objects. Render frame only.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "AI individual asset from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/frames--elite.png",
+      "generated_sha256": "532b4e79d7bb292fc7a2c02e673ddb9e2e265f4bd5b53fe15d7208c5ee62a4dd",
+      "processing": "Removed alpha<=6 disconnected specks under24pixels; raised alpha>=240 opaque interiors to255; fitted880within1024. Preserved empty frame centers."
+    },
+    {
+      "id": "frames/laurel",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/prepared/frames--laurel.png",
+      "prompt": "Use case: stylized-concept. Extract/reconstruct one individual UI ornament from reference: the OPEN GOLD LAUREL WREATH in top row third panel labeled Laurel. TWO symmetrical curved branches with thick rounded glossy gold leaves and short curved stems at bottom, open gap at top and small gap at bottom; EMPTY CENTER. Genuine transparent RGBA background outside AND inside center and between each leaf. No solid disk, no colored inner fill. Preserve Puff Trails rounded premium toy-like 3D gold enamel, warm yellow/gold highlights, front-facing symmetric. Single standalone laurel wreath centered with generous margins. No panel, text, label, stars, crown, frame, floor, cast shadow or background glow.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "AI individual asset from section board",
+      "prepared": true,
+      "generated_path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/frames--laurel.png",
+      "generated_sha256": "49dfb469ed69e7b8e5136eb69e5c3fbd91860256bd2b14d4aab4f712638817f5",
+      "processing": "Removed alpha<=6 disconnected specks under24pixels; raised alpha>=240 opaque interiors to255; fitted880within1024. Preserved empty frame centers."
+    },
+    {
+      "id": "frames/violet",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/frames--violet-frame.png",
+      "prompt": "Standalone transparent game UI asset for Puff Trails, from the attached UI section board. A single empty square portrait frame with generously rounded corners, bright violet faceted crystal rim and four small pink diamond jewels at midpoint edges. Center must be fully transparent as must outside. No backingpanel. Face-on symmetric geometry, toy-like rounded polished3D materials, soft specular highlights. Entireframe visible with generous margin. No text no labels no characters no stars no floor shadow no checkerboard. Only ONE frame, highest clean detail, genuine RGBA transparency.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "Built-in AI generated individual component"
+    },
+    {
+      "id": "icons/check",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png",
+      "source_repository_path": "stages/stage-06-adventure-map/v1/masters/icons/check.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-06-adventure-map/v1/masters/icons/check.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "icons/empty-star",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-empty.png",
+      "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-empty.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-empty.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "icons/notification",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/icons--notification.png",
+      "prepared": true,
+      "prompt": "Use case: stylized-concept. Generate one isolated Puff Trails achievement notification icon matching the supplied section board: a glossy gold circular button medallion with rounded beveled rim and a single dark amber EXCLAMATION MARK in its center. Straight-on frontal view, symmetric circular silhouette, soft upper-left highlights, warm yellow face, orange-gold depth. Exactly one object, no text other than exclamation glyph, no frame or other symbols, no ground shadow or exterior glow. Fill about75% of square canvas with generous fully transparent margin. Genuine transparent RGBA background, solid opaque icon interior. Premium rounded playful 3D game style.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/section-board.png"
+      ],
+      "origin": "AI generated standalone asset from section board",
+      "generated_sha256": "0ec1bb7abb805bd834b304b489b523ec3990e24d7453c824d86dcc05a19d2f88",
+      "postprocessing": "Disconnected alpha specks removed; nearopaque alpha normalized; centered880px in1024. Hourglass retains intentional glass alpha."
+    },
+    {
+      "id": "progress/example-half",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/achievements/ui-components/generated/progress--example-half.png",
+      "prepared": true,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-track.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/ui/progress-fill.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      ],
+      "origin": "Deterministic composition of separately prepared assets",
+      "prompt": "Layer original components without repainting; progress/example-half"
+    },
+    {
+      "id": "ratings/one",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/1-stars.png",
+      "source_repository_path": "stages/stage-07-economy/v1/stars/masters/ratings/1-stars.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/1-stars.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "ratings/three",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/3-stars.png",
+      "source_repository_path": "stages/stage-07-economy/v1/stars/masters/ratings/3-stars.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/3-stars.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    },
+    {
+      "id": "ratings/two",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/2-stars.png",
+      "source_repository_path": "stages/stage-07-economy/v1/stars/masters/ratings/2-stars.png",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-07-economy/v1/stars/masters/ratings/2-stars.png"
+      ],
+      "origin": "Exact approved master reused unchanged",
+      "prompt": "Reuse original artwork unchanged"
+    }
+  ]
+}
