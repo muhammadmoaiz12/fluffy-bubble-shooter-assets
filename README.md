@@ -195,3 +195,15 @@ Each pack links to a gallery of every unique master. Click any image to open it.
 
 Locked character sprites are reused without repainting. Original board, manifest, provenance and every individual preview are included.
 <!-- stage6-obstacles:end -->
+
+<!-- stage6-map:start -->
+### Stage 6 · Adventure map & level progression
+
+[Browse all 81 assets, states and example layouts](stages/stage-06-adventure-map/v1/README.md)
+
+![Adventure map](stages/stage-06-adventure-map/v1/gameplay/maps/landscape-512.png)
+
+![Individual map assets](stages/stage-06-adventure-map/v1/preview.jpg)
+
+Approved world and locked character artwork reused; level ranges and progression rules remain configurable. Original board, manifest, provenance and all individual previews included.
+<!-- stage6-map:end -->

@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "original_sha256": "228dc92d81190e541fa619a9c077525070b34c0360685fb8d615a72b1d903a8b",
+  "generated": [
+    {
+      "id": "nodes/current",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Golden rim and filled warm cream center with a gentle golden selection halo. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "14f8abe4bf77ca1b80888f2bf046fb9ae07b40066d0c8252240750c7958c232c"
+    },
+    {
+      "id": "rewards/floral-frame",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One oval decorative portrait frame made of leafy green vines and tiny pastel flowers, gold star at top. Fully transparent empty oval center. No creature or portrait. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "03c0472262a763b75c115476bc29ad1887b97319559900091253f7b2bd79626a"
+    },
+    {
+      "id": "paths/grass-curve",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One gently S-curved golden dirt path edged with soft green grass, elevated three-quarter map perspective, isolated full segment. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "90eb71869dfaba541bd6ad1ede65bbd019fb8d8a4aaa13666581a2c4ccae8650"
+    },
+    {
+      "id": "nodes/completed",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Golden rim and filled warm cream center, no halo. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "bef5dbcc77b1e7cbd6cae24ac405aa2bcfc7d3a870026600d8249fb8a0ad9d49"
+    },
+    {
+      "id": "icons/lock",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One small friendly rounded gold padlock with a purple keyhole, solid gold body, isolated. No round medallion, numbers or text. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "fdb81b50a66963f7e5eeecf010a74ff0b162613259be0e6f5702b9134e583e51"
+    },
+    {
+      "id": "ui/celebration-banner",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One pink and golden rounded celebration ribbon banner, blank solid pink center and gold folded ends. No text or stars. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "7d79f3052b49158ffb834e62820328bb65fbb1fccf0f76fff4f45348e7c13681"
+    },
+    {
+      "id": "ui/level-panel",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One rounded lavender and cream level-preview dialog panel, blank purple title tab, generous cream content area, rounded glossy edges. NO characters, NO stars, NO button, NO text or numbers. Only empty panel surface. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "018336f4d00136ce15f1379396e87f9455f8d972bfb1476410ed7c48a2aaaad2"
+    },
+    {
+      "id": "nodes/locked",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Muted silver-lavender stone rim and pale matte lavender filled center. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "fe8eabdc8fc668f45e26471ff12afbe2ffe7395451cb301c9dc750c10429f347"
+    },
+    {
+      "id": "ui/world-sign",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One rounded ornate cream world-name plaque with slim pink-gold border. Solid cream center and gentle shading. No text or numbers, no stand, isolated. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "74c94d5068ea29c6a0b273f6db1279b28de1b2795088f1c1df1c73641359b4dd"
+    },
+    {
+      "id": "icons/check",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One bright green glossy circular badge with a cream check mark, isolated. No text or other objects. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "7dde6224f0bd89b3757b9401bba48448d0acbd69545b60dcf71f05ad03106c8c"
+    },
+    {
+      "id": "paths/stone-curve",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One gently S-curved walkway of rounded lilac paving stones, three-quarter map perspective, isolated full segment. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "fc6fe121db37b13ee5a2704cfca8e3f62068d7c27f0325b6669099a30881f04c"
+    },
+    {
+      "id": "ui/world-card",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One tall rounded cream and lavender world selection card frame. Blank rectangular transparent image window in upper half, solid cream blank label area below, small purple blank progress pill at bottom. No text, no numbers, no world image or icons. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "9ac5ce2b8af45b497c75650e23b376802d1701dddadef5fdb189b94906e95302"
+    },
+    {
+      "id": "rewards/chest-open",
+      "prompt": "Edit target is this existing Puff Trails treasure chest. Create its OPEN state: lift the curved lid on rear hinge to reveal a softly glowing warm golden interior. Preserve its rounded purple body, gold bands, gold star latch, front camera, proportions, material and lighting. No characters, treasure coins, text or background. Entire chest centered on transparent square canvas with clear margin. No redesign of chest body.",
+      "generated_sha256": "f94fa34853c69dff45422246fa274ed9c8c16020edbb3e8b18c6527446194973"
+    },
+    {
+      "id": "nodes/unlocked",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Glossy luminous purple rim and filled lilac center. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "41afe76e1237cdfe24abb948f86f90f37a5e0a6bafece238124757ca3b524ddc"
+    },
+    {
+      "id": "ui/play-button",
+      "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One wide glossy rounded green play button surface, gold-green rim and bright lime highlights. Completely blank filled green center. No text, arrow, icon or numbers. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+      "generated_sha256": "28fa5b4517d2fa959d92f43a95a08d4e016ac0109c73b6b6235df40252995ccc"
+    }
+  ],
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "locked/puff-trails-brand/v1/masters/icons/star-empty.png": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+    "locked/puff-trails-brand/v1/masters/icons/gift.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+    "locked/puff-trails-brand/v1/masters/icons/coin.png": "2fd2623b17148da1812a685f74ba6786bcb204c923877fbdb6c1b8536a72b510",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/gem.png": "0c6a39ae85250f8ed92f465ecad13d5fcd94475be96e6c8f0c25f2cef198206a",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/treasure-chest.png": "aba1bf64971cef3238250f71dc3adfe8a44f9a0592c212c4ba1433e2b2617af1",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+    "locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+    "locked/puff-trails-brand/v1/masters/icons/play-triangle.png": "74ada27480696bc06a107420a154168546d7a5dbab9d931a74b67f7847fc7543",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/icons/leaf.png": "9e6fe8d6a8f30e6f667013a9e54a2cedd924622d3013c1ed08122909876ab098",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/icons/honeycomb.png": "b09b9423e6bb7457d16ca5ec951d3224520142d085deaa90262e52d2078583d1",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/icons/moon.png": "27ce57ecf350e5cf42e9f11358f6238902244f409e1079cbe7e22f2527b56460",
+    "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/bridges/arched-wood.png": "41d02f8b8033aef98e0af5550e6eb989036513d4015c296ba44c1cf9842420de",
+    "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/bridges/curved-suspension.png": "88d25ea06f3ae3cb0e903d04780e61a6169f9de8f91baa431ec563ebe33d9cb5",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/props/arrow-sign.png": "a7a3ef7badfbc3473b297825cd0e314bb963d1b56fd78cf66d2fe9acbaee9faf",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/props/banner-left.png": "508d7271893d97ca5fb5182811794e7f8cd4cdd9fcc86b3204b5359eeb4504aa",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/props/banner-right.png": "d556b7fe14f51a08378e63958ba7017760839257c7cbcb1d11c2998463078263",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/props/lantern.png": "59b0ff9613ab004046ece425b2c51532a0b860f1835bab5b9d90122251ce16ef",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/star-comet.png": "1bc911f2bca22b2cbeaf6bb13e778a03a22e1d70c6d683f0074c597f0ee42374",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/star-stream.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/magic-portal/a-idle.png": "bb7746a03c291c3692d12158849eb96461ce80a2b9ee5ec8fd8c2a7e1ffe9ac7",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/magic-portal/a-charge.png": "96d5a880c2726c2d31b07f6c2f37471a181d39425a774dbe0dec67cf84c79cd4",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/magic-portal/a-activate.png": "49c08e24e586c91e126b791c306c5cc0f63beb85498d6b641e3f819106a9e402",
+    "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/backgrounds/cloud-sky.png": "4fc81ae8270a72b4cad7d088e0f721bea9d16ec490b3d32ab9326c3349cf7111",
+    "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/gates/flower-vine.png": "7fe36f91b7c07540315735e94cd3544356e6c5b317a2b582af79eea45bae97e9",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/portal-interiors/purple.png": "5af6df5cc971855197d97816eab98e46e318a8886e6ccd23281c41c0fc2d61cd",
+    "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/gates/honey-arch.png": "dcffaaf91924187ad6a91878b2d5975ff364691fdd7b565e69b950991bb2c9e1",
+    "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/portals/active-front.png": "2f6debd043a39305c12d5a099802ba04acb05d91bfb79653e17b0acafa9b7a81",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/castle-pieces/star-portal.png": "4e5595064c24befc19e134a5cb5e199b9cf863a3d2fc87359990366e92c879f2",
+    "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/islands/wide-meadow.png": "2ffc92d94116b9dc812f6e7a7b4cc1c0e37a4726e76d51cd310305ddaedbe367",
+    "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/trees/pink-large.png": "725dc6cecfef75b0dd3770f4350d91d5416865ced9f5c1f1994efc1f1945b5f5",
+    "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/cottages/front.png": "064aefc1840ccf332706ff80df1a9c617e800e19c226e95d936ad1cf82eda189",
+    "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/terrain/large-flower-island.png": "53d85940a720b58a41e0c296ec16135a32e93d1025f32247d2f7387259ecf3c7",
+    "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/blossom-trees/view-01.png": "8cc50c45e852e69e607b3cc5acf1fb037ebe7893f26b9b1aeffee6a845abb0f3",
+    "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/honey-huts/front.png": "e8fef5bde67014c61b55253838852995dd570d736a3dcab3b8a5b9d268372722",
+    "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/islands/large-flower-meadow.png": "0437d792a33adcbaeb152cc0d8b0a2e8a0188ace3f83d18d20ff01ff19a0a124",
+    "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/star-trees/front-wide.png": "6e9e42a47c3082882fa96a67317a156fa9d7d4e1058ecb7fe0f84e3441f5c949",
+    "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/mushrooms/star-cluster.png": "f6a59c7d438c9be93f665eb12ebe23fb8791326d969642f475d0d3716117939d",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/islands/waterfall-meadow.png": "a9fa10059b87621a6ca5bbd959a78d2685028eae510882cf62e5e79efefadff9",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/castle-views/front.png": "bd01bf71a022a6e7cfdd32327f058ea5315e8303ba47216a3b3e8c68915e2e88",
+    "locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5"
+  },
+  "processing": "Alpha<=4 and components<8px cleaned. Stone-path low-alpha haze beyond6px from opaque material removed. Fit860 onto1024. Existing art resized/composited without repainting; raw reused masters byte-identical."
+}

@@ -1,0 +1,4922 @@
+{
+  "name": "Adventure map and progression",
+  "stage": 6,
+  "source_board_label": "Stage 5",
+  "assets": [
+    {
+      "id": "nodes/current",
+      "master": "masters/nodes/current.png",
+      "exports": [
+        "gameplay/nodes/current-256.png",
+        "gameplay/nodes/current-256.webp",
+        "gameplay/nodes/current-512.png",
+        "gameplay/nodes/current-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        82,
+        938,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/current",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Golden rim and filled warm cream center with a gentle golden selection halo. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1100,
+          157,
+          1524,
+          233
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "14f8abe4bf77ca1b80888f2bf046fb9ae07b40066d0c8252240750c7958c232c"
+      }
+    },
+    {
+      "id": "rewards/floral-frame",
+      "master": "masters/rewards/floral-frame.png",
+      "exports": [
+        "gameplay/rewards/floral-frame-256.png",
+        "gameplay/rewards/floral-frame-256.webp",
+        "gameplay/rewards/floral-frame-512.png",
+        "gameplay/rewards/floral-frame-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        82,
+        908,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/floral-frame",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One oval decorative portrait frame made of leafy green vines and tiny pastel flowers, gold star at top. Fully transparent empty oval center. No creature or portrait. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1430,
+          642,
+          1524,
+          726
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "03c0472262a763b75c115476bc29ad1887b97319559900091253f7b2bd79626a"
+      }
+    },
+    {
+      "id": "paths/grass-curve",
+      "master": "masters/paths/grass-curve.png",
+      "exports": [
+        "gameplay/paths/grass-curve-256.png",
+        "gameplay/paths/grass-curve-256.webp",
+        "gameplay/paths/grass-curve-512.png",
+        "gameplay/paths/grass-curve-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        196,
+        942,
+        828
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "paths/grass-curve",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One gently S-curved golden dirt path edged with soft green grass, elevated three-quarter map perspective, isolated full segment. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1095,
+          315,
+          1188,
+          386
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "90eb71869dfaba541bd6ad1ede65bbd019fb8d8a4aaa13666581a2c4ccae8650"
+      }
+    },
+    {
+      "id": "nodes/completed",
+      "master": "masters/nodes/completed.png",
+      "exports": [
+        "gameplay/nodes/completed-256.png",
+        "gameplay/nodes/completed-256.webp",
+        "gameplay/nodes/completed-512.png",
+        "gameplay/nodes/completed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        93,
+        909,
+        930
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/completed",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Golden rim and filled warm cream center, no halo. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1100,
+          157,
+          1524,
+          233
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "bef5dbcc77b1e7cbd6cae24ac405aa2bcfc7d3a870026600d8249fb8a0ad9d49"
+      }
+    },
+    {
+      "id": "icons/lock",
+      "master": "masters/icons/lock.png",
+      "exports": [
+        "gameplay/icons/lock-256.png",
+        "gameplay/icons/lock-256.webp",
+        "gameplay/icons/lock-512.png",
+        "gameplay/icons/lock-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        165,
+        82,
+        858,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "icons/lock",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One small friendly rounded gold padlock with a purple keyhole, solid gold body, isolated. No round medallion, numbers or text. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          302,
+          899,
+          360,
+          958
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "fdb81b50a66963f7e5eeecf010a74ff0b162613259be0e6f5702b9134e583e51"
+      }
+    },
+    {
+      "id": "ui/celebration-banner",
+      "master": "masters/ui/celebration-banner.png",
+      "exports": [
+        "gameplay/ui/celebration-banner-256.png",
+        "gameplay/ui/celebration-banner-256.webp",
+        "gameplay/ui/celebration-banner-512.png",
+        "gameplay/ui/celebration-banner-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        395,
+        942,
+        628
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "ui/celebration-banner",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One pink and golden rounded celebration ribbon banner, blank solid pink center and gold folded ends. No text or stars. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          700,
+          840,
+          888,
+          893
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "7d79f3052b49158ffb834e62820328bb65fbb1fccf0f76fff4f45348e7c13681"
+      }
+    },
+    {
+      "id": "ui/level-panel",
+      "master": "masters/ui/level-panel.png",
+      "exports": [
+        "gameplay/ui/level-panel-256.png",
+        "gameplay/ui/level-panel-256.webp",
+        "gameplay/ui/level-panel-512.png",
+        "gameplay/ui/level-panel-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        163,
+        942,
+        860
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "ui/level-panel",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One rounded lavender and cream level-preview dialog panel, blank purple title tab, generous cream content area, rounded glossy edges. NO characters, NO stars, NO button, NO text or numbers. Only empty panel surface. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          408,
+          834,
+          672,
+          999
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "018336f4d00136ce15f1379396e87f9455f8d972bfb1476410ed7c48a2aaaad2"
+      }
+    },
+    {
+      "id": "nodes/locked",
+      "master": "masters/nodes/locked.png",
+      "exports": [
+        "gameplay/nodes/locked-256.png",
+        "gameplay/nodes/locked-256.webp",
+        "gameplay/nodes/locked-512.png",
+        "gameplay/nodes/locked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        90,
+        82,
+        933,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/locked",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Muted silver-lavender stone rim and pale matte lavender filled center. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1100,
+          157,
+          1524,
+          233
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "fe8eabdc8fc668f45e26471ff12afbe2ffe7395451cb301c9dc750c10429f347"
+      }
+    },
+    {
+      "id": "ui/world-sign",
+      "master": "masters/ui/world-sign.png",
+      "exports": [
+        "gameplay/ui/world-sign-256.png",
+        "gameplay/ui/world-sign-256.webp",
+        "gameplay/ui/world-sign-512.png",
+        "gameplay/ui/world-sign-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        176,
+        942,
+        847
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "ui/world-sign",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One rounded ornate cream world-name plaque with slim pink-gold border. Solid cream center and gentle shading. No text or numbers, no stand, isolated. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          60,
+          156,
+          190,
+          257
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "74c94d5068ea29c6a0b273f6db1279b28de1b2795088f1c1df1c73641359b4dd"
+      }
+    },
+    {
+      "id": "icons/check",
+      "master": "masters/icons/check.png",
+      "exports": [
+        "gameplay/icons/check-256.png",
+        "gameplay/icons/check-256.webp",
+        "gameplay/icons/check-512.png",
+        "gameplay/icons/check-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        133,
+        124,
+        891,
+        899
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "icons/check",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One bright green glossy circular badge with a cream check mark, isolated. No text or other objects. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          768,
+          918,
+          815,
+          962
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "7dde6224f0bd89b3757b9401bba48448d0acbd69545b60dcf71f05ad03106c8c"
+      }
+    },
+    {
+      "id": "paths/stone-curve",
+      "master": "masters/paths/stone-curve.png",
+      "exports": [
+        "gameplay/paths/stone-curve-256.png",
+        "gameplay/paths/stone-curve-256.webp",
+        "gameplay/paths/stone-curve-512.png",
+        "gameplay/paths/stone-curve-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        183,
+        942,
+        841
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "paths/stone-curve",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One gently S-curved walkway of rounded lilac paving stones, three-quarter map perspective, isolated full segment. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1186,
+          315,
+          1267,
+          387
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "fc6fe121db37b13ee5a2704cfca8e3f62068d7c27f0325b6669099a30881f04c"
+      }
+    },
+    {
+      "id": "ui/world-card",
+      "master": "masters/ui/world-card.png",
+      "exports": [
+        "gameplay/ui/world-card-256.png",
+        "gameplay/ui/world-card-256.webp",
+        "gameplay/ui/world-card-512.png",
+        "gameplay/ui/world-card-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        82,
+        889,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "ui/world-card",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One tall rounded cream and lavender world selection card frame. Blank rectangular transparent image window in upper half, solid cream blank label area below, small purple blank progress pill at bottom. No text, no numbers, no world image or icons. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          15,
+          634,
+          164,
+          785
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "9ac5ce2b8af45b497c75650e23b376802d1701dddadef5fdb189b94906e95302"
+      }
+    },
+    {
+      "id": "rewards/chest-open",
+      "master": "masters/rewards/chest-open.png",
+      "exports": [
+        "gameplay/rewards/chest-open-256.png",
+        "gameplay/rewards/chest-open-256.webp",
+        "gameplay/rewards/chest-open-512.png",
+        "gameplay/rewards/chest-open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        120,
+        82,
+        904,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/chest-open",
+        "origin": "Generated from board/reference",
+        "prompt": "Edit target is this existing Puff Trails treasure chest. Create its OPEN state: lift the curved lid on rear hinge to reveal a softly glowing warm golden interior. Preserve its rounded purple body, gold bands, gold star latch, front camera, proportions, material and lighting. No characters, treasure coins, text or background. Entire chest centered on transparent square canvas with clear margin. No redesign of chest body.",
+        "source_box": null,
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/treasure-chest.png",
+        "generated_sha256": "f94fa34853c69dff45422246fa274ed9c8c16020edbb3e8b18c6527446194973"
+      }
+    },
+    {
+      "id": "nodes/unlocked",
+      "master": "masters/nodes/unlocked.png",
+      "exports": [
+        "gameplay/nodes/unlocked-256.png",
+        "gameplay/nodes/unlocked-256.webp",
+        "gameplay/nodes/unlocked-512.png",
+        "gameplay/nodes/unlocked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        88,
+        82,
+        935,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/unlocked",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One round level selection medallion, near-front view with subtle thickness, matching reference. Glossy luminous purple rim and filled lilac center. Blank center, NO numbers, letters, stars, lock or text; badges added separately. A solid filled disc, NOT a ring. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          1100,
+          157,
+          1524,
+          233
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "41afe76e1237cdfe24abb948f86f90f37a5e0a6bafece238124757ca3b524ddc"
+      }
+    },
+    {
+      "id": "ui/play-button",
+      "master": "masters/ui/play-button.png",
+      "exports": [
+        "gameplay/ui/play-button-256.png",
+        "gameplay/ui/play-button-256.webp",
+        "gameplay/ui/play-button-512.png",
+        "gameplay/ui/play-button-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        392,
+        942,
+        632
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "ui/play-button",
+        "origin": "Generated from board/reference",
+        "prompt": "Use case: stylized-concept. ONE individual Puff Trails game UI/map asset. Reference image defines its style only. Subject: One wide glossy rounded green play button surface, gold-green rim and bright lime highlights. Completely blank filled green center. No text, arrow, icon or numbers. Match the soft premium rounded 2.5D toy art, cream/lavender/pink/gold palette and upper-left lighting. No characters or mascot redesigns. No words, letters, numbers, labels, panel headings or watermark. Transparent background OUTSIDE the object, preserve solid material inside unless a transparent window is explicitly requested. Whole object centered with 12% clear margin. No other objects.",
+        "source_box": [
+          502,
+          950,
+          613,
+          990
+        ],
+        "source_repository_path": null,
+        "generated_sha256": "28fa5b4517d2fa959d92f43a95a08d4e016ac0109c73b6b6235df40252995ccc"
+      }
+    },
+    {
+      "id": "rewards/star",
+      "master": "masters/rewards/star.png",
+      "exports": [
+        "gameplay/rewards/star-256.png",
+        "gameplay/rewards/star-256.webp",
+        "gameplay/rewards/star-512.png",
+        "gameplay/rewards/star-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        79,
+        962,
+        944
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/star",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-gold.png",
+        "source_sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f"
+      }
+    },
+    {
+      "id": "rewards/star-empty",
+      "master": "masters/rewards/star-empty.png",
+      "exports": [
+        "gameplay/rewards/star-empty-256.png",
+        "gameplay/rewards/star-empty-256.webp",
+        "gameplay/rewards/star-empty-512.png",
+        "gameplay/rewards/star-empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        85,
+        962,
+        939
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/star-empty",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/star-empty.png",
+        "source_sha256": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80"
+      }
+    },
+    {
+      "id": "rewards/gift",
+      "master": "masters/rewards/gift.png",
+      "exports": [
+        "gameplay/rewards/gift-256.png",
+        "gameplay/rewards/gift-256.webp",
+        "gameplay/rewards/gift-512.png",
+        "gameplay/rewards/gift-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        64,
+        962,
+        960
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/gift",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/gift.png",
+        "source_sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b"
+      }
+    },
+    {
+      "id": "rewards/coin",
+      "master": "masters/rewards/coin.png",
+      "exports": [
+        "gameplay/rewards/coin-256.png",
+        "gameplay/rewards/coin-256.webp",
+        "gameplay/rewards/coin-512.png",
+        "gameplay/rewards/coin-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        74,
+        61,
+        950,
+        962
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/coin",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/coin.png",
+        "source_sha256": "2fd2623b17148da1812a685f74ba6786bcb204c923877fbdb6c1b8536a72b510"
+      }
+    },
+    {
+      "id": "rewards/gem",
+      "master": "masters/rewards/gem.png",
+      "exports": [
+        "gameplay/rewards/gem-256.png",
+        "gameplay/rewards/gem-256.webp",
+        "gameplay/rewards/gem-512.png",
+        "gameplay/rewards/gem-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        117,
+        82,
+        906,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/gem",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/gem.png",
+        "source_sha256": "0c6a39ae85250f8ed92f465ecad13d5fcd94475be96e6c8f0c25f2cef198206a"
+      }
+    },
+    {
+      "id": "rewards/booster",
+      "master": "masters/rewards/booster.png",
+      "exports": [
+        "gameplay/rewards/booster-256.png",
+        "gameplay/rewards/booster-256.webp",
+        "gameplay/rewards/booster-512.png",
+        "gameplay/rewards/booster-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        207,
+        82,
+        817,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/booster",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png",
+        "source_sha256": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8"
+      }
+    },
+    {
+      "id": "rewards/chest-closed",
+      "master": "masters/rewards/chest-closed.png",
+      "exports": [
+        "gameplay/rewards/chest-closed-256.png",
+        "gameplay/rewards/chest-closed-256.webp",
+        "gameplay/rewards/chest-closed-512.png",
+        "gameplay/rewards/chest-closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        147,
+        942,
+        877
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/chest-closed",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/treasure-chest.png",
+        "source_sha256": "aba1bf64971cef3238250f71dc3adfe8a44f9a0592c212c4ba1433e2b2617af1"
+      }
+    },
+    {
+      "id": "rewards/new-cannon",
+      "master": "masters/rewards/new-cannon.png",
+      "exports": [
+        "gameplay/rewards/new-cannon-256.png",
+        "gameplay/rewards/new-cannon-256.webp",
+        "gameplay/rewards/new-cannon-512.png",
+        "gameplay/rewards/new-cannon-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        94,
+        62,
+        929,
+        922
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/new-cannon",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+        "source_sha256": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140"
+      }
+    },
+    {
+      "id": "rewards/character-discovery",
+      "master": "masters/rewards/character-discovery.png",
+      "exports": [
+        "gameplay/rewards/character-discovery-256.png",
+        "gameplay/rewards/character-discovery-256.webp",
+        "gameplay/rewards/character-discovery-512.png",
+        "gameplay/rewards/character-discovery-512.webp"
+      ],
+      "dimensions": [
+        768,
+        768
+      ],
+      "alpha_bounds": [
+        99,
+        84,
+        668,
+        683
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "rewards/character-discovery",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "locked/rosybuns/v1/masters/core/medium.png",
+        "source_sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309"
+      }
+    },
+    {
+      "id": "icons/play",
+      "master": "masters/icons/play.png",
+      "exports": [
+        "gameplay/icons/play-256.png",
+        "gameplay/icons/play-256.webp",
+        "gameplay/icons/play-512.png",
+        "gameplay/icons/play-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        123,
+        61,
+        901,
+        962
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "icons/play",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "locked/puff-trails-brand/v1/masters/icons/play-triangle.png",
+        "source_sha256": "74ada27480696bc06a107420a154168546d7a5dbab9d931a74b67f7847fc7543"
+      }
+    },
+    {
+      "id": "icons/world-leaf",
+      "master": "masters/icons/world-leaf.png",
+      "exports": [
+        "gameplay/icons/world-leaf-256.png",
+        "gameplay/icons/world-leaf-256.webp",
+        "gameplay/icons/world-leaf-512.png",
+        "gameplay/icons/world-leaf-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        220,
+        942,
+        804
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "icons/world-leaf",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/icons/leaf.png",
+        "source_sha256": "9e6fe8d6a8f30e6f667013a9e54a2cedd924622d3013c1ed08122909876ab098"
+      }
+    },
+    {
+      "id": "icons/world-honey",
+      "master": "masters/icons/world-honey.png",
+      "exports": [
+        "gameplay/icons/world-honey-256.png",
+        "gameplay/icons/world-honey-256.webp",
+        "gameplay/icons/world-honey-512.png",
+        "gameplay/icons/world-honey-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        99,
+        942,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "icons/world-honey",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/icons/honeycomb.png",
+        "source_sha256": "b09b9423e6bb7457d16ca5ec951d3224520142d085deaa90262e52d2078583d1"
+      }
+    },
+    {
+      "id": "icons/world-moon",
+      "master": "masters/icons/world-moon.png",
+      "exports": [
+        "gameplay/icons/world-moon-256.png",
+        "gameplay/icons/world-moon-256.webp",
+        "gameplay/icons/world-moon-512.png",
+        "gameplay/icons/world-moon-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        90,
+        82,
+        934,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "icons/world-moon",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/icons/moon.png",
+        "source_sha256": "27ce57ecf350e5cf42e9f11358f6238902244f409e1079cbe7e22f2527b56460"
+      }
+    },
+    {
+      "id": "paths/wood-bridge",
+      "master": "masters/paths/wood-bridge.png",
+      "exports": [
+        "gameplay/paths/wood-bridge-256.png",
+        "gameplay/paths/wood-bridge-256.webp",
+        "gameplay/paths/wood-bridge-512.png",
+        "gameplay/paths/wood-bridge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        262,
+        942,
+        762
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "paths/wood-bridge",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/bridges/arched-wood.png",
+        "source_sha256": "41d02f8b8033aef98e0af5550e6eb989036513d4015c296ba44c1cf9842420de"
+      }
+    },
+    {
+      "id": "paths/rope-bridge",
+      "master": "masters/paths/rope-bridge.png",
+      "exports": [
+        "gameplay/paths/rope-bridge-256.png",
+        "gameplay/paths/rope-bridge-256.webp",
+        "gameplay/paths/rope-bridge-512.png",
+        "gameplay/paths/rope-bridge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        360,
+        942,
+        664
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "paths/rope-bridge",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/bridges/curved-suspension.png",
+        "source_sha256": "88d25ea06f3ae3cb0e903d04780e61a6169f9de8f91baa431ec563ebe33d9cb5"
+      }
+    },
+    {
+      "id": "props/direction-sign",
+      "master": "masters/props/direction-sign.png",
+      "exports": [
+        "gameplay/props/direction-sign-256.png",
+        "gameplay/props/direction-sign-256.webp",
+        "gameplay/props/direction-sign-512.png",
+        "gameplay/props/direction-sign-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        129,
+        82,
+        894,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "props/direction-sign",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/props/arrow-sign.png",
+        "source_sha256": "a7a3ef7badfbc3473b297825cd0e314bb963d1b56fd78cf66d2fe9acbaee9faf"
+      }
+    },
+    {
+      "id": "props/banner-a",
+      "master": "masters/props/banner-a.png",
+      "exports": [
+        "gameplay/props/banner-a-256.png",
+        "gameplay/props/banner-a-256.webp",
+        "gameplay/props/banner-a-512.png",
+        "gameplay/props/banner-a-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        129,
+        136,
+        895,
+        888
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "props/banner-a",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/props/banner-left.png",
+        "source_sha256": "508d7271893d97ca5fb5182811794e7f8cd4cdd9fcc86b3204b5359eeb4504aa"
+      }
+    },
+    {
+      "id": "props/banner-b",
+      "master": "masters/props/banner-b.png",
+      "exports": [
+        "gameplay/props/banner-b-256.png",
+        "gameplay/props/banner-b-256.webp",
+        "gameplay/props/banner-b-512.png",
+        "gameplay/props/banner-b-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        136,
+        108,
+        888,
+        915
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "props/banner-b",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/props/banner-right.png",
+        "source_sha256": "d556b7fe14f51a08378e63958ba7017760839257c7cbcb1d11c2998463078263"
+      }
+    },
+    {
+      "id": "props/lantern",
+      "master": "masters/props/lantern.png",
+      "exports": [
+        "gameplay/props/lantern-256.png",
+        "gameplay/props/lantern-256.webp",
+        "gameplay/props/lantern-512.png",
+        "gameplay/props/lantern-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        149,
+        82,
+        874,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "props/lantern",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/props/lantern.png",
+        "source_sha256": "59b0ff9613ab004046ece425b2c51532a0b860f1835bab5b9d90122251ce16ef"
+      }
+    },
+    {
+      "id": "effects/star-trail",
+      "master": "masters/effects/star-trail.png",
+      "exports": [
+        "gameplay/effects/star-trail-256.png",
+        "gameplay/effects/star-trail-256.webp",
+        "gameplay/effects/star-trail-512.png",
+        "gameplay/effects/star-trail-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        302,
+        942,
+        722
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "effects/star-trail",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/star-comet.png",
+        "source_sha256": "1bc911f2bca22b2cbeaf6bb13e778a03a22e1d70c6d683f0074c597f0ee42374"
+      }
+    },
+    {
+      "id": "effects/sparkles",
+      "master": "masters/effects/sparkles.png",
+      "exports": [
+        "gameplay/effects/sparkles-256.png",
+        "gameplay/effects/sparkles-256.webp",
+        "gameplay/effects/sparkles-512.png",
+        "gameplay/effects/sparkles-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        391,
+        942,
+        633
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "effects/sparkles",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/star-stream.png",
+        "source_sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2"
+      }
+    },
+    {
+      "id": "transitions/portal-idle",
+      "master": "masters/transitions/portal-idle.png",
+      "exports": [
+        "gameplay/transitions/portal-idle-256.png",
+        "gameplay/transitions/portal-idle-256.webp",
+        "gameplay/transitions/portal-idle-512.png",
+        "gameplay/transitions/portal-idle-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        99,
+        942,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "transitions/portal-idle",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/magic-portal/a-idle.png",
+        "source_sha256": "bb7746a03c291c3692d12158849eb96461ce80a2b9ee5ec8fd8c2a7e1ffe9ac7"
+      }
+    },
+    {
+      "id": "transitions/portal-charge",
+      "master": "masters/transitions/portal-charge.png",
+      "exports": [
+        "gameplay/transitions/portal-charge-256.png",
+        "gameplay/transitions/portal-charge-256.webp",
+        "gameplay/transitions/portal-charge-512.png",
+        "gameplay/transitions/portal-charge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        106,
+        942,
+        917
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "transitions/portal-charge",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/magic-portal/a-charge.png",
+        "source_sha256": "96d5a880c2726c2d31b07f6c2f37471a181d39425a774dbe0dec67cf84c79cd4"
+      }
+    },
+    {
+      "id": "transitions/portal-activate",
+      "master": "masters/transitions/portal-activate.png",
+      "exports": [
+        "gameplay/transitions/portal-activate-256.png",
+        "gameplay/transitions/portal-activate-256.webp",
+        "gameplay/transitions/portal-activate-512.png",
+        "gameplay/transitions/portal-activate-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        136,
+        942,
+        887
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "transitions/portal-activate",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-06-obstacles-mission-objects/v1/masters/magic-portal/a-activate.png",
+        "source_sha256": "49c08e24e586c91e126b791c306c5cc0f63beb85498d6b641e3f819106a9e402"
+      }
+    },
+    {
+      "id": "backgrounds/cloud-sky",
+      "master": "masters/backgrounds/cloud-sky.png",
+      "exports": [
+        "gameplay/backgrounds/cloud-sky-256.png",
+        "gameplay/backgrounds/cloud-sky-256.webp",
+        "gameplay/backgrounds/cloud-sky-512.png",
+        "gameplay/backgrounds/cloud-sky-512.webp"
+      ],
+      "dimensions": [
+        1536,
+        768
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        1536,
+        768
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": false,
+      "provenance": {
+        "id": "backgrounds/cloud-sky",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/backgrounds/cloud-sky.png",
+        "source_sha256": "4fc81ae8270a72b4cad7d088e0f721bea9d16ec490b3d32ab9326c3349cf7111"
+      }
+    },
+    {
+      "id": "nodes/completed-1-stars",
+      "master": "masters/nodes/completed-1-stars.png",
+      "exports": [
+        "gameplay/nodes/completed-1-stars-256.png",
+        "gameplay/nodes/completed-1-stars-256.webp",
+        "gameplay/nodes/completed-1-stars-512.png",
+        "gameplay/nodes/completed-1-stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        93,
+        909,
+        930
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/completed-1-stars",
+        "origin": "Gold node with existing star badges",
+        "components": [
+          "nodes/completed",
+          "rewards/star"
+        ],
+        "star_count": 1
+      }
+    },
+    {
+      "id": "nodes/completed-2-stars",
+      "master": "masters/nodes/completed-2-stars.png",
+      "exports": [
+        "gameplay/nodes/completed-2-stars-256.png",
+        "gameplay/nodes/completed-2-stars-256.webp",
+        "gameplay/nodes/completed-2-stars-512.png",
+        "gameplay/nodes/completed-2-stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        93,
+        909,
+        930
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/completed-2-stars",
+        "origin": "Gold node with existing star badges",
+        "components": [
+          "nodes/completed",
+          "rewards/star"
+        ],
+        "star_count": 2
+      }
+    },
+    {
+      "id": "nodes/completed-3-stars",
+      "master": "masters/nodes/completed-3-stars.png",
+      "exports": [
+        "gameplay/nodes/completed-3-stars-256.png",
+        "gameplay/nodes/completed-3-stars-256.webp",
+        "gameplay/nodes/completed-3-stars-512.png",
+        "gameplay/nodes/completed-3-stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        93,
+        909,
+        930
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/completed-3-stars",
+        "origin": "Gold node with existing star badges",
+        "components": [
+          "nodes/completed",
+          "rewards/star"
+        ],
+        "star_count": 3
+      }
+    },
+    {
+      "id": "nodes/locked-badge",
+      "master": "masters/nodes/locked-badge.png",
+      "exports": [
+        "gameplay/nodes/locked-badge-256.png",
+        "gameplay/nodes/locked-badge-256.webp",
+        "gameplay/nodes/locked-badge-512.png",
+        "gameplay/nodes/locked-badge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        90,
+        82,
+        933,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "nodes/locked-badge",
+        "origin": "Locked node with separate padlock",
+        "components": [
+          "nodes/locked",
+          "icons/lock"
+        ]
+      }
+    },
+    {
+      "id": "paths/stone-platform",
+      "master": "masters/paths/stone-platform.png",
+      "exports": [
+        "gameplay/paths/stone-platform-256.png",
+        "gameplay/paths/stone-platform-256.webp",
+        "gameplay/paths/stone-platform-512.png",
+        "gameplay/paths/stone-platform-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        420,
+        942,
+        870
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "paths/stone-platform",
+        "origin": "Map platform composed from node surface",
+        "source_asset": "nodes/locked"
+      }
+    },
+    {
+      "id": "paths/star-platform",
+      "master": "masters/paths/star-platform.png",
+      "exports": [
+        "gameplay/paths/star-platform-256.png",
+        "gameplay/paths/star-platform-256.webp",
+        "gameplay/paths/star-platform-512.png",
+        "gameplay/paths/star-platform-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        171,
+        942,
+        870
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "paths/star-platform",
+        "origin": "Map platform composed from node surface",
+        "source_asset": "nodes/completed"
+      }
+    },
+    {
+      "id": "gateways/cloudberry-base",
+      "master": "masters/gateways/cloudberry-base.png",
+      "exports": [
+        "gameplay/gateways/cloudberry-base-256.png",
+        "gameplay/gateways/cloudberry-base-256.webp",
+        "gameplay/gateways/cloudberry-base-512.png",
+        "gameplay/gateways/cloudberry-base-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        103,
+        942,
+        921
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/cloudberry-base",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/gates/flower-vine.png",
+        "source_sha256": "7fe36f91b7c07540315735e94cd3544356e6c5b317a2b582af79eea45bae97e9"
+      }
+    },
+    {
+      "id": "gateways/cloudberry-active",
+      "master": "masters/gateways/cloudberry-active.png",
+      "exports": [
+        "gameplay/gateways/cloudberry-active-256.png",
+        "gameplay/gateways/cloudberry-active-256.webp",
+        "gameplay/gateways/cloudberry-active-512.png",
+        "gameplay/gateways/cloudberry-active-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        103,
+        942,
+        921
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/cloudberry-active",
+        "origin": "Existing arch with portal interior where needed",
+        "base": "gateways/cloudberry-base",
+        "interior": "stages/stage-06-obstacles-mission-objects/v1/masters/portal-interiors/purple.png"
+      }
+    },
+    {
+      "id": "gateways/honeydrop-base",
+      "master": "masters/gateways/honeydrop-base.png",
+      "exports": [
+        "gameplay/gateways/honeydrop-base-256.png",
+        "gameplay/gateways/honeydrop-base-256.webp",
+        "gameplay/gateways/honeydrop-base-512.png",
+        "gameplay/gateways/honeydrop-base-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        98,
+        942,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/honeydrop-base",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/gates/honey-arch.png",
+        "source_sha256": "dcffaaf91924187ad6a91878b2d5975ff364691fdd7b565e69b950991bb2c9e1"
+      }
+    },
+    {
+      "id": "gateways/honeydrop-active",
+      "master": "masters/gateways/honeydrop-active.png",
+      "exports": [
+        "gameplay/gateways/honeydrop-active-256.png",
+        "gameplay/gateways/honeydrop-active-256.webp",
+        "gameplay/gateways/honeydrop-active-512.png",
+        "gameplay/gateways/honeydrop-active-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        98,
+        942,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/honeydrop-active",
+        "origin": "Existing arch with portal interior where needed",
+        "base": "gateways/honeydrop-base",
+        "interior": "stages/stage-06-obstacles-mission-objects/v1/masters/portal-interiors/purple.png"
+      }
+    },
+    {
+      "id": "gateways/moonmallow-base",
+      "master": "masters/gateways/moonmallow-base.png",
+      "exports": [
+        "gameplay/gateways/moonmallow-base-256.png",
+        "gameplay/gateways/moonmallow-base-256.webp",
+        "gameplay/gateways/moonmallow-base-512.png",
+        "gameplay/gateways/moonmallow-base-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        157,
+        942,
+        866
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/moonmallow-base",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/portals/active-front.png",
+        "source_sha256": "2f6debd043a39305c12d5a099802ba04acb05d91bfb79653e17b0acafa9b7a81"
+      }
+    },
+    {
+      "id": "gateways/moonmallow-active",
+      "master": "masters/gateways/moonmallow-active.png",
+      "exports": [
+        "gameplay/gateways/moonmallow-active-256.png",
+        "gameplay/gateways/moonmallow-active-256.webp",
+        "gameplay/gateways/moonmallow-active-512.png",
+        "gameplay/gateways/moonmallow-active-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        157,
+        942,
+        866
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/moonmallow-active",
+        "origin": "Existing arch with portal interior where needed",
+        "base": "gateways/moonmallow-base",
+        "interior": null
+      }
+    },
+    {
+      "id": "gateways/sugarstar-base",
+      "master": "masters/gateways/sugarstar-base.png",
+      "exports": [
+        "gameplay/gateways/sugarstar-base-256.png",
+        "gameplay/gateways/sugarstar-base-256.webp",
+        "gameplay/gateways/sugarstar-base-512.png",
+        "gameplay/gateways/sugarstar-base-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        189,
+        942,
+        834
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/sugarstar-base",
+        "origin": "Existing master copied unchanged",
+        "source_repository_path": "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/castle-pieces/star-portal.png",
+        "source_sha256": "4e5595064c24befc19e134a5cb5e199b9cf863a3d2fc87359990366e92c879f2"
+      }
+    },
+    {
+      "id": "gateways/sugarstar-active",
+      "master": "masters/gateways/sugarstar-active.png",
+      "exports": [
+        "gameplay/gateways/sugarstar-active-256.png",
+        "gameplay/gateways/sugarstar-active-256.webp",
+        "gameplay/gateways/sugarstar-active-512.png",
+        "gameplay/gateways/sugarstar-active-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        189,
+        942,
+        834
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "gateways/sugarstar-active",
+        "origin": "Existing arch with portal interior where needed",
+        "base": "gateways/sugarstar-base",
+        "interior": null
+      }
+    },
+    {
+      "id": "worlds/cloudberry",
+      "master": "masters/worlds/cloudberry.png",
+      "exports": [
+        "gameplay/worlds/cloudberry-256.png",
+        "gameplay/worlds/cloudberry-256.webp",
+        "gameplay/worlds/cloudberry-512.png",
+        "gameplay/worlds/cloudberry-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        50,
+        133,
+        942,
+        982
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "worlds/cloudberry",
+        "origin": "Composition of existing world masters",
+        "layers": [
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/islands/wide-meadow.png",
+            "max_dimension": 900,
+            "center": [
+              512,
+              650
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/trees/pink-large.png",
+            "max_dimension": 480,
+            "center": [
+              290,
+              370
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/cottages/front.png",
+            "max_dimension": 430,
+            "center": [
+              650,
+              410
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "worlds/honeydrop",
+      "master": "masters/worlds/honeydrop.png",
+      "exports": [
+        "gameplay/worlds/honeydrop-256.png",
+        "gameplay/worlds/honeydrop-256.webp",
+        "gameplay/worlds/honeydrop-512.png",
+        "gameplay/worlds/honeydrop-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        80,
+        204,
+        942,
+        991
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "worlds/honeydrop",
+        "origin": "Composition of existing world masters",
+        "layers": [
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/terrain/large-flower-island.png",
+            "max_dimension": 900,
+            "center": [
+              512,
+              650
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/blossom-trees/view-01.png",
+            "max_dimension": 420,
+            "center": [
+              290,
+              380
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/honeydrop-gardens/masters/honey-huts/front.png",
+            "max_dimension": 450,
+            "center": [
+              650,
+              420
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "worlds/moonmallow",
+      "master": "masters/worlds/moonmallow.png",
+      "exports": [
+        "gameplay/worlds/moonmallow-256.png",
+        "gameplay/worlds/moonmallow-256.webp",
+        "gameplay/worlds/moonmallow-512.png",
+        "gameplay/worlds/moonmallow-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        169,
+        942,
+        891
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "worlds/moonmallow",
+        "origin": "Composition of existing world masters",
+        "layers": [
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/islands/large-flower-meadow.png",
+            "max_dimension": 900,
+            "center": [
+              512,
+              650
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/star-trees/front-wide.png",
+            "max_dimension": 580,
+            "center": [
+              420,
+              390
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/moonmallow-forest/masters/mushrooms/star-cluster.png",
+            "max_dimension": 250,
+            "center": [
+              770,
+              570
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "worlds/sugarstar",
+      "master": "masters/worlds/sugarstar.png",
+      "exports": [
+        "gameplay/worlds/sugarstar-256.png",
+        "gameplay/worlds/sugarstar-256.webp",
+        "gameplay/worlds/sugarstar-512.png",
+        "gameplay/worlds/sugarstar-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        114,
+        942,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "worlds/sugarstar",
+        "origin": "Composition of existing world masters",
+        "layers": [
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/islands/waterfall-meadow.png",
+            "max_dimension": 900,
+            "center": [
+              512,
+              650
+            ]
+          },
+          {
+            "source_repository_path": "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/castle-views/front.png",
+            "max_dimension": 650,
+            "center": [
+              510,
+              380
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "cards/cloudberry",
+      "master": "masters/cards/cloudberry.png",
+      "exports": [
+        "gameplay/cards/cloudberry-256.png",
+        "gameplay/cards/cloudberry-256.webp",
+        "gameplay/cards/cloudberry-512.png",
+        "gameplay/cards/cloudberry-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        82,
+        889,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "cards/cloudberry",
+        "origin": "Blank-label world card with existing-world thumbnail",
+        "components": [
+          "ui/world-card",
+          "worlds/cloudberry"
+        ],
+        "text_note": "Names, levels and totals rendered separately"
+      }
+    },
+    {
+      "id": "cards/honeydrop",
+      "master": "masters/cards/honeydrop.png",
+      "exports": [
+        "gameplay/cards/honeydrop-256.png",
+        "gameplay/cards/honeydrop-256.webp",
+        "gameplay/cards/honeydrop-512.png",
+        "gameplay/cards/honeydrop-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        82,
+        889,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "cards/honeydrop",
+        "origin": "Blank-label world card with existing-world thumbnail",
+        "components": [
+          "ui/world-card",
+          "worlds/honeydrop"
+        ],
+        "text_note": "Names, levels and totals rendered separately"
+      }
+    },
+    {
+      "id": "cards/moonmallow",
+      "master": "masters/cards/moonmallow.png",
+      "exports": [
+        "gameplay/cards/moonmallow-256.png",
+        "gameplay/cards/moonmallow-256.webp",
+        "gameplay/cards/moonmallow-512.png",
+        "gameplay/cards/moonmallow-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        82,
+        889,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "cards/moonmallow",
+        "origin": "Blank-label world card with existing-world thumbnail",
+        "components": [
+          "ui/world-card",
+          "worlds/moonmallow"
+        ],
+        "text_note": "Names, levels and totals rendered separately"
+      }
+    },
+    {
+      "id": "cards/sugarstar",
+      "master": "masters/cards/sugarstar.png",
+      "exports": [
+        "gameplay/cards/sugarstar-256.png",
+        "gameplay/cards/sugarstar-256.webp",
+        "gameplay/cards/sugarstar-512.png",
+        "gameplay/cards/sugarstar-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        134,
+        82,
+        889,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "cards/sugarstar",
+        "origin": "Blank-label world card with existing-world thumbnail",
+        "components": [
+          "ui/world-card",
+          "worlds/sugarstar"
+        ],
+        "text_note": "Names, levels and totals rendered separately"
+      }
+    },
+    {
+      "id": "ui/play-button-icon",
+      "master": "masters/ui/play-button-icon.png",
+      "exports": [
+        "gameplay/ui/play-button-icon-256.png",
+        "gameplay/ui/play-button-icon-256.webp",
+        "gameplay/ui/play-button-icon-512.png",
+        "gameplay/ui/play-button-icon-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        392,
+        942,
+        632
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "ui/play-button-icon",
+        "origin": "Blank green button with existing play triangle",
+        "components": [
+          "ui/play-button",
+          "icons/play"
+        ]
+      }
+    },
+    {
+      "id": "animation/portal-idle",
+      "master": "masters/animation/portal-idle.png",
+      "exports": [
+        "gameplay/animation/portal-idle-256.png",
+        "gameplay/animation/portal-idle-256.webp",
+        "gameplay/animation/portal-idle-512.png",
+        "gameplay/animation/portal-idle-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        99,
+        942,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/portal-idle",
+        "origin": "Asset reused within pack",
+        "source_asset": "transitions/portal-idle"
+      }
+    },
+    {
+      "id": "animation/portal-charge",
+      "master": "masters/animation/portal-charge.png",
+      "exports": [
+        "gameplay/animation/portal-charge-256.png",
+        "gameplay/animation/portal-charge-256.webp",
+        "gameplay/animation/portal-charge-512.png",
+        "gameplay/animation/portal-charge-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        106,
+        942,
+        917
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/portal-charge",
+        "origin": "Asset reused within pack",
+        "source_asset": "transitions/portal-charge"
+      }
+    },
+    {
+      "id": "animation/portal-activate",
+      "master": "masters/animation/portal-activate.png",
+      "exports": [
+        "gameplay/animation/portal-activate-256.png",
+        "gameplay/animation/portal-activate-256.webp",
+        "gameplay/animation/portal-activate-512.png",
+        "gameplay/animation/portal-activate-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        136,
+        942,
+        887
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/portal-activate",
+        "origin": "Asset reused within pack",
+        "source_asset": "transitions/portal-activate"
+      }
+    },
+    {
+      "id": "animation/unlock-locked",
+      "master": "masters/animation/unlock-locked.png",
+      "exports": [
+        "gameplay/animation/unlock-locked-256.png",
+        "gameplay/animation/unlock-locked-256.webp",
+        "gameplay/animation/unlock-locked-512.png",
+        "gameplay/animation/unlock-locked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        90,
+        82,
+        933,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/unlock-locked",
+        "origin": "Asset reused within pack",
+        "source_asset": "nodes/locked-badge"
+      }
+    },
+    {
+      "id": "animation/unlock-ready",
+      "master": "masters/animation/unlock-ready.png",
+      "exports": [
+        "gameplay/animation/unlock-ready-256.png",
+        "gameplay/animation/unlock-ready-256.webp",
+        "gameplay/animation/unlock-ready-512.png",
+        "gameplay/animation/unlock-ready-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        88,
+        82,
+        935,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/unlock-ready",
+        "origin": "Asset reused within pack",
+        "source_asset": "nodes/unlocked"
+      }
+    },
+    {
+      "id": "animation/unlock-selected",
+      "master": "masters/animation/unlock-selected.png",
+      "exports": [
+        "gameplay/animation/unlock-selected-256.png",
+        "gameplay/animation/unlock-selected-256.webp",
+        "gameplay/animation/unlock-selected-512.png",
+        "gameplay/animation/unlock-selected-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        86,
+        82,
+        938,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/unlock-selected",
+        "origin": "Asset reused within pack",
+        "source_asset": "nodes/current"
+      }
+    },
+    {
+      "id": "animation/chest-closed",
+      "master": "masters/animation/chest-closed.png",
+      "exports": [
+        "gameplay/animation/chest-closed-256.png",
+        "gameplay/animation/chest-closed-256.webp",
+        "gameplay/animation/chest-closed-512.png",
+        "gameplay/animation/chest-closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        147,
+        942,
+        877
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/chest-closed",
+        "origin": "Asset reused within pack",
+        "source_asset": "rewards/chest-closed"
+      }
+    },
+    {
+      "id": "animation/chest-open",
+      "master": "masters/animation/chest-open.png",
+      "exports": [
+        "gameplay/animation/chest-open-256.png",
+        "gameplay/animation/chest-open-256.webp",
+        "gameplay/animation/chest-open-512.png",
+        "gameplay/animation/chest-open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        120,
+        82,
+        904,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/chest-open",
+        "origin": "Asset reused within pack",
+        "source_asset": "rewards/chest-open"
+      }
+    },
+    {
+      "id": "animation/star-small",
+      "master": "masters/animation/star-small.png",
+      "exports": [
+        "gameplay/animation/star-small-256.png",
+        "gameplay/animation/star-small-256.webp",
+        "gameplay/animation/star-small-512.png",
+        "gameplay/animation/star-small-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        302,
+        310,
+        722,
+        713
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/star-small",
+        "origin": "Scale keyframe of existing star",
+        "source_asset": "rewards/star",
+        "max_dimension": 420
+      }
+    },
+    {
+      "id": "animation/star-medium",
+      "master": "masters/animation/star-medium.png",
+      "exports": [
+        "gameplay/animation/star-medium-256.png",
+        "gameplay/animation/star-medium-256.webp",
+        "gameplay/animation/star-medium-512.png",
+        "gameplay/animation/star-medium-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        187,
+        200,
+        837,
+        824
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/star-medium",
+        "origin": "Scale keyframe of existing star",
+        "source_asset": "rewards/star",
+        "max_dimension": 650
+      }
+    },
+    {
+      "id": "animation/star-full",
+      "master": "masters/animation/star-full.png",
+      "exports": [
+        "gameplay/animation/star-full-256.png",
+        "gameplay/animation/star-full-256.webp",
+        "gameplay/animation/star-full-512.png",
+        "gameplay/animation/star-full-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        99,
+        942,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/star-full",
+        "origin": "Scale keyframe of existing star",
+        "source_asset": "rewards/star",
+        "max_dimension": 860
+      }
+    },
+    {
+      "id": "animation/chest-reward",
+      "master": "masters/animation/chest-reward.png",
+      "exports": [
+        "gameplay/animation/chest-reward-256.png",
+        "gameplay/animation/chest-reward-256.webp",
+        "gameplay/animation/chest-reward-512.png",
+        "gameplay/animation/chest-reward-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        120,
+        82,
+        904,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "animation/chest-reward",
+        "origin": "Open chest with existing sparkle overlay",
+        "components": [
+          "rewards/chest-open",
+          "effects/sparkles"
+        ]
+      }
+    },
+    {
+      "id": "maps/landscape",
+      "master": "masters/maps/landscape.png",
+      "exports": [
+        "gameplay/maps/landscape-256.png",
+        "gameplay/maps/landscape-256.webp",
+        "gameplay/maps/landscape-512.png",
+        "gameplay/maps/landscape-512.webp"
+      ],
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        2048,
+        1536
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": false,
+      "provenance": {
+        "id": "maps/landscape",
+        "origin": "Illustrative layout assembled from existing scenery and node assets",
+        "layers": [
+          {
+            "asset": "worlds/cloudberry",
+            "max_size": 760,
+            "center": [
+              520,
+              430
+            ]
+          },
+          {
+            "asset": "worlds/honeydrop",
+            "max_size": 760,
+            "center": [
+              1530,
+              430
+            ]
+          },
+          {
+            "asset": "worlds/moonmallow",
+            "max_size": 760,
+            "center": [
+              520,
+              1110
+            ]
+          },
+          {
+            "asset": "worlds/sugarstar",
+            "max_size": 760,
+            "center": [
+              1530,
+              1110
+            ]
+          }
+        ],
+        "note": "Four sample nodes per world; NOT an authored level graph or final level schedule"
+      }
+    },
+    {
+      "id": "maps/portrait",
+      "master": "masters/maps/portrait.png",
+      "exports": [
+        "gameplay/maps/portrait-256.png",
+        "gameplay/maps/portrait-256.webp",
+        "gameplay/maps/portrait-512.png",
+        "gameplay/maps/portrait-512.webp"
+      ],
+      "dimensions": [
+        1280,
+        2560
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        1280,
+        2560
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": false,
+      "provenance": {
+        "id": "maps/portrait",
+        "origin": "Illustrative layout assembled from existing scenery and node assets",
+        "layers": [
+          {
+            "asset": "worlds/cloudberry",
+            "max_size": 700,
+            "center": [
+              430,
+              420
+            ]
+          },
+          {
+            "asset": "worlds/honeydrop",
+            "max_size": 700,
+            "center": [
+              850,
+              1000
+            ]
+          },
+          {
+            "asset": "worlds/moonmallow",
+            "max_size": 700,
+            "center": [
+              430,
+              1580
+            ]
+          },
+          {
+            "asset": "worlds/sugarstar",
+            "max_size": 700,
+            "center": [
+              850,
+              2160
+            ]
+          }
+        ],
+        "note": "Four sample nodes per world; NOT an authored level graph or final level schedule"
+      }
+    },
+    {
+      "id": "examples/world-selection",
+      "master": "masters/examples/world-selection.png",
+      "exports": [
+        "gameplay/examples/world-selection-256.png",
+        "gameplay/examples/world-selection-256.webp",
+        "gameplay/examples/world-selection-512.png",
+        "gameplay/examples/world-selection-512.webp"
+      ],
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        1600,
+        1000
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": false,
+      "provenance": {
+        "id": "examples/world-selection",
+        "origin": "Flattened example; labels separate from reusable cards",
+        "not_runtime_ui": true
+      }
+    },
+    {
+      "id": "examples/level-preview",
+      "master": "masters/examples/level-preview.png",
+      "exports": [
+        "gameplay/examples/level-preview-256.png",
+        "gameplay/examples/level-preview-256.webp",
+        "gameplay/examples/level-preview-512.png",
+        "gameplay/examples/level-preview-512.webp"
+      ],
+      "dimensions": [
+        1100,
+        1050
+      ],
+      "alpha_bounds": [
+        66,
+        152,
+        980,
+        945
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "examples/level-preview",
+        "origin": "Flattened example with locked Skydoodles sprite; no target counts assumed",
+        "not_runtime_ui": true
+      }
+    },
+    {
+      "id": "examples/world-complete",
+      "master": "masters/examples/world-complete.png",
+      "exports": [
+        "gameplay/examples/world-complete-256.png",
+        "gameplay/examples/world-complete-256.webp",
+        "gameplay/examples/world-complete-512.png",
+        "gameplay/examples/world-complete-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        50,
+        44,
+        963,
+        991
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "examples/world-complete",
+        "origin": "Flattened example using locked Rosybuns",
+        "not_runtime_ui": true
+      }
+    },
+    {
+      "id": "examples/world-unlocked",
+      "master": "masters/examples/world-unlocked.png",
+      "exports": [
+        "gameplay/examples/world-unlocked-256.png",
+        "gameplay/examples/world-unlocked-256.webp",
+        "gameplay/examples/world-unlocked-512.png",
+        "gameplay/examples/world-unlocked-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        44,
+        942,
+        991
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "has_transparency": true,
+      "provenance": {
+        "id": "examples/world-unlocked",
+        "origin": "Flattened illustrative unlock result; no unlock rule or level range assigned",
+        "not_runtime_ui": true
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "046af3e5f4feeb77209db1fe1da2bb21ce7bacf770041181a481d51c028c6ed2",
+      "bytes": 13309
+    },
+    {
+      "path": "gameplay/animation/chest-closed-256.png",
+      "sha256": "661965fa1cd05866b2e9bf04f37a1b8c5bf654c0bc11873c5d7f9dac4f4328e0",
+      "bytes": 64214
+    },
+    {
+      "path": "gameplay/animation/chest-closed-256.webp",
+      "sha256": "5c4117650de89a143901a6f62e18cfba57c5584caafc886875778e798988d53d",
+      "bytes": 47352
+    },
+    {
+      "path": "gameplay/animation/chest-closed-512.png",
+      "sha256": "52f0ff77c570765262ad04f5266b8b608df9e18616dbe2e25353eb35e6631028",
+      "bytes": 227729
+    },
+    {
+      "path": "gameplay/animation/chest-closed-512.webp",
+      "sha256": "9cbca9e8d42edf7f6ab12af2c1df0c97a55a72a0d196f34e4dca3d7fc7db93bb",
+      "bytes": 163336
+    },
+    {
+      "path": "gameplay/animation/chest-open-256.png",
+      "sha256": "e8ecc0e6c07170b13273b9595844a7035da7e76d6e174e220ca7f22fc106f1d1",
+      "bytes": 69501
+    },
+    {
+      "path": "gameplay/animation/chest-open-256.webp",
+      "sha256": "123797353761cd4f4ebea45d8f189d756944e3a4703de1864d574748cdc4f63f",
+      "bytes": 50024
+    },
+    {
+      "path": "gameplay/animation/chest-open-512.png",
+      "sha256": "86d5e645576e6ea8c7ab998b857dfe79cdb7e7eee7afb1bc1347d095738c040f",
+      "bytes": 235495
+    },
+    {
+      "path": "gameplay/animation/chest-open-512.webp",
+      "sha256": "b03866b4efc308073d7d2cb4444c006da5503c1a9f1e5cc59c7d2de9bddfc80f",
+      "bytes": 164582
+    },
+    {
+      "path": "gameplay/animation/chest-reward-256.png",
+      "sha256": "c9ed1f99c65b4ca8bd9423681a41723269ac21d36111219eeebc3e9ded7c46c3",
+      "bytes": 75981
+    },
+    {
+      "path": "gameplay/animation/chest-reward-256.webp",
+      "sha256": "6d783359db2826d20b73cc7ffa363246e3bed726c76051db4a0ab42b89928917",
+      "bytes": 56094
+    },
+    {
+      "path": "gameplay/animation/chest-reward-512.png",
+      "sha256": "1ae1fb7e36fc647ee7e9b7fd66e10a77b4dc5ed92cb06ca6b789739119cc9b46",
+      "bytes": 256501
+    },
+    {
+      "path": "gameplay/animation/chest-reward-512.webp",
+      "sha256": "772c7561ea4a9fd2db5d66e95ab967040041012476542d0410508a4010d80d52",
+      "bytes": 183224
+    },
+    {
+      "path": "gameplay/animation/portal-activate-256.png",
+      "sha256": "a32895bc42e6d6ae8fdc66b2eb3d447c8467e574b83fc6ec10aaba8db84aa106",
+      "bytes": 70425
+    },
+    {
+      "path": "gameplay/animation/portal-activate-256.webp",
+      "sha256": "da109b505bb6f8f5b9d20e30db4e92f71152ba2e9ed4eeebb22e356e4d415874",
+      "bytes": 53870
+    },
+    {
+      "path": "gameplay/animation/portal-activate-512.png",
+      "sha256": "e7f2412de45e3d5496aeb2e648bcde8fffa6c91f7705d9dae2ccf10de60e88af",
+      "bytes": 231572
+    },
+    {
+      "path": "gameplay/animation/portal-activate-512.webp",
+      "sha256": "a96c610f119942a1ec8a187d0a2b588caa613ba32ce8c083052811128a1401be",
+      "bytes": 171996
+    },
+    {
+      "path": "gameplay/animation/portal-charge-256.png",
+      "sha256": "0128497c84e8d285f5eb3d94b0d9207652c2d7a31041a0532ed5916ff004459d",
+      "bytes": 69422
+    },
+    {
+      "path": "gameplay/animation/portal-charge-256.webp",
+      "sha256": "110adb568221220e40b41af050adbcaec892fbd25a3ee48d9c9861a18f06a292",
+      "bytes": 50558
+    },
+    {
+      "path": "gameplay/animation/portal-charge-512.png",
+      "sha256": "78777ff1ef945dd787c81f597d551e8ede89a82ed217f2c4c55b8b0d3c3f032e",
+      "bytes": 227596
+    },
+    {
+      "path": "gameplay/animation/portal-charge-512.webp",
+      "sha256": "88ec2ada4340b31d78de56bf52dc2b02c6c8d0cbb808a726c10e2e5502a0143a",
+      "bytes": 160500
+    },
+    {
+      "path": "gameplay/animation/portal-idle-256.png",
+      "sha256": "5ed77167eb71bc1efd6e10076dde86bd10cd977f65216ab23c9a64710b8c40b8",
+      "bytes": 67628
+    },
+    {
+      "path": "gameplay/animation/portal-idle-256.webp",
+      "sha256": "ea4ed0e0140b8689b527561e4810f5d20c2898b835ce1395f58328918df66430",
+      "bytes": 49848
+    },
+    {
+      "path": "gameplay/animation/portal-idle-512.png",
+      "sha256": "27d136e7544651121861e89500066b4cf0e34e28a454ce27025b2dec15d0baae",
+      "bytes": 220705
+    },
+    {
+      "path": "gameplay/animation/portal-idle-512.webp",
+      "sha256": "57daa59c8de4ce13a28a817e791aefff97e3c0b172e5987fe07ea00a904134fe",
+      "bytes": 155858
+    },
+    {
+      "path": "gameplay/animation/star-full-256.png",
+      "sha256": "a84ce4e1815e642e78bbe573dce4174de193715ab94b4870444d083ef6e8de62",
+      "bytes": 46375
+    },
+    {
+      "path": "gameplay/animation/star-full-256.webp",
+      "sha256": "8563a1e6233c962361ce61aade5c17ab24f8d0d61220c965c42b739ee07832a9",
+      "bytes": 29988
+    },
+    {
+      "path": "gameplay/animation/star-full-512.png",
+      "sha256": "5f047b8b01523742fb610bd83c4df90e2978ce4f357e6152c3bce25eb3cf526a",
+      "bytes": 158453
+    },
+    {
+      "path": "gameplay/animation/star-full-512.webp",
+      "sha256": "e74023a9b54f3a1f9fe840d7756f8543515ae6544f2ec1cab457e619d503f8fe",
+      "bytes": 100272
+    },
+    {
+      "path": "gameplay/animation/star-medium-256.png",
+      "sha256": "6d454194b3b3c22364bf2e4fd81689d62f1170aea6dbd3add57be8b624383816",
+      "bytes": 29982
+    },
+    {
+      "path": "gameplay/animation/star-medium-256.webp",
+      "sha256": "1ce6e23795c5822d9ec58ae1cb5e20adf286b39e5efa3ce46f9f12740fd5e2cf",
+      "bytes": 19652
+    },
+    {
+      "path": "gameplay/animation/star-medium-512.png",
+      "sha256": "380520a9f17756c7716e19e326fdf693bfd26f7918312f98f58eaad020fff292",
+      "bytes": 100765
+    },
+    {
+      "path": "gameplay/animation/star-medium-512.webp",
+      "sha256": "25317852a58a96804c064500f8b72d2ec6c47b4f66519d866641fe981eb22622",
+      "bytes": 62870
+    },
+    {
+      "path": "gameplay/animation/star-small-256.png",
+      "sha256": "cbf3669a53547da0d97ad2ed6feb2bd2858fdbec368ea4f549cd65f1c879f628",
+      "bytes": 15523
+    },
+    {
+      "path": "gameplay/animation/star-small-256.webp",
+      "sha256": "b953cb944ab0e25a55cfc7f11b0ca85cdcbf063a2a0fce1ee58b029773fcc9aa",
+      "bytes": 10550
+    },
+    {
+      "path": "gameplay/animation/star-small-512.png",
+      "sha256": "8246cc8812dd1f16c53582d6b88c3b5614762cc83c7834e000bc0f377f510bbf",
+      "bytes": 49992
+    },
+    {
+      "path": "gameplay/animation/star-small-512.webp",
+      "sha256": "458e2c7a29ce3083869c7c6c84e1ee4b8c44f802f694c97b78444a4e098067c0",
+      "bytes": 31186
+    },
+    {
+      "path": "gameplay/animation/unlock-locked-256.png",
+      "sha256": "f3316d510ad52dcdeee247bd6f03760717fb528cbd571e0405c79a7a8c6b8ab9",
+      "bytes": 66106
+    },
+    {
+      "path": "gameplay/animation/unlock-locked-256.webp",
+      "sha256": "825f1f889c5b922516dd33752876cfd8791eeac78dc84898f9336c3dd404fa05",
+      "bytes": 45712
+    },
+    {
+      "path": "gameplay/animation/unlock-locked-512.png",
+      "sha256": "33cc04ea0b726cbf7cacdcbeeaaf7ed9f52224d48450a1ef77c084b559c5da70",
+      "bytes": 222987
+    },
+    {
+      "path": "gameplay/animation/unlock-locked-512.webp",
+      "sha256": "232717b0c8cad9aee9c6f3c5a2a016f806f9fad6fdd2e487c1a076fdfa5b04b8",
+      "bytes": 147322
+    },
+    {
+      "path": "gameplay/animation/unlock-ready-256.png",
+      "sha256": "a75457597b0fbc945ef7c100420802a0e254cab938b70f4e0e9dcde3bcbc9560",
+      "bytes": 59003
+    },
+    {
+      "path": "gameplay/animation/unlock-ready-256.webp",
+      "sha256": "91ae9ef3d404aa10001646766fa755bf95646acac34f04e0fbe68cce3b9d5499",
+      "bytes": 38724
+    },
+    {
+      "path": "gameplay/animation/unlock-ready-512.png",
+      "sha256": "8de5a8936fc5c744a06a6670a3609d8a86729e171fa0709e703e1375efdd7155",
+      "bytes": 203894
+    },
+    {
+      "path": "gameplay/animation/unlock-ready-512.webp",
+      "sha256": "fec8bf208f830060422d0d7b0fdb87a32bee0ebd94ecc13de8c73002a53542e5",
+      "bytes": 132160
+    },
+    {
+      "path": "gameplay/animation/unlock-selected-256.png",
+      "sha256": "142639e4cf3305f5d56a880d94ae3787a0b52a7b8f8becb19d54a73633f3b5e2",
+      "bytes": 73170
+    },
+    {
+      "path": "gameplay/animation/unlock-selected-256.webp",
+      "sha256": "fe72da5a7f4ef4ad8628914e2ae79dde3926dfc0c7d85e5a7dac79fa9456835a",
+      "bytes": 52876
+    },
+    {
+      "path": "gameplay/animation/unlock-selected-512.png",
+      "sha256": "534d9f2a94c1a543a8569cff88aef1205adb74304a6a81cf84342fa13f88747b",
+      "bytes": 255134
+    },
+    {
+      "path": "gameplay/animation/unlock-selected-512.webp",
+      "sha256": "ff427eb2b64c08c8d618637434874ce68ae6f0705a51be63c80ee2b645fa6bfc",
+      "bytes": 180222
+    },
+    {
+      "path": "gameplay/backgrounds/cloud-sky-256.png",
+      "sha256": "859210211d08d4ce546fbbdd26d9e0b5cc5f4f53761256e89879a1c200a51d41",
+      "bytes": 38293
+    },
+    {
+      "path": "gameplay/backgrounds/cloud-sky-256.webp",
+      "sha256": "392daccfcb49408c3eb9ecdd07f40eb94138d42f70b50e0abd91a9f9d04d9e22",
+      "bytes": 25190
+    },
+    {
+      "path": "gameplay/backgrounds/cloud-sky-512.png",
+      "sha256": "47508b5922648693ca8e123f5ac3092c91ef517823a1f5cfc313433ddd0db165",
+      "bytes": 132195
+    },
+    {
+      "path": "gameplay/backgrounds/cloud-sky-512.webp",
+      "sha256": "0e13d0dd87d99f819f9b4b0ffb93246119a024440a4c715edea85c3373118d25",
+      "bytes": 81820
+    },
+    {
+      "path": "gameplay/cards/cloudberry-256.png",
+      "sha256": "1885f016e69291fe8daff032504a1bea359a828bd7ebc2aa929c8f64491f0bde",
+      "bytes": 60712
+    },
+    {
+      "path": "gameplay/cards/cloudberry-256.webp",
+      "sha256": "236b2cd909d952d9922a2edbeef489ba7e9b822a6883b24a09e516c5fb67a2bb",
+      "bytes": 46876
+    },
+    {
+      "path": "gameplay/cards/cloudberry-512.png",
+      "sha256": "c532069f043b9d3d948d28eb0e44d987f85e0d4e8bd69e293bdab13684b77478",
+      "bytes": 209212
+    },
+    {
+      "path": "gameplay/cards/cloudberry-512.webp",
+      "sha256": "e13b31fd4017a70e9c44b0249ae9692319d35592c386a4f9b879cfff132a6f93",
+      "bytes": 154822
+    },
+    {
+      "path": "gameplay/cards/honeydrop-256.png",
+      "sha256": "a6212abc8f73ebc0894197822889eabcc0b178230a9fdb7dacf8cd78238f1e41",
+      "bytes": 63587
+    },
+    {
+      "path": "gameplay/cards/honeydrop-256.webp",
+      "sha256": "531eb1dba41f44cccb428b0df6c3799055effc3e7780b2df29e4aab4982c30a7",
+      "bytes": 48910
+    },
+    {
+      "path": "gameplay/cards/honeydrop-512.png",
+      "sha256": "2a63032dc1418bcdc82e087abe334b9adf220fa1eed52d224f7fabd14714ce23",
+      "bytes": 217525
+    },
+    {
+      "path": "gameplay/cards/honeydrop-512.webp",
+      "sha256": "a8b99a5e76c8c7b7a3b03032e0acb71ff2c898c0b40bf8c44d4f62b41e759e56",
+      "bytes": 160272
+    },
+    {
+      "path": "gameplay/cards/moonmallow-256.png",
+      "sha256": "989ea65accc55e3063847428c13469ddfed0e0f3adb23514a912c1b6bfc1f70a",
+      "bytes": 62724
+    },
+    {
+      "path": "gameplay/cards/moonmallow-256.webp",
+      "sha256": "cc992f1321c6d4b6716c4573bb5255be802b70a9380ed8c7792b1237633b96ed",
+      "bytes": 48388
+    },
+    {
+      "path": "gameplay/cards/moonmallow-512.png",
+      "sha256": "3cb3090bbb7e0364ece2dede08f2ed191c1da922136c60a298be9fadf6dc278b",
+      "bytes": 213879
+    },
+    {
+      "path": "gameplay/cards/moonmallow-512.webp",
+      "sha256": "05d5ac6dc2d6a4a5de58d48281c2c521fbb3dd9b41abb3230513fc2f50885c8f",
+      "bytes": 158152
+    },
+    {
+      "path": "gameplay/cards/sugarstar-256.png",
+      "sha256": "5e57014c8e49323a7cb9720bd4624531aa93ca640d3edfbabff0ce4e2bcabfe1",
+      "bytes": 58833
+    },
+    {
+      "path": "gameplay/cards/sugarstar-256.webp",
+      "sha256": "43995fbeba7b8dd44375100a615e261c2f94fc22ab9352673e9cf6ab4e86a571",
+      "bytes": 45112
+    },
+    {
+      "path": "gameplay/cards/sugarstar-512.png",
+      "sha256": "4bfd9c42e785a7eccdefde42caf9e52ddd194180175620b94bb236e90215662d",
+      "bytes": 200847
+    },
+    {
+      "path": "gameplay/cards/sugarstar-512.webp",
+      "sha256": "1b1d14f7cf5b42ab5f2abaefc0a027f71882b39a326c91a77739cdbd12664992",
+      "bytes": 144634
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.png",
+      "sha256": "521a8e4c3c8c466c5b6426f0421770ec9283ba0bf343d717aa23c92e2faa1878",
+      "bytes": 25736
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.webp",
+      "sha256": "d2252ad9020db5e52e7fbf61a4e74a79a904c6617ac266a1bc6c8f9201d7d018",
+      "bytes": 22586
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.png",
+      "sha256": "f8d4042b5b041fe02f160936bc07101c764ecbe30b1cfbec1b8a371877f51a92",
+      "bytes": 87717
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.webp",
+      "sha256": "7991ce5a0f57a158970784b92213789317b3c7aff03ccc1f086f746e92872864",
+      "bytes": 74306
+    },
+    {
+      "path": "gameplay/effects/star-trail-256.png",
+      "sha256": "fc6b03314f441c26c071845a8d8fe7e3d638bb22c0a6cbd1d0a966b37d8dcf33",
+      "bytes": 36472
+    },
+    {
+      "path": "gameplay/effects/star-trail-256.webp",
+      "sha256": "5ccb3c9eef35098931eed2ba1155d07c656a2972b09100786654b6cec9b89981",
+      "bytes": 29310
+    },
+    {
+      "path": "gameplay/effects/star-trail-512.png",
+      "sha256": "d9aa7feff592071933aa4f77da2dc41c54e25271c13bd9c01071db6d6220278e",
+      "bytes": 123475
+    },
+    {
+      "path": "gameplay/effects/star-trail-512.webp",
+      "sha256": "32e62b4d54fb64414dd57122a3fa7f0ee049ebd6325d3fd671abfae3f522beb6",
+      "bytes": 95836
+    },
+    {
+      "path": "gameplay/examples/level-preview-256.png",
+      "sha256": "ad3e7e4f6c9e2c23d4ed429b7d4c5e2187883f128431a9b5f6327c3a343d6a4e",
+      "bytes": 61708
+    },
+    {
+      "path": "gameplay/examples/level-preview-256.webp",
+      "sha256": "6d7c8ebcb95e216c4cf50533b6d1bf5730f96376fa093901db7fcf7bb9cd6f2a",
+      "bytes": 45700
+    },
+    {
+      "path": "gameplay/examples/level-preview-512.png",
+      "sha256": "46e73da5f38b89db3de64556b7324774a4e75f7a1e356d5c61f4474e7dbaeed6",
+      "bytes": 214140
+    },
+    {
+      "path": "gameplay/examples/level-preview-512.webp",
+      "sha256": "af7e2cc7f3dbce3dab05f5d33450878898418320c94a14068335f56f49be221a",
+      "bytes": 153974
+    },
+    {
+      "path": "gameplay/examples/world-complete-256.png",
+      "sha256": "c889a8635a3c62fb30f9eb92ba8f8289a3d6439b66e5b1eb2fc2f01677612721",
+      "bytes": 74070
+    },
+    {
+      "path": "gameplay/examples/world-complete-256.webp",
+      "sha256": "2da5f27f29b730cb09843db02e2b90a2e42540d75b05180ec3c675729587b319",
+      "bytes": 55026
+    },
+    {
+      "path": "gameplay/examples/world-complete-512.png",
+      "sha256": "546a4a5c7271f239fb9c5c8ef81e2a88ed0438dd0d8a781e994d88f68dbb765d",
+      "bytes": 238164
+    },
+    {
+      "path": "gameplay/examples/world-complete-512.webp",
+      "sha256": "43a35f9890d210e2bea9ea1424e10bd0c3f44a8f49eb0660d50d7b9d46ec84da",
+      "bytes": 168956
+    },
+    {
+      "path": "gameplay/examples/world-selection-256.png",
+      "sha256": "6e7dab15d51fb59fbd2cceca5953bcc9b8deffa3914d5e9614195c3a40398692",
+      "bytes": 34477
+    },
+    {
+      "path": "gameplay/examples/world-selection-256.webp",
+      "sha256": "a59baaf531432168ae89f0283160f18cb4a4bb127fdbf604786e4c81499e04ea",
+      "bytes": 25342
+    },
+    {
+      "path": "gameplay/examples/world-selection-512.png",
+      "sha256": "c28809373471abe7f2926210bd40b21d702fea3b1e3bdd99c8e2096a57dc51a3",
+      "bytes": 110007
+    },
+    {
+      "path": "gameplay/examples/world-selection-512.webp",
+      "sha256": "deb65dd4c15261f8271c2c1f1b1d4e48d29cbd28490a89d288ac9cabb1898d82",
+      "bytes": 79574
+    },
+    {
+      "path": "gameplay/examples/world-unlocked-256.png",
+      "sha256": "e74ce09a705d2e0d06bf3cf655a8b07b891ef370df27de259e2401e81a1821ad",
+      "bytes": 91313
+    },
+    {
+      "path": "gameplay/examples/world-unlocked-256.webp",
+      "sha256": "aecc257788f44dfd52f916abc8097b19a3e88d150c70447fa71279a9e0c3a935",
+      "bytes": 72474
+    },
+    {
+      "path": "gameplay/examples/world-unlocked-512.png",
+      "sha256": "c01b79ef3542af46a7c88297f5980d2ca51876e9bacb8f579d5e5b83ea07c3eb",
+      "bytes": 297296
+    },
+    {
+      "path": "gameplay/examples/world-unlocked-512.webp",
+      "sha256": "56be6698b323125759c287663778343f7b520cc5a8e9bdfd0125084ffbd0059e",
+      "bytes": 226698
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-active-256.png",
+      "sha256": "d53b0e0252d4df770fad337355a4d494fc29060d5adffb2b316580d0c79168bd",
+      "bytes": 93489
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-active-256.webp",
+      "sha256": "20598746aa9f193f23c523691dac180e49b30b65748c073ebf92922fdb1c1f66",
+      "bytes": 72332
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-active-512.png",
+      "sha256": "4f914b0c420e0cdb25f5a1d3cfc122186cf9445adf2716cf3df32d33879c60d3",
+      "bytes": 306377
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-active-512.webp",
+      "sha256": "8ee2d8d74008432970fa25c13e61dc0ee924d9b2cf3acfc0409e0ed3dc9eaf04",
+      "bytes": 227722
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-base-256.png",
+      "sha256": "9d37f49e1b598bd6e02c246811ddc5dbd58fbc8a4b8c5cd00040dc3a99b649b6",
+      "bytes": 69807
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-base-256.webp",
+      "sha256": "5460cc4a4205dd6e7a356dc0e3e2a122901a2183f7b005641ccef04970fc4d9e",
+      "bytes": 54598
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-base-512.png",
+      "sha256": "185eb57fd73f7fd2f70838d8d6812879af7b0cf9a97ce38a1300d4f96800ae1b",
+      "bytes": 225681
+    },
+    {
+      "path": "gameplay/gateways/cloudberry-base-512.webp",
+      "sha256": "764ee3065ce7974cb17020d20feaece8388afc70e13a300622208525157c0879",
+      "bytes": 167186
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-active-256.png",
+      "sha256": "2c10ed77dcaaa5d97832d95f84337c9c075fb41312932db6df200a6960932839",
+      "bytes": 82888
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-active-256.webp",
+      "sha256": "bee7d9f1fd1da3aeeb21189cbbc2d353f982f340b44e267d7461cc67eac36866",
+      "bytes": 61896
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-active-512.png",
+      "sha256": "191c61cd8700b5026864baacf40c92a96d782cb230a50ce266377b8b8466f8e9",
+      "bytes": 271023
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-active-512.webp",
+      "sha256": "7082fb00c5f09d3521a8f2fdeefb9d1fe43cb20e1b27a935e27fd7abcc277023",
+      "bytes": 195510
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-base-256.png",
+      "sha256": "347987bf915ad0c78d20aa5916c4d73b752ea6bf76385521dc6c324e16118580",
+      "bytes": 61660
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-base-256.webp",
+      "sha256": "1165760a748c8144ff9146f4fdb024e0d450cf6dd3e7e4794a24e36976e166eb",
+      "bytes": 45900
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-base-512.png",
+      "sha256": "53608b09e5fdb2c7aa77641a44cfaeb3c41fd7bec8ddc3b4d9a0c0668baba514",
+      "bytes": 197877
+    },
+    {
+      "path": "gameplay/gateways/honeydrop-base-512.webp",
+      "sha256": "11150fac72d9132e8fac52c7956e3a03db9b24a1bcfbf024fa74d816b63bafb3",
+      "bytes": 141628
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-active-256.png",
+      "sha256": "e847d30c536c6380a3484784158d206b01129dee26fccdd4b0afab04efcf5914",
+      "bytes": 72573
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-active-256.webp",
+      "sha256": "c92f43cb682a33e79486dd4ba3ec3a07cadc321c40bffa63b9dbe7104ef568fe",
+      "bytes": 56938
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-active-512.png",
+      "sha256": "470c76452182b5f5e596e4b5c10cf7dfef3d84585b2054368b6d44a200391691",
+      "bytes": 238974
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-active-512.webp",
+      "sha256": "b59b237a03d0a0e751d6c6a5b465791617a9c308c4eade39a5bf2f5e562028b1",
+      "bytes": 180482
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-base-256.png",
+      "sha256": "e847d30c536c6380a3484784158d206b01129dee26fccdd4b0afab04efcf5914",
+      "bytes": 72573
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-base-256.webp",
+      "sha256": "c92f43cb682a33e79486dd4ba3ec3a07cadc321c40bffa63b9dbe7104ef568fe",
+      "bytes": 56938
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-base-512.png",
+      "sha256": "470c76452182b5f5e596e4b5c10cf7dfef3d84585b2054368b6d44a200391691",
+      "bytes": 238974
+    },
+    {
+      "path": "gameplay/gateways/moonmallow-base-512.webp",
+      "sha256": "b59b237a03d0a0e751d6c6a5b465791617a9c308c4eade39a5bf2f5e562028b1",
+      "bytes": 180482
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-active-256.png",
+      "sha256": "1d0ec9edb28778cbd909cc904d6e782ee3cb4c5ef43e05ae67ffe2a8fb4b11b6",
+      "bytes": 55205
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-active-256.webp",
+      "sha256": "bac07920ebac92e8af6117e002d66d64032cceb933f4c5c303ecdc561873c4ab",
+      "bytes": 40856
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-active-512.png",
+      "sha256": "1295d29c2761015d2c05074869c3a57a4bc2d3e033de7649d2779cd1cf8494b7",
+      "bytes": 176337
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-active-512.webp",
+      "sha256": "37b37e0de1f6a45505aa58c6ba7c684a476a91d74686648c168045170677e724",
+      "bytes": 128056
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-base-256.png",
+      "sha256": "1d0ec9edb28778cbd909cc904d6e782ee3cb4c5ef43e05ae67ffe2a8fb4b11b6",
+      "bytes": 55205
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-base-256.webp",
+      "sha256": "bac07920ebac92e8af6117e002d66d64032cceb933f4c5c303ecdc561873c4ab",
+      "bytes": 40856
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-base-512.png",
+      "sha256": "1295d29c2761015d2c05074869c3a57a4bc2d3e033de7649d2779cd1cf8494b7",
+      "bytes": 176337
+    },
+    {
+      "path": "gameplay/gateways/sugarstar-base-512.webp",
+      "sha256": "37b37e0de1f6a45505aa58c6ba7c684a476a91d74686648c168045170677e724",
+      "bytes": 128056
+    },
+    {
+      "path": "gameplay/icons/check-256.png",
+      "sha256": "f0cbc6576ae31865ae4db17f7995c0eb4d193b55acd9e15ec3c689e1af78035e",
+      "bytes": 54442
+    },
+    {
+      "path": "gameplay/icons/check-256.webp",
+      "sha256": "2367878ea925d7ae0d336a45ac07aed9bf8543503624ff5cf18c11d5f52c17a0",
+      "bytes": 34896
+    },
+    {
+      "path": "gameplay/icons/check-512.png",
+      "sha256": "32855db2da9fbae83a9bf9f7586faaecca37cc1705675eec3318d06563f1d88a",
+      "bytes": 178903
+    },
+    {
+      "path": "gameplay/icons/check-512.webp",
+      "sha256": "f0f0a5e0c7847d50cc2d88652d919374199b08c6f5415e033581a9ec57bff2d3",
+      "bytes": 111960
+    },
+    {
+      "path": "gameplay/icons/lock-256.png",
+      "sha256": "e5a9246a272491f880762cb5fdd043ebe5e8bad1d717e55b9e3c232bc5f2abc4",
+      "bytes": 51242
+    },
+    {
+      "path": "gameplay/icons/lock-256.webp",
+      "sha256": "0f0237014f48c13c1e12bb6ad85eda604f0d41d4329a04b888da5406ce9a52f2",
+      "bytes": 36244
+    },
+    {
+      "path": "gameplay/icons/lock-512.png",
+      "sha256": "a6e6a8346ad6dbb9319ffea809548c80213f27f5e10cbcccf1d8931b2ae2f4ea",
+      "bytes": 171598
+    },
+    {
+      "path": "gameplay/icons/lock-512.webp",
+      "sha256": "0b926f5da28dc90be74827f0fd237e11469104aeaf04e0e71ac836d5e4ce3713",
+      "bytes": 114550
+    },
+    {
+      "path": "gameplay/icons/play-256.png",
+      "sha256": "5be1aaff56c19d5545c9f3f67d1202ba35d2ff1ddbe01875707756ba2175d456",
+      "bytes": 47465
+    },
+    {
+      "path": "gameplay/icons/play-256.webp",
+      "sha256": "4ffef423e63ccb232e84cb9eb03196299a45a1481a3cf3b3474a3db06d807684",
+      "bytes": 30446
+    },
+    {
+      "path": "gameplay/icons/play-512.png",
+      "sha256": "0989a9bec34e43eb3f4c9ee62514bce5ebfb7506eddfb064b539f7d08eb72530",
+      "bytes": 162310
+    },
+    {
+      "path": "gameplay/icons/play-512.webp",
+      "sha256": "ec0cabd81234367d8f320e136c54995d19d8599ca8ad60c78ccb4bb142d21e4c",
+      "bytes": 99924
+    },
+    {
+      "path": "gameplay/icons/world-honey-256.png",
+      "sha256": "5bce0519a2d0bf3e01b2f2a9df63f9965c6b763dc8958493e5c3a37c8b0b13db",
+      "bytes": 55548
+    },
+    {
+      "path": "gameplay/icons/world-honey-256.webp",
+      "sha256": "fe9bb699b3ab335827ded355640339b0a1737ac3cc399773200f8858e980d1d8",
+      "bytes": 40180
+    },
+    {
+      "path": "gameplay/icons/world-honey-512.png",
+      "sha256": "70c45cc92ab31436618b2cf4f51ca51708186c385f423a567b85d6a9793769ee",
+      "bytes": 186075
+    },
+    {
+      "path": "gameplay/icons/world-honey-512.webp",
+      "sha256": "4f6ece5aedc1aab67a819b2d9b01fb32324b19a90db6bcf75e70cc4d5264998b",
+      "bytes": 126988
+    },
+    {
+      "path": "gameplay/icons/world-leaf-256.png",
+      "sha256": "219d9364d5f26438a1d3a7552341244d29b3c7081bb6b44f7b3fa3e5a91a174c",
+      "bytes": 42268
+    },
+    {
+      "path": "gameplay/icons/world-leaf-256.webp",
+      "sha256": "17d2b546bd6e392dba472f84aa083bf02b13426ebfbe4f79ec5c6d7d5b412cb2",
+      "bytes": 29932
+    },
+    {
+      "path": "gameplay/icons/world-leaf-512.png",
+      "sha256": "aa7adb8d787d0567c44e24d1e6f1b3289214ff5c7df816a4d04de6fdc4291761",
+      "bytes": 135152
+    },
+    {
+      "path": "gameplay/icons/world-leaf-512.webp",
+      "sha256": "499699317f4bfb21b33337217ff2f81aedc2c745dfc12074dffb665536773932",
+      "bytes": 92424
+    },
+    {
+      "path": "gameplay/icons/world-moon-256.png",
+      "sha256": "5c8b39a133453f8f47480d462a93ebe247ebd2c739122780da59fc7226e33c7c",
+      "bytes": 56488
+    },
+    {
+      "path": "gameplay/icons/world-moon-256.webp",
+      "sha256": "0428f635eb8c821b446629c7027e3ce356c7f511a68c3f8a13ebd99f4807f8b8",
+      "bytes": 40348
+    },
+    {
+      "path": "gameplay/icons/world-moon-512.png",
+      "sha256": "f857ea93d6e1508fa0c649fafbed0dce1187e17a1b2b136c3742684781f67396",
+      "bytes": 197213
+    },
+    {
+      "path": "gameplay/icons/world-moon-512.webp",
+      "sha256": "77ed965450b2d281a7fc7422f8a79a3a55838606ec3fe1549f26911e85f30e38",
+      "bytes": 135980
+    },
+    {
+      "path": "gameplay/maps/landscape-256.png",
+      "sha256": "2040ecdc89b45377043f960c889748a0c78c6734f8f194b23411c752d22fee19",
+      "bytes": 99520
+    },
+    {
+      "path": "gameplay/maps/landscape-256.webp",
+      "sha256": "55e76e94866239d3b92a26c0567318646e1991e251b2612157e0cb906cd6a914",
+      "bytes": 72354
+    },
+    {
+      "path": "gameplay/maps/landscape-512.png",
+      "sha256": "6fb2e891d7ccb03f8c955f202e25eb1cf60e257ab4d3e2a22ee1f3589e3d12e4",
+      "bytes": 350276
+    },
+    {
+      "path": "gameplay/maps/landscape-512.webp",
+      "sha256": "d5ff2f22294890cb126dd28a430dbe692f4711cd44af5bddf53ad044a49609cb",
+      "bytes": 249964
+    },
+    {
+      "path": "gameplay/maps/portrait-256.png",
+      "sha256": "5ba798734038b43e9f12b68bf437dd55e26c9984767e8206b6bd3332d6eacff8",
+      "bytes": 63379
+    },
+    {
+      "path": "gameplay/maps/portrait-256.webp",
+      "sha256": "e21a5545c251f29a7c9a8c97e94e0e19c35e6634dd7fe0c2d270af2c367382b4",
+      "bytes": 45474
+    },
+    {
+      "path": "gameplay/maps/portrait-512.png",
+      "sha256": "1610e138554c985d666cf53ebab4d84a3cd9507e01d8447afe1c93bb7db18dda",
+      "bytes": 229123
+    },
+    {
+      "path": "gameplay/maps/portrait-512.webp",
+      "sha256": "11bb6df6c22b20698ade84f4fed65d0f213d23e5e138e04226d57bee3c9cc504",
+      "bytes": 157472
+    },
+    {
+      "path": "gameplay/nodes/completed-1-stars-256.png",
+      "sha256": "41f4c252ab8173389067a138a5f106f87c43f32ed08428c02d97b4a2fb750039",
+      "bytes": 59358
+    },
+    {
+      "path": "gameplay/nodes/completed-1-stars-256.webp",
+      "sha256": "5823da8e7cdbc5527df8d39731770b20d39f8df4e7fa1ee1ff9415790c3fd4fb",
+      "bytes": 40570
+    },
+    {
+      "path": "gameplay/nodes/completed-1-stars-512.png",
+      "sha256": "67906553209e52af60b32ce0c1b1a1e0d464bf3c594fc31d454db7214e58f186",
+      "bytes": 201871
+    },
+    {
+      "path": "gameplay/nodes/completed-1-stars-512.webp",
+      "sha256": "29793ec3e18dc7c68f1d9bce1646e623291c032f0f78f7116c080ab3c3a5845b",
+      "bytes": 133852
+    },
+    {
+      "path": "gameplay/nodes/completed-2-stars-256.png",
+      "sha256": "ab1f24c1bbd0ea1d12f8bcdc8f45a305916ba4064a254ce80f213c666315d18b",
+      "bytes": 57488
+    },
+    {
+      "path": "gameplay/nodes/completed-2-stars-256.webp",
+      "sha256": "d366ac438a0b278c656441d3652a8bce2ad22d9d7b26d02cf26094901e28898d",
+      "bytes": 40750
+    },
+    {
+      "path": "gameplay/nodes/completed-2-stars-512.png",
+      "sha256": "0992f805d9316f91892c12d7a9c1bb24994713dfe5a658440dab74cc416635f5",
+      "bytes": 194219
+    },
+    {
+      "path": "gameplay/nodes/completed-2-stars-512.webp",
+      "sha256": "038f5764821e99bb4feeca3653b041c937d0151b690f4687a283390beff8053f",
+      "bytes": 134986
+    },
+    {
+      "path": "gameplay/nodes/completed-256.png",
+      "sha256": "9490c7f716d66d05d3e6e3a21bb5af50306fce8096bc698bf20917f77d4e998c",
+      "bytes": 57940
+    },
+    {
+      "path": "gameplay/nodes/completed-256.webp",
+      "sha256": "26e7fe459f593336380d78d98d0132c788f87b75cf5d16aa0b328407d29486ea",
+      "bytes": 39366
+    },
+    {
+      "path": "gameplay/nodes/completed-3-stars-256.png",
+      "sha256": "ad2187acb9151e64607a305029b86cd74e7ecade370a78e8ee6fdcf50e0c6327",
+      "bytes": 60401
+    },
+    {
+      "path": "gameplay/nodes/completed-3-stars-256.webp",
+      "sha256": "9320403f553316b1db9242a4af2b12c94b1c651d9ad7af5206b974afdf843126",
+      "bytes": 42422
+    },
+    {
+      "path": "gameplay/nodes/completed-3-stars-512.png",
+      "sha256": "02c5240c4cd215bab10c1c2733376b4a9d37b9caa7d44c7f947f2626142c9369",
+      "bytes": 197387
+    },
+    {
+      "path": "gameplay/nodes/completed-3-stars-512.webp",
+      "sha256": "e621c1f5717709fd3119024aca1089f84608cbcd57b77f7cd8992081da49220b",
+      "bytes": 139504
+    },
+    {
+      "path": "gameplay/nodes/completed-512.png",
+      "sha256": "e7d81cc277fbcf98615f7a760c5f81f5a19a9254304d1d4b7478d94e7947dc07",
+      "bytes": 198505
+    },
+    {
+      "path": "gameplay/nodes/completed-512.webp",
+      "sha256": "f643ce0526734379e3a4f0c91afb0f8e650459d328db3d7565baf89a725a2603",
+      "bytes": 130540
+    },
+    {
+      "path": "gameplay/nodes/current-256.png",
+      "sha256": "142639e4cf3305f5d56a880d94ae3787a0b52a7b8f8becb19d54a73633f3b5e2",
+      "bytes": 73170
+    },
+    {
+      "path": "gameplay/nodes/current-256.webp",
+      "sha256": "fe72da5a7f4ef4ad8628914e2ae79dde3926dfc0c7d85e5a7dac79fa9456835a",
+      "bytes": 52876
+    },
+    {
+      "path": "gameplay/nodes/current-512.png",
+      "sha256": "534d9f2a94c1a543a8569cff88aef1205adb74304a6a81cf84342fa13f88747b",
+      "bytes": 255134
+    },
+    {
+      "path": "gameplay/nodes/current-512.webp",
+      "sha256": "ff427eb2b64c08c8d618637434874ce68ae6f0705a51be63c80ee2b645fa6bfc",
+      "bytes": 180222
+    },
+    {
+      "path": "gameplay/nodes/locked-256.png",
+      "sha256": "40e76b52a0d3bb2cea16b72d648c1cd9c65ea521516235e746d3318e490c7a67",
+      "bytes": 59985
+    },
+    {
+      "path": "gameplay/nodes/locked-256.webp",
+      "sha256": "276bf4115ff88c8a631fd1368fece8843ae348662c33159e74f162a28f0b0998",
+      "bytes": 39936
+    },
+    {
+      "path": "gameplay/nodes/locked-512.png",
+      "sha256": "ffa95a7cc1442dce52424be280ff562672908dd2ef286b6077125ee156250d47",
+      "bytes": 208041
+    },
+    {
+      "path": "gameplay/nodes/locked-512.webp",
+      "sha256": "677b9f6fbd16acb65d8c2bef92d47f967c48e62e37325cf89a9b59a188a71b43",
+      "bytes": 135758
+    },
+    {
+      "path": "gameplay/nodes/locked-badge-256.png",
+      "sha256": "f3316d510ad52dcdeee247bd6f03760717fb528cbd571e0405c79a7a8c6b8ab9",
+      "bytes": 66106
+    },
+    {
+      "path": "gameplay/nodes/locked-badge-256.webp",
+      "sha256": "825f1f889c5b922516dd33752876cfd8791eeac78dc84898f9336c3dd404fa05",
+      "bytes": 45712
+    },
+    {
+      "path": "gameplay/nodes/locked-badge-512.png",
+      "sha256": "33cc04ea0b726cbf7cacdcbeeaaf7ed9f52224d48450a1ef77c084b559c5da70",
+      "bytes": 222987
+    },
+    {
+      "path": "gameplay/nodes/locked-badge-512.webp",
+      "sha256": "232717b0c8cad9aee9c6f3c5a2a016f806f9fad6fdd2e487c1a076fdfa5b04b8",
+      "bytes": 147322
+    },
+    {
+      "path": "gameplay/nodes/unlocked-256.png",
+      "sha256": "a75457597b0fbc945ef7c100420802a0e254cab938b70f4e0e9dcde3bcbc9560",
+      "bytes": 59003
+    },
+    {
+      "path": "gameplay/nodes/unlocked-256.webp",
+      "sha256": "91ae9ef3d404aa10001646766fa755bf95646acac34f04e0fbe68cce3b9d5499",
+      "bytes": 38724
+    },
+    {
+      "path": "gameplay/nodes/unlocked-512.png",
+      "sha256": "8de5a8936fc5c744a06a6670a3609d8a86729e171fa0709e703e1375efdd7155",
+      "bytes": 203894
+    },
+    {
+      "path": "gameplay/nodes/unlocked-512.webp",
+      "sha256": "fec8bf208f830060422d0d7b0fdb87a32bee0ebd94ecc13de8c73002a53542e5",
+      "bytes": 132160
+    },
+    {
+      "path": "gameplay/paths/grass-curve-256.png",
+      "sha256": "7d48903ef414165453254a3c0503707eaf13514972c27f3671344e04b8d5febb",
+      "bytes": 43287
+    },
+    {
+      "path": "gameplay/paths/grass-curve-256.webp",
+      "sha256": "ba8dda4e51664b1604778cd07770bde4cef53844b341e80e39245c321e3a9552",
+      "bytes": 31822
+    },
+    {
+      "path": "gameplay/paths/grass-curve-512.png",
+      "sha256": "4e6fa1a83abc20e7c5b0496930c385849abf1bb81a5716616d5c7b286412d068",
+      "bytes": 143777
+    },
+    {
+      "path": "gameplay/paths/grass-curve-512.webp",
+      "sha256": "8b6444c1ccfb283a927cc8f31d88cc9855b1e32c4b0a5e234be48294bc3e4600",
+      "bytes": 101888
+    },
+    {
+      "path": "gameplay/paths/rope-bridge-256.png",
+      "sha256": "364d1a13b9a975c5feb74281b8efa372c9b4450600d0bd2fe34753363abe078e",
+      "bytes": 33610
+    },
+    {
+      "path": "gameplay/paths/rope-bridge-256.webp",
+      "sha256": "022eaf43af38f1bf5084db793621e97f7776923293b0b7bd0ea8f8b162f2d7a1",
+      "bytes": 26690
+    },
+    {
+      "path": "gameplay/paths/rope-bridge-512.png",
+      "sha256": "bfbb098049e48bf0b40e4f1142ded6b33582a5a707327b2476f3ce00b01a393d",
+      "bytes": 108760
+    },
+    {
+      "path": "gameplay/paths/rope-bridge-512.webp",
+      "sha256": "7105733944697de138c7056deb69af7469983730189e9e6e551e22fa7bdf9cd0",
+      "bytes": 82974
+    },
+    {
+      "path": "gameplay/paths/star-platform-256.png",
+      "sha256": "8f79bbb71e690411d7cf2c4ad04ad7ea7bcc3a04311709261c3eb09afb5d5765",
+      "bytes": 48013
+    },
+    {
+      "path": "gameplay/paths/star-platform-256.webp",
+      "sha256": "97790adaaa1dbd5e8d415e329520382e4209e4645eac377117a1d02edf5da04c",
+      "bytes": 34814
+    },
+    {
+      "path": "gameplay/paths/star-platform-512.png",
+      "sha256": "e7136327565a637020d6b9436f47ec7c37235fd996fc3af6b5606c61bf461d62",
+      "bytes": 158140
+    },
+    {
+      "path": "gameplay/paths/star-platform-512.webp",
+      "sha256": "639cd0e8c45e879e73a96893819f9061afb34da3f948e84aa4dfcf7af33639a4",
+      "bytes": 107750
+    },
+    {
+      "path": "gameplay/paths/stone-curve-256.png",
+      "sha256": "8485f3cc6a46ec5fbcece902ee56628cc1274c88ba225272b345faed55a46209",
+      "bytes": 41101
+    },
+    {
+      "path": "gameplay/paths/stone-curve-256.webp",
+      "sha256": "b34a103a30ec3dfd3cc2c4db8f36f9bbd316b34bc0b5edfe9772f9b96ebcfdbb",
+      "bytes": 29892
+    },
+    {
+      "path": "gameplay/paths/stone-curve-512.png",
+      "sha256": "bbc6d59e916ef09db03bfa673b64ecab2a0776cc04e5da151a40827086136eb9",
+      "bytes": 139442
+    },
+    {
+      "path": "gameplay/paths/stone-curve-512.webp",
+      "sha256": "c13c14812c0a6e764a67ee735ff8a9643ebc749b7831c17d55a53522dd3790e0",
+      "bytes": 99664
+    },
+    {
+      "path": "gameplay/paths/stone-platform-256.png",
+      "sha256": "53654bbbffa7d485cd40546550ba69fdde5203ae1a7f868082c27d7289970253",
+      "bytes": 35627
+    },
+    {
+      "path": "gameplay/paths/stone-platform-256.webp",
+      "sha256": "8917f439d3dfeb9c69288b234abe9980470ce90229e1e0c12f72d59167ca5622",
+      "bytes": 24542
+    },
+    {
+      "path": "gameplay/paths/stone-platform-512.png",
+      "sha256": "30ab03e18267ee05c89e64c62bc0bf9a8d08ccda126e378be46252a99a5eafdf",
+      "bytes": 117520
+    },
+    {
+      "path": "gameplay/paths/stone-platform-512.webp",
+      "sha256": "ba5fc45a715d90de0ae43bdc7ab1a83d55c60728be91e6c0aad6afeba7e0b3bc",
+      "bytes": 79384
+    },
+    {
+      "path": "gameplay/paths/wood-bridge-256.png",
+      "sha256": "e2939fec030fcbade360b96779a6a5e067fa9199bb4f74ef6347b26159069770",
+      "bytes": 47478
+    },
+    {
+      "path": "gameplay/paths/wood-bridge-256.webp",
+      "sha256": "4792602918433e8e6cd075c5bd49e50c1654dc514f0fc1ca6789482b609aef00",
+      "bytes": 35816
+    },
+    {
+      "path": "gameplay/paths/wood-bridge-512.png",
+      "sha256": "a51233e45c32d4841f27a280bfb1be0babd9cd34f91f20f7252be79e4ac801c7",
+      "bytes": 151807
+    },
+    {
+      "path": "gameplay/paths/wood-bridge-512.webp",
+      "sha256": "4a3892a12d929d9ec94e1d234bb9f4fc3954fba4f15af6ae5590039bb0ee8e39",
+      "bytes": 110290
+    },
+    {
+      "path": "gameplay/props/banner-a-256.png",
+      "sha256": "7c1d1344a0ddea509cc865446a7f213a0d39dcdef3e162981c09268947b74f70",
+      "bytes": 49296
+    },
+    {
+      "path": "gameplay/props/banner-a-256.webp",
+      "sha256": "dc707f7d64ab9089c9aed2952ac010638162be58cd115971724d81ea09e3682e",
+      "bytes": 35142
+    },
+    {
+      "path": "gameplay/props/banner-a-512.png",
+      "sha256": "514be2f82acc472d68a17d500f17c0d27068cfc8b61a8468cfcb04ab4a158cb7",
+      "bytes": 177793
+    },
+    {
+      "path": "gameplay/props/banner-a-512.webp",
+      "sha256": "974e2f5df7e3548975dfc63b92b7e30953fb56a0b365124dbc64e0b847c6945b",
+      "bytes": 121336
+    },
+    {
+      "path": "gameplay/props/banner-b-256.png",
+      "sha256": "7b2735d5791d6b1d7c70667ba63881fb6ecadf08543a589d527f9c6a2accf2eb",
+      "bytes": 57657
+    },
+    {
+      "path": "gameplay/props/banner-b-256.webp",
+      "sha256": "572c303a084925c719de026532e1d41b492edc4eabed23b601f4fa0235c25dd9",
+      "bytes": 42268
+    },
+    {
+      "path": "gameplay/props/banner-b-512.png",
+      "sha256": "e1b07209cf38a1c3f93708e2d3aac97c0d1b44fd9785fdad68a7301ad00ace63",
+      "bytes": 203273
+    },
+    {
+      "path": "gameplay/props/banner-b-512.webp",
+      "sha256": "23c89ee0e266e221fb0d4a1035a8d9cba8a55cc5e34d70d3657f1e50bcebfd28",
+      "bytes": 141108
+    },
+    {
+      "path": "gameplay/props/direction-sign-256.png",
+      "sha256": "69f557cae1deeb3901ce76abb020ed7df24098c238755402de861e4a9f7cee31",
+      "bytes": 45748
+    },
+    {
+      "path": "gameplay/props/direction-sign-256.webp",
+      "sha256": "69d9b890351cf3f8dca3576a713ffbd8a9252508a6d0d48c822073dcd8fa4636",
+      "bytes": 33094
+    },
+    {
+      "path": "gameplay/props/direction-sign-512.png",
+      "sha256": "dd50fcd1482bf3c73bc86e3fd0de294a3a86d3d4e693ded827d090a1fb7e131d",
+      "bytes": 151649
+    },
+    {
+      "path": "gameplay/props/direction-sign-512.webp",
+      "sha256": "dd2e859733a89beab8f3aebcc011b24140b25fc9c2d85125f473be1d33f1d58d",
+      "bytes": 103774
+    },
+    {
+      "path": "gameplay/props/lantern-256.png",
+      "sha256": "67b2095edfef8cca2829486476c0048f0361ab8a435ea9ea9ea29e73a6928cd3",
+      "bytes": 55543
+    },
+    {
+      "path": "gameplay/props/lantern-256.webp",
+      "sha256": "99988c2ba6ee43d0a3151af3680ba995b18257ede3f9029e58d970b1723bd058",
+      "bytes": 40800
+    },
+    {
+      "path": "gameplay/props/lantern-512.png",
+      "sha256": "57488a4647cb3e7971ea3887eb3f7b51dd94e7f075d878ae0dd1bf3708843a16",
+      "bytes": 188102
+    },
+    {
+      "path": "gameplay/props/lantern-512.webp",
+      "sha256": "bf32f80f7da8c4e871c9f0277e6a694480eec223364da7692140aeb42f91750c",
+      "bytes": 132714
+    },
+    {
+      "path": "gameplay/rewards/booster-256.png",
+      "sha256": "71d92e8af83251646762aff93ce3f6cb0ad86063710f7b03080c82235abff23c",
+      "bytes": 54163
+    },
+    {
+      "path": "gameplay/rewards/booster-256.webp",
+      "sha256": "37fe72b48823af3f0100015df6603b898b4bd7bcba458162e8dff0ab7f476d30",
+      "bytes": 39270
+    },
+    {
+      "path": "gameplay/rewards/booster-512.png",
+      "sha256": "735842d0cb8686dff36344925788850d8aba305f91d71936f32cafc7569464c4",
+      "bytes": 178947
+    },
+    {
+      "path": "gameplay/rewards/booster-512.webp",
+      "sha256": "47dacee3eadabda0090792de4c2c7cb1f84c384f840e04469a42c589f79a94f4",
+      "bytes": 123722
+    },
+    {
+      "path": "gameplay/rewards/character-discovery-256.png",
+      "sha256": "92f57300f8f059fe7f5ea14029d0a78d5ae0d1a433b96676955729aa21b225fb",
+      "bytes": 75025
+    },
+    {
+      "path": "gameplay/rewards/character-discovery-256.webp",
+      "sha256": "e925a1eddb5fb5d299b4c000e125ca32802373098ac652ace9d89e01fc7c6c5e",
+      "bytes": 50204
+    },
+    {
+      "path": "gameplay/rewards/character-discovery-512.png",
+      "sha256": "b2b37dba17a8db19dbdf7430b7cb7f639672dd677a2dd91c6aaf12701268e5cc",
+      "bytes": 266070
+    },
+    {
+      "path": "gameplay/rewards/character-discovery-512.webp",
+      "sha256": "d82dff7dc7632d427c00b023a20d9ccb3d5d10d3fcb66092f54c9addbd60b74f",
+      "bytes": 180050
+    },
+    {
+      "path": "gameplay/rewards/chest-closed-256.png",
+      "sha256": "661965fa1cd05866b2e9bf04f37a1b8c5bf654c0bc11873c5d7f9dac4f4328e0",
+      "bytes": 64214
+    },
+    {
+      "path": "gameplay/rewards/chest-closed-256.webp",
+      "sha256": "5c4117650de89a143901a6f62e18cfba57c5584caafc886875778e798988d53d",
+      "bytes": 47352
+    },
+    {
+      "path": "gameplay/rewards/chest-closed-512.png",
+      "sha256": "52f0ff77c570765262ad04f5266b8b608df9e18616dbe2e25353eb35e6631028",
+      "bytes": 227729
+    },
+    {
+      "path": "gameplay/rewards/chest-closed-512.webp",
+      "sha256": "9cbca9e8d42edf7f6ab12af2c1df0c97a55a72a0d196f34e4dca3d7fc7db93bb",
+      "bytes": 163336
+    },
+    {
+      "path": "gameplay/rewards/chest-open-256.png",
+      "sha256": "e8ecc0e6c07170b13273b9595844a7035da7e76d6e174e220ca7f22fc106f1d1",
+      "bytes": 69501
+    },
+    {
+      "path": "gameplay/rewards/chest-open-256.webp",
+      "sha256": "123797353761cd4f4ebea45d8f189d756944e3a4703de1864d574748cdc4f63f",
+      "bytes": 50024
+    },
+    {
+      "path": "gameplay/rewards/chest-open-512.png",
+      "sha256": "86d5e645576e6ea8c7ab998b857dfe79cdb7e7eee7afb1bc1347d095738c040f",
+      "bytes": 235495
+    },
+    {
+      "path": "gameplay/rewards/chest-open-512.webp",
+      "sha256": "b03866b4efc308073d7d2cb4444c006da5503c1a9f1e5cc59c7d2de9bddfc80f",
+      "bytes": 164582
+    },
+    {
+      "path": "gameplay/rewards/coin-256.png",
+      "sha256": "746f030fcaaf95b2dbe806cc8bdf3f405de4ada16ff0c3de21ec0ea2ec1e657f",
+      "bytes": 74107
+    },
+    {
+      "path": "gameplay/rewards/coin-256.webp",
+      "sha256": "5f7caa4d7e6307838ef2860f5684e5fbd2e40b539046f7dc45b2666f2d4d32f7",
+      "bytes": 51190
+    },
+    {
+      "path": "gameplay/rewards/coin-512.png",
+      "sha256": "062e55bf9063558cf2c9f7f29746860e6bbcee672ce56b91520349b80ccf5b7f",
+      "bytes": 247632
+    },
+    {
+      "path": "gameplay/rewards/coin-512.webp",
+      "sha256": "af8a9d6617a815f60e8649a686a58f78875180eebeace9518f13ed6b49e2c019",
+      "bytes": 165218
+    },
+    {
+      "path": "gameplay/rewards/floral-frame-256.png",
+      "sha256": "f6e78124f6cba1cf7fdb25090a72f7fd2dfbdadf4ab6841681ab65c447daeb57",
+      "bytes": 55657
+    },
+    {
+      "path": "gameplay/rewards/floral-frame-256.webp",
+      "sha256": "5619e1eb2c47a757df9a278632392c9de836123f55032b4be107f60cbe12f7a2",
+      "bytes": 44144
+    },
+    {
+      "path": "gameplay/rewards/floral-frame-512.png",
+      "sha256": "175f3a5c68850d479ffb4ea15d8d41137b27889c79dbd9aff626767f779903b2",
+      "bytes": 173835
+    },
+    {
+      "path": "gameplay/rewards/floral-frame-512.webp",
+      "sha256": "6029156de25083e0aee68e01675e746d61af0d49bfa206e02346ee0045db6d4a",
+      "bytes": 129654
+    },
+    {
+      "path": "gameplay/rewards/gem-256.png",
+      "sha256": "711ab112ceb3b14dee0a254c224c946f889982f28a3e02b5db93ec0a2e2e60e7",
+      "bytes": 56484
+    },
+    {
+      "path": "gameplay/rewards/gem-256.webp",
+      "sha256": "8781c093dbe1d119d078414ab824f6bb6fd63c5f1d2dd92ede02de5049aa2f4e",
+      "bytes": 37484
+    },
+    {
+      "path": "gameplay/rewards/gem-512.png",
+      "sha256": "e6002ca2d51379cec1b561289d737e388d2686a4eb863c4e8e1857695e648016",
+      "bytes": 193094
+    },
+    {
+      "path": "gameplay/rewards/gem-512.webp",
+      "sha256": "5d81ffe81c6c6f684b45c134c3c92540bf4e4a89aa8e56fb04af83861161297d",
+      "bytes": 125632
+    },
+    {
+      "path": "gameplay/rewards/gift-256.png",
+      "sha256": "262f1ec2005c336eca563681222795b56faa0286a6dff89e0b830c9566edfd2e",
+      "bytes": 78032
+    },
+    {
+      "path": "gameplay/rewards/gift-256.webp",
+      "sha256": "d204d6fce9e3e16deb9759ff85043101ca347110602ccc6f2cf2c54026366110",
+      "bytes": 56710
+    },
+    {
+      "path": "gameplay/rewards/gift-512.png",
+      "sha256": "cbf1df2195acdd3e7f6ae9273086cbb2862a8d005544cd08b0c6449cd0ee6ca4",
+      "bytes": 253110
+    },
+    {
+      "path": "gameplay/rewards/gift-512.webp",
+      "sha256": "a88ebaf80182ca5cc4a310564bc6456f1160b6b64c5089361939a5e56381daf2",
+      "bytes": 175680
+    },
+    {
+      "path": "gameplay/rewards/new-cannon-256.png",
+      "sha256": "8007a375ebd7ef4b83bf3655beeccd389af2c3996b197fabbd2ebcbcec95ec0f",
+      "bytes": 79080
+    },
+    {
+      "path": "gameplay/rewards/new-cannon-256.webp",
+      "sha256": "987db4b31c767e66472b404629b48cba88fca66c224f18cbd623a661643a5385",
+      "bytes": 56640
+    },
+    {
+      "path": "gameplay/rewards/new-cannon-512.png",
+      "sha256": "53e93eda0d698ee5acc4076f4e31a7a30d52bec45e7ba371942217d111c60368",
+      "bytes": 272885
+    },
+    {
+      "path": "gameplay/rewards/new-cannon-512.webp",
+      "sha256": "a375637de2aa3594c730ad2a7c79ac654347a0e7b98546a0e2c68d9433c528dc",
+      "bytes": 186510
+    },
+    {
+      "path": "gameplay/rewards/star-256.png",
+      "sha256": "4ad951698c6b098ebbe1dd633e99fe3dcd7116d8d2e1451bff35f4df058b245b",
+      "bytes": 49709
+    },
+    {
+      "path": "gameplay/rewards/star-256.webp",
+      "sha256": "a95bc2a2ebf83e1aeff0a9bd4ab40a443d9600ba9bf3f1b6ca3e39acdad8c67f",
+      "bytes": 32628
+    },
+    {
+      "path": "gameplay/rewards/star-512.png",
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736",
+      "bytes": 169778
+    },
+    {
+      "path": "gameplay/rewards/star-512.webp",
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e",
+      "bytes": 107632
+    },
+    {
+      "path": "gameplay/rewards/star-empty-256.png",
+      "sha256": "c97dcdc32cf25e9698354630bb38cb28c5eff5b26628bc20d0a8a23f540e3c89",
+      "bytes": 52037
+    },
+    {
+      "path": "gameplay/rewards/star-empty-256.webp",
+      "sha256": "8e4f2e7c3503d8c081bd6d75a2aab40d37597249e0d45d810590fbac7379d711",
+      "bytes": 33804
+    },
+    {
+      "path": "gameplay/rewards/star-empty-512.png",
+      "sha256": "1ec093f300ea80ec98a7153122536fb43e5960865601428b72c2b923c75caab4",
+      "bytes": 177030
+    },
+    {
+      "path": "gameplay/rewards/star-empty-512.webp",
+      "sha256": "b64c8010fa1fed801a4c8ebe50afda89ef76cf6629b3285738e48b928a2fbfab",
+      "bytes": 114162
+    },
+    {
+      "path": "gameplay/transitions/portal-activate-256.png",
+      "sha256": "a32895bc42e6d6ae8fdc66b2eb3d447c8467e574b83fc6ec10aaba8db84aa106",
+      "bytes": 70425
+    },
+    {
+      "path": "gameplay/transitions/portal-activate-256.webp",
+      "sha256": "da109b505bb6f8f5b9d20e30db4e92f71152ba2e9ed4eeebb22e356e4d415874",
+      "bytes": 53870
+    },
+    {
+      "path": "gameplay/transitions/portal-activate-512.png",
+      "sha256": "e7f2412de45e3d5496aeb2e648bcde8fffa6c91f7705d9dae2ccf10de60e88af",
+      "bytes": 231572
+    },
+    {
+      "path": "gameplay/transitions/portal-activate-512.webp",
+      "sha256": "a96c610f119942a1ec8a187d0a2b588caa613ba32ce8c083052811128a1401be",
+      "bytes": 171996
+    },
+    {
+      "path": "gameplay/transitions/portal-charge-256.png",
+      "sha256": "0128497c84e8d285f5eb3d94b0d9207652c2d7a31041a0532ed5916ff004459d",
+      "bytes": 69422
+    },
+    {
+      "path": "gameplay/transitions/portal-charge-256.webp",
+      "sha256": "110adb568221220e40b41af050adbcaec892fbd25a3ee48d9c9861a18f06a292",
+      "bytes": 50558
+    },
+    {
+      "path": "gameplay/transitions/portal-charge-512.png",
+      "sha256": "78777ff1ef945dd787c81f597d551e8ede89a82ed217f2c4c55b8b0d3c3f032e",
+      "bytes": 227596
+    },
+    {
+      "path": "gameplay/transitions/portal-charge-512.webp",
+      "sha256": "88ec2ada4340b31d78de56bf52dc2b02c6c8d0cbb808a726c10e2e5502a0143a",
+      "bytes": 160500
+    },
+    {
+      "path": "gameplay/transitions/portal-idle-256.png",
+      "sha256": "5ed77167eb71bc1efd6e10076dde86bd10cd977f65216ab23c9a64710b8c40b8",
+      "bytes": 67628
+    },
+    {
+      "path": "gameplay/transitions/portal-idle-256.webp",
+      "sha256": "ea4ed0e0140b8689b527561e4810f5d20c2898b835ce1395f58328918df66430",
+      "bytes": 49848
+    },
+    {
+      "path": "gameplay/transitions/portal-idle-512.png",
+      "sha256": "27d136e7544651121861e89500066b4cf0e34e28a454ce27025b2dec15d0baae",
+      "bytes": 220705
+    },
+    {
+      "path": "gameplay/transitions/portal-idle-512.webp",
+      "sha256": "57daa59c8de4ce13a28a817e791aefff97e3c0b172e5987fe07ea00a904134fe",
+      "bytes": 155858
+    },
+    {
+      "path": "gameplay/ui/celebration-banner-256.png",
+      "sha256": "20ee1c9e74ed11153008b2dd9c9ee5ff5c433181f4c49cefc81a776f3c8382c8",
+      "bytes": 17405
+    },
+    {
+      "path": "gameplay/ui/celebration-banner-256.webp",
+      "sha256": "e9094e454af283928087a5b79e631c361bbeb9912cded9a657f43f54849cdae8",
+      "bytes": 13028
+    },
+    {
+      "path": "gameplay/ui/celebration-banner-512.png",
+      "sha256": "1486195e04add0e65aa901fae2683f63484143b489ea08f82f1c06cf3d23ea8f",
+      "bytes": 53657
+    },
+    {
+      "path": "gameplay/ui/celebration-banner-512.webp",
+      "sha256": "2a78ff6fc6c6f9049c240e024ff2944e8efdd10d19241957998d4733f1f7ea63",
+      "bytes": 37982
+    },
+    {
+      "path": "gameplay/ui/level-panel-256.png",
+      "sha256": "e8658050d420c2de2a709358633fcee66b913b78443c093aed018b52cd5a9458",
+      "bytes": 44890
+    },
+    {
+      "path": "gameplay/ui/level-panel-256.webp",
+      "sha256": "512b3bedb7bf1d4a4150b58da1f67dc41db56d767e48d8975090fd41ef6ab8c4",
+      "bytes": 30226
+    },
+    {
+      "path": "gameplay/ui/level-panel-512.png",
+      "sha256": "8e87d3066b71d9d15dfef91a98c6126faac4d8cdbdabfea3814033f4a491ad94",
+      "bytes": 169534
+    },
+    {
+      "path": "gameplay/ui/level-panel-512.webp",
+      "sha256": "c19230eb4e05e6999beaf35aff549d32109003f9971fe0449ba1c0be5f010a39",
+      "bytes": 112648
+    },
+    {
+      "path": "gameplay/ui/play-button-256.png",
+      "sha256": "8daeb392a052d9e966eb493e2a1964ad5ae6c9c8829f9d9f472ec548ac84f258",
+      "bytes": 20036
+    },
+    {
+      "path": "gameplay/ui/play-button-256.webp",
+      "sha256": "9371806a9d192902997a906e1912d801ee540f23e2d443e83df7702c44ad89a4",
+      "bytes": 14450
+    },
+    {
+      "path": "gameplay/ui/play-button-512.png",
+      "sha256": "36b8bd69f7eb5c9d824eddcc8ef6314e844ea28231aad70d338d4bd4f4904012",
+      "bytes": 67709
+    },
+    {
+      "path": "gameplay/ui/play-button-512.webp",
+      "sha256": "96cb8bf7be8da98511adf4d3368ff9d689f266c138239ea904c5712ec7d40ef1",
+      "bytes": 44888
+    },
+    {
+      "path": "gameplay/ui/play-button-icon-256.png",
+      "sha256": "7271a41c2128d965558b8c28e930c553f4437090b3a7e34e165066783df89d5b",
+      "bytes": 21383
+    },
+    {
+      "path": "gameplay/ui/play-button-icon-256.webp",
+      "sha256": "0420727e04ac9a16bbeaacfc97068c17e064d43efda8f5fe200cfd6dfa72ad37",
+      "bytes": 15790
+    },
+    {
+      "path": "gameplay/ui/play-button-icon-512.png",
+      "sha256": "4ea7099d0a7edd89df491603c16468640740245c264e394da6b9834e1ae0ed57",
+      "bytes": 72258
+    },
+    {
+      "path": "gameplay/ui/play-button-icon-512.webp",
+      "sha256": "74e91b53680ba410fa28e38e44af9b948239a07bc9873006e9f27000c43e8f3f",
+      "bytes": 48642
+    },
+    {
+      "path": "gameplay/ui/world-card-256.png",
+      "sha256": "50de572eec7a490d4d0efe02a07c14309ec5ad742fe730547b5503f6253e624c",
+      "bytes": 37063
+    },
+    {
+      "path": "gameplay/ui/world-card-256.webp",
+      "sha256": "7cb838131fde48d7ac328b411770ef30c9a0fad1ea48111a2cf60275a4bd81ea",
+      "bytes": 26580
+    },
+    {
+      "path": "gameplay/ui/world-card-512.png",
+      "sha256": "89d9a2059206016d1967fb5f3491ca69fdce056d19b8ec3efa1d0d6defb1e314",
+      "bytes": 128287
+    },
+    {
+      "path": "gameplay/ui/world-card-512.webp",
+      "sha256": "ed7ec1152d9e07b2ef24ecaa2005951c45d53b485746362545e819d85d94772d",
+      "bytes": 85982
+    },
+    {
+      "path": "gameplay/ui/world-sign-256.png",
+      "sha256": "907f4cdf1625632c01399582ca63d47c97dbf466e0e61562a2b5253dd2a3ec72",
+      "bytes": 44388
+    },
+    {
+      "path": "gameplay/ui/world-sign-256.webp",
+      "sha256": "7767424462be19de5e307587f58abe7f483fe68b41089068da2026d4e7809ddd",
+      "bytes": 29858
+    },
+    {
+      "path": "gameplay/ui/world-sign-512.png",
+      "sha256": "8fe67eacffa4461528481c21e8e388738ffed975e3dbcc62c2849a5efd741b91",
+      "bytes": 159005
+    },
+    {
+      "path": "gameplay/ui/world-sign-512.webp",
+      "sha256": "84ce5047a5a3b5dfe0e88f925572599f6456a9e49673fd4053d79fb6b561e805",
+      "bytes": 103772
+    },
+    {
+      "path": "gameplay/worlds/cloudberry-256.png",
+      "sha256": "34ced8c3dd9d38e9b655093a5b20a3389e5285d6f3a42571f226a384da445c10",
+      "bytes": 85813
+    },
+    {
+      "path": "gameplay/worlds/cloudberry-256.webp",
+      "sha256": "24529ca819c94d7e1d6b589e60f7c8d9d768fe35912c3a2134b15e7013caf83c",
+      "bytes": 67590
+    },
+    {
+      "path": "gameplay/worlds/cloudberry-512.png",
+      "sha256": "b5b30b2cdf86bf93d13c5d2e0a084497fdb055c8985ad4210450e9cd693dd67c",
+      "bytes": 288558
+    },
+    {
+      "path": "gameplay/worlds/cloudberry-512.webp",
+      "sha256": "b11dc5dc2ace67091164245956cf662558da0c12ac8570cfa3477dd44dcca7c9",
+      "bytes": 221316
+    },
+    {
+      "path": "gameplay/worlds/honeydrop-256.png",
+      "sha256": "d164cdcb3310b362649159c1934cb854cc2dc1178d74426ae4d2bf6a5248b37c",
+      "bytes": 83245
+    },
+    {
+      "path": "gameplay/worlds/honeydrop-256.webp",
+      "sha256": "18ca0a4de67e29cab8368975319d3754ebd893a4f4c50ecc39e3b534193f47d4",
+      "bytes": 64926
+    },
+    {
+      "path": "gameplay/worlds/honeydrop-512.png",
+      "sha256": "1ec17bd4340e680e2ff2fa66dbf446aec53fcffa8fa7f47cafe789a0c0a34b4c",
+      "bytes": 279146
+    },
+    {
+      "path": "gameplay/worlds/honeydrop-512.webp",
+      "sha256": "dac88d1c669e7ce7134c72237cc50b27bd857935d3d7a2737415b04a4b0ba1ee",
+      "bytes": 212610
+    },
+    {
+      "path": "gameplay/worlds/moonmallow-256.png",
+      "sha256": "2ef21425b3674c10706409fe81aaf0e962b9d3f8365ed1b6982bff87fcc0ee5e",
+      "bytes": 69487
+    },
+    {
+      "path": "gameplay/worlds/moonmallow-256.webp",
+      "sha256": "13eea5a0850ee7352aa031c652b30b5a320d261ff6bbd9791215a09db0b69d35",
+      "bytes": 54828
+    },
+    {
+      "path": "gameplay/worlds/moonmallow-512.png",
+      "sha256": "5f1b510ecfb29ac0520ade12a0348b58d2bfe897e12dc66f1567abafe130f9c8",
+      "bytes": 228044
+    },
+    {
+      "path": "gameplay/worlds/moonmallow-512.webp",
+      "sha256": "c704a259595db6e77a12fe5a309e850e46d8180c3f2e12eb6d48b7cf776452d2",
+      "bytes": 174674
+    },
+    {
+      "path": "gameplay/worlds/sugarstar-256.png",
+      "sha256": "60eb3cdcaa567c791ab8f6e76b053108d3047b4f7ffbc7100860d3acaecf2b60",
+      "bytes": 84182
+    },
+    {
+      "path": "gameplay/worlds/sugarstar-256.webp",
+      "sha256": "95f57b507751ed856aa9103ca6af6b40b5a8ac35e57eb816c3fc7a1e1a28bc23",
+      "bytes": 66630
+    },
+    {
+      "path": "gameplay/worlds/sugarstar-512.png",
+      "sha256": "1818f0df563dfa7b16a0d4ffa4856c11a56b9ed5a5e19a86e54341bc8794af5b",
+      "bytes": 277258
+    },
+    {
+      "path": "gameplay/worlds/sugarstar-512.webp",
+      "sha256": "e24b4923351431deb80e06ed6034014641f22d9aad9fc6648efa71cb49da5e20",
+      "bytes": 213752
+    },
+    {
+      "path": "generation.json",
+      "sha256": "ee28f7662c6621676c4a5edd62f1deae2fc09bcb04eb6433028da271180cf826",
+      "bytes": 19339
+    },
+    {
+      "path": "masters/animation/chest-closed.png",
+      "sha256": "aba1bf64971cef3238250f71dc3adfe8a44f9a0592c212c4ba1433e2b2617af1",
+      "bytes": 854146
+    },
+    {
+      "path": "masters/animation/chest-open.png",
+      "sha256": "9d12d3a1e2fceee9a7f5d928bcad6dc6acde719c2950ef0d09dbfffb2674a147",
+      "bytes": 873532
+    },
+    {
+      "path": "masters/animation/chest-reward.png",
+      "sha256": "5cb045af38b286d82ca38b438785c2bba81736eb1965361d660afc52f7af4188",
+      "bytes": 934645
+    },
+    {
+      "path": "masters/animation/portal-activate.png",
+      "sha256": "49c08e24e586c91e126b791c306c5cc0f63beb85498d6b641e3f819106a9e402",
+      "bytes": 793059
+    },
+    {
+      "path": "masters/animation/portal-charge.png",
+      "sha256": "96d5a880c2726c2d31b07f6c2f37471a181d39425a774dbe0dec67cf84c79cd4",
+      "bytes": 782677
+    },
+    {
+      "path": "masters/animation/portal-idle.png",
+      "sha256": "bb7746a03c291c3692d12158849eb96461ce80a2b9ee5ec8fd8c2a7e1ffe9ac7",
+      "bytes": 766810
+    },
+    {
+      "path": "masters/animation/star-full.png",
+      "sha256": "20f7ac0070d2f5f45560cc4bfcbccd21b8171e9dd6a54f91cffdd70d09458efa",
+      "bytes": 550669
+    },
+    {
+      "path": "masters/animation/star-medium.png",
+      "sha256": "df24d7aeb165b2b19da6894207ad7877313226dc7f3107d7328f784781e0cfeb",
+      "bytes": 347924
+    },
+    {
+      "path": "masters/animation/star-small.png",
+      "sha256": "4903344c27379557b5937b9958b3a32323f3f372ffce686e8b4bf915680b86e6",
+      "bytes": 164636
+    },
+    {
+      "path": "masters/animation/unlock-locked.png",
+      "sha256": "a47151922aec6659a80e18a0814fbf12fc60e74f3fd7303dc7b96771397d80d6",
+      "bytes": 800841
+    },
+    {
+      "path": "masters/animation/unlock-ready.png",
+      "sha256": "8de7e9ae2ff9b1c442243492b070172cf5bb690fcd42b3d82ee61e3fb6567471",
+      "bytes": 684638
+    },
+    {
+      "path": "masters/animation/unlock-selected.png",
+      "sha256": "4f2624bc7dfabba002b825b72772f75c359188d9937891fdbac1eeb31c2b15ac",
+      "bytes": 906318
+    },
+    {
+      "path": "masters/backgrounds/cloud-sky.png",
+      "sha256": "4fc81ae8270a72b4cad7d088e0f721bea9d16ec490b3d32ab9326c3349cf7111",
+      "bytes": 901515
+    },
+    {
+      "path": "masters/cards/cloudberry.png",
+      "sha256": "1f5561660aae1616cbcc20a88b9b8f717ce3677c80820bdc1b23a3e459b1e56a",
+      "bytes": 737011
+    },
+    {
+      "path": "masters/cards/honeydrop.png",
+      "sha256": "75fedb084c2fba9f87ef014ca48434b447dbfc0014c7652a490450cb01abfaed",
+      "bytes": 766778
+    },
+    {
+      "path": "masters/cards/moonmallow.png",
+      "sha256": "6b33965bd4bccc7494720329a6eb86904599d8816a047499ba07d6df04699122",
+      "bytes": 747149
+    },
+    {
+      "path": "masters/cards/sugarstar.png",
+      "sha256": "b0c9e5df75f0480d2f9a4d8c002c280e23325135f6a3978b02ab2c30db8ef53d",
+      "bytes": 698056
+    },
+    {
+      "path": "masters/effects/sparkles.png",
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "bytes": 291978
+    },
+    {
+      "path": "masters/effects/star-trail.png",
+      "sha256": "1bc911f2bca22b2cbeaf6bb13e778a03a22e1d70c6d683f0074c597f0ee42374",
+      "bytes": 411538
+    },
+    {
+      "path": "masters/examples/level-preview.png",
+      "sha256": "da6d507b89845542abd5ecd1c176f4eee73f3d84b7066596914052f26d959b05",
+      "bytes": 818089
+    },
+    {
+      "path": "masters/examples/world-complete.png",
+      "sha256": "8ee4a18d8f527cd88d1d3f0edb742ca13ef0c2de99267385de00c3c4de672bac",
+      "bytes": 781799
+    },
+    {
+      "path": "masters/examples/world-selection.png",
+      "sha256": "106081b30f34703f858bc03f40622383eb3a1a84f1d73c59435a532f6250c7a9",
+      "bytes": 473028
+    },
+    {
+      "path": "masters/examples/world-unlocked.png",
+      "sha256": "5a2113ac97cb2d4ed4a7ed6b1446d42d5ca1890b28dad4f3580eaefe4dee9429",
+      "bytes": 975699
+    },
+    {
+      "path": "masters/gateways/cloudberry-active.png",
+      "sha256": "987eefcad1f8d1e11062198c4e707ef3cb915570bb81c11efa5c2dbee1983f63",
+      "bytes": 1020837
+    },
+    {
+      "path": "masters/gateways/cloudberry-base.png",
+      "sha256": "7fe36f91b7c07540315735e94cd3544356e6c5b317a2b582af79eea45bae97e9",
+      "bytes": 743897
+    },
+    {
+      "path": "masters/gateways/honeydrop-active.png",
+      "sha256": "35c8339ebb74c998f5ba1bccd5541bcd373799955be3f10a0a92dd3c6f0a8b31",
+      "bytes": 930274
+    },
+    {
+      "path": "masters/gateways/honeydrop-base.png",
+      "sha256": "dcffaaf91924187ad6a91878b2d5975ff364691fdd7b565e69b950991bb2c9e1",
+      "bytes": 679575
+    },
+    {
+      "path": "masters/gateways/moonmallow-active.png",
+      "sha256": "2f6debd043a39305c12d5a099802ba04acb05d91bfb79653e17b0acafa9b7a81",
+      "bytes": 804094
+    },
+    {
+      "path": "masters/gateways/moonmallow-base.png",
+      "sha256": "2f6debd043a39305c12d5a099802ba04acb05d91bfb79653e17b0acafa9b7a81",
+      "bytes": 804094
+    },
+    {
+      "path": "masters/gateways/sugarstar-active.png",
+      "sha256": "4e5595064c24befc19e134a5cb5e199b9cf863a3d2fc87359990366e92c879f2",
+      "bytes": 597770
+    },
+    {
+      "path": "masters/gateways/sugarstar-base.png",
+      "sha256": "4e5595064c24befc19e134a5cb5e199b9cf863a3d2fc87359990366e92c879f2",
+      "bytes": 597770
+    },
+    {
+      "path": "masters/icons/check.png",
+      "sha256": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+      "bytes": 609649
+    },
+    {
+      "path": "masters/icons/lock.png",
+      "sha256": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+      "bytes": 623386
+    },
+    {
+      "path": "masters/icons/play.png",
+      "sha256": "74ada27480696bc06a107420a154168546d7a5dbab9d931a74b67f7847fc7543",
+      "bytes": 497852
+    },
+    {
+      "path": "masters/icons/world-honey.png",
+      "sha256": "b09b9423e6bb7457d16ca5ec951d3224520142d085deaa90262e52d2078583d1",
+      "bytes": 657396
+    },
+    {
+      "path": "masters/icons/world-leaf.png",
+      "sha256": "9e6fe8d6a8f30e6f667013a9e54a2cedd924622d3013c1ed08122909876ab098",
+      "bytes": 485948
+    },
+    {
+      "path": "masters/icons/world-moon.png",
+      "sha256": "27ce57ecf350e5cf42e9f11358f6238902244f409e1079cbe7e22f2527b56460",
+      "bytes": 687083
+    },
+    {
+      "path": "masters/maps/landscape.png",
+      "sha256": "1a241d407c5518234a9fbc51e5a2b3b5b75c60f0ffd87876f86c4543f097c78f",
+      "bytes": 3496131
+    },
+    {
+      "path": "masters/maps/portrait.png",
+      "sha256": "734c71454c418e4eaacc9206ee7112df0b6b765ea524a3fd8b1daf9f3ddd508f",
+      "bytes": 3098967
+    },
+    {
+      "path": "masters/nodes/completed-1-stars.png",
+      "sha256": "8cacaceec4f68e94aad1fd634f480fd21d7e1710331a050cef68cfb161c66d8c",
+      "bytes": 702416
+    },
+    {
+      "path": "masters/nodes/completed-2-stars.png",
+      "sha256": "99b96872a13ae116726ab7a2943e9f80f08b4d10ef70ff00e93f33bc3604ad4e",
+      "bytes": 673223
+    },
+    {
+      "path": "masters/nodes/completed-3-stars.png",
+      "sha256": "296fe69f6ccde0c7f729717aa1a94a2e19a504fac1364d083b66b9e2decaef4a",
+      "bytes": 653240
+    },
+    {
+      "path": "masters/nodes/completed.png",
+      "sha256": "82ceaf5bd473f1a2739c914b8b249d102378b2796501ffcf4c5973a0568ef330",
+      "bytes": 694137
+    },
+    {
+      "path": "masters/nodes/current.png",
+      "sha256": "4f2624bc7dfabba002b825b72772f75c359188d9937891fdbac1eeb31c2b15ac",
+      "bytes": 906318
+    },
+    {
+      "path": "masters/nodes/locked-badge.png",
+      "sha256": "a47151922aec6659a80e18a0814fbf12fc60e74f3fd7303dc7b96771397d80d6",
+      "bytes": 800841
+    },
+    {
+      "path": "masters/nodes/locked.png",
+      "sha256": "1233e4328d3e82a082b38f7a0eb384bc228cfab2cda4b4ec3ea1c4f65218bc80",
+      "bytes": 766954
+    },
+    {
+      "path": "masters/nodes/unlocked.png",
+      "sha256": "8de7e9ae2ff9b1c442243492b070172cf5bb690fcd42b3d82ee61e3fb6567471",
+      "bytes": 684638
+    },
+    {
+      "path": "masters/paths/grass-curve.png",
+      "sha256": "992b050b1751fab6cfeededb480cedf38ed55b1cbdcd21ad5548838b733642ae",
+      "bytes": 526297
+    },
+    {
+      "path": "masters/paths/rope-bridge.png",
+      "sha256": "88d25ea06f3ae3cb0e903d04780e61a6169f9de8f91baa431ec563ebe33d9cb5",
+      "bytes": 351511
+    },
+    {
+      "path": "masters/paths/star-platform.png",
+      "sha256": "489e4fd63614e9fbf897b60a87dbbf63c036d2c8616d03eeafe2ee56fb7d3a8a",
+      "bytes": 538295
+    },
+    {
+      "path": "masters/paths/stone-curve.png",
+      "sha256": "123c0ef89e11b6801656db02b41103a23721acf8e0a21fcfcb5837a3159e0f0b",
+      "bytes": 500204
+    },
+    {
+      "path": "masters/paths/stone-platform.png",
+      "sha256": "3e1713ccea6a5eb13d0d9ee10a921ac5e201acb305c6d407d5908bc2145a3203",
+      "bytes": 415212
+    },
+    {
+      "path": "masters/paths/wood-bridge.png",
+      "sha256": "41d02f8b8033aef98e0af5550e6eb989036513d4015c296ba44c1cf9842420de",
+      "bytes": 514463
+    },
+    {
+      "path": "masters/props/banner-a.png",
+      "sha256": "508d7271893d97ca5fb5182811794e7f8cd4cdd9fcc86b3204b5359eeb4504aa",
+      "bytes": 653831
+    },
+    {
+      "path": "masters/props/banner-b.png",
+      "sha256": "d556b7fe14f51a08378e63958ba7017760839257c7cbcb1d11c2998463078263",
+      "bytes": 713468
+    },
+    {
+      "path": "masters/props/direction-sign.png",
+      "sha256": "a7a3ef7badfbc3473b297825cd0e314bb963d1b56fd78cf66d2fe9acbaee9faf",
+      "bytes": 545187
+    },
+    {
+      "path": "masters/props/lantern.png",
+      "sha256": "59b0ff9613ab004046ece425b2c51532a0b860f1835bab5b9d90122251ce16ef",
+      "bytes": 662960
+    },
+    {
+      "path": "masters/rewards/booster.png",
+      "sha256": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+      "bytes": 606140
+    },
+    {
+      "path": "masters/rewards/character-discovery.png",
+      "sha256": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+      "bytes": 575251
+    },
+    {
+      "path": "masters/rewards/chest-closed.png",
+      "sha256": "aba1bf64971cef3238250f71dc3adfe8a44f9a0592c212c4ba1433e2b2617af1",
+      "bytes": 854146
+    },
+    {
+      "path": "masters/rewards/chest-open.png",
+      "sha256": "9d12d3a1e2fceee9a7f5d928bcad6dc6acde719c2950ef0d09dbfffb2674a147",
+      "bytes": 873532
+    },
+    {
+      "path": "masters/rewards/coin.png",
+      "sha256": "2fd2623b17148da1812a685f74ba6786bcb204c923877fbdb6c1b8536a72b510",
+      "bytes": 831654
+    },
+    {
+      "path": "masters/rewards/floral-frame.png",
+      "sha256": "93d9ea8d359d6922da56ced5f8ecc5151045624207c1ccea7c7d927dd2315347",
+      "bytes": 564370
+    },
+    {
+      "path": "masters/rewards/gem.png",
+      "sha256": "0c6a39ae85250f8ed92f465ecad13d5fcd94475be96e6c8f0c25f2cef198206a",
+      "bytes": 689230
+    },
+    {
+      "path": "masters/rewards/gift.png",
+      "sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+      "bytes": 788328
+    },
+    {
+      "path": "masters/rewards/new-cannon.png",
+      "sha256": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+      "bytes": 984095
+    },
+    {
+      "path": "masters/rewards/star-empty.png",
+      "sha256": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+      "bytes": 571694
+    },
+    {
+      "path": "masters/rewards/star.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "bytes": 575235
+    },
+    {
+      "path": "masters/transitions/portal-activate.png",
+      "sha256": "49c08e24e586c91e126b791c306c5cc0f63beb85498d6b641e3f819106a9e402",
+      "bytes": 793059
+    },
+    {
+      "path": "masters/transitions/portal-charge.png",
+      "sha256": "96d5a880c2726c2d31b07f6c2f37471a181d39425a774dbe0dec67cf84c79cd4",
+      "bytes": 782677
+    },
+    {
+      "path": "masters/transitions/portal-idle.png",
+      "sha256": "bb7746a03c291c3692d12158849eb96461ce80a2b9ee5ec8fd8c2a7e1ffe9ac7",
+      "bytes": 766810
+    },
+    {
+      "path": "masters/ui/celebration-banner.png",
+      "sha256": "12e324523e8af8cbca30322b4ff3df3ca1fa7a66cc779bd34be18a95ae49e25c",
+      "bytes": 171302
+    },
+    {
+      "path": "masters/ui/level-panel.png",
+      "sha256": "dee7bcac04d7cd6a968fec83e86c59a773c105b977e9ef8f05b084268663e299",
+      "bytes": 636197
+    },
+    {
+      "path": "masters/ui/play-button-icon.png",
+      "sha256": "ad793355371baf7d5c88a8c2b0bd476d354d9e2e75e6ff319ecd8425126eb329",
+      "bytes": 234362
+    },
+    {
+      "path": "masters/ui/play-button.png",
+      "sha256": "62021e710ac4ec21bba12ca59498c73ac40bf111ba0cb805b41f245b5d2d52e4",
+      "bytes": 225669
+    },
+    {
+      "path": "masters/ui/world-card.png",
+      "sha256": "9c20bc64c993e1dd874836e1e9f8c0588e052edb97c78c73c36159a484d3a1dd",
+      "bytes": 464724
+    },
+    {
+      "path": "masters/ui/world-sign.png",
+      "sha256": "74fdd7631e109a106cae5c1c54bb36a11545ab5046271a978bf1de30dfd72615",
+      "bytes": 592963
+    },
+    {
+      "path": "masters/worlds/cloudberry.png",
+      "sha256": "529f8376883ec50a8beea5dff692f8d3152fb364b6853bca38242db1fab17097",
+      "bytes": 997706
+    },
+    {
+      "path": "masters/worlds/honeydrop.png",
+      "sha256": "4abedf1b2df8937abc98cc5ce211ebaf108698e894647f3bab7cb06226b70b83",
+      "bytes": 963119
+    },
+    {
+      "path": "masters/worlds/moonmallow.png",
+      "sha256": "08fbd0ac2543f54f00a490fbad57615d741ee1c11df3b3346615bac601f9d40b",
+      "bytes": 772562
+    },
+    {
+      "path": "masters/worlds/sugarstar.png",
+      "sha256": "7cb1d054555724c36db6f8515bbc32a4cd353e6bd8a54b53c5bab6a615b4423d",
+      "bytes": 959602
+    },
+    {
+      "path": "preview.html",
+      "sha256": "5052995b9ff00d61c17e3b242e30a8f8ca91970e06bd70785acf5c77be3ab978",
+      "bytes": 15212
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "9ebbc4f195af8b334a19e3408d534035fafbd366eaa2be28d749b9fdbb592f71",
+      "bytes": 554188
+    },
+    {
+      "path": "previews/animation.jpg",
+      "sha256": "001c496cb99525675e48145a929e7e5dd2df4694bf4bdfd17235ee9ed76ea4f1",
+      "bytes": 140333
+    },
+    {
+      "path": "previews/backgrounds.jpg",
+      "sha256": "fef1a4edb8f9ebad9f6ece465185eb72209bb09980980d3ac71b8564dfed2bce",
+      "bytes": 13343
+    },
+    {
+      "path": "previews/cards.jpg",
+      "sha256": "2b354f3a06f9631881b2baca5e20dccb7ec0568676425ad4471dce6939f2fd64",
+      "bytes": 52932
+    },
+    {
+      "path": "previews/effects.jpg",
+      "sha256": "55610b9c1ccfadd4d215bae8eb7f7944dd9aa0a3411c43edc37009a61de29f55",
+      "bytes": 16458
+    },
+    {
+      "path": "previews/examples.jpg",
+      "sha256": "d3bd32ece30cf9f129e6c8b9a87cfe757f7c771793fe3b1457bffdd2ccdcdd78",
+      "bytes": 67659
+    },
+    {
+      "path": "previews/gateways.jpg",
+      "sha256": "bd3c0224700b668f0899b6b0ed84e20e983ad914d370894b6345c2f88d534b92",
+      "bytes": 127974
+    },
+    {
+      "path": "previews/icons.jpg",
+      "sha256": "f24af0c294adac12294413041cb58fec521ff047ce9cb30a4c78fb413604efd6",
+      "bytes": 60614
+    },
+    {
+      "path": "previews/maps.jpg",
+      "sha256": "2b746b958e546a18f40b51f33bb0128268afe672cc65b3d264e4f249a6b0a1bf",
+      "bytes": 39066
+    },
+    {
+      "path": "previews/nodes.jpg",
+      "sha256": "e3558917e35e28caddcfbb7bb132735064ee4294438bcdeab59ecaa426baf801",
+      "bytes": 87261
+    },
+    {
+      "path": "previews/paths.jpg",
+      "sha256": "f4595462619847319444846dca8a7f740883d48baabae621769a5ad1e8a3dbf2",
+      "bytes": 59111
+    },
+    {
+      "path": "previews/props.jpg",
+      "sha256": "311e054e2f2e086b4132c8a4035437085f8e914953015db975f5063ba8e18a50",
+      "bytes": 41089
+    },
+    {
+      "path": "previews/rewards.jpg",
+      "sha256": "fbbbdd6f64baaf790eaf6cc8745d3f622bff5d7e6034465258ee8bc94341b15a",
+      "bytes": 145504
+    },
+    {
+      "path": "previews/transitions.jpg",
+      "sha256": "4f67e54997266a1bad7816b0dd8795f7e4935d3b6b4a688629e0f35800f49b6d",
+      "bytes": 44919
+    },
+    {
+      "path": "previews/ui.jpg",
+      "sha256": "9ee20359c84c1fb65fab5d0a3730296ac3c4643bb8589f471ec3c72e95a0bd00",
+      "bytes": 44988
+    },
+    {
+      "path": "previews/worlds.jpg",
+      "sha256": "313007db44306886476666c1390c0409c43bc0dfaca14d6a44e113d22d33a83f",
+      "bytes": 68252
+    },
+    {
+      "path": "qa.json",
+      "sha256": "4e0ce3970a1b831ee9ac9d8ed49c1d0dbd0d248a5a01490c807235d6304a2c3e",
+      "bytes": 376
+    },
+    {
+      "path": "references/original-adventure-map-board.png",
+      "sha256": "228dc92d81190e541fa619a9c077525070b34c0360685fb8d615a72b1d903a8b",
+      "bytes": 2614860
+    },
+    {
+      "path": "states.json",
+      "sha256": "1dbf7682f637e30bfd7fecd8bcdf5d3ce738dacde235c7810a584b2735b523df",
+      "bytes": 1392
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "art_only": true,
+  "level_ranges": null,
+  "star_thresholds": null,
+  "unlock_rules": null,
+  "default_label_slots": [
+    "levelNumber",
+    "worldName",
+    "levelRange",
+    "bestStars",
+    "totalStars",
+    "goalCount"
+  ],
+  "nodes": {
+    "current": "masters/nodes/current.png",
+    "completed": "masters/nodes/completed.png",
+    "locked": "masters/nodes/locked.png",
+    "unlocked": "masters/nodes/unlocked.png",
+    "completed-1-stars": "masters/nodes/completed-1-stars.png",
+    "completed-2-stars": "masters/nodes/completed-2-stars.png",
+    "completed-3-stars": "masters/nodes/completed-3-stars.png",
+    "locked-badge": "masters/nodes/locked-badge.png"
+  },
+  "animation": {
+    "portal-idle": "masters/animation/portal-idle.png",
+    "portal-charge": "masters/animation/portal-charge.png",
+    "portal-activate": "masters/animation/portal-activate.png",
+    "unlock-locked": "masters/animation/unlock-locked.png",
+    "unlock-ready": "masters/animation/unlock-ready.png",
+    "unlock-selected": "masters/animation/unlock-selected.png",
+    "chest-closed": "masters/animation/chest-closed.png",
+    "chest-open": "masters/animation/chest-open.png",
+    "star-small": "masters/animation/star-small.png",
+    "star-medium": "masters/animation/star-medium.png",
+    "star-full": "masters/animation/star-full.png",
+    "chest-reward": "masters/animation/chest-reward.png"
+  }
+}
