@@ -264,3 +264,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![booster-inventory](stages/stage-07-economy/v1/booster-inventory/preview.jpg)
 <!-- economy-inventory:end -->
+
+
+<!-- cannon-upgrades-rainbow-launcher:start -->
+### Cannon upgrades · Rainbow Launcher
+
+[Every individual asset and preview](stages/stage-07-cannon-upgrades/v1/rainbow-launcher/README.md) · 83 masters · 498 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![rainbow-launcher](stages/stage-07-cannon-upgrades/v1/rainbow-launcher/evolution.jpg)
+<!-- cannon-upgrades-rainbow-launcher:end -->

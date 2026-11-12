@@ -1,0 +1,461 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Rainbow Launcher Evolution Board-4.png",
+      "sha256": "aa37a2d9e2e9cac63d45fb0496316ada5a114885486cce2953538ab9955d5985"
+    },
+    {
+      "path": "references/Puff Trails Cannon Collection Reference Board-1.png",
+      "sha256": "cbdc01b46e9cf864a682889ab8c86915d4f82f382b1ae0a0888bb26136cfa8a3"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/front.png": "bb2ccdeba399a98bd5ea62e4be47197cfaeec74bafe3ba54fa967014ec67035e",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/left.png": "8d2bba14b4af4a0151769c9eda5bed868a52be84ec1357f360c3aa06edda42f6",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/right.png": "7fe4d5ed786c300c77a623c5c5519dfeb9c92876be367b4683c11dc0b5b8f515",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-back.png": "0f94ddf28e2e1e18621614cb797dc50d7003b12cb5b0a17c077ed2ee6f3580a1",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/back.png": "bb4c47109f238ceb32e1871340ace850508a41dcc0b6038498dd3a2d99d675df",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/top.png": "c25f1a760a659f4082c8ad9467e9989c83bafc096a0260e63c60935c08fddfea",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/bottom.png": "91a1ac6f523f0890b10532209a53d62bd9a4324fbd5221c9f3107201b859840e",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/effects/projectile.png": "b0050536a315f9d556e6a55daebb5cb955ce46abf99c1e1198e7036621357a77",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/effects/trail.png": "908742869dc0ef780ae83db66f965602b93540465e623495ca153539c3164b86",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/effects/aim-dot.png": "15c7ed204461c6da0d52c10697ce9350ca08d2e9f8df4ea3fc3a700b30bdb089",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058"
+  },
+  "records": {
+    "tier-05/views/top": {
+      "id": "tier-05/views/top",
+      "description": "View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--top.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-ea46ce40-c267-4df9-8365-6d1d7d5cfe78.png"
+    },
+    "components/prism-cluster": {
+      "id": "components/prism-cluster",
+      "description": "Standalone cluster of faceted iridescent prismatic crystals: cyan, violet, pink, rainbow facets and soft glow, matching the tier 5 crystal-base decoration. No cannon, no face, no base rim.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "component": true,
+      "prompt": "Create ONE isolated transparent reusable game component matching this reference cannon's materials. Standalone cluster of faceted iridescent prismatic crystals: cyan, violet, pink, rainbow facets and soft glow, matching the tier 5 crystal-base decoration. No cannon, no face, no base rim. Exact Puff Trails rounded plush/glossy/prismatic style. No scene, text, panel, floor, unrelated objects. Full component centered with clear margins. Genuine alpha background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/components--prism-cluster.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-a1525eea-3c5f-42fd-846a-c11081d8cc3e.png"
+    },
+    "tier-02/views/right": {
+      "id": "tier-02/views/right",
+      "description": "Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--right.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7c7b1425-0cda-4cdd-b791-cb18acf843d7.png"
+    },
+    "tier-03/views/front": {
+      "id": "tier-03/views/front",
+      "description": "Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--front.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-713baaca-9eca-4605-b5f0-0dbb947760d2.png"
+    },
+    "tier-04/views/back": {
+      "id": "tier-04/views/back",
+      "description": "Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-fba4bf7f-94a4-4644-9c9c-292d208a246a.png"
+    },
+    "tier-02/views/three-quarter-back": {
+      "id": "tier-02/views/three-quarter-back",
+      "description": "Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--three-quarter-back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-717b2f25-857b-4913-abe4-50f285ce5885.png"
+    },
+    "tier-02/views/three-quarter-front": {
+      "id": "tier-02/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--three-quarter-front.png",
+      "prompt": "Use case: precise-object-edit. Image1 is APPROVED identity authority: retain its exact purple plush cannon character, face proportions, eyes, small paws, rounded body, rainbow colored round barrel with gold rim, rainbow arch, white cloud clusters, faceted crystals and golden five-point star base. Image2 is ONLY the tier upgrade detail reference. Create ONE upgraded three-quarter-front game sprite. Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Keep camera angle and face identity from image1; enhance only equipment and ornaments per tier. Do not turn barrel into a plain purple barrel or redesign character. Premium detailed soft plush and glossy metal/prism finish. Genuine transparent background, full object centered with generous clear margins. No panels, text, UI, environment, floor or cast ground shadow. Not a sprite sheet.",
+      "description": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/references/tier-02-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+    },
+    "tier-05/views/back": {
+      "id": "tier-05/views/back",
+      "description": "Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-23b1880e-39ca-40cf-8c3f-241f1e1eb185.png"
+    },
+    "tier-05/views/three-quarter-front": {
+      "id": "tier-05/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--three-quarter-front.png",
+      "prompt": "Use case: precise-object-edit. Image1 is APPROVED identity authority: retain its exact purple plush cannon character, face proportions, eyes, small paws, rounded body, rainbow colored round barrel with gold rim, rainbow arch, white cloud clusters, faceted crystals and golden five-point star base. Image2 is ONLY the tier upgrade detail reference. Create ONE upgraded three-quarter-front game sprite. Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Keep camera angle and face identity from image1; enhance only equipment and ornaments per tier. Do not turn barrel into a plain purple barrel or redesign character. Premium detailed soft plush and glossy metal/prism finish. Genuine transparent background, full object centered with generous clear margins. No panels, text, UI, environment, floor or cast ground shadow. Not a sprite sheet.",
+      "description": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/references/tier-05-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+    },
+    "tier-03/views/back": {
+      "id": "tier-03/views/back",
+      "description": "Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-e23aa7e3-6b95-4f9d-b260-704b0ab38f1c.png"
+    },
+    "tier-04/views/top": {
+      "id": "tier-04/views/top",
+      "description": "View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--top.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-37b0b58a-8a6c-40c3-9a25-18112389223a.png"
+    },
+    "tier-02/views/bottom": {
+      "id": "tier-02/views/bottom",
+      "description": "Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--bottom.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-4c33f52a-7976-42b5-b29e-39e01ffa30a2.png"
+    },
+    "tier-03/views/bottom": {
+      "id": "tier-03/views/bottom",
+      "description": "Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--bottom.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-025d9466-0dad-4840-9bb7-40c84543da66.png"
+    },
+    "tier-04/views/three-quarter-back": {
+      "id": "tier-04/views/three-quarter-back",
+      "description": "Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--three-quarter-back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-fa6a3aaa-0cf7-46dd-bb92-36425f4e0336.png"
+    },
+    "tier-05/views/front": {
+      "id": "tier-05/views/front",
+      "description": "Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--front.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-1beab6c2-7cb5-4eb5-8ff5-84453a115942.png"
+    },
+    "tier-05/views/bottom": {
+      "id": "tier-05/views/bottom",
+      "description": "Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--bottom.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-2ccd14fe-e79d-4fe2-b67a-ba358be94a34.png"
+    },
+    "tier-04/views/right": {
+      "id": "tier-04/views/right",
+      "description": "Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--right.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-1d8d7c6b-de5c-494c-8f68-dd88325578cf.png"
+    },
+    "tier-04/views/bottom": {
+      "id": "tier-04/views/bottom",
+      "description": "Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/bottom.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Strict underside view looking straight up at circular purple bottom plate with gold rim and cloud/star ornament. Preserve the original bottom reference camera. NO face or front barrel opening; equipment only peeks around outer silhouette. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--bottom.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-79a7d0ab-b5e5-4971-af5a-ffa7bd593b42.png"
+    },
+    "tier-02/views/back": {
+      "id": "tier-02/views/back",
+      "description": "Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight back view, rainbow arch and cloud star ornament on rear, absolutely NO eyes, mouth, paws on front or facial features. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5045ad78-0bab-42bd-beff-6a908cf459cf.png"
+    },
+    "tier-05/views/three-quarter-back": {
+      "id": "tier-05/views/three-quarter-back",
+      "description": "Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--three-quarter-back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-6ff1337e-2eca-4f56-99ad-aa864566903f.png"
+    },
+    "tier-03/views/three-quarter-front": {
+      "id": "tier-03/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--three-quarter-front.png",
+      "prompt": "Use case: precise-object-edit. Image1 is APPROVED identity authority: retain its exact purple plush cannon character, face proportions, eyes, small paws, rounded body, rainbow colored round barrel with gold rim, rainbow arch, white cloud clusters, faceted crystals and golden five-point star base. Image2 is ONLY the tier upgrade detail reference. Create ONE upgraded three-quarter-front game sprite. Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Keep camera angle and face identity from image1; enhance only equipment and ornaments per tier. Do not turn barrel into a plain purple barrel or redesign character. Premium detailed soft plush and glossy metal/prism finish. Genuine transparent background, full object centered with generous clear margins. No panels, text, UI, environment, floor or cast ground shadow. Not a sprite sheet.",
+      "description": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/references/tier-03-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+    },
+    "tier-04/views/front": {
+      "id": "tier-04/views/front",
+      "description": "Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--front.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-de0c4ebe-7879-47e0-a03d-b792e547e308.png"
+    },
+    "tier-03/views/left": {
+      "id": "tier-03/views/left",
+      "description": "Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--left.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-df2141bc-5345-4cad-8990-0673d6e6e73d.png"
+    },
+    "tier-05/views/right": {
+      "id": "tier-05/views/right",
+      "description": "Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--right.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-3fadc59f-556d-47fc-9272-e2fe2c3ac790.png"
+    },
+    "tier-03/views/top": {
+      "id": "tier-03/views/top",
+      "description": "View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--top.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7958fae7-9d38-4243-8d73-eab9b90826c7.png"
+    },
+    "tier-02/views/left": {
+      "id": "tier-02/views/left",
+      "description": "Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--left.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-02a116af-f58b-4366-a339-211cb1621fb3.png"
+    },
+    "components/rainbow-arch": {
+      "id": "components/rainbow-arch",
+      "description": "Standalone glossy layered rainbow arch with small soft white cloud clusters at the two ends, matching the cannon rainbow decoration. No cannon, no face, no barrel, no gold base.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "component": true,
+      "prompt": "Create ONE isolated transparent reusable game component matching this reference cannon's materials. Standalone glossy layered rainbow arch with small soft white cloud clusters at the two ends, matching the cannon rainbow decoration. No cannon, no face, no barrel, no gold base. Exact Puff Trails rounded plush/glossy/prismatic style. No scene, text, panel, floor, unrelated objects. Full component centered with clear margins. Genuine alpha background.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/components--rainbow-arch.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-9d68e127-2a4d-4e15-b0fc-85ef460e5338.png"
+    },
+    "tier-04/views/left": {
+      "id": "tier-04/views/left",
+      "description": "Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible.",
+      "tier": 4,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+      ],
+      "upgrade": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible. Upgrade specification: Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--left.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adc03a78-7b4a-4ceb-a4a4-08993928111d.png"
+    },
+    "tier-02/views/top": {
+      "id": "tier-02/views/top",
+      "description": "View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/top.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: View from above following the original top-view reference: see crown/cloud top, barrel mouth from overhead, rainbow arch behind, top of round body; NO front face or eyes. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--top.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-c52d938e-c724-445b-835b-384cbe4983eb.png"
+    },
+    "tier-04/views/three-quarter-front": {
+      "id": "tier-04/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-04--views--three-quarter-front.png",
+      "prompt": "Use case: precise-object-edit. Image1 is APPROVED identity authority: retain its exact purple plush cannon character, face proportions, eyes, small paws, rounded body, rainbow colored round barrel with gold rim, rainbow arch, white cloud clusters, faceted crystals and golden five-point star base. Image2 is ONLY the tier upgrade detail reference. Create ONE upgraded three-quarter-front game sprite. Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo. Keep camera angle and face identity from image1; enhance only equipment and ornaments per tier. Do not turn barrel into a plain purple barrel or redesign character. Premium detailed soft plush and glossy metal/prism finish. Genuine transparent background, full object centered with generous clear margins. No panels, text, UI, environment, floor or cast ground shadow. Not a sprite sheet.",
+      "description": "Tier 4 Aurora Launcher: add a symmetrical pair of magnificent white cloud-feather wings edged in gold behind the side discs; larger crystal clusters, rich layered rainbow arch and gold swirl trim. No crown or large halo.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/references/tier-04-hero.png"
+      ],
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5f18978e-f2b1-4a5a-861d-49da788a9d77.png"
+    },
+    "tier-03/views/three-quarter-back": {
+      "id": "tier-03/views/three-quarter-back",
+      "description": "Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-back.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Rear three-quarter view, facing away, rainbow arch and back clouds dominate; NO eyes, mouth or front facial details. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--three-quarter-back.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-5ccf66ab-6858-424d-9cf9-8d2a4ae1c790.png"
+    },
+    "tier-03/views/right": {
+      "id": "tier-03/views/right",
+      "description": "Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view.",
+      "tier": 3,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/right.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-161106f4-d1fa-420e-9792-43006621c300.png"
+      ],
+      "upgrade": "Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Right side profile, character nose/front face pointing toward IMAGE LEFT as original right view. Upgrade specification: Tier 3 Spectrum Launcher: larger lush prismatic crystal clusters around the original base, brighter rainbow core, richer multi-layer rainbow arch, a small pink faceted prism above clouds. Retain original cloud shapes and face. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-03--views--right.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-abcf6307-163e-49f0-ac8b-b5f7bbb2c5da.png"
+    },
+    "tier-05/views/left": {
+      "id": "tier-05/views/left",
+      "description": "Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible.",
+      "tier": 5,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/left.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-adbaacac-b03b-4289-92bf-fdf6ba655afc.png"
+      ],
+      "upgrade": "Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Left side profile, character nose and front face pointing toward IMAGE RIGHT as original left view, body side and rainbow arch visible. Upgrade specification: Tier 5 Celestial Rainbow Launcher: spectacular white-and-gold wings, large layered rainbow arch, crown-like prismatic crystal arrangement on top/back and around base, rich golden swirl trim on the side earpieces, luminous prismatic barrel interior and delicate orbit halo. Preserve core purple plush face and star base. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-05--views--left.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-96f8d045-7b03-4680-8d53-ebb01adb1606.png"
+    },
+    "tier-02/views/front": {
+      "id": "tier-02/views/front",
+      "description": "Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image.",
+      "tier": 2,
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/rainbow-launcher/masters/views/front.png",
+        "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-7477655f-40e2-4117-ac89-caad0eeb0e0f.png"
+      ],
+      "upgrade": "Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo.",
+      "prompt": "Create ONE Rainbow Launcher cannon upgrade sprite, matching these two references precisely. Image1 is the ORIGINAL APPROVED camera/view geometry and identity reference. Image2 is the APPROVED upgraded tier hero: retain ALL its equipment, materials, face identity, rainbow colors, wings/crystals/halo if present. Rotate that tier hero into the exact angle of image1. Requested angle: Straight front view, balanced symmetric body and rainbow arch, face directly at camera; barrel near upper center as original front image. Upgrade specification: Tier 2 Prism Launcher: noticeably richer layered soft cloud clusters, brighter glossy rainbow arch, slightly larger gold barrel rim, refined gold star base. Retain the original prismatic crystals. NO wings or halo. Do not simplify/remove upgrades, do not add upgrades absent from image2. Preserve original cute plush identity, ROUND gold-rimmed rainbow barrel (not purple plain barrel), rainbow arch, white cloud clusters, crystal base, gold star emblem. For rear/underside views do NOT show a front face. Full object centered with transparent margin, genuine transparent background. No floor, shadow plane, scenery, labels or text. Single sprite, not a sheet.",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/rainbow-launcher/images/tier-02--views--front.png",
+      "generated_original_path": "/Users/mac/.codex/generated_images/01a1d0c6-d783-7113-9d48-2979b7814d9c/exec-dc53e4d8-ba3c-4ff5-94d0-9a2739cba0b5.png"
+    }
+  }
+}
