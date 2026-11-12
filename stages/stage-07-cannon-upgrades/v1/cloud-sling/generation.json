@@ -1,0 +1,465 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Cloud Sling Cannon Evolution Board-2.png",
+      "sha256": "35a8c3bddf0a64de12d481db7dd5a3ca2179adb5bc8074055bb59f249c6adbda"
+    },
+    {
+      "path": "references/Puff Trails Cannon Collection Reference Board-1.png",
+      "sha256": "cbdc01b46e9cf864a682889ab8c86915d4f82f382b1ae0a0888bb26136cfa8a3"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/front.png": "d38ec62bc24bcd08164a48eaf31cbf3805fe2bc77db173e8663e9f3eb8dad84f",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/side-left.png": "a77f121de9f9c1f4b58f15ea5486c81a3598be0df556dec8497c8aace5b101bb",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/side-right.png": "fdd175e09538224065c4e6ebab7a427578b776b5f8f3589afd48a07555200b64",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-back.png": "3d5e65db7dd7a6179edfaf7458dab6841e730da5730461deb51f964ea6055a45",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/back.png": "ff190d44967d084b0f92bcff3e749a439957bceab959ff2d312d8c72bb573162",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/top.png": "063b34cfe63f9cfb2bd57ffb0c85f911975bc065315ceda2f9e762b67cb5cb9c",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/bottom.png": "e909488438b3c08f96c3cc7dc93acd954e4fe5353aceb884b5ac76da3f279323",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/effects/muzzle-cloud.png": "54f7dc4d50ec606cb4779c9b7aabf699c4c494ce5eb39fe705c1d1387b494347",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/effects/charge-ring.png": "1776c84058b3bd0f0ceb7c2de04efa713dcaf1241239c5e0946d9d75ab103986",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/effects/aim-dot.png": "99b363dcd2f60ffd4d1ef6e82b9f92f94b0ca8f47cd58b9a9ee262f770a1e452",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-07-economy/v1/booster-inventory/masters/components/inventory-slot.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058"
+  },
+  "records": {
+    "tier-05/views/top": {
+      "id": "tier-05/views/top",
+      "tier": 5,
+      "description": "Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/top.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/top.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-4439fed2-0dc9-4e80-88ae-fbf8967a5731.png",
+      "sha256": "a23b756b66d0dba7486ef7b91d6f14ee0003a48a6a1751a37bd0729bf20b82b8"
+    },
+    "tier-02/views/right": {
+      "id": "tier-02/views/right",
+      "tier": 2,
+      "description": "Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-right.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/right.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-f092fac8-eccd-4059-9b26-528fee5e6404.png",
+      "sha256": "de0a728df9dc3cffa674a46967cd888fcad36dfe5148a325caf4e5e2818db4b9"
+    },
+    "tier-03/views/front": {
+      "id": "tier-03/views/front",
+      "tier": 3,
+      "description": "Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/front.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/front.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-ded6915f-04b5-4a07-8d2c-acbd1c0ae8a3.png",
+      "sha256": "25cd4dc775ae5b5227cfe149dafcddb63cbd85f9b2851696e3c1dac45fae732a"
+    },
+    "tier-04/views/back": {
+      "id": "tier-04/views/back",
+      "tier": 4,
+      "description": "Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-46b4d8b8-b0a6-452f-83f7-1257a467f5d4.png",
+      "sha256": "13e35a8d8911cc74437ae9c2cf9b68bc34de60a780eba61b88b2b756c8c07a46"
+    },
+    "tier-02/views/three-quarter-back": {
+      "id": "tier-02/views/three-quarter-back",
+      "tier": 2,
+      "description": "Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/three-quarter-back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-bfe9d69c-fa6c-4971-a421-290dacd35ac3.png",
+      "sha256": "9771e746c104e6795a3db29b150bd6766bef471e4bc0cdd223df7bcef90bb799"
+    },
+    "tier-02/views/three-quarter-front": {
+      "id": "tier-02/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/three-quarter-front.png",
+      "prompt": "Use case: identity-preserve. Create ONE standalone upgraded Cloud Sling game cannon. Image1 is LOCKED identity authority: preserve exactly its lavender fluffy body, cream heart-shaped face patch, eye proportions, pink cheeks, smile, cloud spiral ear pads, cloud tuft, paws, gold-rimmed circular purple barrel and stable round base. Image2 supplies ONLY tier ornamentation and silhouette progression. Breeze Sling: retain original cannon, add richer cloud puffs, smoother gold trim and brighter star base. NO wings, no crown, no crystals. Same three-quarter-front camera as image1. Do not turn it into a different creature. Soft plush fur and glossy premium gold. Isolated centered complete object with 8% margins. True transparent background; no panel, text, floor, labels or unrelated characters.",
+      "description": "Breeze Sling: retain original cannon, add richer cloud puffs, smoother gold trim and brighter star base. NO wings, no crown, no crystals.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/references/tier-02-hero.png"
+      ],
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+      "sha256": "039fd328d0cc7507f58657c3450e30ede54f27c24a7774bb051c86fffc4e8875"
+    },
+    "tier-05/views/back": {
+      "id": "tier-05/views/back",
+      "tier": 5,
+      "description": "Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-36209764-8b31-4921-9bd0-24b20dc50049.png",
+      "sha256": "3bae08a7c5276dde466cd14dc23b08d37be17606aa2fe2b23c9ec3e9650f8d9b"
+    },
+    "tier-05/views/three-quarter-front": {
+      "id": "tier-05/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/three-quarter-front.png",
+      "prompt": "Use case: identity-preserve. Create ONE standalone upgraded Cloud Sling game cannon. Image1 is LOCKED identity authority: preserve exactly its lavender fluffy body, cream heart-shaped face patch, eye proportions, pink cheeks, smile, cloud spiral ear pads, cloud tuft, paws, gold-rimmed circular purple barrel and stable round base. Image2 supplies ONLY tier ornamentation and silhouette progression. Celestial Cloud Sling: retain original cannon, elaborate large white/gold feather wings, jeweled gold crown with pink center gem and blue side gems, thin floating gold halo, cyan/lilac prismatic crystal clusters at base, gold-framed PINK star-shaped crystal on base. Elegant premium upgrade, never change the cannon's identity. Same three-quarter-front camera as image1. Do not turn it into a different creature. Soft plush fur and glossy premium gold. Isolated centered complete object with 8% margins. True transparent background; no panel, text, floor, labels or unrelated characters.",
+      "description": "Celestial Cloud Sling: retain original cannon, elaborate large white/gold feather wings, jeweled gold crown with pink center gem and blue side gems, thin floating gold halo, cyan/lilac prismatic crystal clusters at base, gold-framed PINK star-shaped crystal on base. Elegant premium upgrade, never change the cannon's identity.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/references/tier-05-hero.png"
+      ],
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+      "sha256": "d6841e781a24e1e63393da71be2ef5f3d01e5fee93adb723a39615c057351add"
+    },
+    "tier-03/views/back": {
+      "id": "tier-03/views/back",
+      "tier": 3,
+      "description": "Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-05e7c166-9f6c-4e92-8ab4-d4f3be6abd3d.png",
+      "sha256": "c8a64368e88a304e572e7fda7a8dae33ed696e7b74c076c59ecea19c837450f8"
+    },
+    "tier-04/views/top": {
+      "id": "tier-04/views/top",
+      "tier": 4,
+      "description": "Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/top.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/top.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-69afc63c-a940-47e3-9419-fd79045fe477.png",
+      "sha256": "1165e98ea295aef0385aa35130346d3a7da04eabbbeaaccb04e2ad8b8aa5d906"
+    },
+    "tier-02/views/bottom": {
+      "id": "tier-02/views/bottom",
+      "tier": 2,
+      "description": "Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/bottom.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/bottom.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b836ae89-4a69-4d2b-8372-019a0cf2dd9a.png",
+      "sha256": "d6424d3b1223aacbbc21e7d733c8c3f89833e3980c536f52fd58a1301eb91b6f"
+    },
+    "tier-03/views/bottom": {
+      "id": "tier-03/views/bottom",
+      "tier": 3,
+      "description": "Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/bottom.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/bottom.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-98d9acca-008e-401a-91ad-26eff6b5c5e0.png",
+      "sha256": "a270a6218fa3a20ce0ae09931b0949f230026bc88c4054fc722b38bf6bff0d72"
+    },
+    "tier-04/views/three-quarter-back": {
+      "id": "tier-04/views/three-quarter-back",
+      "tier": 4,
+      "description": "Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/three-quarter-back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-c95f527a-ae6a-44f9-91ff-37a3a01887b7.png",
+      "sha256": "a426d392838cbf32464630a58759f0202fbc880112826e1dead1480661d63056"
+    },
+    "tier-05/views/front": {
+      "id": "tier-05/views/front",
+      "tier": 5,
+      "description": "Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/front.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/front.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-238499e7-4086-4505-a2a9-d0714f583d9f.png",
+      "sha256": "0386d5c2b3c33a7db66abcbf4ccd779745ed41fa3252809540234472bc2461e4"
+    },
+    "tier-05/views/bottom": {
+      "id": "tier-05/views/bottom",
+      "tier": 5,
+      "description": "Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/bottom.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/bottom.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-2c0bc771-c9f3-450f-8e6a-c96c1188da57.png",
+      "sha256": "d56455fa727317d6fdfbf47ba6c15b98f4df90de4f422aa3d917e68d99fd1614"
+    },
+    "tier-04/views/right": {
+      "id": "tier-04/views/right",
+      "tier": 4,
+      "description": "Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-right.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/right.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-dea4f47c-8334-40ed-aac4-f9b585a223c9.png",
+      "sha256": "d06e4d05fb56d484c32f2cb5cecdbcaa9793011441d51cae19abcbb294308d9a"
+    },
+    "tier-04/views/bottom": {
+      "id": "tier-04/views/bottom",
+      "tier": 4,
+      "description": "Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/bottom.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/bottom.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict underside view of round purple/gold base, cloud spiral padded center, no face or eyes, no barrel opening. Existing underside remains identity authority; upgraded gold trim and perimeter ornament details may show around rim. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d58efd2d-a325-41b5-a4a6-18fe6dd0cc4b.png",
+      "sha256": "7b7c3764f8b1e6142315a1a78f82f05efe6d4a9d8c0b2d3e6e92cf48767db9cf"
+    },
+    "tier-02/views/back": {
+      "id": "tier-02/views/back",
+      "tier": 2,
+      "description": "Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Strict rear view: plain lavender furry back, symmetrical spiral pads and wings visible from behind; no eyes, no mouth or face on rear. Barrel visible behind upper-left as original reference. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-4c2e4987-649a-44e8-89ad-a950eb0aa196.png",
+      "sha256": "fb970ddffaa5c0c2f7dd57b3072e7389675f34058bf52b48d4f3d26e80f40b99"
+    },
+    "tier-05/views/three-quarter-back": {
+      "id": "tier-05/views/three-quarter-back",
+      "tier": 5,
+      "description": "Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/three-quarter-back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-44c63b1b-8d52-4ce2-b952-aa511d0e795c.png",
+      "sha256": "e48b405ce0e6bc28e7cfddb7632814e3acd60554014d4e158b98a3bf933922ce"
+    },
+    "tier-03/views/three-quarter-front": {
+      "id": "tier-03/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/three-quarter-front.png",
+      "prompt": "Use case: identity-preserve. Create ONE standalone upgraded Cloud Sling game cannon. Image1 is LOCKED identity authority: preserve exactly its lavender fluffy body, cream heart-shaped face patch, eye proportions, pink cheeks, smile, cloud spiral ear pads, cloud tuft, paws, gold-rimmed circular purple barrel and stable round base. Image2 supplies ONLY tier ornamentation and silhouette progression. Sky Glide Sling: retain original cannon, add a SMALL pair of white plush feather wings with gold upper edges behind the spiral ear pads. Existing gold base star. No crown, no halo, no crystals. Same three-quarter-front camera as image1. Do not turn it into a different creature. Soft plush fur and glossy premium gold. Isolated centered complete object with 8% margins. True transparent background; no panel, text, floor, labels or unrelated characters.",
+      "description": "Sky Glide Sling: retain original cannon, add a SMALL pair of white plush feather wings with gold upper edges behind the spiral ear pads. Existing gold base star. No crown, no halo, no crystals.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/references/tier-03-hero.png"
+      ],
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+      "sha256": "6a03a6d2197f2147f79430b2b55476c19c5381035d0589ba1e7b13db86a95da8"
+    },
+    "tier-04/views/front": {
+      "id": "tier-04/views/front",
+      "tier": 4,
+      "description": "Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/front.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/front.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-470c4f60-ec10-4b49-90db-db29a00284ce.png",
+      "sha256": "b255c782e0818f826aa60d14c4925cfda6fffdf13f1b5e0fe7ea66df438af6df"
+    },
+    "tier-03/views/left": {
+      "id": "tier-03/views/left",
+      "tier": 3,
+      "description": "Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-left.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/left.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-76b1c44c-9e8d-4f01-ad5d-4fa2dbbb0578.png",
+      "sha256": "475535fd6fd7609df682f88102072b0a6112c974c675c31eda39d23d74982add"
+    },
+    "tier-05/views/right": {
+      "id": "tier-05/views/right",
+      "tier": 5,
+      "description": "Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-right.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/right.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-26572652-0ad8-4f91-bd4b-dc86f5da0cc3.png",
+      "sha256": "094ee4025014d55d65f3eef441b23d31899039febb751207c7dfb9acb4e4e768"
+    },
+    "components/crown-halo": {
+      "id": "components/crown-halo",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/components/crown-halo.png",
+      "prompt": "Extract/reconstruct a standalone modular upgrade component matching the approved Cloud Sling tier5 reference. ONLY the golden jeweled crown and thin floating elliptical gold halo from the reference cannon. Pink central gem, smaller cyan side gems, softly rounded ornate gold. One coherent crown+halo assembly, no fur, cannon, wings, clouds, base or creature. Preserve reference style and palette, crisp glossy 3D, genuine transparent background, centered with generous margins. No text, panel or cast ground shadow.",
+      "description": "ONLY the golden jeweled crown and thin floating elliptical gold halo from the reference cannon. Pink central gem, smaller cyan side gems, softly rounded ornate gold. One coherent crown+halo assembly, no fur, cannon, wings, clouds, base or creature.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png"
+      ],
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-4ce20dd7-c087-4ade-9d35-2be889fe8ffd.png",
+      "sha256": "2526c945f7eddc339ed59ecb3642e5a4f4814430cdd8d274c6253e3d60b1f3e6"
+    },
+    "components/crystal-cluster": {
+      "id": "components/crystal-cluster",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/components/crystal-cluster.png",
+      "prompt": "Extract/reconstruct a standalone modular upgrade component matching the approved Cloud Sling tier5 reference. ONLY the prismatic crystal cluster seen at reference cannon base: three-to-five pointed faceted cyan, lavender and pink translucent crystals, in a small grouped arrangement. No gold base, cannon, creature, wings, crown, clouds or ground. Preserve reference style and palette, crisp glossy 3D, genuine transparent background, centered with generous margins. No text, panel or cast ground shadow.",
+      "description": "ONLY the prismatic crystal cluster seen at reference cannon base: three-to-five pointed faceted cyan, lavender and pink translucent crystals, in a small grouped arrangement. No gold base, cannon, creature, wings, crown, clouds or ground.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png"
+      ],
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-4734f184-251a-49ca-993a-fec36104b2f8.png",
+      "sha256": "b6d2e73003c658625c43ba648eb99c7ef22846b0962551e6eb01558c33a2fe00"
+    },
+    "tier-03/views/top": {
+      "id": "tier-03/views/top",
+      "tier": 3,
+      "description": "Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/top.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/top.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-0ad7eae9-f6b0-408f-912f-fd632df9935a.png",
+      "sha256": "c18401b5b13450c05c550cfcc18b9b97ce1544f0a595a4a892b7adfe838f4322"
+    },
+    "tier-02/views/left": {
+      "id": "tier-02/views/left",
+      "tier": 2,
+      "description": "Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-left.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/left.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-e2d89617-940a-48bd-afc9-b53a8cdb4d7d.png",
+      "sha256": "42c08c1568faf3e3d1fe58d2f0ffc5ee5afffeda6ad0d8efe6959c5c1db3516f"
+    },
+    "tier-04/views/left": {
+      "id": "tier-04/views/left",
+      "tier": 4,
+      "description": "Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-left.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/left.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-37e4a618-caaf-4880-9397-2fce8574808e.png",
+      "sha256": "cd50f70c425585d9c47447bae8b8082cc9271e8d869a885b2117c06e96457877"
+    },
+    "tier-02/views/top": {
+      "id": "tier-02/views/top",
+      "tier": 2,
+      "description": "Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/top.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/top.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Overhead view matching original top camera: barrel opening dominates the upper center, cloud tuft and side pads around, tiny front face may be visible below; not a standing front or three-quarter pose. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-09887835-ac80-430c-9663-40f4dd02f02a.png",
+      "sha256": "06f66cf8422a889da24d27970a296f1aa3921e7a01ab51e8a1e575ae95d7547d"
+    },
+    "tier-04/views/three-quarter-front": {
+      "id": "tier-04/views/three-quarter-front",
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-04/views/three-quarter-front.png",
+      "prompt": "Use case: identity-preserve. Create ONE standalone upgraded Cloud Sling game cannon. Image1 is LOCKED identity authority: preserve exactly its lavender fluffy body, cream heart-shaped face patch, eye proportions, pink cheeks, smile, cloud spiral ear pads, cloud tuft, paws, gold-rimmed circular purple barrel and stable round base. Image2 supplies ONLY tier ornamentation and silhouette progression. Nimbus Sling: retain original cannon, add larger white/gold wings, a small jeweled crown among upper clouds, richer gold detailing and bright layered gold star base. No floating halo; no large crystal field. Same three-quarter-front camera as image1. Do not turn it into a different creature. Soft plush fur and glossy premium gold. Isolated centered complete object with 8% margins. True transparent background; no panel, text, floor, labels or unrelated characters.",
+      "description": "Nimbus Sling: retain original cannon, add larger white/gold wings, a small jeweled crown among upper clouds, richer gold detailing and bright layered gold star base. No floating halo; no large crystal field.",
+      "source_references": [
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/references/tier-04-hero.png"
+      ],
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-b411a38d-c9d7-4459-b7b6-f9cfc8b9081a.png",
+      "sha256": "536c17541dfbc93e36f7e69d423329ca6ad0de78650029473f8c062f2babcaad"
+    },
+    "tier-03/views/three-quarter-back": {
+      "id": "tier-03/views/three-quarter-back",
+      "tier": 3,
+      "description": "Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-back.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/three-quarter-back.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Rear three-quarter camera, show lavender back fur and side spiral cloud, NO eyes or mouth visible, all decorations properly rotate with body. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-3b55780c-5b38-42e0-98c2-7a7b8615dac7.png",
+      "sha256": "14f07d511a2673171daf82519e902e1bc5b683db8fea048572494eefac6c67dd"
+    },
+    "tier-03/views/right": {
+      "id": "tier-03/views/right",
+      "tier": 3,
+      "description": "Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-78d2665c-977a-4b46-8cbc-48b321717a6c.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-right.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-03/views/right.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Right-side profile EXACTLY like reference: mostly lavender side/back fur, large spiral ear at center, NO frontal eyes or face visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-77f89716-2971-41f5-a70f-eb5a9f7d1d2b.png",
+      "sha256": "84452c865e02208d02dc69811f7f2fd14af39dc22b12f24ede2147651c014971"
+    },
+    "tier-05/views/left": {
+      "id": "tier-05/views/left",
+      "tier": 5,
+      "description": "Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d64c29bd-a334-4fd4-8f81-87c2e263ef54.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/side-left.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-05/views/left.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Left-side profile EXACTLY like camera reference: face peeks at LEFT edge, left spiral cloud ear large central, barrel projects upper-left. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-d0a7773f-d034-4154-9c90-be525e723962.png",
+      "sha256": "0a754970d0888871b35446e04a0d43483384e7583633fc8156a0c494584e3363"
+    },
+    "tier-02/views/front": {
+      "id": "tier-02/views/front",
+      "tier": 2,
+      "description": "Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible.",
+      "source_references": [
+        "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-62573107-41c1-4db4-a0d7-3fbf499057be.png",
+        "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/outputs/fluffy-bubble-shooter-assets/stages/stage-04-cannons/v1/cloud-sling/masters/views/front.png"
+      ],
+      "path": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/cannon-upgrades/cloud-sling/renders/tier-02/views/front.png",
+      "prompt": "Use case: identity-preserve game sprite turnaround. Image1 is the approved upgraded Cloud Sling cannon for this EXACT tier: retain its identical lavender body, cream face patch, round eyes, cloud-spiral ears, cloud tuft, circular purple/gold cannon barrel, gold base and ALL its tier-specific decorations. Image2 is ONLY the original cannon CAMERA/POSE reference. Re-render image1 in image2's camera angle. Straight-on front facing camera, symmetrical body, muzzle high center, both eyes visible. Do NOT copy image2's simpler ornamentation; keep upgraded image1 ornaments, rotated naturally. Do not add extra emblems or facial features on rear/underside. Preserve original face proportions where face visible. One complete object centered, ample 10% transparent margin, true alpha background. No floor, cast floor shadow, panel, text, labels or other objects.",
+      "source_generated_path": "/Users/mac/.codex/generated_images/01a1d0c6-5da2-70c0-9be6-43b367b9ef9d/exec-fccacf5f-343e-45ef-8a44-e558a7f212a8.png",
+      "sha256": "e4c994247908514faa473c645f6992021866957f689300f963a67a31409c44b4"
+    }
+  }
+}
