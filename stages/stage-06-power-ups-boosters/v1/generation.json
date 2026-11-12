@@ -1,0 +1,327 @@
+{
+  "tool": "built-in image_gen",
+  "original_sha256": "f16728e47a4158b2399bda630373b644691faf863e90637445d218f5c5ccb249",
+  "generated": [
+    {
+      "id": "effects/bubble-particles",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A loose small cluster of five iridescent soap bubbles and tiny pink sparkles, isolated transparent VFX. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        595,
+        824,
+        663,
+        900
+      ],
+      "generated_sha256": "f533d09796757962da7473065995e50c1b990bb90256edc0bff1024dc0e24c52"
+    },
+    {
+      "id": "ui/ribbon",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One blank gently curved lilac-purple ribbon label with rounded edges and folded ends. No text or stars. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1200,
+        823,
+        1328,
+        865
+      ],
+      "generated_sha256": "b656f5f8105170ec96c61f9451ea7cde71134cc517cc904c3ecff4a320f41789"
+    },
+    {
+      "id": "effects/flower-explosion",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One bright golden flower-shaped magical explosion puff, white luminous center, orange-gold rounded petals and a few pink smoke puffs, isolated transparent VFX. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        210,
+        825,
+        304,
+        901
+      ],
+      "generated_sha256": "6b6273e6948810fe8b06ada5c846329d5eb521a9e52c444c911fc1ffbfc3ce65"
+    },
+    {
+      "id": "core/extra-move",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A round purple medallion with gold rim and two small white feather wings. Completely BLANK purple center, no +5, no text. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        773,
+        178,
+        917,
+        286
+      ],
+      "generated_sha256": "fa198fb99e45f4a05c38107393d5eabfa52e63a5e14ba25a4a15bdc32bf569a2"
+    },
+    {
+      "id": "core/star-magnet",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A chunky purple-pink horseshoe magnet with golden tips, small gold star attached at bottom. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1065,
+        178,
+        1209,
+        286
+      ],
+      "generated_sha256": "753d84d9f5d8b0aef1592efe999bf081b48f1440cba73473172b2600d974ad45"
+    },
+    {
+      "id": "ui/slot",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One circular lavender-purple booster slot with glossy white-lilac rim and fully transparent empty center. No icon, no numbers, no badge. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        550,
+        468,
+        632,
+        553
+      ],
+      "generated_sha256": "e2ef72d1fbc419c1ace656cd3c54733186a32b31add5263449bdbd4a505e1637"
+    },
+    {
+      "id": "collectibles/blue-booster-bag",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A blue satin drawstring pouch with golden bow and golden star emblem. Full plump rounded shape, isolated. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        682,
+        640,
+        773,
+        754
+      ],
+      "generated_sha256": "e2c9937c3e15156252cd64025b0955f2e2fd56f0d3512a1a9ce7e6bc9a542194"
+    },
+    {
+      "id": "ui/flags",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One horizontal golden rod supporting three short rounded pennants: gold, pink, purple, one gold star on each pennant. No text. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1206,
+        863,
+        1318,
+        905
+      ],
+      "generated_sha256": "6b9430ae3404b0af8b9f9f5e1e35911dda0c91d1aaed51917cb913e28712a1d8"
+    },
+    {
+      "id": "core/time-freeze",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A rounded blue hourglass holding golden sand, small icy blue snowflake at its lower-left side. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1211,
+        178,
+        1355,
+        286
+      ],
+      "generated_sha256": "430b603a4915f2a17cb360e77ba6b3ee1baaa71ea4b541140c43a96cd94d7c80"
+    },
+    {
+      "id": "icons/plus",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One chunky glossy bright green plus symbol, rounded toy-like shape, isolated. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        910,
+        817,
+        966,
+        865
+      ],
+      "generated_sha256": "5cdc719e42b9c991b6d371ddec67f1023bc67738faa0b4fcd9fa7f33c8acf524"
+    },
+    {
+      "id": "icons/ticket",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One pink rounded rectangular ticket with notched sides, golden star emblem, thin cream outline. No letters or numbers. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1058,
+        819,
+        1145,
+        875
+      ],
+      "generated_sha256": "3cceb2f59602a6cd791f5b947f04a1e032fcdf1a56e145745a0d9c6c511adcbe"
+    },
+    {
+      "id": "ui/gold-meter",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One long rounded gold progress meter with golden border and amber filled center with subtle diagonal shine. No text or symbols. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1336,
+        859,
+        1512,
+        904
+      ],
+      "generated_sha256": "df3a0b64922f6cc92ad0a99650a034d3bdc0af90044e721681c16250d988413e"
+    },
+    {
+      "id": "core/bomb-burst",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A rounded purple cartoon bomb with raised golden star emblem, short curling fuse and small glowing gold spark. Toy-like and friendly. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        189,
+        178,
+        333,
+        286
+      ],
+      "generated_sha256": "7e2b54b979cde1f7f587b1232f5769f79edec370bbcf57bfd2ee05ca7faa7eca"
+    },
+    {
+      "id": "core/aim-guide",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A rounded golden target crosshair with magenta inner disc and golden star in its center. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        919,
+        178,
+        1063,
+        286
+      ],
+      "generated_sha256": "f2be582492df7601cf0a86410c0508213e92ead9dfdd2d9054e38e5fa8f67697"
+    },
+    {
+      "id": "collectibles/purple-booster-crate",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A purple open-topped cube reward crate with gold star front emblem and a few glowing gold stars peeking from top, rounded pink trim. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        876,
+        640,
+        976,
+        756
+      ],
+      "generated_sha256": "67babec32b680f6ee1a4c7880603deebd2447f5856a7cb63df7b23bf6c774cc4"
+    },
+    {
+      "id": "core/shuffle",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: Two thick curved glossy arrows forming a cycle, upper purple arrow pointing right, lower cyan arrow pointing left. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        627,
+        178,
+        771,
+        286
+      ],
+      "generated_sha256": "d8fd873b81f43c9a02a661c2855c1dc8f978474dc9fb6e40431e7ad3d8b19494"
+    },
+    {
+      "id": "packs/brown-booster-bag",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A plump brown and pink cloth drawstring reward bag tied with gold cord, gold star emblem. No number label or quantity badge. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1152,
+        641,
+        1254,
+        733
+      ],
+      "generated_sha256": "cbcdc201835e3b6b85e3e43307b82bf188636634c4bffcefb35ba162a1c9bda1"
+    },
+    {
+      "id": "core/color-pop",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A flower-like cluster of six glossy colored oval bubbles around a central golden five-point star. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        481,
+        178,
+        625,
+        286
+      ],
+      "generated_sha256": "20b8aded2babe115eb957d6b478a76d7b9ac8085600cc58558f9615986533079"
+    },
+    {
+      "id": "effects/purple-vortex",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One violet-pink magical swirling vortex, luminous spiral trails and small sparkles, soft edges, isolated transparent VFX. No arch or solid frame. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        118,
+        825,
+        210,
+        900
+      ],
+      "generated_sha256": "de522804ab2d47e94960ac26aa9dd89d796aeecdd66b97a843edcb849cb41e53"
+    },
+    {
+      "id": "effects/charge-ring",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One circular golden magical energy ring, empty transparent center, tiny sparkles along circumference, isolated transparent VFX. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        510,
+        824,
+        595,
+        900
+      ],
+      "generated_sha256": "a1e38970116c906ceb13c5cf32776eba6915ef91d524a0acb120e5725f742719"
+    },
+    {
+      "id": "core/rainbow-shot",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A glossy translucent rainbow spiral orb, pink rim, smooth rainbow bands swirling across center. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        43,
+        178,
+        187,
+        286
+      ],
+      "generated_sha256": "0a895ae0ecd2606688dde7d1bf22fa7d14283c2d954bcc892514c93b05d54176"
+    },
+    {
+      "id": "ui/count-badge",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One small circular cream inventory badge with gold rim, solid cream center, no numbers or text. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        602,
+        520,
+        642,
+        561
+      ],
+      "generated_sha256": "32766d0d9aef1fc0a3aaad2265639c2125b5fe62ecf40eeb9e3ecd58d83308a6"
+    },
+    {
+      "id": "ui/purple-meter",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One long rounded purple meter trough with lavender border, empty purple interior, no fill, text or symbols. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        872,
+        868,
+        1053,
+        904
+      ],
+      "generated_sha256": "074e6684bb39e759fc6aee216a2e3f29223065afad7c117d5d7e96d80fdedd1f"
+    },
+    {
+      "id": "ui/hotbar",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: One wide rounded purple glossy booster hotbar tray. Empty purple inner surface, lavender rim, no slots, no icons, no numbers or text. Aspect ratio about 4 to 1. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        549,
+        442,
+        936,
+        572
+      ],
+      "generated_sha256": "b60074e0653e824485ae9cd120b084549d2af5c367ce52029c6fc7fbe4d64b97"
+    },
+    {
+      "id": "effects/pink-sparkles",
+      "prompt": "Create ONE transparent PNG game effect for Puff Trails: a small irregular cluster of five pink-lilac four-point magical sparkles with tiny golden points and soft pink glow. Match the rightmost Visual Effects Library sample on the supplied board. Only glowing star glints, no scenery, architecture, panels, characters or text. Square canvas, centered with 18% clear margin; genuine transparent background, preserve soft luminous edges.",
+      "source_box": [
+        746,
+        823,
+        830,
+        901
+      ],
+      "generated_sha256": "42663698eae9dda45336f636cb30414ce2fd06862f66c6e56ed8cc5eb5bd04bf"
+    },
+    {
+      "id": "core/mega-burst",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A rounded golden five-point star inside pink-purple circular burst with golden rays. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        1357,
+        178,
+        1501,
+        286
+      ],
+      "generated_sha256": "f83083919a9610259b5070e186bf46972086f23fbd115d492c2899f0372bb057"
+    },
+    {
+      "id": "core/line-blaster",
+      "prompt": "Use case: stylized-concept. Generate ONE individual Puff Trails game asset. Reference is style and object reference only. Subject: A pink and purple rounded rocket angled up-right, golden star emblem on body, gold exhaust flame. Match premium soft rounded 2.5D toy rendering, vibrant purple, pink and gold, soft upper-left lighting. Square transparent PNG canvas, whole object visible with 12% clear margin. Actual transparency outside object. Keep solid material inside object unless an empty opening is explicitly specified. No text, digits, quantity labels, headings, character mascots, board panels, watermark or extra objects.",
+      "source_box": [
+        335,
+        178,
+        479,
+        286
+      ],
+      "generated_sha256": "f8164caba1e8cd7bca8d75e5be6a54a36a7dab196d26c681a17c9fe3e4cb80cb"
+    }
+  ],
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/icons/gift.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/treasure-chest.png": "aba1bf64971cef3238250f71dc3adfe8a44f9a0592c212c4ba1433e2b2617af1",
+    "stages/stage-06-adventure-map/v1/masters/rewards/chest-open.png": "9d12d3a1e2fceee9a7f5d928bcad6dc6acde719c2950ef0d09dbfffb2674a147",
+    "locked/puff-trails-brand/v1/masters/icons/energy.png": "223cfba7ba7bceb848773ae59a8803ea4fbff8bcde8d1bf6ed63c5cf579cc2a4",
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "locked/puff-trails-brand/v1/masters/icons/gem.png": "e221f74200363d7d6d59dc989d2f9243833ad6743e656abbbfa3e9c464707c4d",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/props/cloud.png": "fc98d9ce77c0718ce3f09419dd2ff40245ea3b67af7d7bc1361e0dcb16d82619",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/star-stream.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/rainbow-arc.png": "2956d0fa3ca7ed5a323b9398654e5eb26fdfff0ca49dfb87948afd476b2f3f13",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/gold-glint.png": "d57713ab7246841f5301d4aa05db4b2438b7854fe914fa897f23caebb5f32f36",
+    "stages/stage-05-worlds-levels/v1/sugarstar-skies/masters/effects/star-comet.png": "1bc911f2bca22b2cbeaf6bb13e778a03a22e1d70c6d683f0074c597f0ee42374",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/effects/aim-dot.png": "99b363dcd2f60ffd4d1ef6e82b9f92f94b0ca8f47cd58b9a9ee262f770a1e452",
+    "locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+    "locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5",
+    "locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c",
+    "stages/stage-05-worlds-levels/v1/cloudberry-meadows/masters/backgrounds/cloud-sky.png": "4fc81ae8270a72b4cad7d088e0f721bea9d16ec490b3d32ab9326c3349cf7111",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+    "locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec",
+    "locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+    "locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5"
+  },
+  "processing": "Alpha<=4 and components<8px removed. Solid objects: low-alpha residue beyond10px from alpha>=128 removed. Fit860 onto1024. No recoloring or repainting of locked artwork. States use fixed650px core envelope."
+}

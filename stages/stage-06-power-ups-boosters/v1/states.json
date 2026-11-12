@@ -1,0 +1,151 @@
+{
+  "art_only": true,
+  "frame_rate": null,
+  "timings": null,
+  "inventory_counts": null,
+  "pack_quantities": null,
+  "extra_move_value": null,
+  "booster_roster_status": "visual concepts; final mechanics not approved by art generation",
+  "boosters": {
+    "rainbow-shot": {
+      "states": {
+        "idle": "masters/states/rainbow-shot/idle.png",
+        "selected": "masters/states/rainbow-shot/selected.png",
+        "charging": "masters/states/rainbow-shot/charging.png",
+        "activated": "masters/states/rainbow-shot/activated.png",
+        "effect": "masters/states/rainbow-shot/effect.png"
+      },
+      "effect_asset": "effects/rainbow-trail",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "bomb-burst": {
+      "states": {
+        "idle": "masters/states/bomb-burst/idle.png",
+        "selected": "masters/states/bomb-burst/selected.png",
+        "charging": "masters/states/bomb-burst/charging.png",
+        "activated": "masters/states/bomb-burst/activated.png",
+        "effect": "masters/states/bomb-burst/effect.png"
+      },
+      "effect_asset": "effects/flower-explosion",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "line-blaster": {
+      "states": {
+        "idle": "masters/states/line-blaster/idle.png",
+        "selected": "masters/states/line-blaster/selected.png",
+        "charging": "masters/states/line-blaster/charging.png",
+        "activated": "masters/states/line-blaster/activated.png",
+        "effect": "masters/states/line-blaster/effect.png"
+      },
+      "effect_asset": "effects/star-comet",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "color-pop": {
+      "states": {
+        "idle": "masters/states/color-pop/idle.png",
+        "selected": "masters/states/color-pop/selected.png",
+        "charging": "masters/states/color-pop/charging.png",
+        "activated": "masters/states/color-pop/activated.png",
+        "effect": "masters/states/color-pop/effect.png"
+      },
+      "effect_asset": "effects/bubble-particles",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "shuffle": {
+      "states": {
+        "idle": "masters/states/shuffle/idle.png",
+        "selected": "masters/states/shuffle/selected.png",
+        "charging": "masters/states/shuffle/charging.png",
+        "activated": "masters/states/shuffle/activated.png",
+        "effect": "masters/states/shuffle/effect.png"
+      },
+      "effect_asset": "effects/purple-vortex",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "extra-move": {
+      "states": {
+        "idle": "masters/states/extra-move/idle.png",
+        "selected": "masters/states/extra-move/selected.png",
+        "charging": "masters/states/extra-move/charging.png",
+        "activated": "masters/states/extra-move/activated.png",
+        "effect": "masters/states/extra-move/effect.png"
+      },
+      "effect_asset": "effects/gold-sparkles",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "aim-guide": {
+      "states": {
+        "idle": "masters/states/aim-guide/idle.png",
+        "selected": "masters/states/aim-guide/selected.png",
+        "charging": "masters/states/aim-guide/charging.png",
+        "activated": "masters/states/aim-guide/activated.png",
+        "effect": "masters/states/aim-guide/effect.png"
+      },
+      "effect_asset": "effects/aim-trajectory",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "star-magnet": {
+      "states": {
+        "idle": "masters/states/star-magnet/idle.png",
+        "selected": "masters/states/star-magnet/selected.png",
+        "charging": "masters/states/star-magnet/charging.png",
+        "activated": "masters/states/star-magnet/activated.png",
+        "effect": "masters/states/star-magnet/effect.png"
+      },
+      "effect_asset": "effects/star-attraction",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "time-freeze": {
+      "states": {
+        "idle": "masters/states/time-freeze/idle.png",
+        "selected": "masters/states/time-freeze/selected.png",
+        "charging": "masters/states/time-freeze/charging.png",
+        "activated": "masters/states/time-freeze/activated.png",
+        "effect": "masters/states/time-freeze/effect.png"
+      },
+      "effect_asset": "effects/freeze-field",
+      "core_center": [
+        512,
+        512
+      ]
+    },
+    "mega-burst": {
+      "states": {
+        "idle": "masters/states/mega-burst/idle.png",
+        "selected": "masters/states/mega-burst/selected.png",
+        "charging": "masters/states/mega-burst/charging.png",
+        "activated": "masters/states/mega-burst/activated.png",
+        "effect": "masters/states/mega-burst/effect.png"
+      },
+      "effect_asset": "effects/mega-explosion",
+      "core_center": [
+        512,
+        512
+      ]
+    }
+  }
+}

@@ -207,3 +207,15 @@ Locked character sprites are reused without repainting. Original board, manifest
 
 Approved world and locked character artwork reused; level ranges and progression rules remain configurable. Original board, manifest, provenance and all individual previews included.
 <!-- stage6-map:end -->
+
+<!-- stage6-boosters:start -->
+### Stage 6 · Power-ups & boosters
+
+[Browse all 113 assets and state variants](stages/stage-06-power-ups-boosters/v1/README.md)
+
+![Core boosters](stages/stage-06-power-ups-boosters/v1/previews/core.jpg)
+
+![All booster assets](stages/stage-06-power-ups-boosters/v1/preview.jpg)
+
+Ten booster concepts with five state keys each, effects, UI, rewards, pack artwork and locked-character gameplay illustrations. Includes original board, provenance, manifest and individual previews. Quantities and gameplay mechanics remain configurable.
+<!-- stage6-boosters:end -->
