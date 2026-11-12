@@ -343,3 +343,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![Shop UI previews](stages/stage-10-shop/v1/overview.jpg)
 <!-- stage-10-shop:end -->
+
+
+<!-- stage-11-ui-design:start -->
+## Stage 11 · Screen Design Boards
+
+[Browse all ten boards in order](stages/stage-11-ui-design/v1/README.md). Gameplay, Home, World Selection, Cannon Locker, Collection, Results, Daily Rewards, Achievements, Settings and UI Components. Composed from 97 existing source assets; no original artwork regenerated. Layout proposals for review.
+
+![Stage 11 design boards](stages/stage-11-ui-design/v1/overview.jpg)
+<!-- stage-11-ui-design:end -->
