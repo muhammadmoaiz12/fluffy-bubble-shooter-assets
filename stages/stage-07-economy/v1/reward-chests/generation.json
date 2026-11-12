@@ -1,0 +1,558 @@
+{
+  "tool": "Built-in imagegen",
+  "references": [
+    {
+      "path": "references/Puff Trails Reward Chest Design System-5.png",
+      "sha256": "2ceada38ddc14efc0ce5e4c1d72298458e809f13f5f02ebbb7e69295c3e22ef0"
+    }
+  ],
+  "existing_sources": {
+    "stages/stage-07-economy/v1/coins/masters/packs/coin-bag.png": "b3b419c1856ae8272135c22127de0723913dd9b32b45e49da260a8811e01f167",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+    "locked/puff-trails-brand/v1/masters/icons/gift.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+    "stages/stage-06-power-ups-boosters/v1/masters/collectibles/purple-booster-crate.png": "8f1219a124f2bd67c3cbead8ea86ac221d4661358f3aa71603f8a60e14f9b427",
+    "stages/stage-07-economy/v1/coins/masters/packs/large-stack.png": "32e99dffc81874c33427928a42c7fe203c3ece2a72a35607b0fd9f57aac14d4d",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/gem.png": "0c6a39ae85250f8ed92f465ecad13d5fcd94475be96e6c8f0c25f2cef198206a",
+    "locked/puff-trails-brand/v1/masters/icons/star-gold.png": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+    "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/rainbow-orb.png": "38117b1a7b34f7e951c574c6affa749eae267434224c3fef1f4c9ee7ff418fd9",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-glint.png": "d57713ab7246841f5301d4aa05db4b2438b7854fe914fa897f23caebb5f32f36",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/purple-vortex.png": "c48ad29602daf1316cd02d38ffe9e2ddfb6d661e28ba11597c1cf8625dd6ac9b",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/rainbow-trail.png": "2956d0fa3ca7ed5a323b9398654e5eb26fdfff0ca49dfb87948afd476b2f3f13"
+  },
+  "records": {
+    "golden/empty": {
+      "id": "golden/empty",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--empty.png",
+      "source_box": [
+        700,
+        529,
+        795,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-25ea8aad-7b38-4858-a2cc-9c7e9237a065.png"
+    },
+    "rainbow/front": {
+      "id": "rainbow/front",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--front.png",
+      "source_box": [
+        809,
+        626,
+        904,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-90dd81b1-aeec-480d-b99d-f0a7ec5afcce.png"
+    },
+    "silver/empty": {
+      "id": "silver/empty",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--empty.png",
+      "source_box": [
+        700,
+        432,
+        795,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-4b891860-ae7b-4354-ac7d-485b76962b27.png"
+    },
+    "premium/front": {
+      "id": "premium/front",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--front.png",
+      "source_box": [
+        809,
+        723,
+        904,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d875d000-a038-4a6b-aef9-24221ddfa1c8.png"
+    },
+    "premium/side": {
+      "id": "premium/side",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--side.png",
+      "source_box": [
+        1025,
+        723,
+        1120,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-a46dd108-a32f-4556-ab55-963da907e26f.png"
+    },
+    "containers/capsule": {
+      "id": "containers/capsule",
+      "description": "Reward capsule: rounded clear pink-purple gumball-like globe on short gold/purple pedestal, golden star inside, small gold rim. Match reward capsule bottom-left section.",
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: Reward capsule: rounded clear pink-purple gumball-like globe on short gold/purple pedestal, golden star inside, small gold rim. Match reward capsule bottom-left section. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d80953f4-1819-457a-82e5-d9b90d615ed8.png"
+    },
+    "effects/purple-beams": {
+      "id": "effects/purple-beams",
+      "description": "Magical purple reward reveal: violet vertical light spikes from an elliptical glowing ground ring, fine sparkles, no container or background.",
+      "prompt": "Create ONLY a standalone magical VFX layer matching this crop: luminous violet/pink elliptical ground ring, narrow vertical purple light spikes rising from it and tiny white/violet sparkles. NO chest, NO container, NO star emblem, NO object, NO solid ground, NO panel. Empty space within light effect. Genuine transparent background. Centered with ample margins, glowing light only, Puff Trails pastel magic style.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-af616905-75ea-4132-aff1-524a95de00f4.png"
+    },
+    "golden/open": {
+      "id": "golden/open",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--open.png",
+      "source_box": [
+        505,
+        529,
+        600,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-46460397-c843-4a45-89d7-dbc0880fa8d3.png"
+    },
+    "rainbow/closed": {
+      "id": "rainbow/closed",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--closed.png",
+      "source_box": [
+        307,
+        626,
+        402,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-9e7f8bd6-a800-44e0-8167-206196ace2f9.png"
+    },
+    "premium/top": {
+      "id": "premium/top",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--top.png",
+      "source_box": [
+        1120,
+        723,
+        1215,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-100ae117-1402-4753-a35e-a07f54c3d205.png"
+    },
+    "wooden/front": {
+      "id": "wooden/front",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--front.png",
+      "source_box": [
+        809,
+        335,
+        904,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-f38e97fe-e831-4610-a693-1d558e97b5f6.png"
+    },
+    "premium/opening": {
+      "id": "premium/opening",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--opening.png",
+      "source_box": [
+        405,
+        723,
+        500,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-70acb744-3f18-441f-be7a-4314222efd84.png"
+    },
+    "golden/front": {
+      "id": "golden/front",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--front.png",
+      "source_box": [
+        809,
+        529,
+        904,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0f4ebed5-e236-4468-a264-c805a20f67eb.png"
+    },
+    "silver/open": {
+      "id": "silver/open",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--open.png",
+      "source_box": [
+        505,
+        432,
+        600,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0e2b65f3-3731-457f-b407-5ed4c117bbda.png"
+    },
+    "rainbow/empty": {
+      "id": "rainbow/empty",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--empty.png",
+      "source_box": [
+        700,
+        626,
+        795,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c83d47a3-ee6e-4503-a430-0a6051626468.png"
+    },
+    "premium/empty": {
+      "id": "premium/empty",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--empty.png",
+      "source_box": [
+        700,
+        723,
+        795,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2595f8af-7540-402c-aed8-a544064c3bd9.png"
+    },
+    "silver/front": {
+      "id": "silver/front",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--front.png",
+      "source_box": [
+        809,
+        432,
+        904,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-962bc6b3-7328-4ee0-8dd9-0bd8827d0a15.png"
+    },
+    "wooden/side": {
+      "id": "wooden/side",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--side.png",
+      "source_box": [
+        1025,
+        335,
+        1120,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8d7666e6-139c-4b7f-850c-67c2341ea6e9.png"
+    },
+    "premium/closed": {
+      "id": "premium/closed",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--closed.png",
+      "source_box": [
+        307,
+        723,
+        402,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-bbcc4b9d-b957-4928-bcee-61ec86cd19ab.png"
+    },
+    "rainbow/side": {
+      "id": "rainbow/side",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--side.png",
+      "source_box": [
+        1025,
+        626,
+        1120,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-bdd85ee6-dd86-418a-9120-4e2de1ec06c1.png"
+    },
+    "rainbow/opening": {
+      "id": "rainbow/opening",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--opening.png",
+      "source_box": [
+        405,
+        626,
+        500,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-4b33aae7-f9af-4d31-a6d6-a6f7c5507413.png"
+    },
+    "wooden/empty": {
+      "id": "wooden/empty",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--empty.png",
+      "source_box": [
+        700,
+        335,
+        795,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-2d970baa-ed65-4475-ba06-4697c8d4d4e0.png"
+    },
+    "golden/side": {
+      "id": "golden/side",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--side.png",
+      "source_box": [
+        1025,
+        529,
+        1120,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-ccbcded0-7716-4e22-9411-35354865484b.png"
+    },
+    "silver/top": {
+      "id": "silver/top",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--top.png",
+      "source_box": [
+        1120,
+        432,
+        1215,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7f026fa0-afad-421d-8af4-815df1f1b48b.png"
+    },
+    "golden/opening": {
+      "id": "golden/opening",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--opening.png",
+      "source_box": [
+        405,
+        529,
+        500,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-548d2046-8278-4750-92bc-32463b433c5c.png"
+    },
+    "golden/top": {
+      "id": "golden/top",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--top.png",
+      "source_box": [
+        1120,
+        529,
+        1215,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-27e5f92e-90da-41c5-b88d-765828090a0b.png"
+    },
+    "golden/closed": {
+      "id": "golden/closed",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--closed.png",
+      "source_box": [
+        307,
+        529,
+        402,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-fa43d794-65e4-4bb7-b77c-3a92d753b566.png"
+    },
+    "wooden/closed": {
+      "id": "wooden/closed",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--closed.png",
+      "source_box": [
+        307,
+        335,
+        402,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-0fb5cada-c59e-4cf8-b44b-1ec2c8eedc38.png"
+    },
+    "premium/open": {
+      "id": "premium/open",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--open.png",
+      "source_box": [
+        505,
+        723,
+        600,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c0ed7703-3bac-4164-b8a2-69cfcf9ff384.png"
+    },
+    "silver/opening": {
+      "id": "silver/opening",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--opening.png",
+      "source_box": [
+        405,
+        432,
+        500,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-3e235056-7ea6-4f0b-baa8-c1bfdafdace7.png"
+    },
+    "premium/reward-filled": {
+      "id": "premium/reward-filled",
+      "description": "ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/premium--reward-filled.png",
+      "source_box": [
+        600,
+        723,
+        695,
+        808
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c8ce39e8-e3a8-493b-a93d-0d4bd60d73cd.png"
+    },
+    "silver/closed": {
+      "id": "silver/closed",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--closed.png",
+      "source_box": [
+        307,
+        432,
+        402,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-c078c160-ab27-41c9-97f5-59e55b861b51.png"
+    },
+    "rainbow/reward-filled": {
+      "id": "rainbow/reward-filled",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--reward-filled.png",
+      "source_box": [
+        600,
+        626,
+        695,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8bc317b8-e728-432e-8c3e-f1a200bf88ed.png"
+    },
+    "rainbow/top": {
+      "id": "rainbow/top",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--top.png",
+      "source_box": [
+        1120,
+        626,
+        1215,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-da027396-59a9-442b-bf17-0cfa052590cb.png"
+    },
+    "wooden/opening": {
+      "id": "wooden/opening",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--opening.png",
+      "source_box": [
+        405,
+        335,
+        500,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-8095ae04-515f-4cd1-93c9-8f21995dc65e.png"
+    },
+    "wooden/reward-filled": {
+      "id": "wooden/reward-filled",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--reward-filled.png",
+      "source_box": [
+        600,
+        335,
+        695,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-baea69ce-4052-4073-9a3e-3c263398359e.png"
+    },
+    "golden/reward-filled": {
+      "id": "golden/reward-filled",
+      "description": "ONE pink-purple chest with glossy gold trim and gold star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/golden--reward-filled.png",
+      "source_box": [
+        600,
+        529,
+        695,
+        614
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-b7425c84-dbaf-400e-842e-06f72e871e21.png"
+    },
+    "silver/reward-filled": {
+      "id": "silver/reward-filled",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--reward-filled.png",
+      "source_box": [
+        600,
+        432,
+        695,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-d4bdd7a3-3f02-460c-b368-f03f6825a376.png"
+    },
+    "wooden/open": {
+      "id": "wooden/open",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--open.png",
+      "source_box": [
+        505,
+        335,
+        600,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7fa9f08c-86b9-4ba9-971d-e4e65d4875e0.png"
+    },
+    "wooden/top": {
+      "id": "wooden/top",
+      "description": "ONE warm wooden slat chest with copper trim and gold star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/wooden--top.png",
+      "source_box": [
+        1120,
+        335,
+        1215,
+        420
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-7c7536fe-edd0-489a-bf59-dfd1840209b4.png"
+    },
+    "silver/side": {
+      "id": "silver/side",
+      "description": "ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/silver--side.png",
+      "source_box": [
+        1025,
+        432,
+        1120,
+        517
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-f89712fa-b567-4793-8f53-f1248d6ffd4c.png"
+    },
+    "rainbow/open": {
+      "id": "rainbow/open",
+      "description": "ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base.",
+      "reference": "/Users/mac/Documents/Codex/2026-11-10/referenced-chatgpt-conversation-this-is-an-2/work/economy/chests-refs/rainbow--open.png",
+      "source_box": [
+        505,
+        626,
+        600,
+        711
+      ],
+      "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+      "path": "/Users/mac/.codex/generated_images/01a1c6b3-db12-7830-acef-1ec8e092bfc4/exec-686fd444-fa0a-4938-b769-134d9a97ca39.png"
+    }
+  }
+}

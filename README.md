@@ -246,3 +246,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![cannon-energy](stages/stage-07-economy/v1/cannon-energy/preview.jpg)
 <!-- economy-energy:end -->
+
+
+<!-- economy-chests:start -->
+### Economy · Reward Chests
+
+[Every individual asset and preview](stages/stage-07-economy/v1/reward-chests/README.md) · 55 masters · 330 PNG/WebP exports. Original boards, source hashes and provenance included.
+
+![reward-chests](stages/stage-07-economy/v1/reward-chests/preview.jpg)
+<!-- economy-chests:end -->

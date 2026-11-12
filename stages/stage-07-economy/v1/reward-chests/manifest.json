@@ -1,0 +1,3694 @@
+{
+  "pack": "reward-chests",
+  "assets": [
+    {
+      "id": "golden/empty",
+      "master": "masters/golden/empty.png",
+      "exports": [
+        "gameplay/golden/empty-128.png",
+        "gameplay/golden/empty-128.webp",
+        "gameplay/golden/empty-256.png",
+        "gameplay/golden/empty-256.webp",
+        "gameplay/golden/empty-512.png",
+        "gameplay/golden/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        115,
+        952,
+        909
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "31f5910c062e267617494ec9fcd062f1c0c0fc97838434a337b3916b56794759"
+      }
+    },
+    {
+      "id": "rainbow/front",
+      "master": "masters/rainbow/front.png",
+      "exports": [
+        "gameplay/rainbow/front-128.png",
+        "gameplay/rainbow/front-128.webp",
+        "gameplay/rainbow/front-256.png",
+        "gameplay/rainbow/front-256.webp",
+        "gameplay/rainbow/front-512.png",
+        "gameplay/rainbow/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        207,
+        952,
+        817
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "412f22706d3c3bda17fba41ee0300807173e0c762028ffda436144a6c511426a"
+      }
+    },
+    {
+      "id": "silver/empty",
+      "master": "masters/silver/empty.png",
+      "exports": [
+        "gameplay/silver/empty-128.png",
+        "gameplay/silver/empty-128.webp",
+        "gameplay/silver/empty-256.png",
+        "gameplay/silver/empty-256.webp",
+        "gameplay/silver/empty-512.png",
+        "gameplay/silver/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        84,
+        952,
+        940
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "3d79e964149ba7b90bc2f62ab0b7d582a2b67e82a262abdf15000a69e0f5005e"
+      }
+    },
+    {
+      "id": "premium/front",
+      "master": "masters/premium/front.png",
+      "exports": [
+        "gameplay/premium/front-128.png",
+        "gameplay/premium/front-128.webp",
+        "gameplay/premium/front-256.png",
+        "gameplay/premium/front-256.webp",
+        "gameplay/premium/front-512.png",
+        "gameplay/premium/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        139,
+        952,
+        884
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "c443b13d84d3ddca0df0ee4ec2c248b2324bc49ffcd4d637c17e7f26f36aea65"
+      }
+    },
+    {
+      "id": "premium/side",
+      "master": "masters/premium/side.png",
+      "exports": [
+        "gameplay/premium/side-128.png",
+        "gameplay/premium/side-128.webp",
+        "gameplay/premium/side-256.png",
+        "gameplay/premium/side-256.webp",
+        "gameplay/premium/side-512.png",
+        "gameplay/premium/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        115,
+        72,
+        909,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "2489ae1075c4e8b78ee94f03179bd96a5cebd7f4e29008ebf9108297fe6d1e0e"
+      }
+    },
+    {
+      "id": "containers/capsule",
+      "master": "masters/containers/capsule.png",
+      "exports": [
+        "gameplay/containers/capsule-128.png",
+        "gameplay/containers/capsule-128.webp",
+        "gameplay/containers/capsule-256.png",
+        "gameplay/containers/capsule-256.webp",
+        "gameplay/containers/capsule-512.png",
+        "gameplay/containers/capsule-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        143,
+        76,
+        881,
+        947
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: Reward capsule: rounded clear pink-purple gumball-like globe on short gold/purple pedestal, golden star inside, small gold rim. Match reward capsule bottom-left section. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "ce21c3d6e2695cbdc967f7d8f409cd2135db51335f651843c51741235fbd734b"
+      }
+    },
+    {
+      "id": "effects/purple-beams",
+      "master": "masters/effects/purple-beams.png",
+      "exports": [
+        "gameplay/effects/purple-beams-128.png",
+        "gameplay/effects/purple-beams-128.webp",
+        "gameplay/effects/purple-beams-256.png",
+        "gameplay/effects/purple-beams-256.webp",
+        "gameplay/effects/purple-beams-512.png",
+        "gameplay/effects/purple-beams-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        142,
+        122,
+        881,
+        901
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Create ONLY a standalone magical VFX layer matching this crop: luminous violet/pink elliptical ground ring, narrow vertical purple light spikes rising from it and tiny white/violet sparkles. NO chest, NO container, NO star emblem, NO object, NO solid ground, NO panel. Empty space within light effect. Genuine transparent background. Centered with ample margins, glowing light only, Puff Trails pastel magic style.",
+        "generated_sha256": "b8f8b4f829c4dcc706912df6ae150b6a07b889e715aca907cefe2616f278d8c4"
+      }
+    },
+    {
+      "id": "golden/open",
+      "master": "masters/golden/open.png",
+      "exports": [
+        "gameplay/golden/open-128.png",
+        "gameplay/golden/open-128.webp",
+        "gameplay/golden/open-256.png",
+        "gameplay/golden/open-256.webp",
+        "gameplay/golden/open-512.png",
+        "gameplay/golden/open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        97,
+        72,
+        926,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "57e2b91bae489238a01c05d2845d774b20be4d4fc3976480817aac1a016a45fb"
+      }
+    },
+    {
+      "id": "rainbow/closed",
+      "master": "masters/rainbow/closed.png",
+      "exports": [
+        "gameplay/rainbow/closed-128.png",
+        "gameplay/rainbow/closed-128.webp",
+        "gameplay/rainbow/closed-256.png",
+        "gameplay/rainbow/closed-256.webp",
+        "gameplay/rainbow/closed-512.png",
+        "gameplay/rainbow/closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        181,
+        952,
+        842
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "05f63f970bf81fb96ac98947c3a77cc331bedb0ac80eec9769ab86ba710eaa4a"
+      }
+    },
+    {
+      "id": "premium/top",
+      "master": "masters/premium/top.png",
+      "exports": [
+        "gameplay/premium/top-128.png",
+        "gameplay/premium/top-128.webp",
+        "gameplay/premium/top-256.png",
+        "gameplay/premium/top-256.webp",
+        "gameplay/premium/top-512.png",
+        "gameplay/premium/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        229,
+        952,
+        794
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "1167d3929e5ae3680dc2c650cfbe06bee0691723eaf35dd32c4bd954130c2b2c"
+      }
+    },
+    {
+      "id": "wooden/front",
+      "master": "masters/wooden/front.png",
+      "exports": [
+        "gameplay/wooden/front-128.png",
+        "gameplay/wooden/front-128.webp",
+        "gameplay/wooden/front-256.png",
+        "gameplay/wooden/front-256.webp",
+        "gameplay/wooden/front-512.png",
+        "gameplay/wooden/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        157,
+        952,
+        866
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "4c5294f458d34d9ebd140c5c2a1a1c1152656494ce295f31290a4ebda66a76a7"
+      }
+    },
+    {
+      "id": "premium/opening",
+      "master": "masters/premium/opening.png",
+      "exports": [
+        "gameplay/premium/opening-128.png",
+        "gameplay/premium/opening-128.webp",
+        "gameplay/premium/opening-256.png",
+        "gameplay/premium/opening-256.webp",
+        "gameplay/premium/opening-512.png",
+        "gameplay/premium/opening-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        123,
+        952,
+        901
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "34f7d761e12bb52509e334dd11ab9a4247c23fc08da84716804b84452bd796f8"
+      }
+    },
+    {
+      "id": "golden/front",
+      "master": "masters/golden/front.png",
+      "exports": [
+        "gameplay/golden/front-128.png",
+        "gameplay/golden/front-128.webp",
+        "gameplay/golden/front-256.png",
+        "gameplay/golden/front-256.webp",
+        "gameplay/golden/front-512.png",
+        "gameplay/golden/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        188,
+        952,
+        835
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "7e7e024f337e784a8297708872b5ac6b3658fce40b124a8cdb72c5afb23c26ec"
+      }
+    },
+    {
+      "id": "silver/open",
+      "master": "masters/silver/open.png",
+      "exports": [
+        "gameplay/silver/open-128.png",
+        "gameplay/silver/open-128.webp",
+        "gameplay/silver/open-256.png",
+        "gameplay/silver/open-256.webp",
+        "gameplay/silver/open-512.png",
+        "gameplay/silver/open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        100,
+        72,
+        923,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "c3efabebef16661220045ac16b492d1d382e251e441c4cb31901e060587ac48e"
+      }
+    },
+    {
+      "id": "rainbow/empty",
+      "master": "masters/rainbow/empty.png",
+      "exports": [
+        "gameplay/rainbow/empty-128.png",
+        "gameplay/rainbow/empty-128.webp",
+        "gameplay/rainbow/empty-256.png",
+        "gameplay/rainbow/empty-256.webp",
+        "gameplay/rainbow/empty-512.png",
+        "gameplay/rainbow/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        75,
+        952,
+        948
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "ad8f65cd74820ee2890d4a966fa5f593416dbdc20bbe10609611ae4031b5ba56"
+      }
+    },
+    {
+      "id": "premium/empty",
+      "master": "masters/premium/empty.png",
+      "exports": [
+        "gameplay/premium/empty-128.png",
+        "gameplay/premium/empty-128.webp",
+        "gameplay/premium/empty-256.png",
+        "gameplay/premium/empty-256.webp",
+        "gameplay/premium/empty-512.png",
+        "gameplay/premium/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        126,
+        952,
+        898
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "18e8cd14c41b47167853ddb4f4da5ea499d1f02678552c7a8e14517aca918414"
+      }
+    },
+    {
+      "id": "silver/front",
+      "master": "masters/silver/front.png",
+      "exports": [
+        "gameplay/silver/front-128.png",
+        "gameplay/silver/front-128.webp",
+        "gameplay/silver/front-256.png",
+        "gameplay/silver/front-256.webp",
+        "gameplay/silver/front-512.png",
+        "gameplay/silver/front-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        153,
+        952,
+        871
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed exactly front-facing. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "bd3733cd8f01cbd9890777d1ae2cfd0bec46259db38230899785e821eceb91f4"
+      }
+    },
+    {
+      "id": "wooden/side",
+      "master": "masters/wooden/side.png",
+      "exports": [
+        "gameplay/wooden/side-128.png",
+        "gameplay/wooden/side-128.webp",
+        "gameplay/wooden/side-256.png",
+        "gameplay/wooden/side-256.webp",
+        "gameplay/wooden/side-512.png",
+        "gameplay/wooden/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        125,
+        131,
+        898,
+        893
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "96a664f255426a5ca4189146ab8848f08c247d4f25f8a767368c07adbccb5f67"
+      }
+    },
+    {
+      "id": "premium/closed",
+      "master": "masters/premium/closed.png",
+      "exports": [
+        "gameplay/premium/closed-128.png",
+        "gameplay/premium/closed-128.webp",
+        "gameplay/premium/closed-256.png",
+        "gameplay/premium/closed-256.webp",
+        "gameplay/premium/closed-512.png",
+        "gameplay/premium/closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        110,
+        952,
+        913
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "43826cf34f6f297ac0e232b9d150c7259c91f8b8a7c83c524cc0ca9646788966"
+      }
+    },
+    {
+      "id": "rainbow/side",
+      "master": "masters/rainbow/side.png",
+      "exports": [
+        "gameplay/rainbow/side-128.png",
+        "gameplay/rainbow/side-128.webp",
+        "gameplay/rainbow/side-256.png",
+        "gameplay/rainbow/side-256.webp",
+        "gameplay/rainbow/side-512.png",
+        "gameplay/rainbow/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        101,
+        78,
+        923,
+        945
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "844fb06a6f2abc7a29fc98ae97e7325ad8f8aa367f092b8ce699101ce0b07544"
+      }
+    },
+    {
+      "id": "rainbow/opening",
+      "master": "masters/rainbow/opening.png",
+      "exports": [
+        "gameplay/rainbow/opening-128.png",
+        "gameplay/rainbow/opening-128.webp",
+        "gameplay/rainbow/opening-256.png",
+        "gameplay/rainbow/opening-256.webp",
+        "gameplay/rainbow/opening-512.png",
+        "gameplay/rainbow/opening-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        105,
+        952,
+        918
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "5c4cbe185cdb841caf85aff0b8aada137044e6dba0daad3af530019ad57fe078"
+      }
+    },
+    {
+      "id": "wooden/empty",
+      "master": "masters/wooden/empty.png",
+      "exports": [
+        "gameplay/wooden/empty-128.png",
+        "gameplay/wooden/empty-128.webp",
+        "gameplay/wooden/empty-256.png",
+        "gameplay/wooden/empty-256.webp",
+        "gameplay/wooden/empty-512.png",
+        "gameplay/wooden/empty-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        109,
+        952,
+        914
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid open empty, interior clearly visible, no glow or rewards. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "3d128872f2b9ed2e43d769acae1b3e8c2d9a681481cfab309162ce9444005b1d"
+      }
+    },
+    {
+      "id": "golden/side",
+      "master": "masters/golden/side.png",
+      "exports": [
+        "gameplay/golden/side-128.png",
+        "gameplay/golden/side-128.webp",
+        "gameplay/golden/side-256.png",
+        "gameplay/golden/side-256.webp",
+        "gameplay/golden/side-512.png",
+        "gameplay/golden/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        100,
+        113,
+        923,
+        911
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "025e965b3b0571db99452bc385a426191d329097f6a6e6115c4f73f0eb3623b5"
+      }
+    },
+    {
+      "id": "silver/top",
+      "master": "masters/silver/top.png",
+      "exports": [
+        "gameplay/silver/top-128.png",
+        "gameplay/silver/top-128.webp",
+        "gameplay/silver/top-256.png",
+        "gameplay/silver/top-256.webp",
+        "gameplay/silver/top-512.png",
+        "gameplay/silver/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        206,
+        952,
+        817
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "aafd8e4c1beb7cbf017fe25d170278ee18aa6862ca9bd2359151cfe247178b9e"
+      }
+    },
+    {
+      "id": "golden/opening",
+      "master": "masters/golden/opening.png",
+      "exports": [
+        "gameplay/golden/opening-128.png",
+        "gameplay/golden/opening-128.webp",
+        "gameplay/golden/opening-256.png",
+        "gameplay/golden/opening-256.webp",
+        "gameplay/golden/opening-512.png",
+        "gameplay/golden/opening-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        99,
+        952,
+        924
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "dfd9130351bf36a93ec134ac7dcc3d1693fedce305b711c25dee34e709a87824"
+      }
+    },
+    {
+      "id": "golden/top",
+      "master": "masters/golden/top.png",
+      "exports": [
+        "gameplay/golden/top-128.png",
+        "gameplay/golden/top-128.webp",
+        "gameplay/golden/top-256.png",
+        "gameplay/golden/top-256.webp",
+        "gameplay/golden/top-512.png",
+        "gameplay/golden/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        210,
+        952,
+        813
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "cac7dcceec8afb8497477d823060c435d406b5e2b374a1ec58740d41befb4243"
+      }
+    },
+    {
+      "id": "golden/closed",
+      "master": "masters/golden/closed.png",
+      "exports": [
+        "gameplay/golden/closed-128.png",
+        "gameplay/golden/closed-128.webp",
+        "gameplay/golden/closed-256.png",
+        "gameplay/golden/closed-256.webp",
+        "gameplay/golden/closed-512.png",
+        "gameplay/golden/closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        191,
+        952,
+        833
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "d7199c6dd65e6a24b94c9345c6c7cede36dae983de538c01a6b1e7bf7ff8421a"
+      }
+    },
+    {
+      "id": "wooden/closed",
+      "master": "masters/wooden/closed.png",
+      "exports": [
+        "gameplay/wooden/closed-128.png",
+        "gameplay/wooden/closed-128.webp",
+        "gameplay/wooden/closed-256.png",
+        "gameplay/wooden/closed-256.webp",
+        "gameplay/wooden/closed-512.png",
+        "gameplay/wooden/closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        194,
+        952,
+        829
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "fb8bd8e28cb6985f1ea004658e369add326afef303a6d8c887c719b2ec9fc8eb"
+      }
+    },
+    {
+      "id": "premium/open",
+      "master": "masters/premium/open.png",
+      "exports": [
+        "gameplay/premium/open-128.png",
+        "gameplay/premium/open-128.webp",
+        "gameplay/premium/open-256.png",
+        "gameplay/premium/open-256.webp",
+        "gameplay/premium/open-512.png",
+        "gameplay/premium/open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        111,
+        952,
+        912
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "0a6a74bccac8c77041f88544ac852e558d47e474866206a0484cb313156f6ba6"
+      }
+    },
+    {
+      "id": "silver/opening",
+      "master": "masters/silver/opening.png",
+      "exports": [
+        "gameplay/silver/opening-128.png",
+        "gameplay/silver/opening-128.webp",
+        "gameplay/silver/opening-256.png",
+        "gameplay/silver/opening-256.webp",
+        "gameplay/silver/opening-512.png",
+        "gameplay/silver/opening-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        125,
+        952,
+        899
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "2043bfc831ca4596980192f9a1f7db9a17f201b904eedfd05c565c9e81606929"
+      }
+    },
+    {
+      "id": "premium/reward-filled",
+      "master": "masters/premium/reward-filled.png",
+      "exports": [
+        "gameplay/premium/reward-filled-128.png",
+        "gameplay/premium/reward-filled-128.webp",
+        "gameplay/premium/reward-filled-256.png",
+        "gameplay/premium/reward-filled-256.webp",
+        "gameplay/premium/reward-filled-512.png",
+        "gameplay/premium/reward-filled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        94,
+        952,
+        930
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE luxurious purple quilted chest with gold trim, pink heart jewel clasp, crown and gold-white wings; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "851dec6dd4a633ba68891a3b4a006c6e640689e151f8340576918f3495b87e5e"
+      }
+    },
+    {
+      "id": "silver/closed",
+      "master": "masters/silver/closed.png",
+      "exports": [
+        "gameplay/silver/closed-128.png",
+        "gameplay/silver/closed-128.webp",
+        "gameplay/silver/closed-256.png",
+        "gameplay/silver/closed-256.webp",
+        "gameplay/silver/closed-512.png",
+        "gameplay/silver/closed-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        177,
+        952,
+        847
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed three-quarter view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "7427fcd4ea3e1625f0564358304606e6d3ee4970732dc40e031699302abd127f"
+      }
+    },
+    {
+      "id": "rainbow/reward-filled",
+      "master": "masters/rainbow/reward-filled.png",
+      "exports": [
+        "gameplay/rainbow/reward-filled-128.png",
+        "gameplay/rainbow/reward-filled-128.webp",
+        "gameplay/rainbow/reward-filled-256.png",
+        "gameplay/rainbow/reward-filled-256.webp",
+        "gameplay/rainbow/reward-filled-512.png",
+        "gameplay/rainbow/reward-filled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        101,
+        952,
+        923
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "2391b5d58df028c3273554b31e4b52d5bdf1d831595da00f4d5a7e3b6816a37e"
+      }
+    },
+    {
+      "id": "rainbow/top",
+      "master": "masters/rainbow/top.png",
+      "exports": [
+        "gameplay/rainbow/top-128.png",
+        "gameplay/rainbow/top-128.webp",
+        "gameplay/rainbow/top-256.png",
+        "gameplay/rainbow/top-256.webp",
+        "gameplay/rainbow/top-512.png",
+        "gameplay/rainbow/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        241,
+        952,
+        782
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "802a73dd67b3451dc91650a9be312047c6e3891f24558fc24541bcacef415cc9"
+      }
+    },
+    {
+      "id": "wooden/opening",
+      "master": "masters/wooden/opening.png",
+      "exports": [
+        "gameplay/wooden/opening-128.png",
+        "gameplay/wooden/opening-128.webp",
+        "gameplay/wooden/opening-256.png",
+        "gameplay/wooden/opening-256.webp",
+        "gameplay/wooden/opening-512.png",
+        "gameplay/wooden/opening-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        102,
+        952,
+        921
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid half-open, warm glow spilling from narrow opening. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "dd7e7537e8e9c770fa04f3075fe8e43e579853455fc1352c7c783db354656785"
+      }
+    },
+    {
+      "id": "wooden/reward-filled",
+      "master": "masters/wooden/reward-filled.png",
+      "exports": [
+        "gameplay/wooden/reward-filled-128.png",
+        "gameplay/wooden/reward-filled-128.webp",
+        "gameplay/wooden/reward-filled-256.png",
+        "gameplay/wooden/reward-filled-256.webp",
+        "gameplay/wooden/reward-filled-512.png",
+        "gameplay/wooden/reward-filled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        107,
+        952,
+        916
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "9f85ebfdff713d707067dfa800d585246041167684a832ee22d1216a5dd905b1"
+      }
+    },
+    {
+      "id": "golden/reward-filled",
+      "master": "masters/golden/reward-filled.png",
+      "exports": [
+        "gameplay/golden/reward-filled-128.png",
+        "gameplay/golden/reward-filled-128.webp",
+        "gameplay/golden/reward-filled-256.png",
+        "gameplay/golden/reward-filled-256.webp",
+        "gameplay/golden/reward-filled-512.png",
+        "gameplay/golden/reward-filled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        106,
+        952,
+        918
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE pink-purple chest with glossy gold trim and gold star clasp; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "ce432c781dbc4b238370589951bf8a9c78161e27f1a3a3676930563dfee92c26"
+      }
+    },
+    {
+      "id": "silver/reward-filled",
+      "master": "masters/silver/reward-filled.png",
+      "exports": [
+        "gameplay/silver/reward-filled-128.png",
+        "gameplay/silver/reward-filled-128.webp",
+        "gameplay/silver/reward-filled-256.png",
+        "gameplay/silver/reward-filled-256.webp",
+        "gameplay/silver/reward-filled-512.png",
+        "gameplay/silver/reward-filled-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        81,
+        952,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; lid open filled with gold coins, gems and stars. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "cdf962fff286ebf152c817a7fd8b66a0241c1c3a48ea47033d655e6170dba557"
+      }
+    },
+    {
+      "id": "wooden/open",
+      "master": "masters/wooden/open.png",
+      "exports": [
+        "gameplay/wooden/open-128.png",
+        "gameplay/wooden/open-128.webp",
+        "gameplay/wooden/open-256.png",
+        "gameplay/wooden/open-256.webp",
+        "gameplay/wooden/open-512.png",
+        "gameplay/wooden/open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        92,
+        72,
+        931,
+        952
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "f679f260e6120686e22a8a6c62eca21fa9655e682292a9019f5e8344611d7674"
+      }
+    },
+    {
+      "id": "wooden/top",
+      "master": "masters/wooden/top.png",
+      "exports": [
+        "gameplay/wooden/top-128.png",
+        "gameplay/wooden/top-128.webp",
+        "gameplay/wooden/top-256.png",
+        "gameplay/wooden/top-256.webp",
+        "gameplay/wooden/top-512.png",
+        "gameplay/wooden/top-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        175,
+        952,
+        848
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE warm wooden slat chest with copper trim and gold star clasp; closed top-down view. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "a2bb76f9a38fbd9e1e2b366d3cd597965bac6df5e442235d9c9b224fd5599ca1"
+      }
+    },
+    {
+      "id": "silver/side",
+      "master": "masters/silver/side.png",
+      "exports": [
+        "gameplay/silver/side-128.png",
+        "gameplay/silver/side-128.webp",
+        "gameplay/silver/side-256.png",
+        "gameplay/silver/side-256.webp",
+        "gameplay/silver/side-512.png",
+        "gameplay/silver/side-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        106,
+        123,
+        918,
+        901
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE blue-violet chest with silver riveted trim, gold star clasp and cyan gem on lid; closed side 90 degree. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "193eddbafa25e4d848a40353256aab21965758c3be8c34e0f1c56334f3dbe47c"
+      }
+    },
+    {
+      "id": "rainbow/open",
+      "master": "masters/rainbow/open.png",
+      "exports": [
+        "gameplay/rainbow/open-128.png",
+        "gameplay/rainbow/open-128.webp",
+        "gameplay/rainbow/open-256.png",
+        "gameplay/rainbow/open-256.webp",
+        "gameplay/rainbow/open-512.png",
+        "gameplay/rainbow/open-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        72,
+        142,
+        952,
+        881
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "AI reconstruction from supplied board",
+        "prompt": "Use case: stylized-concept. Reconstruct ONE isolated transparent production game asset from this approved Puff Trails reference. Subject: ONE rainbow arched lid, violet chest body, gold trim and white wings with star clasp; lid fully open, bright magical reward reveal light, no loose reward items. Match this chest type and corresponding state/angle cell of the supplied board. Preserve its exact materials and motif. No scenery or ground base. Preserve the exact chest type's proportions, star/heart emblems, rounded glossy/plush style, palette and soft lighting. Follow the requested lid state and camera angle. Do not add other containers. No board panel, labels, words, arrows, scenery, floor or characters. Centered full object with transparent margins. Actual transparent background.",
+        "generated_sha256": "63c061927a4a78b7308ea3823b20d002d50bce85170c4256e8be300a4f3ac987"
+      }
+    },
+    {
+      "id": "containers/reward-bag",
+      "master": "masters/containers/reward-bag.png",
+      "exports": [
+        "gameplay/containers/reward-bag-128.png",
+        "gameplay/containers/reward-bag-128.webp",
+        "gameplay/containers/reward-bag-256.png",
+        "gameplay/containers/reward-bag-256.webp",
+        "gameplay/containers/reward-bag-512.png",
+        "gameplay/containers/reward-bag-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        138,
+        96,
+        886,
+        928
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-07-economy/v1/coins/masters/packs/coin-bag.png"
+      }
+    },
+    {
+      "id": "containers/reward-jar",
+      "master": "masters/containers/reward-jar.png",
+      "exports": [
+        "gameplay/containers/reward-jar-128.png",
+        "gameplay/containers/reward-jar-128.webp",
+        "gameplay/containers/reward-jar-256.png",
+        "gameplay/containers/reward-jar-256.webp",
+        "gameplay/containers/reward-jar-512.png",
+        "gameplay/containers/reward-jar-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        207,
+        82,
+        817,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/boost-bottle.png"
+      }
+    },
+    {
+      "id": "containers/gift-box",
+      "master": "masters/containers/gift-box.png",
+      "exports": [
+        "gameplay/containers/gift-box-128.png",
+        "gameplay/containers/gift-box-128.webp",
+        "gameplay/containers/gift-box-256.png",
+        "gameplay/containers/gift-box-256.webp",
+        "gameplay/containers/gift-box-512.png",
+        "gameplay/containers/gift-box-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        64,
+        962,
+        960
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "locked/puff-trails-brand/v1/masters/icons/gift.png"
+      }
+    },
+    {
+      "id": "containers/item-crate",
+      "master": "masters/containers/item-crate.png",
+      "exports": [
+        "gameplay/containers/item-crate-128.png",
+        "gameplay/containers/item-crate-128.webp",
+        "gameplay/containers/item-crate-256.png",
+        "gameplay/containers/item-crate-256.webp",
+        "gameplay/containers/item-crate-512.png",
+        "gameplay/containers/item-crate-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        146,
+        82,
+        877,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/collectibles/purple-booster-crate.png"
+      }
+    },
+    {
+      "id": "fill/coins",
+      "master": "masters/fill/coins.png",
+      "exports": [
+        "gameplay/fill/coins-128.png",
+        "gameplay/fill/coins-128.webp",
+        "gameplay/fill/coins-256.png",
+        "gameplay/fill/coins-256.webp",
+        "gameplay/fill/coins-512.png",
+        "gameplay/fill/coins-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        90,
+        97,
+        930,
+        813
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-07-economy/v1/coins/masters/packs/large-stack.png"
+      }
+    },
+    {
+      "id": "fill/gems",
+      "master": "masters/fill/gems.png",
+      "exports": [
+        "gameplay/fill/gems-128.png",
+        "gameplay/fill/gems-128.webp",
+        "gameplay/fill/gems-256.png",
+        "gameplay/fill/gems-256.webp",
+        "gameplay/fill/gems-512.png",
+        "gameplay/fill/gems-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        117,
+        82,
+        906,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/gem.png"
+      }
+    },
+    {
+      "id": "fill/stars",
+      "master": "masters/fill/stars.png",
+      "exports": [
+        "gameplay/fill/stars-128.png",
+        "gameplay/fill/stars-128.webp",
+        "gameplay/fill/stars-256.png",
+        "gameplay/fill/stars-256.webp",
+        "gameplay/fill/stars-512.png",
+        "gameplay/fill/stars-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        61,
+        79,
+        962,
+        944
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "locked/puff-trails-brand/v1/masters/icons/star-gold.png"
+      }
+    },
+    {
+      "id": "fill/rainbow-orbs",
+      "master": "masters/fill/rainbow-orbs.png",
+      "exports": [
+        "gameplay/fill/rainbow-orbs-128.png",
+        "gameplay/fill/rainbow-orbs-128.webp",
+        "gameplay/fill/rainbow-orbs-256.png",
+        "gameplay/fill/rainbow-orbs-256.webp",
+        "gameplay/fill/rainbow-orbs-512.png",
+        "gameplay/fill/rainbow-orbs-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        116,
+        109,
+        908,
+        914
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-obstacles-mission-objects/v1/masters/collectibles/rainbow-orb.png"
+      }
+    },
+    {
+      "id": "effects/gold-burst",
+      "master": "masters/effects/gold-burst.png",
+      "exports": [
+        "gameplay/effects/gold-burst-128.png",
+        "gameplay/effects/gold-burst-128.webp",
+        "gameplay/effects/gold-burst-256.png",
+        "gameplay/effects/gold-burst-256.webp",
+        "gameplay/effects/gold-burst-512.png",
+        "gameplay/effects/gold-burst-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        83,
+        82,
+        940,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-glint.png"
+      }
+    },
+    {
+      "id": "effects/purple-vortex",
+      "master": "masters/effects/purple-vortex.png",
+      "exports": [
+        "gameplay/effects/purple-vortex-128.png",
+        "gameplay/effects/purple-vortex-128.webp",
+        "gameplay/effects/purple-vortex-256.png",
+        "gameplay/effects/purple-vortex-256.webp",
+        "gameplay/effects/purple-vortex-512.png",
+        "gameplay/effects/purple-vortex-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        139,
+        942,
+        884
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/purple-vortex.png"
+      }
+    },
+    {
+      "id": "effects/gold-orbit",
+      "master": "masters/effects/gold-orbit.png",
+      "exports": [
+        "gameplay/effects/gold-orbit-128.png",
+        "gameplay/effects/gold-orbit-128.webp",
+        "gameplay/effects/gold-orbit-256.png",
+        "gameplay/effects/gold-orbit-256.webp",
+        "gameplay/effects/gold-orbit-512.png",
+        "gameplay/effects/gold-orbit-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        82,
+        941,
+        942
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/charge-ring.png"
+      }
+    },
+    {
+      "id": "effects/sparkles",
+      "master": "masters/effects/sparkles.png",
+      "exports": [
+        "gameplay/effects/sparkles-128.png",
+        "gameplay/effects/sparkles-128.webp",
+        "gameplay/effects/sparkles-256.png",
+        "gameplay/effects/sparkles-256.webp",
+        "gameplay/effects/sparkles-512.png",
+        "gameplay/effects/sparkles-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        391,
+        942,
+        633
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png"
+      }
+    },
+    {
+      "id": "effects/rainbow",
+      "master": "masters/effects/rainbow.png",
+      "exports": [
+        "gameplay/effects/rainbow-128.png",
+        "gameplay/effects/rainbow-128.webp",
+        "gameplay/effects/rainbow-256.png",
+        "gameplay/effects/rainbow-256.webp",
+        "gameplay/effects/rainbow-512.png",
+        "gameplay/effects/rainbow-512.webp"
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "alpha_bounds": [
+        82,
+        282,
+        942,
+        741
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "provenance": {
+        "origin": "Unchanged existing master",
+        "source": "stages/stage-06-power-ups-boosters/v1/masters/effects/rainbow-trail.png"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "0b30af6100cff36ebdeacd253c033b8229a9681316268a6f424050698d8160de",
+      "bytes": 6975
+    },
+    {
+      "path": "gameplay/containers/capsule-128.png",
+      "sha256": "001e160b37124e6f2a3e67b0cb4350722cc498c0b5310081a7d905ab3d2619fa",
+      "bytes": 21622
+    },
+    {
+      "path": "gameplay/containers/capsule-128.webp",
+      "sha256": "01402497a0b837cc130cff233fd638633f984f8d5ad41e90a265d92192d6bb7d",
+      "bytes": 17328
+    },
+    {
+      "path": "gameplay/containers/capsule-256.png",
+      "sha256": "e109e6746dd9023be19ad514d74ce675138eaebefc9630f22a088872996899a1",
+      "bytes": 67616
+    },
+    {
+      "path": "gameplay/containers/capsule-256.webp",
+      "sha256": "4756ebcbfe95c90fd852c2d9f5b5a57e7f7ec296810583e2f4bd17e2e8e7aadf",
+      "bytes": 49890
+    },
+    {
+      "path": "gameplay/containers/capsule-512.png",
+      "sha256": "3121dd2b8b7645ab119ce0067a92ffdd5c11e618410ed8d0bef4239979089197",
+      "bytes": 222840
+    },
+    {
+      "path": "gameplay/containers/capsule-512.webp",
+      "sha256": "ea5f018e956d363af24becc34497e9ef0c82fb63ed770b33e27c45bf2f7cc379",
+      "bytes": 157252
+    },
+    {
+      "path": "gameplay/containers/gift-box-128.png",
+      "sha256": "48e1539b2d7e4e77c6fdd0239db06d75c7c6ccec08884ce06ad77b90fac7de8b",
+      "bytes": 25185
+    },
+    {
+      "path": "gameplay/containers/gift-box-128.webp",
+      "sha256": "c7a358704c529a66d8db3eff1556850195005f1255956b2fbcb7772c0570e701",
+      "bytes": 20044
+    },
+    {
+      "path": "gameplay/containers/gift-box-256.png",
+      "sha256": "262f1ec2005c336eca563681222795b56faa0286a6dff89e0b830c9566edfd2e",
+      "bytes": 78032
+    },
+    {
+      "path": "gameplay/containers/gift-box-256.webp",
+      "sha256": "d204d6fce9e3e16deb9759ff85043101ca347110602ccc6f2cf2c54026366110",
+      "bytes": 56710
+    },
+    {
+      "path": "gameplay/containers/gift-box-512.png",
+      "sha256": "cbf1df2195acdd3e7f6ae9273086cbb2862a8d005544cd08b0c6449cd0ee6ca4",
+      "bytes": 253110
+    },
+    {
+      "path": "gameplay/containers/gift-box-512.webp",
+      "sha256": "a88ebaf80182ca5cc4a310564bc6456f1160b6b64c5089361939a5e56381daf2",
+      "bytes": 175680
+    },
+    {
+      "path": "gameplay/containers/item-crate-128.png",
+      "sha256": "814afcd420db2f2794e78f9333c7dde1fbb6ac93bd68382ca0eb73bd6d9e3e71",
+      "bytes": 20932
+    },
+    {
+      "path": "gameplay/containers/item-crate-128.webp",
+      "sha256": "02288fe96bc27ea9d37057c18600a219ad592fd650deddaa7608dc3b56575e6a",
+      "bytes": 16764
+    },
+    {
+      "path": "gameplay/containers/item-crate-256.png",
+      "sha256": "ad8e1571f0a8abc00268c0d7d9adc55862ec8744fa6471d01b71bbb312d3d360",
+      "bytes": 65855
+    },
+    {
+      "path": "gameplay/containers/item-crate-256.webp",
+      "sha256": "5b9653f480cffbc1451e55adb3afa026815cd3bce49e59d757fd051d4402c7e8",
+      "bytes": 47948
+    },
+    {
+      "path": "gameplay/containers/item-crate-512.png",
+      "sha256": "01d0357e492ec12cb7f82175a7dffb41e019ec19d6c6f23132e9188924d1dee8",
+      "bytes": 213794
+    },
+    {
+      "path": "gameplay/containers/item-crate-512.webp",
+      "sha256": "a37620c4cb820b7399c8a6407feb97eb184a2f33a3dfcf3a0a5cb3987fb542df",
+      "bytes": 149548
+    },
+    {
+      "path": "gameplay/containers/reward-bag-128.png",
+      "sha256": "50c358860b09c5ad230f5260d97f957855231839672f33e6674145d72bec8507",
+      "bytes": 19613
+    },
+    {
+      "path": "gameplay/containers/reward-bag-128.webp",
+      "sha256": "1727bac418047dcf6f122be562ae549394b6fb41779f5fff09504448e0f89599",
+      "bytes": 15552
+    },
+    {
+      "path": "gameplay/containers/reward-bag-256.png",
+      "sha256": "2c5f9dc6c0fe3d785b23291f47ba590d9dd63cc3e683268fae0b8b5843133d5a",
+      "bytes": 60570
+    },
+    {
+      "path": "gameplay/containers/reward-bag-256.webp",
+      "sha256": "f44e02d512b27094cd5eaf5179ba1808b2effac97eeab1c550390a34da7071c8",
+      "bytes": 44242
+    },
+    {
+      "path": "gameplay/containers/reward-bag-512.png",
+      "sha256": "e472b30f3a00c6ed7958dbd06894420dd45994c799ad465f44e0bca218395956",
+      "bytes": 199384
+    },
+    {
+      "path": "gameplay/containers/reward-bag-512.webp",
+      "sha256": "9a2b3efe94db5d6b62b7572179bd15f30ce2eb28172235ceddbfee6ce21b57e1",
+      "bytes": 139350
+    },
+    {
+      "path": "gameplay/containers/reward-jar-128.png",
+      "sha256": "243e571721c9de8d65326030dc9fbd5e4a50b9fff9595d001f50c0d335b10101",
+      "bytes": 16890
+    },
+    {
+      "path": "gameplay/containers/reward-jar-128.webp",
+      "sha256": "6f62f6ba55f9552626e662ab48f2e1ad64ba91803db1d7efb79e1d7fa94b8e15",
+      "bytes": 13630
+    },
+    {
+      "path": "gameplay/containers/reward-jar-256.png",
+      "sha256": "71d92e8af83251646762aff93ce3f6cb0ad86063710f7b03080c82235abff23c",
+      "bytes": 54163
+    },
+    {
+      "path": "gameplay/containers/reward-jar-256.webp",
+      "sha256": "37fe72b48823af3f0100015df6603b898b4bd7bcba458162e8dff0ab7f476d30",
+      "bytes": 39270
+    },
+    {
+      "path": "gameplay/containers/reward-jar-512.png",
+      "sha256": "735842d0cb8686dff36344925788850d8aba305f91d71936f32cafc7569464c4",
+      "bytes": 178947
+    },
+    {
+      "path": "gameplay/containers/reward-jar-512.webp",
+      "sha256": "47dacee3eadabda0090792de4c2c7cb1f84c384f840e04469a42c589f79a94f4",
+      "bytes": 123722
+    },
+    {
+      "path": "gameplay/effects/gold-burst-128.png",
+      "sha256": "e6da9f8d52183477dc03a481ca8a066d051435adef6b1fe3ecbf4db9cda48e57",
+      "bytes": 18872
+    },
+    {
+      "path": "gameplay/effects/gold-burst-128.webp",
+      "sha256": "1fafc4103b4e8bd3c568f6f80c2bc561b34ff8e3b85ef79892920f5ee35885ef",
+      "bytes": 15458
+    },
+    {
+      "path": "gameplay/effects/gold-burst-256.png",
+      "sha256": "c2b63a02638abed70e526bdf1f20374e077035b6ba9db3d2a6fe27f64dddf40d",
+      "bytes": 64464
+    },
+    {
+      "path": "gameplay/effects/gold-burst-256.webp",
+      "sha256": "198588979f065798d1ccec33ba56ef0d6bc941199d428c3c42a19ebbcaaf7c7a",
+      "bytes": 50276
+    },
+    {
+      "path": "gameplay/effects/gold-burst-512.png",
+      "sha256": "073c10005dd2b3bbf051b5220779826511ad9a5a4c56b06705bb0f5da87ce84a",
+      "bytes": 209958
+    },
+    {
+      "path": "gameplay/effects/gold-burst-512.webp",
+      "sha256": "7e71fa593ebf7d7de79e698da360a70c9d1953bf4ccdafcce69d3c200e71bfc5",
+      "bytes": 159264
+    },
+    {
+      "path": "gameplay/effects/gold-orbit-128.png",
+      "sha256": "805872f2ad6fcb2a33dd6bfc5a78438168b0344a9def6ccc89fc29b035c39f96",
+      "bytes": 16370
+    },
+    {
+      "path": "gameplay/effects/gold-orbit-128.webp",
+      "sha256": "8d7a86ec771f76af34ede9bf836519b0690079cbc08b7def43fcbf2d97cfd319",
+      "bytes": 14422
+    },
+    {
+      "path": "gameplay/effects/gold-orbit-256.png",
+      "sha256": "200764bcb55151402a59d93734367a6821a6d0231292b177b626b4f1ccb3ac87",
+      "bytes": 55632
+    },
+    {
+      "path": "gameplay/effects/gold-orbit-256.webp",
+      "sha256": "0efbe56296a93f91c5ad444114f8add825107d46bb445851fc5a7f59ad232e08",
+      "bytes": 44794
+    },
+    {
+      "path": "gameplay/effects/gold-orbit-512.png",
+      "sha256": "126f70ef995334a65217c9585954608efe1cf1e1110464c2b45a73711d0d6895",
+      "bytes": 196475
+    },
+    {
+      "path": "gameplay/effects/gold-orbit-512.webp",
+      "sha256": "77adb87379730e2ba3432c8cb99dca264f46ff1e354946c1aa384ebe131eb04d",
+      "bytes": 149178
+    },
+    {
+      "path": "gameplay/effects/purple-beams-128.png",
+      "sha256": "b62fa083a812a3ae88d0249cdf0edb96fa66f5909aef8e66aad9618a77403e8a",
+      "bytes": 13532
+    },
+    {
+      "path": "gameplay/effects/purple-beams-128.webp",
+      "sha256": "e7672c7020eb4891c6772632343f26dff8c59d73e11dd5e1d65ebc5fa0417d3e",
+      "bytes": 12092
+    },
+    {
+      "path": "gameplay/effects/purple-beams-256.png",
+      "sha256": "77d27e4eb0cdd82fdf3cc6d5392f9ff73d58c36500aa3835d290485af63030ab",
+      "bytes": 46821
+    },
+    {
+      "path": "gameplay/effects/purple-beams-256.webp",
+      "sha256": "794be5fd5d5161074a37ed072c4c7f6bf7098da4396af292934c78adae8da482",
+      "bytes": 38632
+    },
+    {
+      "path": "gameplay/effects/purple-beams-512.png",
+      "sha256": "61b1db36b16317541017f5453dc921f1e95965d1f48fa9e83aad77824f69e46b",
+      "bytes": 159022
+    },
+    {
+      "path": "gameplay/effects/purple-beams-512.webp",
+      "sha256": "c9a3f1c25614c497b855e9af7e75d43c2c3dce849077995ac62c5c9689eed15a",
+      "bytes": 126256
+    },
+    {
+      "path": "gameplay/effects/purple-vortex-128.png",
+      "sha256": "263f9c133b9ff69c9a87a07174b45ffb43fda756f7f94e03f145acfd3fd468ed",
+      "bytes": 20365
+    },
+    {
+      "path": "gameplay/effects/purple-vortex-128.webp",
+      "sha256": "8860c96a8035c58fa0c33ae341359c9d98bae5919305e45a7fc5bde5fbc29bd6",
+      "bytes": 17560
+    },
+    {
+      "path": "gameplay/effects/purple-vortex-256.png",
+      "sha256": "eb5ed2e0705ba4aeb91501e3c53d5c860de4451b5b83aeb409fb2fbc674f15ed",
+      "bytes": 70278
+    },
+    {
+      "path": "gameplay/effects/purple-vortex-256.webp",
+      "sha256": "7973c4d47c01c78c17a4846aabb223bf3c3de051c4fc8e276e276e639df079b9",
+      "bytes": 54718
+    },
+    {
+      "path": "gameplay/effects/purple-vortex-512.png",
+      "sha256": "f30459968b0475345f82d1302f7a378138955da608ef1456fc1896b1e3f119d9",
+      "bytes": 243187
+    },
+    {
+      "path": "gameplay/effects/purple-vortex-512.webp",
+      "sha256": "f179ce009dfa22976480e99fb405436c62834538d8849b1522dec11796051d00",
+      "bytes": 181730
+    },
+    {
+      "path": "gameplay/effects/rainbow-128.png",
+      "sha256": "aeefa2f4c5f0b99db66e1dd026a9b970bed8598c06614296ce2f731b6f9cd1b5",
+      "bytes": 11426
+    },
+    {
+      "path": "gameplay/effects/rainbow-128.webp",
+      "sha256": "fd04b3eee2a5254433b0252613a78727ee9600898c56e49247a007136925e6ac",
+      "bytes": 9346
+    },
+    {
+      "path": "gameplay/effects/rainbow-256.png",
+      "sha256": "6d48aea19eb793e77b24d97d8b9102d0a52ed0abca29b706d1639ea380510ce7",
+      "bytes": 37500
+    },
+    {
+      "path": "gameplay/effects/rainbow-256.webp",
+      "sha256": "c20a907090c44df89a82b708d8c586a07b09c744499c15dbe39ac14309fb259c",
+      "bytes": 27614
+    },
+    {
+      "path": "gameplay/effects/rainbow-512.png",
+      "sha256": "7c5b09601aff28ea7a933afac8fb33007bc72850662a57a5d8e5a09cf11caac2",
+      "bytes": 124261
+    },
+    {
+      "path": "gameplay/effects/rainbow-512.webp",
+      "sha256": "36cbb0b4bae6a19d481c921921758e768caa21d1b84ae9665ea6369a0395e761",
+      "bytes": 88150
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.png",
+      "sha256": "99c7ade8686ae647c72ba8ccf89944bc7e359c254d861b30b4bf258ba5b224de",
+      "bytes": 7735
+    },
+    {
+      "path": "gameplay/effects/sparkles-128.webp",
+      "sha256": "94069650f8f3c50d70045271ac7501121deafaff9e96e4c03588d14daee6a51c",
+      "bytes": 6550
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.png",
+      "sha256": "521a8e4c3c8c466c5b6426f0421770ec9283ba0bf343d717aa23c92e2faa1878",
+      "bytes": 25736
+    },
+    {
+      "path": "gameplay/effects/sparkles-256.webp",
+      "sha256": "d2252ad9020db5e52e7fbf61a4e74a79a904c6617ac266a1bc6c8f9201d7d018",
+      "bytes": 22586
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.png",
+      "sha256": "f8d4042b5b041fe02f160936bc07101c764ecbe30b1cfbec1b8a371877f51a92",
+      "bytes": 87717
+    },
+    {
+      "path": "gameplay/effects/sparkles-512.webp",
+      "sha256": "7991ce5a0f57a158970784b92213789317b3c7aff03ccc1f086f746e92872864",
+      "bytes": 74306
+    },
+    {
+      "path": "gameplay/fill/coins-128.png",
+      "sha256": "44c2a2e381831325e10d63538143a705363808f48ce57294b106d0795cf2e808",
+      "bytes": 17212
+    },
+    {
+      "path": "gameplay/fill/coins-128.webp",
+      "sha256": "d8193bf2b8c471261bd12dd3f559e6fb6c558a0a2b50c6840480ad160d654643",
+      "bytes": 15516
+    },
+    {
+      "path": "gameplay/fill/coins-256.png",
+      "sha256": "c489a0549f463b88fac27eda663f8ce23d640877674fd21b4743ce9f04c38fbd",
+      "bytes": 56665
+    },
+    {
+      "path": "gameplay/fill/coins-256.webp",
+      "sha256": "0878874a2b6a046caa590d7a65963fc2950913d61b74a57960ba60fd0893fc3c",
+      "bytes": 45162
+    },
+    {
+      "path": "gameplay/fill/coins-512.png",
+      "sha256": "53780fe4701c3dd136b23fc8c3e125c86fb698972a03bd7cf093e043e7a12671",
+      "bytes": 178613
+    },
+    {
+      "path": "gameplay/fill/coins-512.webp",
+      "sha256": "540b64ddeb40e011aa6989a32ee6be7bc584445ccfa0411f94aab9e6c73554de",
+      "bytes": 127362
+    },
+    {
+      "path": "gameplay/fill/gems-128.png",
+      "sha256": "c8fad7bf1dc29100afda020504092af1847f8156f257df8d4e46cd4e149c03bd",
+      "bytes": 18211
+    },
+    {
+      "path": "gameplay/fill/gems-128.webp",
+      "sha256": "76ab7c2253104020780340f33221010c6294c1d8e5b9d479bf5f5f27e42b8946",
+      "bytes": 13596
+    },
+    {
+      "path": "gameplay/fill/gems-256.png",
+      "sha256": "711ab112ceb3b14dee0a254c224c946f889982f28a3e02b5db93ec0a2e2e60e7",
+      "bytes": 56484
+    },
+    {
+      "path": "gameplay/fill/gems-256.webp",
+      "sha256": "8781c093dbe1d119d078414ab824f6bb6fd63c5f1d2dd92ede02de5049aa2f4e",
+      "bytes": 37484
+    },
+    {
+      "path": "gameplay/fill/gems-512.png",
+      "sha256": "e6002ca2d51379cec1b561289d737e388d2686a4eb863c4e8e1857695e648016",
+      "bytes": 193094
+    },
+    {
+      "path": "gameplay/fill/gems-512.webp",
+      "sha256": "5d81ffe81c6c6f684b45c134c3c92540bf4e4a89aa8e56fb04af83861161297d",
+      "bytes": 125632
+    },
+    {
+      "path": "gameplay/fill/rainbow-orbs-128.png",
+      "sha256": "e1059df279d68388307106d76a3b712a583faa542a37807335129a5bff13c12a",
+      "bytes": 21502
+    },
+    {
+      "path": "gameplay/fill/rainbow-orbs-128.webp",
+      "sha256": "236f291a8e6ffbe151245b518cd27ec9184e291443d4c5224c16dd35c20dbe22",
+      "bytes": 16170
+    },
+    {
+      "path": "gameplay/fill/rainbow-orbs-256.png",
+      "sha256": "3127c2a30efda5fb743531b4cfb7b3b52e3a803298e89d1a288386d0510de7a8",
+      "bytes": 67690
+    },
+    {
+      "path": "gameplay/fill/rainbow-orbs-256.webp",
+      "sha256": "20725bbd25999353a5eebef9b942f9c9c42ffcdaaa5977495107704c1c53fe6e",
+      "bytes": 46766
+    },
+    {
+      "path": "gameplay/fill/rainbow-orbs-512.png",
+      "sha256": "3cf006472f49511b0b1108a3c7c896d1e682cfe00101f9769c0890217587b1e9",
+      "bytes": 227286
+    },
+    {
+      "path": "gameplay/fill/rainbow-orbs-512.webp",
+      "sha256": "c548544d23dd0d2ce0fd7db6ce6b27b88e84b063ebc4995a84404f9be85a562e",
+      "bytes": 149058
+    },
+    {
+      "path": "gameplay/fill/stars-128.png",
+      "sha256": "38e3b56ec0ef1adfc6f500880ee46711c7116d3f3162ab100783e7e4b51fbf5b",
+      "bytes": 16010
+    },
+    {
+      "path": "gameplay/fill/stars-128.webp",
+      "sha256": "4a98f3014e6e2fd651619e755b67b02f7f0723eb3eb96a36a5c87c65d4a57675",
+      "bytes": 11532
+    },
+    {
+      "path": "gameplay/fill/stars-256.png",
+      "sha256": "4ad951698c6b098ebbe1dd633e99fe3dcd7116d8d2e1451bff35f4df058b245b",
+      "bytes": 49709
+    },
+    {
+      "path": "gameplay/fill/stars-256.webp",
+      "sha256": "a95bc2a2ebf83e1aeff0a9bd4ab40a443d9600ba9bf3f1b6ca3e39acdad8c67f",
+      "bytes": 32628
+    },
+    {
+      "path": "gameplay/fill/stars-512.png",
+      "sha256": "54e04b06c1c06f97f1a6444de8c5f64f47d027176cc88a0cfb704e31fbc5c736",
+      "bytes": 169778
+    },
+    {
+      "path": "gameplay/fill/stars-512.webp",
+      "sha256": "d3ad899e181dc0f09430c228f008edc44eb76ee0657f6fab8cb88b1e37e67e5e",
+      "bytes": 107632
+    },
+    {
+      "path": "gameplay/golden/closed-128.png",
+      "sha256": "24073a01c4f1429592c99da23b5e5abce7c6484be0dcdec49e2e9ca0910cb916",
+      "bytes": 19327
+    },
+    {
+      "path": "gameplay/golden/closed-128.webp",
+      "sha256": "252eb9ea10dd8f688663556309fbbc1e2911a4d63786ad3defa041db71dddb50",
+      "bytes": 16050
+    },
+    {
+      "path": "gameplay/golden/closed-256.png",
+      "sha256": "f6f620412941bd1a77e9593cde45a5895a529fdf45e306c3b5e7504558849331",
+      "bytes": 61054
+    },
+    {
+      "path": "gameplay/golden/closed-256.webp",
+      "sha256": "df33351c550e6deebc7b242680228dbf343deffc5c5ed796b4ed841ee68c0f71",
+      "bytes": 46626
+    },
+    {
+      "path": "gameplay/golden/closed-512.png",
+      "sha256": "74d17c1e1768d8067dc59bc2ded9f5dc67ab31a78faed3eb58f88cdc6e6345bf",
+      "bytes": 199185
+    },
+    {
+      "path": "gameplay/golden/closed-512.webp",
+      "sha256": "de2430cbebaa08595a52c1ba6d0914e29b69056bff58d745a934455d29c7dfbc",
+      "bytes": 144798
+    },
+    {
+      "path": "gameplay/golden/empty-128.png",
+      "sha256": "860b16a4ee0690f29dcb400e3403f290b1465d5c580ed480e24824e372de3ebb",
+      "bytes": 22693
+    },
+    {
+      "path": "gameplay/golden/empty-128.webp",
+      "sha256": "73aa58e3a81f56419d4bf2157a83a54b5b1181e91af55884cca96e33c501c9a2",
+      "bytes": 18372
+    },
+    {
+      "path": "gameplay/golden/empty-256.png",
+      "sha256": "76a70d2f152634c70e7a0585b8315337341c0b27228f10bb02a6990bb04989a4",
+      "bytes": 71610
+    },
+    {
+      "path": "gameplay/golden/empty-256.webp",
+      "sha256": "1eb997ee95719b738a46136d5c3b72ac6eae1d2c1cb0f08ab64e0a76ef76b611",
+      "bytes": 53078
+    },
+    {
+      "path": "gameplay/golden/empty-512.png",
+      "sha256": "0a819da20ebf45f4c9f1cd40647c9ff7927c1918c18acec301743e26fa1b5619",
+      "bytes": 242577
+    },
+    {
+      "path": "gameplay/golden/empty-512.webp",
+      "sha256": "3c4a5d10b05382925127c6b2cf956119ff340f5b1b6fcb5bed29eeb96e98f87b",
+      "bytes": 172948
+    },
+    {
+      "path": "gameplay/golden/front-128.png",
+      "sha256": "9d1c5dcbd5f11acac513d1fa253230d50a1c5eb3de1764d8fb82b41310f8ea59",
+      "bytes": 18104
+    },
+    {
+      "path": "gameplay/golden/front-128.webp",
+      "sha256": "4826874fdcdf15c1cfd7c6f92aa1d5b606b8e3e11760351015206b874ee44385",
+      "bytes": 14678
+    },
+    {
+      "path": "gameplay/golden/front-256.png",
+      "sha256": "2d0ceb03c7b1d3779ff5ea7643fe3196bb25934da81b82439c807ddbe2a3e3a9",
+      "bytes": 57107
+    },
+    {
+      "path": "gameplay/golden/front-256.webp",
+      "sha256": "ddba33f1a8fb786c64f8e42a6cda2d1c28c70b8f43b0650c59a0967e20afcb49",
+      "bytes": 41982
+    },
+    {
+      "path": "gameplay/golden/front-512.png",
+      "sha256": "1e815f0dfbd50e368a556845da5279d933ffcb32eb0c69ac2acc8e1c026d4205",
+      "bytes": 190817
+    },
+    {
+      "path": "gameplay/golden/front-512.webp",
+      "sha256": "a8bd3eb779708336d17328a958205e06fab8ceb2b96fdf999c4aef6b9855a54c",
+      "bytes": 134252
+    },
+    {
+      "path": "gameplay/golden/open-128.png",
+      "sha256": "174c78e0ce2ddf2b4a45cafc111760bea7024f6245a381d29fd3a4fedb450927",
+      "bytes": 24337
+    },
+    {
+      "path": "gameplay/golden/open-128.webp",
+      "sha256": "f726609b694e8c3bd90195862bdde761982522a7ee0d117770368dfbdbcf2101",
+      "bytes": 19496
+    },
+    {
+      "path": "gameplay/golden/open-256.png",
+      "sha256": "5f25beb8588d31afc569e6011b05e0b5cfccafc578a8885573298815da5f7732",
+      "bytes": 76847
+    },
+    {
+      "path": "gameplay/golden/open-256.webp",
+      "sha256": "6e97a1c54ffb0f08389d9de68238fc3482514ac76acedc392f0199743b91fdb4",
+      "bytes": 57894
+    },
+    {
+      "path": "gameplay/golden/open-512.png",
+      "sha256": "1867ce34092ee4db6a289eeed82ca88914ab0b632b7dafe5242da3099d73edf3",
+      "bytes": 251066
+    },
+    {
+      "path": "gameplay/golden/open-512.webp",
+      "sha256": "8abda00d6d481b436468aa32e1495ba954ee87bbaa895952a112028939ec645a",
+      "bytes": 180752
+    },
+    {
+      "path": "gameplay/golden/opening-128.png",
+      "sha256": "135ea08e275b5c21e7a34a6dbbe7dddfb0e56e082de1e8f2e2915c5f0081b381",
+      "bytes": 24632
+    },
+    {
+      "path": "gameplay/golden/opening-128.webp",
+      "sha256": "39f5603717b8b1ab77ae34a1adcddb0c530843e3d6ef7664afc6eddd10832382",
+      "bytes": 19662
+    },
+    {
+      "path": "gameplay/golden/opening-256.png",
+      "sha256": "fff5ec46ecf17f18394e48309b0f9f16c221214ed344c691f4083f827c234c15",
+      "bytes": 77602
+    },
+    {
+      "path": "gameplay/golden/opening-256.webp",
+      "sha256": "244c802c22b4493982860182e9d6a4d0c6fd24e835c9cf8650d9b48dc2afcf86",
+      "bytes": 57986
+    },
+    {
+      "path": "gameplay/golden/opening-512.png",
+      "sha256": "97072bbd18120b29b809c8c3e68aa9a473695d1fd487cab1dd7ee52ca70f56e4",
+      "bytes": 256885
+    },
+    {
+      "path": "gameplay/golden/opening-512.webp",
+      "sha256": "5e74306e0c801a0fa03b952316031742ad04b7de9478db001ca69e147cc66349",
+      "bytes": 185188
+    },
+    {
+      "path": "gameplay/golden/reward-filled-128.png",
+      "sha256": "64c606b01d30ff5b012d3e4e7c7430ac64994e251336b9870a4e00c4ab071550",
+      "bytes": 23546
+    },
+    {
+      "path": "gameplay/golden/reward-filled-128.webp",
+      "sha256": "38c00f642fdf5edf63b8f1be3297dee4db9a1b62a78fa4cfa85571a9ac37987f",
+      "bytes": 19658
+    },
+    {
+      "path": "gameplay/golden/reward-filled-256.png",
+      "sha256": "3183ae1b852d7d8380a2b4257e25080db4326b2a422fd7f0c48d3ab0be0fb3f2",
+      "bytes": 75861
+    },
+    {
+      "path": "gameplay/golden/reward-filled-256.webp",
+      "sha256": "9e4c7f8417841699f3a654f92ea91ecc9b3fc7f4aa59b2b77a1aecf78362dd94",
+      "bytes": 58544
+    },
+    {
+      "path": "gameplay/golden/reward-filled-512.png",
+      "sha256": "7fc15ce7cfbfc3a56f3921b72507c3fe0a6d2e5a3d7922ecc70f8165eb470844",
+      "bytes": 255433
+    },
+    {
+      "path": "gameplay/golden/reward-filled-512.webp",
+      "sha256": "43c5303b41839431e138c5f48c4e79123ba64afd11784966055cbe9a9b2efe6f",
+      "bytes": 190710
+    },
+    {
+      "path": "gameplay/golden/side-128.png",
+      "sha256": "8fae431abef28cf89fcba5f1eeaa44d372f6a52fd8f6955aa65a5b801dccb4d0",
+      "bytes": 20066
+    },
+    {
+      "path": "gameplay/golden/side-128.webp",
+      "sha256": "d4c0f7ab904730072a1c4bc892e1a738b68bac5bd82874389d39c32861225a05",
+      "bytes": 15830
+    },
+    {
+      "path": "gameplay/golden/side-256.png",
+      "sha256": "c5a741aca1f38742a811325debee02d4d2ef144793610cc958e179ef275172a6",
+      "bytes": 64350
+    },
+    {
+      "path": "gameplay/golden/side-256.webp",
+      "sha256": "1bb177b6730bd05e76292a02dc52920e10a3471b105fc66e2580fd227714ad4f",
+      "bytes": 47594
+    },
+    {
+      "path": "gameplay/golden/side-512.png",
+      "sha256": "d2196e2f7a3e37ac0a0f7742c951bf968f6870c426e02aa4068bb39e23e390be",
+      "bytes": 223009
+    },
+    {
+      "path": "gameplay/golden/side-512.webp",
+      "sha256": "2ceef1a89bc1fe4416700a86fab2df64d95f3493b89f83c2beced3f89166c12c",
+      "bytes": 156322
+    },
+    {
+      "path": "gameplay/golden/top-128.png",
+      "sha256": "9427e64bd43b36fdf7d610511403fd9d502d771fbe40d3d25ca8059fd6bc6ef9",
+      "bytes": 17353
+    },
+    {
+      "path": "gameplay/golden/top-128.webp",
+      "sha256": "38517a768a5188f742ba6e7c595a54e27bb775b456c535c6b72694fb2371e4d2",
+      "bytes": 14112
+    },
+    {
+      "path": "gameplay/golden/top-256.png",
+      "sha256": "5282c95871b320f3f15739a966870e84b202b67465eae5cdbe9535dd936f3c24",
+      "bytes": 53941
+    },
+    {
+      "path": "gameplay/golden/top-256.webp",
+      "sha256": "938956e21f31dcf988cc679a1ac91a72838535e7f833210b93f9b6d1623aa691",
+      "bytes": 41264
+    },
+    {
+      "path": "gameplay/golden/top-512.png",
+      "sha256": "d5fda78644a957454d0254a30552810166e4e4b1f52f3ce0978f99a58154c74d",
+      "bytes": 177648
+    },
+    {
+      "path": "gameplay/golden/top-512.webp",
+      "sha256": "bf34d3280a64347a174b53a091807ba8809241a771528875072e93866d262526",
+      "bytes": 128384
+    },
+    {
+      "path": "gameplay/premium/closed-128.png",
+      "sha256": "9bf7290a467cb2b303414b95914995e70105bdb4a202e37cd797d9edefef0406",
+      "bytes": 24789
+    },
+    {
+      "path": "gameplay/premium/closed-128.webp",
+      "sha256": "1b975abbe90a46fc78d65b18e6f84abb0a1633dcb8594100a2ff9cf8edd1b6e7",
+      "bytes": 21040
+    },
+    {
+      "path": "gameplay/premium/closed-256.png",
+      "sha256": "9001b4a36fa0106c1df958261c417e307d590c9df02a65626e037f621398024b",
+      "bytes": 81527
+    },
+    {
+      "path": "gameplay/premium/closed-256.webp",
+      "sha256": "b8a4ec49a7d5502d1baf4c3cb958af6a7e6818bea98e9b4ac7c8f96a45575c27",
+      "bytes": 63338
+    },
+    {
+      "path": "gameplay/premium/closed-512.png",
+      "sha256": "b3a86b66999dd157132acba24cbd40739fe642f9e68cac54571399cbbdb79d69",
+      "bytes": 267980
+    },
+    {
+      "path": "gameplay/premium/closed-512.webp",
+      "sha256": "a295094c06fabf99fe6518e64968efee01224909da60898e9e494e5268f84ed0",
+      "bytes": 201408
+    },
+    {
+      "path": "gameplay/premium/empty-128.png",
+      "sha256": "0d3c181d4ce572e7a675fb62b2e8144fd9073573838b914df209279ccdf78756",
+      "bytes": 22711
+    },
+    {
+      "path": "gameplay/premium/empty-128.webp",
+      "sha256": "8d8fd82e722eb8e3ceb70236728c5e536ee81f28f98eec97acafef1cf7d0b46b",
+      "bytes": 18640
+    },
+    {
+      "path": "gameplay/premium/empty-256.png",
+      "sha256": "ac1dec4759b4b6d14ffef72f3390f448094ee97b85337b292cedb8bbd58c4360",
+      "bytes": 73184
+    },
+    {
+      "path": "gameplay/premium/empty-256.webp",
+      "sha256": "2a22eaebfd70dddab29ce70540c3e4ee7a959b8f61a9dd519bec316c3ae9d775",
+      "bytes": 55520
+    },
+    {
+      "path": "gameplay/premium/empty-512.png",
+      "sha256": "238a9d20035f4423d3218f70ee6751504310e0753c8ac43e0979c385aed61c55",
+      "bytes": 242415
+    },
+    {
+      "path": "gameplay/premium/empty-512.webp",
+      "sha256": "c6690b2fd5e3c73963f178f17be927b32de322059b3a344b67dbe624c233b3d9",
+      "bytes": 177854
+    },
+    {
+      "path": "gameplay/premium/front-128.png",
+      "sha256": "7f688fbeb179fffec3e22e5d3eaef5faae8eea87df45494816ec57cdd2772dcd",
+      "bytes": 24173
+    },
+    {
+      "path": "gameplay/premium/front-128.webp",
+      "sha256": "fe1ec236bce3679ae2bd57072b67ae2934fd38742c49bafe2032850ddbbbb25d",
+      "bytes": 20492
+    },
+    {
+      "path": "gameplay/premium/front-256.png",
+      "sha256": "04c192e594509b4ddb4c5668b011bb7b3bbb0f6fe4d75aca9b13af2e12f317b8",
+      "bytes": 79990
+    },
+    {
+      "path": "gameplay/premium/front-256.webp",
+      "sha256": "2dd9496002f96cc24cc94fbd230f08e27a648d8456a658fe6a8c92ce0ba4b1cb",
+      "bytes": 61078
+    },
+    {
+      "path": "gameplay/premium/front-512.png",
+      "sha256": "7811c344d03217f0712c25a76da32d9eb493957f8180b893d011a2f7703e7531",
+      "bytes": 264196
+    },
+    {
+      "path": "gameplay/premium/front-512.webp",
+      "sha256": "60ddaed0a5cd6160e176786b9533ce6042dbf4d9f5837298206e0d6cb2ec4b75",
+      "bytes": 197350
+    },
+    {
+      "path": "gameplay/premium/open-128.png",
+      "sha256": "97ab8ef7857b3b445ac9661807cda4b3b1ef544742c296bf55d66eda922c0588",
+      "bytes": 22943
+    },
+    {
+      "path": "gameplay/premium/open-128.webp",
+      "sha256": "480460756dd353e0ea5bfeb80f9fb90c3564f5b6c78836cc8ec73412d222e1e1",
+      "bytes": 19496
+    },
+    {
+      "path": "gameplay/premium/open-256.png",
+      "sha256": "d5a55453b56ae4ff95f58bc90db7ac25f5c8c8fd45807e7f25bb4cb42a1a876d",
+      "bytes": 74649
+    },
+    {
+      "path": "gameplay/premium/open-256.webp",
+      "sha256": "e209a01166bb32f5bdc38979c1d24815c379b06b40ad3aa7de67efb79c961e85",
+      "bytes": 57676
+    },
+    {
+      "path": "gameplay/premium/open-512.png",
+      "sha256": "822ff4a88f17a78331324670511fd599733e6a8e97dbf142e0db7f35a60cb854",
+      "bytes": 242831
+    },
+    {
+      "path": "gameplay/premium/open-512.webp",
+      "sha256": "fd1f7633e07f15e54c7e433ec37fa70e7909438140b3b1e57acdc750090e9cbd",
+      "bytes": 183272
+    },
+    {
+      "path": "gameplay/premium/opening-128.png",
+      "sha256": "f8d810c9d265406701fc52e9d540e856edb508cb5e86fa7cc2cda5605fed4c04",
+      "bytes": 23948
+    },
+    {
+      "path": "gameplay/premium/opening-128.webp",
+      "sha256": "2f6e9aa7ef09e012858f06b75941d559ae549fc7740caad19acd1fb570c34a1d",
+      "bytes": 20546
+    },
+    {
+      "path": "gameplay/premium/opening-256.png",
+      "sha256": "ef0b4a9a4eae04e077e76c995a0a0501131b23e3af5b7cdea1e2468eb4caac76",
+      "bytes": 79485
+    },
+    {
+      "path": "gameplay/premium/opening-256.webp",
+      "sha256": "d62d37aded48157e92a52bba18988941e330b346d74069932b7b5b5c7c1a55fc",
+      "bytes": 62486
+    },
+    {
+      "path": "gameplay/premium/opening-512.png",
+      "sha256": "272ac9053fd7be2724b068deb7a4332e93c238cafcb274f2567f85ba8e8b13bd",
+      "bytes": 263964
+    },
+    {
+      "path": "gameplay/premium/opening-512.webp",
+      "sha256": "f2a2f08c1430b4a5200da33b52c75199f6044bd947059367e540b8fff31cbf1b",
+      "bytes": 200724
+    },
+    {
+      "path": "gameplay/premium/reward-filled-128.png",
+      "sha256": "d24cd69e60cafc0b799e58f48617a37e6ef2a390183d00e2387015a3b8cf94fb",
+      "bytes": 25758
+    },
+    {
+      "path": "gameplay/premium/reward-filled-128.webp",
+      "sha256": "531e1069dc9863eed507c5697b54bf4cf811270593f8c557ac6350948d44ef59",
+      "bytes": 22164
+    },
+    {
+      "path": "gameplay/premium/reward-filled-256.png",
+      "sha256": "73afd62a8829e177a69128ee729d8068696ae9d2f9c5fee2c06095a83658ea62",
+      "bytes": 84861
+    },
+    {
+      "path": "gameplay/premium/reward-filled-256.webp",
+      "sha256": "2b1d50027cb759fd7d24fc75f939cda91da6528b256faddd18457c402bffe454",
+      "bytes": 66350
+    },
+    {
+      "path": "gameplay/premium/reward-filled-512.png",
+      "sha256": "65baefcde77c4cebbd9fc2bda349318f9de7694659f776d345a203d6000942f7",
+      "bytes": 283020
+    },
+    {
+      "path": "gameplay/premium/reward-filled-512.webp",
+      "sha256": "fd46cf1f85c5edb810db657f7d512ab51c838e0b4a9d3a23d40f8f295a813f46",
+      "bytes": 213012
+    },
+    {
+      "path": "gameplay/premium/side-128.png",
+      "sha256": "ed541720dff8ccfc2468a85c935a0cec003ad41b0bf963f268fc0f871ee20ffc",
+      "bytes": 25470
+    },
+    {
+      "path": "gameplay/premium/side-128.webp",
+      "sha256": "51b59b92c9fcf3ed8c1155fa3865d97ffd3698633cc572e9b5d19e398421fa23",
+      "bytes": 21468
+    },
+    {
+      "path": "gameplay/premium/side-256.png",
+      "sha256": "6547903cb390e275c400566a2f9b87aff7149f5bf228a29a18a7f8bcd6a5c19e",
+      "bytes": 83329
+    },
+    {
+      "path": "gameplay/premium/side-256.webp",
+      "sha256": "056b52d323cfe19d6c9f97e2094eded8368ebfed2caefedf06fa80e8b1005941",
+      "bytes": 63584
+    },
+    {
+      "path": "gameplay/premium/side-512.png",
+      "sha256": "0abf7940972fb9479d0f3c5481106145b0ba9a2d5818ee10cf73490edd81f1ce",
+      "bytes": 280626
+    },
+    {
+      "path": "gameplay/premium/side-512.webp",
+      "sha256": "0943e0655289470ca87f3d821b2fc0e86702c3e3f75dd11087c46fb0955dbdc8",
+      "bytes": 205642
+    },
+    {
+      "path": "gameplay/premium/top-128.png",
+      "sha256": "f3554d65efe026eaf4cbfe191d6dbf6b9f7893aee20bd0d9736f7e304b5b6e52",
+      "bytes": 19141
+    },
+    {
+      "path": "gameplay/premium/top-128.webp",
+      "sha256": "baad342dfe04bb3458efeee97f1108bfc502843ec1a8f3ed64aec6b8b00736f7",
+      "bytes": 15952
+    },
+    {
+      "path": "gameplay/premium/top-256.png",
+      "sha256": "822f35366826bf1d18c426bd344c7d211ef1aae3d8ef15ddded28782db602dc5",
+      "bytes": 61897
+    },
+    {
+      "path": "gameplay/premium/top-256.webp",
+      "sha256": "f79b60a09dead861e1447d28712f3308d441890f1792f60bf7d8de024c73084f",
+      "bytes": 46906
+    },
+    {
+      "path": "gameplay/premium/top-512.png",
+      "sha256": "8435eae27c5a220757d331552558ab618822e87597a90ec5308234744864c89f",
+      "bytes": 204079
+    },
+    {
+      "path": "gameplay/premium/top-512.webp",
+      "sha256": "934456b7a7449fe541fbc7945942210c63f915707fb55092492f68cf4c5fab68",
+      "bytes": 151816
+    },
+    {
+      "path": "gameplay/rainbow/closed-128.png",
+      "sha256": "0da2e794fb2f693e90bbd825a92bb488462697dfce405b9de2c522ffd54ff50b",
+      "bytes": 21465
+    },
+    {
+      "path": "gameplay/rainbow/closed-128.webp",
+      "sha256": "ad1836f02910d4847d004baffc1409de4d5eb88db9f48f38e82f42869b2b85a3",
+      "bytes": 17688
+    },
+    {
+      "path": "gameplay/rainbow/closed-256.png",
+      "sha256": "4fa6832105e414173b342bbbba476d4c52c49c25d6ecd8ec2ea20e7b8fa789e8",
+      "bytes": 67712
+    },
+    {
+      "path": "gameplay/rainbow/closed-256.webp",
+      "sha256": "e325d76c3b0cf5b3b30bed15c31d2a3a701dcba914b6bb8dee84bd1b1d8987c6",
+      "bytes": 50500
+    },
+    {
+      "path": "gameplay/rainbow/closed-512.png",
+      "sha256": "c7d5f1f26cb3fed1f733c31bf018de0829223a2370b10d2805086ef94a2374fc",
+      "bytes": 223492
+    },
+    {
+      "path": "gameplay/rainbow/closed-512.webp",
+      "sha256": "8749d9df229e4d52fff1be722e2c68439351da7bb867420c80d8fed205a7366e",
+      "bytes": 160064
+    },
+    {
+      "path": "gameplay/rainbow/empty-128.png",
+      "sha256": "807271d6fa4a4cf7b552162cea10cf1ca64137959d7a6289f52980a5c18fa54f",
+      "bytes": 25745
+    },
+    {
+      "path": "gameplay/rainbow/empty-128.webp",
+      "sha256": "6bd6f8f89f5429e2470b6a9de7e129b6b131d6f8ebf84086542408d0fe4dfd53",
+      "bytes": 20662
+    },
+    {
+      "path": "gameplay/rainbow/empty-256.png",
+      "sha256": "03055a8357a4619ee42f86ac61fcb2abbf741ab32ec277b08ee7ca09df1016c0",
+      "bytes": 80899
+    },
+    {
+      "path": "gameplay/rainbow/empty-256.webp",
+      "sha256": "e87cb19ab88b0eaf3c62610745f0a38ceea72a3b42e68bb42164181f63da5bc8",
+      "bytes": 59650
+    },
+    {
+      "path": "gameplay/rainbow/empty-512.png",
+      "sha256": "aab18df8257b07efff2382455567c15016fd464710ae8d1396335f4716669e84",
+      "bytes": 273452
+    },
+    {
+      "path": "gameplay/rainbow/empty-512.webp",
+      "sha256": "d2e37e9dc4f35671dcf04ca9b8d99ac4323267857028aa6839c5a5807f418878",
+      "bytes": 196868
+    },
+    {
+      "path": "gameplay/rainbow/front-128.png",
+      "sha256": "46e1942dbff98b7e0fd112a9ce8fc119ae9136a0713912aa594155875f19a9ca",
+      "bytes": 18688
+    },
+    {
+      "path": "gameplay/rainbow/front-128.webp",
+      "sha256": "73df333f15a455588aae9fa924a471e0ed8ac9f73f61d20ae9b9878bf4ddffa6",
+      "bytes": 15130
+    },
+    {
+      "path": "gameplay/rainbow/front-256.png",
+      "sha256": "518fd569b9c6a52738ed9fcc07e5257df995333508f53d8719e5e5b666d8449b",
+      "bytes": 58965
+    },
+    {
+      "path": "gameplay/rainbow/front-256.webp",
+      "sha256": "bb3b10c89a9999913cddb9f6505c822395ab4012b3e268c1e52a30b9e6018d86",
+      "bytes": 43868
+    },
+    {
+      "path": "gameplay/rainbow/front-512.png",
+      "sha256": "8b53cfab3eb4c90f2589967342902019e85c538abf28fce8892d7ac94fa12a71",
+      "bytes": 193428
+    },
+    {
+      "path": "gameplay/rainbow/front-512.webp",
+      "sha256": "dcebc763b1261f5f4f8c1326385ccf7981a9d0b34ff2f3b3f38da732e9186a51",
+      "bytes": 138082
+    },
+    {
+      "path": "gameplay/rainbow/open-128.png",
+      "sha256": "61badfbf180ccbff724af5482e462e460c798b27ab5dab1e5d2481a074bdf4d3",
+      "bytes": 22087
+    },
+    {
+      "path": "gameplay/rainbow/open-128.webp",
+      "sha256": "3adf65f29893eed865acfac4eb0dc8f37e03d7df3a95e6902f43ec6e711a1ed4",
+      "bytes": 18374
+    },
+    {
+      "path": "gameplay/rainbow/open-256.png",
+      "sha256": "32cff83e9932f1cccba8a4359caa13641fdba489f85e969f1a753b02d44a57a8",
+      "bytes": 70265
+    },
+    {
+      "path": "gameplay/rainbow/open-256.webp",
+      "sha256": "aa0beff4a563364678b6ac227e8ec6d1bfd192b1c2a426374a3241eb20fd48bd",
+      "bytes": 54080
+    },
+    {
+      "path": "gameplay/rainbow/open-512.png",
+      "sha256": "f3f21039c0c060c43714c608e12e2a699db5c4e50746b12acceda12294c90b30",
+      "bytes": 228769
+    },
+    {
+      "path": "gameplay/rainbow/open-512.webp",
+      "sha256": "6b584c20a80ff27bf1c91d949badef7b1054301c795af7bbca13cd5df90af554",
+      "bytes": 168766
+    },
+    {
+      "path": "gameplay/rainbow/opening-128.png",
+      "sha256": "23aa3255a9365782e09ca4c7ae2b4900e89ce6b291a285bd61f02932b20c3023",
+      "bytes": 25781
+    },
+    {
+      "path": "gameplay/rainbow/opening-128.webp",
+      "sha256": "16f53f697a2abf4b69730e48a9ffb5c3ec6fbf109aca56d513b24fe70250bdad",
+      "bytes": 21392
+    },
+    {
+      "path": "gameplay/rainbow/opening-256.png",
+      "sha256": "fa3bde8112c9855a595c242fe052f6c4aadcfa94b42544619a9a8ac619ecbe6d",
+      "bytes": 81935
+    },
+    {
+      "path": "gameplay/rainbow/opening-256.webp",
+      "sha256": "c9c7fdd95e2b71f011745b9699ceead5cc66744fb2372a1f59207bde0c578ebb",
+      "bytes": 62554
+    },
+    {
+      "path": "gameplay/rainbow/opening-512.png",
+      "sha256": "de1a17a2a5db7c3c486e42227ceee474fef9d559c6f2e0afc13a9e5214a08a48",
+      "bytes": 269249
+    },
+    {
+      "path": "gameplay/rainbow/opening-512.webp",
+      "sha256": "bf635e9c6b6fc5d472048bb90d5dcf51346b2e0d86f18b07a94b00ae3f74ecb1",
+      "bytes": 200306
+    },
+    {
+      "path": "gameplay/rainbow/reward-filled-128.png",
+      "sha256": "620c49778f6f5ec7587a362224fe72840db10c1a76d3424f347b340746cfd0cf",
+      "bytes": 27832
+    },
+    {
+      "path": "gameplay/rainbow/reward-filled-128.webp",
+      "sha256": "c496a0bfcb9aa131bbc501049d41f7408b85173a72ae06d7df5bde98017e6ca5",
+      "bytes": 23512
+    },
+    {
+      "path": "gameplay/rainbow/reward-filled-256.png",
+      "sha256": "fe5a114ccd6708ad41ae53e9eeabdd76b394154051ea04dd2de07c0eb76fcf39",
+      "bytes": 89574
+    },
+    {
+      "path": "gameplay/rainbow/reward-filled-256.webp",
+      "sha256": "a0a472e0c32055e53c9b2d51cd927c6486bee25db6064648b4267a160bf06e66",
+      "bytes": 69582
+    },
+    {
+      "path": "gameplay/rainbow/reward-filled-512.png",
+      "sha256": "e1fcb4b4ace06496f0df885968a28c544990b8602ef4bd6d87058f8ebd3988a1",
+      "bytes": 293905
+    },
+    {
+      "path": "gameplay/rainbow/reward-filled-512.webp",
+      "sha256": "7f61668e933843068007a3d55bae038879153af4c5f9be3e4670d718373dc490",
+      "bytes": 222702
+    },
+    {
+      "path": "gameplay/rainbow/side-128.png",
+      "sha256": "1a143c8b8b6f66fc0ab7d18817f5b6ff161f571090b2f532a43593f4feef49e2",
+      "bytes": 23858
+    },
+    {
+      "path": "gameplay/rainbow/side-128.webp",
+      "sha256": "ac4d67a86be0f7b83df7362352e944b3daa6836281727ecb69c1c9223929a989",
+      "bytes": 18924
+    },
+    {
+      "path": "gameplay/rainbow/side-256.png",
+      "sha256": "efd81738a68ebdfcc70d0b402e020dc20227931b64af82b6c166d3f66626ed23",
+      "bytes": 75337
+    },
+    {
+      "path": "gameplay/rainbow/side-256.webp",
+      "sha256": "a1167a1a598e0f219e5273f969d276ce0fcff98f477d35f5e932f31dc1cd7e13",
+      "bytes": 55160
+    },
+    {
+      "path": "gameplay/rainbow/side-512.png",
+      "sha256": "19ba80deef9c3ae7b9f27b361c0d8f37138e8106b2140b795fd15614134fa431",
+      "bytes": 255699
+    },
+    {
+      "path": "gameplay/rainbow/side-512.webp",
+      "sha256": "5656d4673d1652b6fc3731c61ff66f1aae7047507957be1e6d785f3d6981bb20",
+      "bytes": 182052
+    },
+    {
+      "path": "gameplay/rainbow/top-128.png",
+      "sha256": "cf659d0a99a48c99623c6cd235f00de2f6f785615f2a80950e5c63ddb8f757ec",
+      "bytes": 16896
+    },
+    {
+      "path": "gameplay/rainbow/top-128.webp",
+      "sha256": "6db791ad4ca858345d2f1e1f0da4dfaa2e20c7bde954b93fe50116d59640f299",
+      "bytes": 14006
+    },
+    {
+      "path": "gameplay/rainbow/top-256.png",
+      "sha256": "997c30e2e3ee0e957ca62799cf34c461ff73c6781e3811a0c320d138a670208f",
+      "bytes": 53404
+    },
+    {
+      "path": "gameplay/rainbow/top-256.webp",
+      "sha256": "37792b9bbfe8c86f88f7473268e3572b6b028b58575f5efb9751d1fcfda12b60",
+      "bytes": 40522
+    },
+    {
+      "path": "gameplay/rainbow/top-512.png",
+      "sha256": "7746cc00a7da3314a8a3a38b04bd266c0973023812cdd827f6f5eea78518cf73",
+      "bytes": 172584
+    },
+    {
+      "path": "gameplay/rainbow/top-512.webp",
+      "sha256": "4d8070064ded5916cca59af060045b78f21d3bd9157070d413e25edf5ed4618a",
+      "bytes": 125578
+    },
+    {
+      "path": "gameplay/silver/closed-128.png",
+      "sha256": "3e955a00a4fae384802d5089faac2356ef01277995e3b437ad5b4eebb0b962a5",
+      "bytes": 19872
+    },
+    {
+      "path": "gameplay/silver/closed-128.webp",
+      "sha256": "0be565567c37173211c6b9a5f25e8d08d05119d0860ffab7f5bb0faf9305d916",
+      "bytes": 15410
+    },
+    {
+      "path": "gameplay/silver/closed-256.png",
+      "sha256": "2e966bce54cc3193d292cd98f9bc260a68869752b5133b094aec0e771c904455",
+      "bytes": 62096
+    },
+    {
+      "path": "gameplay/silver/closed-256.webp",
+      "sha256": "4a2b7484c1aeeca7453ccb1cb08f85ac7b296c8515c2dd1ce330d15d6adc9af7",
+      "bytes": 44522
+    },
+    {
+      "path": "gameplay/silver/closed-512.png",
+      "sha256": "9fd30975f755bd02a17638eedd7bf3c21f803c46ff2573913ebe6954a2bb338e",
+      "bytes": 205411
+    },
+    {
+      "path": "gameplay/silver/closed-512.webp",
+      "sha256": "0912e692043e1e50560fe29cbd069ef68eacdaf82c7e95dad9097d824b366ad3",
+      "bytes": 144672
+    },
+    {
+      "path": "gameplay/silver/empty-128.png",
+      "sha256": "0890097aff6e76c46a57182801a8d1cf33a4c332e01b5f2c3a844c289fa13b63",
+      "bytes": 23802
+    },
+    {
+      "path": "gameplay/silver/empty-128.webp",
+      "sha256": "bd604f26ba59f59d9b62cff93abd2c6be0a252bc3233f4b9dc97a9bd4936f191",
+      "bytes": 17936
+    },
+    {
+      "path": "gameplay/silver/empty-256.png",
+      "sha256": "d1b4270cc258e3eb0db4b60ff706c8306033ef8443dd60af28824ac8833a3c6c",
+      "bytes": 74293
+    },
+    {
+      "path": "gameplay/silver/empty-256.webp",
+      "sha256": "1497abe2e0d72c91d7c9c190ca7b9d6a83664990ee1da3c99baa34d3e11b37f1",
+      "bytes": 51830
+    },
+    {
+      "path": "gameplay/silver/empty-512.png",
+      "sha256": "9a82006d64e207b0c144086d011baf075557b5369fdedb153de5a1aadcf5cae5",
+      "bytes": 247157
+    },
+    {
+      "path": "gameplay/silver/empty-512.webp",
+      "sha256": "7bd36484a07b48d91404800fb741324da3919e1dbd0dd3cf39f75e0aa4f02280",
+      "bytes": 170650
+    },
+    {
+      "path": "gameplay/silver/front-128.png",
+      "sha256": "8e012dae59cde0ff161ddc230d27d4232a8f5866f29a50c21b9a44dd5a8294b2",
+      "bytes": 19415
+    },
+    {
+      "path": "gameplay/silver/front-128.webp",
+      "sha256": "edb4941073d97494db16a7274f568e2f55b83e7f815203d19f83d8b77820f1b5",
+      "bytes": 15088
+    },
+    {
+      "path": "gameplay/silver/front-256.png",
+      "sha256": "00725ac3b22172716b32bd625dfe50389e7b026c7660cd4a49ec9f20705c42e0",
+      "bytes": 60805
+    },
+    {
+      "path": "gameplay/silver/front-256.webp",
+      "sha256": "691d1bff7309904ad44af3790a7869005967b390b8703bcf8a926973fd2dd088",
+      "bytes": 43332
+    },
+    {
+      "path": "gameplay/silver/front-512.png",
+      "sha256": "0ec350e8becc37cc8de33c8b9adb97d740148d9242d9f7164334afd72a446d28",
+      "bytes": 208669
+    },
+    {
+      "path": "gameplay/silver/front-512.webp",
+      "sha256": "377e526a2324862b07df097b77abcb2b3a84b56d045d3d661b87d77892a7012f",
+      "bytes": 145166
+    },
+    {
+      "path": "gameplay/silver/open-128.png",
+      "sha256": "491c29e9089ed39ecc67a13e27f7d557ff94260c2e6ddf94c3ce8aa588be0dde",
+      "bytes": 24410
+    },
+    {
+      "path": "gameplay/silver/open-128.webp",
+      "sha256": "3155a09cd4a2ded9382f46bc723ba8c953c4729aaf02c4e174202ca1facce4b5",
+      "bytes": 19040
+    },
+    {
+      "path": "gameplay/silver/open-256.png",
+      "sha256": "0a61296b0d0fe41acdc55376b39d1004c07cba551fa8d5003caf4a5a3a190949",
+      "bytes": 76988
+    },
+    {
+      "path": "gameplay/silver/open-256.webp",
+      "sha256": "5f37c7181c50f814aaaa996853211e57f859d81819b902470861a41d7eab222e",
+      "bytes": 56678
+    },
+    {
+      "path": "gameplay/silver/open-512.png",
+      "sha256": "72e24873733210b55b58ec27862b8204a7e42e62dc0e70a77f28010c0f6da37d",
+      "bytes": 254689
+    },
+    {
+      "path": "gameplay/silver/open-512.webp",
+      "sha256": "738e666acdd87d2154d9b0fdffc2a25c9547094497659fd77ef0545e48e05505",
+      "bytes": 183212
+    },
+    {
+      "path": "gameplay/silver/opening-128.png",
+      "sha256": "ed506f596fee26a2343f70597a87cafa30479a7c50f1b43f25a0fe5e016b1641",
+      "bytes": 23239
+    },
+    {
+      "path": "gameplay/silver/opening-128.webp",
+      "sha256": "e9e70e72141a49d817c41bfe92a8b12e19d2f74dd4f9ede7dda3050cceb04b91",
+      "bytes": 17956
+    },
+    {
+      "path": "gameplay/silver/opening-256.png",
+      "sha256": "e4680be6d9a51748413c1d7f5c8e86febff6d86195e9c8aaeb87c808db901c5a",
+      "bytes": 72326
+    },
+    {
+      "path": "gameplay/silver/opening-256.webp",
+      "sha256": "508af33f779a0f4f9e8d03030053cfb9eca73ba6425ce2ce4266f6a10e398f02",
+      "bytes": 52456
+    },
+    {
+      "path": "gameplay/silver/opening-512.png",
+      "sha256": "55d6e8934af9f22044b6761872dd1425398671f8773cca156e0bf92948222685",
+      "bytes": 239544
+    },
+    {
+      "path": "gameplay/silver/opening-512.webp",
+      "sha256": "fa79194d3726cba78c3163f31b9a8305306fe0c2bada93be0d37de8f61c3bb40",
+      "bytes": 169822
+    },
+    {
+      "path": "gameplay/silver/reward-filled-128.png",
+      "sha256": "41cc67c7f556e67076a1b2b703b392b4eb37886fe5353446efdd9dbce216eab3",
+      "bytes": 27198
+    },
+    {
+      "path": "gameplay/silver/reward-filled-128.webp",
+      "sha256": "f1b12f40454d812b07508e91338050255906070b1a96dd1404897a0777d204c3",
+      "bytes": 21688
+    },
+    {
+      "path": "gameplay/silver/reward-filled-256.png",
+      "sha256": "57a7bfc3c8f4a043df4d04265ff36f0f0b8718078458cbf298380240b243d566",
+      "bytes": 87214
+    },
+    {
+      "path": "gameplay/silver/reward-filled-256.webp",
+      "sha256": "6086198c279ce357781cd38fc4c27d80844673e154b3242cb95e2129f4751159",
+      "bytes": 65040
+    },
+    {
+      "path": "gameplay/silver/reward-filled-512.png",
+      "sha256": "8bbdf5868ccd28794a37d465727759c381e6153c0b803a1dcb249112fbda9784",
+      "bytes": 287909
+    },
+    {
+      "path": "gameplay/silver/reward-filled-512.webp",
+      "sha256": "862fe5efd1388de0080747ca6c5e292f9d5110bf6bc784394bd559ed782f89dd",
+      "bytes": 210590
+    },
+    {
+      "path": "gameplay/silver/side-128.png",
+      "sha256": "f678fc77a2680d9b3fc3e92733596c2b15998140c09f40e003f1b6ca36229e2d",
+      "bytes": 20898
+    },
+    {
+      "path": "gameplay/silver/side-128.webp",
+      "sha256": "b5242d18d388d726ad40eb45cff3b32d70ec09c9d30b7cbb65bb234335b2da73",
+      "bytes": 15368
+    },
+    {
+      "path": "gameplay/silver/side-256.png",
+      "sha256": "965643c9c42e56952f79738bdd4836a8b6adb2089352a0fe78a9f48c79f1155b",
+      "bytes": 65825
+    },
+    {
+      "path": "gameplay/silver/side-256.webp",
+      "sha256": "1c643ece9854003ffdfb3e0c63c86d0558cff920b2c3a6d6c38d94757590088f",
+      "bytes": 44698
+    },
+    {
+      "path": "gameplay/silver/side-512.png",
+      "sha256": "945e6e136a92da230f945570d9a548d64791bf417845e04658d709214370dd72",
+      "bytes": 219333
+    },
+    {
+      "path": "gameplay/silver/side-512.webp",
+      "sha256": "b17e4a6672f97191cc9fae8ae25b46b871e39b53a29397f6145dec9f6ab0bf7e",
+      "bytes": 146050
+    },
+    {
+      "path": "gameplay/silver/top-128.png",
+      "sha256": "3b64c8a1f1af87206b81e31faf0868a288f96be18b06ff288b7e4aec65c72ad9",
+      "bytes": 18215
+    },
+    {
+      "path": "gameplay/silver/top-128.webp",
+      "sha256": "c2f66d0e1111e963a4c38d053cc4ce00c1596108252284e7ead8764a288099d9",
+      "bytes": 14052
+    },
+    {
+      "path": "gameplay/silver/top-256.png",
+      "sha256": "803c342cddc3dd9d6ee3ab21e9e12ba60103214a43ff8d29ab4af68aedefb978",
+      "bytes": 56982
+    },
+    {
+      "path": "gameplay/silver/top-256.webp",
+      "sha256": "5493d52ba684126e1611ff904e58ae83388605da1c533ec475086a3a70379ed7",
+      "bytes": 41608
+    },
+    {
+      "path": "gameplay/silver/top-512.png",
+      "sha256": "bf8bfbf1e1e5ae6b3c8f4dbf5b3da08420ff384ac92ad9e4527625a868033a3d",
+      "bytes": 191481
+    },
+    {
+      "path": "gameplay/silver/top-512.webp",
+      "sha256": "8510e616113a906bd71e2afbf7e99ae04ec68b964335eb18fdbbdc9630e39f7d",
+      "bytes": 133668
+    },
+    {
+      "path": "gameplay/wooden/closed-128.png",
+      "sha256": "f5abb392ba175156e43258870eff8125f3b2c35975de54e80600dc7de4bb97b9",
+      "bytes": 19843
+    },
+    {
+      "path": "gameplay/wooden/closed-128.webp",
+      "sha256": "0951a27d0fcdd28019a50fd165c58548996cce3e80fb4bfcb5c91cd5b3359883",
+      "bytes": 15452
+    },
+    {
+      "path": "gameplay/wooden/closed-256.png",
+      "sha256": "a128f36df24478200db2332fdbb58d2045764dc9e1b422e2f7bb340fc4f79c16",
+      "bytes": 62204
+    },
+    {
+      "path": "gameplay/wooden/closed-256.webp",
+      "sha256": "17d17ce38847f48a76003f06026bf2c8c23cc56cca8985cd520dbcc8797fc750",
+      "bytes": 46026
+    },
+    {
+      "path": "gameplay/wooden/closed-512.png",
+      "sha256": "df3aec4f7f12269d2c379a5924b0969af2bb292d82b2c6e67421cca074ea62b0",
+      "bytes": 209267
+    },
+    {
+      "path": "gameplay/wooden/closed-512.webp",
+      "sha256": "9a1395a7e7f3392e16bfd15ecc01c756d69c78eb319111defe22e231a84c930c",
+      "bytes": 149928
+    },
+    {
+      "path": "gameplay/wooden/empty-128.png",
+      "sha256": "5fcb33c084fd50e37a540b187f2fd317a4238f767f9acaf6c4afc55fb5de0b75",
+      "bytes": 21202
+    },
+    {
+      "path": "gameplay/wooden/empty-128.webp",
+      "sha256": "da53193615f7bf4804c0a51a2b3adb1ee5fff656e9d2db801d06d8c9c753bf29",
+      "bytes": 16278
+    },
+    {
+      "path": "gameplay/wooden/empty-256.png",
+      "sha256": "b9a8c3285dd7dd9a563433524f4626e5e5c33af78da1d3482f994efba36e3ed6",
+      "bytes": 65835
+    },
+    {
+      "path": "gameplay/wooden/empty-256.webp",
+      "sha256": "c84013440a993af0e6ff129da561de9020e88de47bfc88a510232db2ae584e9c",
+      "bytes": 47734
+    },
+    {
+      "path": "gameplay/wooden/empty-512.png",
+      "sha256": "996ba95dfd2f68fd9fe11d8b6f283d5af8ee63540fd4cbeb142905649da2bd07",
+      "bytes": 224409
+    },
+    {
+      "path": "gameplay/wooden/empty-512.webp",
+      "sha256": "be3370689d9591d42de9ec659236b713a703716e5cc4cdd4974766dc894577e3",
+      "bytes": 158586
+    },
+    {
+      "path": "gameplay/wooden/front-128.png",
+      "sha256": "a7d6c6c7823bca316da1f58dfd6800317d99273b1fd035fcf1971c7bdb2272a1",
+      "bytes": 20080
+    },
+    {
+      "path": "gameplay/wooden/front-128.webp",
+      "sha256": "1199e8ff619f17bc1626e0d6ee039062610a80286c786a879a5aec9251889fd1",
+      "bytes": 15722
+    },
+    {
+      "path": "gameplay/wooden/front-256.png",
+      "sha256": "134f1740bd3933befd00f402a879992cb2ce8fe84b8e551a1d6259ceba0d9cff",
+      "bytes": 63132
+    },
+    {
+      "path": "gameplay/wooden/front-256.webp",
+      "sha256": "550b07bb96d8a38fc30724eb8f17a630222c50e2af39bb561934ca82d5baaaf6",
+      "bytes": 45700
+    },
+    {
+      "path": "gameplay/wooden/front-512.png",
+      "sha256": "5902fbe7329beec69b070a22640f6f49fe395a2e6f34fb50dc228b3dc01c1074",
+      "bytes": 220172
+    },
+    {
+      "path": "gameplay/wooden/front-512.webp",
+      "sha256": "0a5ed426b5eafa256b8ca535d1be3e970316989d379b4a76643b5ec460b30b24",
+      "bytes": 155492
+    },
+    {
+      "path": "gameplay/wooden/open-128.png",
+      "sha256": "fa3a86abf18c1ebd5e45e6364b84c5cba9ef704f38ea433267bd8a085f953cbb",
+      "bytes": 24804
+    },
+    {
+      "path": "gameplay/wooden/open-128.webp",
+      "sha256": "e85f1c523e73ccf2944685ded2ddc240bbb7e2ced38ba1c34a7fa0e9aaa08c72",
+      "bytes": 19860
+    },
+    {
+      "path": "gameplay/wooden/open-256.png",
+      "sha256": "ed46c8647f2d1876260e2c3a203a42ff3f012e23d56cc04ac8a7baf59d4bcbab",
+      "bytes": 78077
+    },
+    {
+      "path": "gameplay/wooden/open-256.webp",
+      "sha256": "54da1a84a1bd07f6c5be18ac47bf25ca76739d9eb1f1e7214d63fe4fc89b0d12",
+      "bytes": 58034
+    },
+    {
+      "path": "gameplay/wooden/open-512.png",
+      "sha256": "0296388273d2f894c3f001fcdd5a9d5d540ae4fa13f23db4af6d041001d9e4f0",
+      "bytes": 260217
+    },
+    {
+      "path": "gameplay/wooden/open-512.webp",
+      "sha256": "475c6e6106a507840c9fd20405e343a7418123587b5e0a2380bc586143c31a64",
+      "bytes": 187946
+    },
+    {
+      "path": "gameplay/wooden/opening-128.png",
+      "sha256": "41ecdc5cc92b4bde24d541b904c2a1425d7155070abbb4a829b1a2590a8f37de",
+      "bytes": 24024
+    },
+    {
+      "path": "gameplay/wooden/opening-128.webp",
+      "sha256": "13a316ad59a93beb0cffd95e427c723bda50c9c2df2530585df66643f32ca6ef",
+      "bytes": 18488
+    },
+    {
+      "path": "gameplay/wooden/opening-256.png",
+      "sha256": "98ab9821b79b4680bf7009137ee7218f8e12b0926887ffa5c759374232dcf8dc",
+      "bytes": 76100
+    },
+    {
+      "path": "gameplay/wooden/opening-256.webp",
+      "sha256": "0583ce4d17b96f68ac00f33c16f6496c381051576b1e0d67bfd5d84cdb0e9f95",
+      "bytes": 56006
+    },
+    {
+      "path": "gameplay/wooden/opening-512.png",
+      "sha256": "c1a569bebb20d0589c63167291b6fb9da9fff52333f92606bba4f56d25a139a8",
+      "bytes": 252483
+    },
+    {
+      "path": "gameplay/wooden/opening-512.webp",
+      "sha256": "1f3c5964afa1bc740eead6b32b39754cf152071469b613e3fdab2795eb703337",
+      "bytes": 180018
+    },
+    {
+      "path": "gameplay/wooden/reward-filled-128.png",
+      "sha256": "c44e5cb7517329b90ba365b09a1721dd1d436a983f75b73dae62aeda7a10ef5c",
+      "bytes": 25040
+    },
+    {
+      "path": "gameplay/wooden/reward-filled-128.webp",
+      "sha256": "617709d286a8a852e3ec37947e43169f4c5df0bf51e3bf99b4624d3e7d601626",
+      "bytes": 20538
+    },
+    {
+      "path": "gameplay/wooden/reward-filled-256.png",
+      "sha256": "f374d2b1c9fc7ffeca52e64c97a873e5abcfa72e83ced4b4ff900107f16c83a9",
+      "bytes": 81334
+    },
+    {
+      "path": "gameplay/wooden/reward-filled-256.webp",
+      "sha256": "a1a6cf87dfed2d17897c964452ad07ef384ec512ff3dedcad6e97b4f59c13b00",
+      "bytes": 61734
+    },
+    {
+      "path": "gameplay/wooden/reward-filled-512.png",
+      "sha256": "482e528c0e3aa499732c254d7de627dce29bc5ec9cf92b55a49b9c380b21bf6a",
+      "bytes": 279589
+    },
+    {
+      "path": "gameplay/wooden/reward-filled-512.webp",
+      "sha256": "23727417df978fb4d7ed25505d17ed686524d42c1cc56c3019cd40f96a3009e5",
+      "bytes": 204874
+    },
+    {
+      "path": "gameplay/wooden/side-128.png",
+      "sha256": "6ebe045a9da619b99e98d4b0cd85aba80c29e534f87b3a0d61c9f9602a406ca7",
+      "bytes": 18205
+    },
+    {
+      "path": "gameplay/wooden/side-128.webp",
+      "sha256": "2dcf27938c7ed87a64083124184b443add8335b63988da6c6e121edee50c59dd",
+      "bytes": 13352
+    },
+    {
+      "path": "gameplay/wooden/side-256.png",
+      "sha256": "227c571bd919a7bccb679dfbc7c76fcf7afd2b01837b866b300f5880f7373444",
+      "bytes": 56470
+    },
+    {
+      "path": "gameplay/wooden/side-256.webp",
+      "sha256": "acef7ce2638bdca5e1e28df7a91e396a8194b61b07cbb04de468108598372d2c",
+      "bytes": 38634
+    },
+    {
+      "path": "gameplay/wooden/side-512.png",
+      "sha256": "b5a18ca7fc9a74bf9c861a9ffb8649090d9c1a4d86db5e6ec2249ce3ea43289e",
+      "bytes": 191010
+    },
+    {
+      "path": "gameplay/wooden/side-512.webp",
+      "sha256": "724e2d89daf8b76319938963506aba94ed9ed9915d9114af8067781372f9a45c",
+      "bytes": 128116
+    },
+    {
+      "path": "gameplay/wooden/top-128.png",
+      "sha256": "c436f676ff68b112771e049196e761cae838cb12050a3e7d14151883f018ce4c",
+      "bytes": 19518
+    },
+    {
+      "path": "gameplay/wooden/top-128.webp",
+      "sha256": "220fb0110b26af089e8054fd6f82431cf49501b264f32f8d996e4865cb26853c",
+      "bytes": 15082
+    },
+    {
+      "path": "gameplay/wooden/top-256.png",
+      "sha256": "98b5ac80a18da15edc82a4744e05d4ee3ee00780919c84bb1282a0f8ddf61574",
+      "bytes": 60920
+    },
+    {
+      "path": "gameplay/wooden/top-256.webp",
+      "sha256": "fe8cd01e0fba0de45f583816662f9b530fe690e45be3702c26fcb4e23d96510b",
+      "bytes": 45640
+    },
+    {
+      "path": "gameplay/wooden/top-512.png",
+      "sha256": "a164c2bc8cc1b252f7cc6a2442d08c6756779664d31428773b325078d1e58b59",
+      "bytes": 210396
+    },
+    {
+      "path": "gameplay/wooden/top-512.webp",
+      "sha256": "7edf1c9ce6e55e9e4ce83136c9c5bd1b89f850cfcc811376496c9585a555fa3f",
+      "bytes": 150524
+    },
+    {
+      "path": "generation.json",
+      "sha256": "1753822f49a009bf917e67833e78953f8a66009884bb50a41862fb10a0c15041",
+      "bytes": 63727
+    },
+    {
+      "path": "masters/containers/capsule.png",
+      "sha256": "d3f0147e6a1d37382360389352d479fa644ccc692f2f730f894180ec97f5ed82",
+      "bytes": 734791
+    },
+    {
+      "path": "masters/containers/gift-box.png",
+      "sha256": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+      "bytes": 788328
+    },
+    {
+      "path": "masters/containers/item-crate.png",
+      "sha256": "8f1219a124f2bd67c3cbead8ea86ac221d4661358f3aa71603f8a60e14f9b427",
+      "bytes": 719805
+    },
+    {
+      "path": "masters/containers/reward-bag.png",
+      "sha256": "b3b419c1856ae8272135c22127de0723913dd9b32b45e49da260a8811e01f167",
+      "bytes": 678607
+    },
+    {
+      "path": "masters/containers/reward-jar.png",
+      "sha256": "f25b2b092da733c8ac70e2ae7aa47ebccd019eef5f67b9884559ec2207e49ef8",
+      "bytes": 606140
+    },
+    {
+      "path": "masters/effects/gold-burst.png",
+      "sha256": "d57713ab7246841f5301d4aa05db4b2438b7854fe914fa897f23caebb5f32f36",
+      "bytes": 692118
+    },
+    {
+      "path": "masters/effects/gold-orbit.png",
+      "sha256": "812040f914c2f9351585ef6d6615342d1bf0d597a784e1132dc4c57a82a611dd",
+      "bytes": 705866
+    },
+    {
+      "path": "masters/effects/purple-beams.png",
+      "sha256": "6163bbac1f1d4721531bf2336aaaf35fe1bd996275df652ca6c1e563332382e9",
+      "bytes": 454450
+    },
+    {
+      "path": "masters/effects/purple-vortex.png",
+      "sha256": "c48ad29602daf1316cd02d38ffe9e2ddfb6d661e28ba11597c1cf8625dd6ac9b",
+      "bytes": 868663
+    },
+    {
+      "path": "masters/effects/rainbow.png",
+      "sha256": "2956d0fa3ca7ed5a323b9398654e5eb26fdfff0ca49dfb87948afd476b2f3f13",
+      "bytes": 407252
+    },
+    {
+      "path": "masters/effects/sparkles.png",
+      "sha256": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+      "bytes": 291978
+    },
+    {
+      "path": "masters/fill/coins.png",
+      "sha256": "32e99dffc81874c33427928a42c7fe203c3ece2a72a35607b0fd9f57aac14d4d",
+      "bytes": 567456
+    },
+    {
+      "path": "masters/fill/gems.png",
+      "sha256": "0c6a39ae85250f8ed92f465ecad13d5fcd94475be96e6c8f0c25f2cef198206a",
+      "bytes": 689230
+    },
+    {
+      "path": "masters/fill/rainbow-orbs.png",
+      "sha256": "38117b1a7b34f7e951c574c6affa749eae267434224c3fef1f4c9ee7ff418fd9",
+      "bytes": 797217
+    },
+    {
+      "path": "masters/fill/stars.png",
+      "sha256": "0b84ae80fda227b5f9584717522dcb4abb26e6e8b38ac7ce6e63fd4a2cce3a6f",
+      "bytes": 575235
+    },
+    {
+      "path": "masters/golden/closed.png",
+      "sha256": "e39107b1ef868803899c4b6048543166fcf0b751448731920195a2b72299be01",
+      "bytes": 677907
+    },
+    {
+      "path": "masters/golden/empty.png",
+      "sha256": "ad39b5044899badaacebd5deb6e445ce43e7b7819874774da3caab171cb08ada",
+      "bytes": 864960
+    },
+    {
+      "path": "masters/golden/front.png",
+      "sha256": "64ee22a73a0497704a149efc78772cc07b992867f9f7568ccfd7f92ef7fecc59",
+      "bytes": 684697
+    },
+    {
+      "path": "masters/golden/open.png",
+      "sha256": "d93642453efc2d9697cd19f4929f8eb971e66a50991cfbf9ec992b7c8ed6379c",
+      "bytes": 852284
+    },
+    {
+      "path": "masters/golden/opening.png",
+      "sha256": "b5d0a596345ac152c9d0a824f872177562fc23c74054a11e3f109885a8053588",
+      "bytes": 896179
+    },
+    {
+      "path": "masters/golden/reward-filled.png",
+      "sha256": "d15f920c323f7032664382bbb1afb9d8d0c7bc382ed82ce1f3a32142f4712ce5",
+      "bytes": 917000
+    },
+    {
+      "path": "masters/golden/side.png",
+      "sha256": "2b6951ffa5fc5c22a536de081a9a5a2164779fb3d995f95a6848de6b72a9b462",
+      "bytes": 779493
+    },
+    {
+      "path": "masters/golden/top.png",
+      "sha256": "a0f85f7a407652d52a3ba3a81a0a6f1235f36f180d03e1fd41fda313dff48789",
+      "bytes": 624185
+    },
+    {
+      "path": "masters/premium/closed.png",
+      "sha256": "459dbd9a0cd8f97d070204105b2945cb191886038cacb826aff11dd378bd163f",
+      "bytes": 913124
+    },
+    {
+      "path": "masters/premium/empty.png",
+      "sha256": "4cf5524d39d03675da95b0b3009206bcb9d077904a9573305ba74355dd38dc55",
+      "bytes": 863059
+    },
+    {
+      "path": "masters/premium/front.png",
+      "sha256": "981d6b22b86b36f23a13001717d8114da2f0830e68860102db9cd026aee3e115",
+      "bytes": 952473
+    },
+    {
+      "path": "masters/premium/open.png",
+      "sha256": "a112d8cd5f01766b304dfd58d363a63d23dc645909a251e1666c1e2862f00fa4",
+      "bytes": 842834
+    },
+    {
+      "path": "masters/premium/opening.png",
+      "sha256": "dd48d2a1748f24da86920ffd00fcc423b9b3f8d3a94237b5e7118b48dc1f2045",
+      "bytes": 915491
+    },
+    {
+      "path": "masters/premium/reward-filled.png",
+      "sha256": "03f013a6ecb5d8c92c71651e899a9ff86994c41ad905e246e78dd22b1c5a80fa",
+      "bytes": 1003645
+    },
+    {
+      "path": "masters/premium/side.png",
+      "sha256": "d5f0d03c3285b2424225a4998e648b99fc1762a69086fd5a98628f90009f6946",
+      "bytes": 979460
+    },
+    {
+      "path": "masters/premium/top.png",
+      "sha256": "b6b234da5a83cfb98c22d89bc4ae26852ec4964383667616a24840549060932b",
+      "bytes": 703460
+    },
+    {
+      "path": "masters/rainbow/closed.png",
+      "sha256": "9ba60df18560ac616e873db72eb7c3f5ee5c1800c52cbe28f3dce0b28eefa673",
+      "bytes": 786840
+    },
+    {
+      "path": "masters/rainbow/empty.png",
+      "sha256": "490113d415a355893a02631bd9058df0026e20173a417805eb3c1482dc8388f5",
+      "bytes": 1000797
+    },
+    {
+      "path": "masters/rainbow/front.png",
+      "sha256": "84932725b9bdf3e60ca01b152599d858a87a0e7751ab46b7c2bb022009362293",
+      "bytes": 678278
+    },
+    {
+      "path": "masters/rainbow/open.png",
+      "sha256": "d693d906f0dfea9a85453c76d42da3ea151b06dcb6acce28629d31cee5335368",
+      "bytes": 777662
+    },
+    {
+      "path": "masters/rainbow/opening.png",
+      "sha256": "eba057dfe54de6d707fd114551d647dc1f60528db061b974540b1d9f404c7b61",
+      "bytes": 911744
+    },
+    {
+      "path": "masters/rainbow/reward-filled.png",
+      "sha256": "65675cef3da7ee7bcf2bf97f9831c69a2d55cf3fcf3f204aa44b105e355329a4",
+      "bytes": 995371
+    },
+    {
+      "path": "masters/rainbow/side.png",
+      "sha256": "0067b879946de159fefa6a792664c999c559fa8613e940d151cbb49beabd057b",
+      "bytes": 892865
+    },
+    {
+      "path": "masters/rainbow/top.png",
+      "sha256": "f601dc41fd9ed19838bcd1aaf833d88a1ee38778ddf9e237401e968f2af76090",
+      "bytes": 610186
+    },
+    {
+      "path": "masters/silver/closed.png",
+      "sha256": "08e1ed857a9be2bd4320cb95e4d2f78972ac8963d59f1d149e99b541246cb65d",
+      "bytes": 710033
+    },
+    {
+      "path": "masters/silver/empty.png",
+      "sha256": "437c80f4407b3d2f970dc26454b12d1aa82ef83f42aa9471311c176e8cb995ce",
+      "bytes": 872137
+    },
+    {
+      "path": "masters/silver/front.png",
+      "sha256": "9e4c26caa60c6b242022576be856760d7ae9ebb74b33d99e7ec92e817b60b7dd",
+      "bytes": 765714
+    },
+    {
+      "path": "masters/silver/open.png",
+      "sha256": "0ccfe53ca125ea84295b4cf2ca077113aeb93e8ece0c14e4c8237b34f60925e0",
+      "bytes": 910732
+    },
+    {
+      "path": "masters/silver/opening.png",
+      "sha256": "4937833d5f09236e8a1e6cd9b58201b1beb45fa9b3e1fac6a8d549b5d7838125",
+      "bytes": 861906
+    },
+    {
+      "path": "masters/silver/reward-filled.png",
+      "sha256": "75e938dec17e36511fb9ea8acfd2764e4bc21a890043ea12821dafc6a7d910f9",
+      "bytes": 974756
+    },
+    {
+      "path": "masters/silver/side.png",
+      "sha256": "8fd8e2953350536b5dbf01898d35c84d035b8a84cb8b15c7b53b0f746c32500f",
+      "bytes": 748730
+    },
+    {
+      "path": "masters/silver/top.png",
+      "sha256": "467911d6431aa9d48ecf9e34b537b5f911c307cd67f19dac6eadf5c4094b843e",
+      "bytes": 687576
+    },
+    {
+      "path": "masters/wooden/closed.png",
+      "sha256": "b20d15a658534ab379dee0895fd64f89ffe515d4d0a47ce40e305674903f6c0c",
+      "bytes": 758775
+    },
+    {
+      "path": "masters/wooden/empty.png",
+      "sha256": "8a97e35cfdb33289ff39516697b6acca71159ab90429ad4168bc1691a9110967",
+      "bytes": 814193
+    },
+    {
+      "path": "masters/wooden/front.png",
+      "sha256": "41601220c0803474bbd0c082645870aacdfbf2629e3032a9376c4e1d13775aa2",
+      "bytes": 846362
+    },
+    {
+      "path": "masters/wooden/open.png",
+      "sha256": "b35b1bbaa81190886dd0840cd281e2ba4a6d301a4300ff41d6defe7b5c96e5f0",
+      "bytes": 930894
+    },
+    {
+      "path": "masters/wooden/opening.png",
+      "sha256": "f5a78a49cab29f7ef219463d467e6e785e78553ce3b13e3ba77386272d35b5e3",
+      "bytes": 891538
+    },
+    {
+      "path": "masters/wooden/reward-filled.png",
+      "sha256": "6be8e1e530a6b85eb9b1db1f0a519fee38a4fa366c3e7be07fa776ca253ca5a5",
+      "bytes": 998333
+    },
+    {
+      "path": "masters/wooden/side.png",
+      "sha256": "8412d0267eaa710931fb27040d39f40e719b9aa7c8938ae561cd674423c76eaf",
+      "bytes": 665845
+    },
+    {
+      "path": "masters/wooden/top.png",
+      "sha256": "e0f217edbbe849836e0d691126e6c2f8504b9232d323fb38fedef29d6e569725",
+      "bytes": 804225
+    },
+    {
+      "path": "preview.html",
+      "sha256": "133ef1d2c91fa1026ff28bb440d3872ebca33d78e08728aba311884baeeefca0",
+      "bytes": 4787
+    },
+    {
+      "path": "preview.jpg",
+      "sha256": "adeab4f295cd0461b4c3918e3fa87ac125827826e75cd9fdb3898f9ae919bb67",
+      "bytes": 414123
+    },
+    {
+      "path": "previews/containers.jpg",
+      "sha256": "5df54a7c0775b0edfff4ed330c1b0f8405a9ff2911729fa23ae01ceb6163e67a",
+      "bytes": 54547
+    },
+    {
+      "path": "previews/effects.jpg",
+      "sha256": "003b940369c456f9722d8323b638c66d6a8a39188f71c4e612cb6ff8c86bf071",
+      "bytes": 42541
+    },
+    {
+      "path": "previews/fill.jpg",
+      "sha256": "1b951e8cb34ee6e6870354e1cee86c85327b52a8bc6782d80fc4f75cc7e04cf9",
+      "bytes": 34813
+    },
+    {
+      "path": "previews/golden.jpg",
+      "sha256": "9def38fafc46f9f90112338aa851c188c819f9518f64de38bcc923d204478d46",
+      "bytes": 82745
+    },
+    {
+      "path": "previews/premium.jpg",
+      "sha256": "5d58c95233b83d71ee9360750f1171b3bfd586e54965abd4991554d83d85273a",
+      "bytes": 98656
+    },
+    {
+      "path": "previews/rainbow.jpg",
+      "sha256": "c1a40012a1276ad1c73b60b971e438164cda028a8939619d2a2e4a89b46cefe0",
+      "bytes": 87213
+    },
+    {
+      "path": "previews/silver.jpg",
+      "sha256": "ebf1a38ecde787f5a0aea7a0a1243ab809349940c5bc10cdabe7629dee77df37",
+      "bytes": 77963
+    },
+    {
+      "path": "previews/wooden.jpg",
+      "sha256": "a53617949c65ac282fe67cf7843c4c3c244add2cd7ba2084a28b888dddb4149a",
+      "bytes": 79871
+    },
+    {
+      "path": "qa.json",
+      "sha256": "cfc6d1f12eac97588a3102ef12e6d3e60de7a4f46896a9e02f8eef4e8441c633",
+      "bytes": 135
+    },
+    {
+      "path": "references/Puff Trails Reward Chest Design System-5.png",
+      "sha256": "2ceada38ddc14efc0ce5e4c1d72298458e809f13f5f02ebbb7e69295c3e22ef0",
+      "bytes": 2447842
+    }
+  ]
+}
