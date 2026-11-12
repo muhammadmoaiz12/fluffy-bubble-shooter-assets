@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": [
+    "All five tabs",
+    "Four collection filters",
+    "Original assets load",
+    "Store/ad unavailable never grant rewards",
+    "Restore feedback",
+    "Escape closes modal",
+    "390px no horizontal overflow",
+    "No browser errors or failed requests"
+  ],
+  "screenshots": 7
+}

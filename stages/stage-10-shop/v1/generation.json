@@ -1,0 +1,262 @@
+{
+  "existing_sources": {
+    "locked/puff-trails-brand/v1/masters/logos/main.png": "574b659cd0cf471831088d3483817f041033b3db79caa68d1f6995a20819d53a",
+    "locked/puff-trails-brand/v1/masters/backgrounds/world.png": "765db15ecec088eba7e82358f25200c650f63e70e8ec2dee167f29733a606fe4",
+    "stages/stage-07-economy/v1/coins/masters/packs/small-stack.png": "e8d430badcb45855562bb228d4ec30a61ab305118988af08f3f8f91307d95fdc",
+    "stages/stage-07-economy/v1/stars/masters/states/earned.png": "6f7b85e1ad7130ef1fe32c80a2939b11cdff482d89a755ddfa926db46de6f993",
+    "stages/stage-07-economy/v1/booster-inventory/masters/rewards/gift.png": "73b7905f87f1de71fa292bf9b5f02c0d85bf21c55ebbac09c39d7239a148c07b",
+    "stages/stage-07-economy/v1/reward-chests/masters/premium/closed.png": "459dbd9a0cd8f97d070204105b2945cb191886038cacb826aff11dd378bd163f",
+    "stages/stage-08-achievements/v1/ui-components/masters/components/card.png": "3acdded03f93000444e276e7ad62012686d3e7968abcd6753a167749b1a29058",
+    "stages/stage-08-achievements/v1/ui-components/masters/buttons/view-progress-blank.png": "7ed8b16f65171db76da6554bb66c4d2d5418a16b84d087d13194f253e801698b",
+    "stages/stage-08-achievements/v1/ui-components/masters/buttons/claim-reward-blank.png": "38e980c90fa81b54a2000e58dd787f6053bb625e24e0c988b4d435e219271f76",
+    "stages/stage-08-achievements/v1/ui-components/masters/icons/check.png": "ef0178586c72e52308d12fcd1fbd51dbc239c92333f100e116c0bbf15c37f777",
+    "stages/stage-07-economy/v1/stars/masters/components/lock.png": "15e40c8d127774d9058b8b43874c48440a3fdb53031759e791043dfbbb1fb4dc",
+    "stages/stage-08-achievements/v1/badge-states/masters/claim/pending.png": "50eaebf59b6fa87434422d2157d1bc5974e97a648142e57387e88a4b78d7d4e3",
+    "locked/puff-trails-brand/v1/masters/icons/star-empty.png": "97a4c850324640875d6d53077b6c2c060bdf5e864cd4627ff9237af33b249e80",
+    "stages/stage-06-power-ups-boosters/v1/masters/effects/gold-sparkles.png": "0f623a82d71a0e8e929876c546fd1525aa7349096de0d81bfbad67b1234dddb2",
+    "stages/stage-07-economy/v1/booster-inventory/masters/rainbow-friend/front.png": "3aa37697e9c611361449dc77449f032a6481913bfb57a13d5a696745f16a80c4",
+    "stages/stage-07-economy/v1/booster-inventory/masters/precision-trail/front.png": "ae7b32c28c7e85f40a4833a64d0b54f10e0d273027f450cfa424dbc8f1296be6",
+    "stages/stage-07-economy/v1/booster-inventory/masters/soft-burst/front.png": "fbc85663b7f73f966e7f4793830a0a4a96fd3cf7e1b355e532d3b106d1f28ba9",
+    "stages/stage-07-economy/v1/booster-inventory/masters/cozy-save/front.png": "f35ab216ec440cc05ae42a44fdeb6d64a3abcab474fb2e6d40879d0675048fd3",
+    "stages/stage-04-cannons/v1/cloud-sling/masters/views/three-quarter-front.png": "6ad95c8c225024f8d69703f35171e9730ca825bb064d59c558dfa4a4b6b3a140",
+    "stages/stage-04-cannons/v1/moonlight-cannon/masters/views/three-quarter-front.png": "99888c7525a4272ec6a76d153ea9ffffc5b3e11ce3e83fc884d9c69fb972f8a9",
+    "stages/stage-04-cannons/v1/bloom-launcher/masters/views/three-quarter-front.png": "2655ea78a73853145447887eddbcae35bc41c3835ebd3149128368b5322714f2",
+    "stages/stage-04-cannons/v1/rainbow-launcher/masters/views/three-quarter-front.png": "dbce8fdfcfe25904fac6662a093b323188d113656b5f8893aeaa2cbf3bebd7d0",
+    "stages/stage-04-cannons/v1/starburst-cannon/masters/views/three-quarter-front.png": "ea180ffc4a6b11c73871627c51ea85a51a70a6267e80cb549dd038cddc78cf6b",
+    "locked/rosybuns/v1/masters/core/medium.png": "8f7751f6239668870f180b54e0f486aeaa0e8bfaec04669bcf7701d6f7426309",
+    "locked/skybubs/v1/masters/core/medium.png": "b86a2425d9ed94cec10d032ddcf05d771dd329260c643de512a5cd7b546866d5",
+    "locked/leaflings/v1/masters/core/medium.png": "1ab30f5bb292a2c6fee5ee2b9b2fe98a5857c0185208205bcf527707ca1501ec",
+    "locked/chirpyfluffs/v1/masters/core/medium.png": "1075435bc363e2e5a0f924030e3810ec66528fb761ac9fadf7653e272cba196c",
+    "locked/twirlpuffs/v1/masters/core/medium.png": "20aa01af2226b82baf541936845f9cc911a931ab021fe929626cbd0cdcbef988",
+    "locked/peachtells/v1/masters/core/medium.png": "20b7db0ec4b6dc66f54d0bb9bf8f07dc88f92fa6755ed16473562a941f5c50c5",
+    "stages/stage-08-achievements/v1/ui-components/masters/frames/gold.png": "08cac96a9d0af9b3b512d3b43f73959cc06bde62b72422e0fdebd8ce4008f5c9",
+    "stages/stage-08-achievements/v1/ui-components/masters/frames/violet.png": "d5f20903ef1dda704561db985884578b67d3ce3eb5953ee486c60eff6f7167d7",
+    "stages/stage-08-achievements/v1/ui-components/masters/frames/elite.png": "f00fbf15eea69afe5ad83d3b3b48da3bdb304e8b3705293c969491aa50064996",
+    "stages/stage-08-achievements/v1/ui-components/masters/frames/laurel.png": "75e5f0a597b54cee9dd4ebbe7ac11a082105edf94d96903f3d41024a1ac7d11e"
+  },
+  "records": {
+    "icons/shop-bag": {
+      "origin": "new generated shop bag icon",
+      "raw_sha256": "2014a0dedf73844bf5027929f2a30b3f2f36a32c5690c1efacb430a3e902b30e",
+      "prompt": "Create ONE isolated shop navigation icon for Puff Trails matching the supplied shop board: a small luxurious rounded gold shopping bag with thick gold loop handle, warm amber inset face and a small raised glossy five-point golden star emblem. Cute 3D toy material, rounded friendly edges, soft upper-left light, rich golden highlights and subtle orange depth, front view. Only the bag, no currency, no characters, no words or letters, no background, no ground plane. Centered with generous transparent padding. Actual transparent RGBA background. Board is style reference only, do not reproduce board.\n"
+    },
+    "tabs/featured-active": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "stars"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "tabs/featured-inactive": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "stars"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "tabs/boosters-active": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "soft-burst"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "tabs/boosters-inactive": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "soft-burst"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "tabs/bundles-active": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "gift"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "tabs/bundles-inactive": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "gift"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "tabs/cosmetics-active": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "frame-laurel"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "tabs/cosmetics-inactive": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "frame-laurel"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "tabs/rewards-active": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "gift"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "tabs/rewards-inactive": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "gift"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "buttons/watch-ad": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "blue-button"
+      ],
+      "label_preview": "Watch Ad",
+      "desaturated": false
+    },
+    "buttons/view-bundle": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "gold-button"
+      ],
+      "label_preview": "View Bundle",
+      "desaturated": false
+    },
+    "buttons/view-details": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "blue-button"
+      ],
+      "label_preview": "View Details",
+      "desaturated": false
+    },
+    "buttons/restore": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "blue-button"
+      ],
+      "label_preview": "Restore",
+      "desaturated": false
+    },
+    "buttons/unavailable": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "blue-button"
+      ],
+      "label_preview": "Unavailable",
+      "desaturated": true
+    },
+    "bundles/starter": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "chest",
+        "rainbow-friend",
+        "precision-trail",
+        "soft-burst"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "bundles/collection": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "gift",
+        "rainbow-friend",
+        "precision-trail",
+        "soft-burst",
+        "cozy-save"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "states/normal": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "chest"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "states/locked": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "chest",
+        "lock"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "states/owned": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "chest",
+        "check"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "states/pending": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "chest",
+        "pending"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "states/disabled": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "chest"
+      ],
+      "label_preview": null,
+      "desaturated": true
+    },
+    "cards/booster-blank": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    },
+    "cards/featured-bundle": {
+      "origin": "deterministic composition of approved assets",
+      "components": [
+        "card",
+        "bundles/starter"
+      ],
+      "label_preview": null,
+      "desaturated": false
+    }
+  }
+}

@@ -334,3 +334,12 @@ Ten booster concepts with five state keys each, effects, UI, rewards, pack artwo
 
 ![Daily reward component sheets](stages/stage-09-daily-rewards/v1/overview.jpg)
 <!-- stage-09-daily-rewards:end -->
+
+
+<!-- stage-10-shop:start -->
+## Shop & Monetization
+
+[Browse the shop UI, seven sheets and every individual component](stages/stage-10-shop/v1/README.md) · **25 masters** · **150 PNG/WebP exports**. Reuses 33 original assets; one new shop icon and 24 compositions. Responsive interactive frontend included; live ads and purchasing are not connected.
+
+![Shop UI previews](stages/stage-10-shop/v1/overview.jpg)
+<!-- stage-10-shop:end -->
